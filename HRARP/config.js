@@ -60,7 +60,7 @@ var respecConfig =
     }, 
   ],
   //-- shortName is verplicht! (komt in de URL: kies logische naam) --------------------
-  shortName: "ARP",  	          // Wordt gebruikt in de document URL
+  shortName: "arp",  	          // Wordt gebruikt in de document URL
   //-- pubDomain is verplicht! (komt in de URL: Activeer 1 van de volgende) ------------
   //pubDomain: "clue", 	            // Metamodel Informatie Modellering
   //pubDomain: "mim", 	            // Metamodel Informatie Modellering
