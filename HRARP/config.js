@@ -81,7 +81,7 @@ var respecConfig =
   //-- Repositorynaam/issues op GitHub ------------------------------------------------
   //issueBase: "https://github.com/geonovum/respec/examples/md_example/issues",
   //-- edDraftURI: de URI van de werkversie van het document
-  //edDraftURI: "https://github.io/geonovum/respec/examples/md_example",
+  edDraftURI: "https://github/geonovum/ROST/",
   //-- license: voor de geldende gebruiksvoorwaarden
   // licence: "cc-by-nd",              //-- bronvermelding, geen afgeleide werken (default)
   // licence: "cc0",                //-- Public Domain Dedication
