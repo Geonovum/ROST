@@ -8,7 +8,7 @@
 //-------------------------------------------------------------------------------------
 //-------------------------------------------------------------------------------------
 //-- Log . . . :  20181015 - JvG - Initiele versie 
-//-- Log . . . :  20191022 - GRK - Handreking Archiveren ruimtelijke plannen v2.0      
+//-- Log . . . :  20191022 - GRK - Handreiking Archiveren ruimtelijke plannen v2.0      
 //-------------------------------------------------------------------------------------
 
 //-------------------------------------------------------------------------------------
@@ -60,7 +60,7 @@ var respecConfig =
     }, 
   ],
   //-- shortName is verplicht! (komt in de URL: kies logische naam) --------------------
-  shortName: "ARP",  	          // Wordt gebruikt in de document URL
+  shortName: "arp",  	          // Wordt gebruikt in de document URL
   //-- pubDomain is verplicht! (komt in de URL: Activeer 1 van de volgende) ------------
   //pubDomain: "clue", 	            // Metamodel Informatie Modellering
   //pubDomain: "mim", 	            // Metamodel Informatie Modellering
