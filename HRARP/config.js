@@ -77,9 +77,9 @@ var respecConfig =
   //pubDomain: "visu", 	            // Visualisatie
   //pubDomain: "wp", 	              // White Paper
   //-- Repositorynaam op GitHub -------------------------------------------------------
-  //github: ""https://github.com/geonovum/respec/examples/md_example",
+  github: "https://github.com/geonovum/ROST",
   //-- Repositorynaam/issues op GitHub ------------------------------------------------
-  //issueBase: "https://github.com/geonovum/respec/examples/md_example/issues",
+  issueBase: "https://github.com/geonovum/ROST/issues",
   //-- edDraftURI: de URI van de werkversie van het document
   edDraftURI: "https://github/geonovum/ROST/",
   //-- license: voor de geldende gebruiksvoorwaarden
