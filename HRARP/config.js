@@ -32,10 +32,14 @@ var respecConfig =
   //-- publishDate is verplicht -------------------------------------------------------
   //-- NB: in de werkversie uitzetten, want dan pakt Respec de pushdate ---------------
   publishDate: "2019-10-08",  	    // Format is "YYYY-MM-DD"
+  //-- Repositorynaam op GitHub -------------------------------------------------------
+  github: "https://github.com/geonovum/ROST",
+  //-- Repositorynaam/issues op GitHub ------------------------------------------------
+  issueBase: "https://github.com/geonovum/ROST/issues",
+  //-- edDraftURI: de URI van de werkversie van het document
+  edDraftURI: "https://github/geonovum/ROST/",
   //-- de namen van de Editor(s) ------------------------------------------------------
   //-- vul in: per Editor: name:, company:, companyURL: -------------------------------
-  //-- de github repository waar je documentn in staat --------------------------------
-  github: "https://github.com/geonovum/ROST/",
   editors: 
  [
   {
@@ -76,12 +80,6 @@ var respecConfig =
   //pubDomain: "serv", 	            // Services
   //pubDomain: "visu", 	            // Visualisatie
   //pubDomain: "wp", 	              // White Paper
-  //-- Repositorynaam op GitHub -------------------------------------------------------
-  github: "https://github.com/geonovum/ROST",
-  //-- Repositorynaam/issues op GitHub ------------------------------------------------
-  issueBase: "https://github.com/geonovum/ROST/issues",
-  //-- edDraftURI: de URI van de werkversie van het document
-  edDraftURI: "https://github/geonovum/ROST/",
   //-- license: voor de geldende gebruiksvoorwaarden
   // licence: "cc-by-nd",              //-- bronvermelding, geen afgeleide werken (default)
   // licence: "cc0",                //-- Public Domain Dedication
