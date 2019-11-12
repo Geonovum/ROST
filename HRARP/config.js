@@ -42,7 +42,7 @@ var respecConfig =
   //-- vul in: per Editor: name:, company:, companyURL: -------------------------------
   editors: 
  [
-  {
+    {
       name:       "Beheerteam DRO",
       company:    "Geonovum",
       companyURL: "https://www.geonovum.nl/geo-standaarden/ro-standaarden-ruimtelijke-ordening"
