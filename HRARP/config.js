@@ -11,6 +11,30 @@
 //-- Log . . . :  20191022 - GRK - Handreiking Archiveren ruimtelijke plannen v2.0      
 //-------------------------------------------------------------------------------------
 
+//-- Postprocessors -------------------------------------------------------------------
+
+//-- haalt gh-pages weg aan het eind van een URL
+//-- Stopt zodra de eerste is gevonden (want komt maar 1x voor)
+//-- JvG 2019-11-12
+function custGHPG(respecConfig)  
+{
+  var tags = document.getElementsByTagName("a");
+  var srch = "gh-pages";
+  var slen = srch.length;
+  var i;
+
+  for (i = 0; i < tags.length; i++) 
+  {
+    if(tags[i].href.indexOf(srch) > -1)
+    {
+      console.log(tags[i].href + " is gevonden");
+      tags[i].href = tags[i].href.substring(0, tags[i].href.length - slen);
+      console.log(tags[i].href + " is aangepast");
+      break;
+    }
+  } 
+}
+
 //-------------------------------------------------------------------------------------
 var respecConfig = 
 {
@@ -122,6 +146,7 @@ var respecConfig =
         company:    "Companynaam",
     },
   },
+  postProcess:[custGHPG],
 
   //-- Voor dit blok geldt: alleen als er eerdere versies zijn en altijd beiden aan/uit! 
   //previousPublishDate: "2018-09-18",  	    // Format is "YYY-MM-DD"
