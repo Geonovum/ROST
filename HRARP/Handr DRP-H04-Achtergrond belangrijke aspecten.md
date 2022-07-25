@@ -18,24 +18,21 @@ systemen mogelijk te maken, moeten afspraken gemaakt worden over de manier
 waarop dat gebeurt, in welke ‘taal’ deze systemen met elkaar spreken en hoe
 metagegevens en records geïnterpreteerd moeten worden. Uitwisseling tussen
 systemen is zowel aan de orde binnen de bestuursorganen als tussen de
-verschillende organisaties[^34]. Als het gaat om metagegevens zijn zulke
+verschillende organisaties. Als het gaat om metagegevens zijn zulke
 afspraken vastgelegd in onder andere metagegevensschema’s. In een digitale
 wereld zijn metadata zo mogelijk nog belangrijker dan vroeger. Dat is ook de
 reden dat metadata worden gezien als onlosmakelijk onderdeel van de
-archiefbescheiden zelf[^35].
+archiefbescheiden zelf.
 
-[^34]: Jorien Weterings, *MeDuSa. XML-schema voor het e-Depot*, Od \#7/8 2012,
-pp. 26-28.
+<figure id="NEN-ISO_23081">
+    <img src="media/06559dd772ed0615f21edda007a51f51.png" alt="Basismodel voor metagegevens van NEN ISO 23081">
+    <figcaption>Basismodel voor metagegevens van NEN ISO 23081</figcaption>
+</figure>
 
-**Figuur 3 Basismodel voor metagegevens van NEN ISO 23081**[^36]
 
-[^36]: Afkomstig uit SPIRT project: Sue McKemmish, Glenda Acland and Barbara
+Bovenstaande figuur is afkomstig uit SPIRT project: Sue McKemmish, Glenda Acland and Barbara
 Reed, Towards a Framework for Standardising Recordkeeping Metagegevens: [The
-Australian Recordkeeping Metagegevens Schema](https://research.monash.edu/en/searchAll/index/?search=Glenda+Acland&pageSize=25&showAdvanced=false&allConcepts=true&inferConcepts=true&searchBy=PartOfNameOrTitle)  
-Ook in NEN-ISO 23081-1:2017 Metagegevens voor records - Principes (paragraaf
-9.1).
-
-![](media/06559dd772ed0615f21edda007a51f51.png)
+Australian Recordkeeping Metagegevens Schema](https://research.monash.edu/en/searchAll/index/?search=Glenda+Acland&pageSize=25&showAdvanced=false&allConcepts=true&inferConcepts=true&searchBy=PartOfNameOrTitle) en in NEN-ISO 23081-1:2017 Metagegevens voor records - Principes (paragraaf 9.1).
 
 ### Standaard  
 De NEN-ISO 19115 metadata standaard voor geo-informatie is bij de meeste
