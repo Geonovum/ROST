@@ -42,21 +42,16 @@ richtlichtlijn INSPIRE](https://www.geonovum.nl/geo-standaarden/inspire-europese
 Er bestaat daarnaast een andere metadata standaard, de NEN-ISO 23081, die
 specifiek betrekking heeft op metadata voor archiefbescheiden. Deze standaard
 wordt ook genoemd in de Archiefregeling. Samengevat zegt de Archiefregeling het
-volgende over metagegevens[^39]:
-
-[^39]: De artikelen 17, 19, 20 en 24 van de Archiefregeling gaan specifiek over
-metagegevens.
+volgende over metagegevens (artikelen 17, 19, 20 en 24 van de Archiefregeling):
 
 1.  Maak een metagegevensschema zoals bedoeld in NEN-ISO 23081;
 
 2.  Leg metagegevens vast over:
 
 	-   inhoud, vorm en structuur van de archiefbescheiden  
-	-   de context waarbinnen de archiefbescheiden zijn gevormd (binnen welkproces,
-    door welke actor)  
+	-   de context waarbinnen de archiefbescheiden zijn gevormd (binnen welkproces, door welke actor)  
 	-   relatie met andere archiefbescheiden  
-	-   beheersactiviteiten die op de archiefbescheiden zijn uitgevoerd (denk aan
-    conversie, migratie, selectie, openbaarmaking etc.)  
+	-   beheersactiviteiten die op de archiefbescheiden zijn uitgevoerd (denk aan conversie, migratie, selectie, openbaarmaking etc.)  
 	-   software die gebruikt wordt om archiefbescheiden te beheren;  
 3.  Zorg dat de koppeling tussen metagegevens en archiefbescheiden behouden
     blijft. Dat betekent bijvoorbeeld dat er voorzieningen getroffen moeten
@@ -69,24 +64,23 @@ de relatie tussen metagegevenselementen beschrijft door regels te benoemen voor
 het gebruik en beheer van metagegevens, vooral met betrekking tot:
 
 -   semantiek - welke naam kies je voor een element;  
--   syntaxis - hoe wordt de inhoud van het element samengesteld, bijvoorbeeld
-    yyyymmdd of ddmmyyyy;  
--   het verplichtingenregime - welke elementen zijn verplicht en welke
-    optioneel.
+-   syntaxis - hoe wordt de inhoud van het element samengesteld, bijvoorbeeld yyyymmdd of ddmmyyyy;  
+-   het verplichtingenregime - welke elementen zijn verplicht en welke optioneel.
 
 Tezamen wordt dit ook wel een elementen set genoemd. TMLO is een voorbeeld van
-een elementenset.[^40] De elementenset is hier gespecificeerd vanuit het oogpunt
+een elementenset. De elementenset is hier gespecificeerd vanuit het oogpunt
 van duurzame toegankelijkheid en wordt geacht generiek te zijn (dus van
 toepassing op alle soorten informatie). Organisaties kunnen daarnaast andere
 metagegevens vastleggen voor andere doeleinden (zoals het specifiek beschrijven
 van geo-informatie), met behulp andere standaarden of bestaande ontologieën
 (zoals NEN-ISO 19115)
 
-[^40]: Op dit moment zijn er twee toepassingsprofielen, die beide gebaseerd zijn
+**TO DO:
+Op dit moment zijn er twee toepassingsprofielen, die beide gebaseerd zijn
 op de Richtlijn: TMLO voor lokale overheden en het Toepassingsprofiel
 Metagegevens Rijksoverheid. TMLO wordt op dit moment doorontwikkeld, waarbij het
 de intentie is dat ook het Rijk TMLO gaat adopteren (en het TP Rijk komt te
-vervallen).
+vervallen).**
 
 Iedere overheidsorganisatie wordt geacht een eigen metagegevensschema vast te
 stellen, Dit geldt voor alle blijvend te bewaren archiefbescheiden die in de
@@ -102,15 +96,11 @@ geïnstalleerd, moet dit worden vastgelegd. Dit is een voorbeeld van
 ‘event-history’ zoals in NEN-ISO 23081 en de Richtlijn/toepassingsprofiel verder
 wordt toegelicht.
 
-Doordat de ruimtelijke plannen worden gemaakt met open standaarden[^41] is er
-tot op heden geen aanleiding voor het bewaren van software. Er wordt uitgegaan
+Doordat de ruimtelijke plannen worden gemaakt met de wettelijke open standaarden (zie ook het [Forum Standaardisatie](https://forumstandaardisatie.nl/wat-zijn-standaarden)) is er tot op heden geen aanleiding voor het bewaren van software. Er wordt uitgegaan
 van het principe dat software (viewers) om de plannen weer te geven deze open
 standaard moet kunnen lezen. Om de ruimtelijke plannen vanuit het archief direct
 te kunnen raadplegen is het echter wel van belang dat de zorgdrager over
 geschikte software beschikt.
-
-[^41]: De RO Standaarden zijn wettelijke open standaarden. Meer informatie via
-http://www.forumstandaardisatie.nl/
 
 ## Bewaartermijnen
 
@@ -118,22 +108,19 @@ De Archiefwet schrijft voor dat ieder overheidsorgaan moet beschikken over een
 selectielijst, die door de minister wordt vastgesteld. In de selectielijsten is
 bepaald of, en zo ja wanneer, archiefbescheiden vernietigd moeten worden. De
 [VNG](https://www.nationaalarchief.nl/archiveren/kennisbank/selectielijst-voor-de-archiefbescheiden-van-gemeentelijke-en) (bij mandaat van alle gemeenten), het [IPO](https://www.nationaalarchief.nl/archiveren/kennisbank/selectielijst-voor-archiefbescheiden-van-de-provinciale-organen-en-van-de) (bij mandaat van de
-provincies) en het Rijk[^44] hebben ieder aparte selectielijsten opgesteld.
-
-[^44] Zie BSD 120: http://www.handelingenbank.info/ib.php
+provincies) en het [Rijk](https://www.nationaalarchief.nl/archiveren/kennisbank/selectielijst-van-het-ministerie-van-binnenlandse-zaken-en) hebben ieder aparte selectielijsten opgesteld.
 
 Wanneer archiefbescheiden voor bewaring worden aangemerkt, moeten ze na maximaal
-20 jaar[^45] (korter mag ook, langer niet -uitzonderingen daargelaten-) worden
+20 jaar (korter mag ook, langer niet -uitzonderingen daargelaten-) worden
 overgebracht naar de archiefbewaarplaats die door de zorgdrager is aangewezen.
+Het ministerie van OCW is voornemens om de overbrengingstermijn in de
+nieuwe Archiefwet terug te brengen naar 10 jaar.
 Voor de rijksoverheid bevindt die bewaarplaats zich bij het Nationaal Archief.
 Gemeenten en provincies kunnen eigen archiefbewaarplaatsen hebben. Zij kunnen
 ook daarin samenwerken, zoals bijvoorbeeld Regionale Archiefdiensten. Zolang de
 plannen nog niet zijn overgebracht naar een archiefbewaarplaats is de beheerder
 die is aangewezen door het bestuur, verantwoordelijk voor het in goede,
 geordende en toegankelijke staat te houden van de archiefbescheiden.
-
-[^45]: Het ministerie van OCW is voornemens om de overbrengingstermijn in de
-nieuwe Archiefwet terug te brengen naar 10 jaar.
 
 Op dit moment wordt er gewerkt aan een nieuwe archiefwet, deze zal naar
 verwachting behalve vernietiging en overbrenging naar een archiefbewaarplaats
@@ -178,7 +165,6 @@ ruimtelijk plan, visie of besluit dat door de provincie is vastgesteld. Na 20
 jaar brengt de provincie de archiefbescheiden over naar de archiefbewaarplaats
 in het eigen archief, streekarchief of Nationaal Archief
 
-
 ### Het rijk  
 Voor de rijksoverheid zijn per beleidsterrein voor de verschillende
 archiefvormers (departementen, uitvoeringsorganisaties etc.) selectielijsten
@@ -198,10 +184,8 @@ expliciet genoemde archiefvormers die niet onder de minister belast met
 ruimtelijke ordening vallen maar onder Economische Zaken, zoals de Dienst
 Landelijk Gebied, kunnen gebruikmaken van handeling ‘Het bijdragen aan de
 totstandkoming van nota's, programma's, plannen en maatregelen betreffende de
-ruimtelijke ordening op provinciaal of regionaal niveau’[^47].
-
-[^47]: Uit het BSD Landinrichting, minister LNV, waardering Bewaren BSD 59: zie
-http://www.handelingenbank.info/ib.php
+ruimtelijke ordening op provinciaal of regionaal niveau’ (uit het BSD Landinrichting, minister LNV, waardering Bewaren BSD 59: zie de
+[Selectielijst van het ministerie van Binnenlandse zaken en Koninkrijksrelaties](https://www.nationaalarchief.nl/archiveren/kennisbank/selectielijst-van-het-ministerie-van-binnenlandse-zaken-en)
 
 ## Toegestane compressie en bestandsformaten  
 ### Bestandsformaten  
@@ -212,7 +196,7 @@ formaat bekend en vrijelijk beschikbaar zijn. Het voorschrift dat een
 bestandsformaat valideerbaar moet zijn, is in de eerste plaats bedoeld om vast
 te kunnen stellen dat het bestandsformaat ook daadwerkelijk is wat het lijkt te
 zijn. Validatie kan bijvoorbeeld via een register van bestandsformaten, zoals
-PRONOM[^48]. In Nederland houdt het Forum Standaardisatie voor de overheid een
+[PRONOM](http://www.nationalarchives.gov.uk/PRONOM/). In Nederland houdt het Forum Standaardisatie voor de overheid een
 lijst bij van geadopteerde open standaarden. Het Nationaal Archief heeft mede op
 basis hiervan de [Handreiking
 Voorkeursformaten](https://www.nationaalarchief.nl/archiveren/kennisbank/handreiking-voorkeursformaten-nationaal-archief)
@@ -229,8 +213,6 @@ omrend de geaccepteerde en bestandsformaten. Over het algemeen gaat de keuze
 voor bestandsformaten uit naar formaten die open source zijn en/of voldoen aan
 open standaarden. Specifieke bestandsformaten die in het geo-informatie werkveld
 worden gebruikt zijn nog niet opgenomen in de lijst met voorkeursformaten.  
-
-[^48]: Zie: http://www.nationalarchives.gov.uk/PRONOM/
 
 ### Compressie  
 Compressie is alleen toegestaan als aangetoond wordt, dat geen informatieverlies
@@ -263,7 +245,7 @@ Een alternatief voor .zip bestanden kan bestaan uit de ‘Geodata Archival
 Information Package’ (GEO-IP) zoals genoemd in de ‘Common Specification for
 Geospatial data’ (zie pagina 17). Met de GEO-IP kan ook beschrijvende metadata
 en documentatie van gebruikte XML en GML formaten meegeleverd worden. In 2020
-wil het NA meer onderzoek naar het archiveren van geo-data en geo-informatie.
+wil het Nationaal Archief meer onderzoek naar het archiveren van geo-data en geo-informatie.
 
 ## Vervanging
 
