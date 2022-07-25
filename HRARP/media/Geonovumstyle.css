@@ -19,17 +19,17 @@ img
   width: auto;
 }
 
-/*-- Definite van het Geonovum Logo bovenaan Respec document ------------------------*/
-img#NORA_geo
-{
-  width: 67%;
-  height: 67%;
-}
-
 img#Geonovum
 {
   width:132px;
   height: 67px;
+}
+
+/*-- Definite van NEN3610:2022 piramide ------------------------*/
+img#NORA_geo
+{
+  width: 67%;
+  height: 67%;
 }
 
 /*-- Definite van BlockQuotes (uitgelichte tekstblokken) ----------------------------*/
