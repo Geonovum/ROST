@@ -20,6 +20,12 @@ img
 }
 
 /*-- Definite van het Geonovum Logo bovenaan Respec document ------------------------*/
+img#NORA_geo
+{
+  width: 67%;
+  height: 67%;
+}
+
 img#Geonovum
 {
   width:132px;
