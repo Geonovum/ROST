@@ -58,7 +58,6 @@ informatie wordt gevormd of ontvangen
 -   **Metadata:** zijn gegevens die de context, inhoud en structuur van
     archiefbescheiden (records) beschrijven, evenals het beheer van die records
     door de tijd heen.  
-	- *META DATA:*  
 	-   *Identificatie (ID)*  
 Het ID van het subdossier is gelijk aan het IMRO2012 planidentificatienummer
 dat aan deze versie van het ruimtelijk plan.  
@@ -80,14 +79,9 @@ Hier wordt aangegeven waar dit subdossier onderdeel van uit maakt.
 	-   *Aanwezigheid kopieversies*  
 Het bestuursorgaan stelt het betreffende ruimtelijke plan ook voor een ieder
 beschikbaar via de weblocatie die is gemeld aan de
-[Index](https://www.ruimtelijkeplannen.nl/web-roi/index/)[^49]. De
+[Index](https://www.ruimtelijkeplannen.nl/web-roi/index/). De
 publicatie datum van beschikbaarstelling wordt vastgelegd bij het archiveren
 van de samenhangende set van bronbestanden  
-
-[^49]: Gemeenten, provincies en het Rijk zijn conform het Bro verplicht hun via
-een vooraf opgegeven locatie aan een ieder beschikbaar, vindbaar en toegankelijk
-te maken. De locatie wordt gemeld aan de index van de landelijk voorziening RO:
-https://www.ruimtelijkeplannen.nl/index.  
 -   **NORA** (de Nederlandse Overheid Referentie Architectuur)  
 bevat principes, beschrijvingen, modellen en standaarden voor het ontwerp en de
 inrichting van de elektronische overheid.  
