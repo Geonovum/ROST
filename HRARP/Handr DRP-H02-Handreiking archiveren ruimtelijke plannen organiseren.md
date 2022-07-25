@@ -240,13 +240,12 @@ ruimtelijke plan verschillen en is bepaald via het zaaktype (paragraaf 2.3).
 Bijvoorbeeld: bestemmingsplan Buitengebied is het dossier en het eerste
 subdossier dat wordt aangemaakt is die van de fase ontwerp.
 
-### Dossier[^9]
-
-    [^9]: Dossier is een veelgebruikte naam voor een samenhangende aggregatie
-    van informatieobjecten (records) met een eigen identiteit. Een standaard als
-    TMLO schrijft geen aggregatieniveaus voor, maar biedt organisaties ruimte om
-    aggregaties (van records) een naam te geven die aansluit bij de eigen
-    ordening van informatie.
+### Dossier
+Dossier is een veelgebruikte naam voor een samenhangende aggregatie
+van informatieobjecten (records) met een eigen identiteit. Een standaard als
+TMLO schrijft geen aggregatieniveaus voor, maar biedt organisaties ruimte om
+aggregaties (van records) een naam te geven die aansluit bij de eigen
+ordening van informatie.
 
 In het dossier/ zaak wordt de volgende metadata met betrekking tot het
 ruimtelijke plan vastgelegd:  
@@ -342,11 +341,11 @@ Hier wordt aangegeven waar dit subdossier onderdeel van uit maakt. Er wordt verw
 -   *Aanwezigheid kopieversies*  
 Het bestuursorgaan stelt het betreffende ruimtelijke plan ook voor een ieder
 beschikbaar via de weblocatie die is gemeld aan de
-[Index](https://www.ruimtelijkeplannen.nl/web-roi/index/)[^10]. De
+[Index](https://www.ruimtelijkeplannen.nl/web-roi/index/)[^9]. De
 publicatie datum van beschikbaarstelling wordt vastgelegd bij het archiveren
 van de samenhangende set van bronbestanden.
 
-[^10]: Gemeenten, provincies en het Rijk zijn conform het Bro verplicht hun via
+[^9]: Gemeenten, provincies en het Rijk zijn conform het Bro verplicht hun via
 een vooraf opgegeven locatie aan een ieder beschikbaar, vindbaar en toegankelijk
 te maken. De locatie wordt gemeld aan de index van de landelijk voorziening RO:
 [https://www.ruimtelijkeplannen.nl/index](https://www.ruimtelijkeplannen.nl/index).
@@ -370,16 +369,16 @@ het ruimtelijk plan zelf:
 Conform de Standaard Toegankelijkheid Ruimtelijke Instrumenten (STRI2012) kan de
 samenstelling van de set bronbestanden per type ruimtelijke plan, maar ook per
 fase van het plan, verschillen. Welke bestandsformaten moeten worden gebruikt is
-tevens aangegeven in de standaard[^11]. . De ondergrond maakt geen deel uit van
+tevens aangegeven in de standaard[^10]. . De ondergrond maakt geen deel uit van
 de set van bronbestanden die het ruimtelijke instrument vormen. Om die reden
 bevat de STRI2012 geen voorschrift over de toegelaten bestandsformaten voor de
 ondergrond De Praktijkrichtlijn Toegankelijkheid Ruimtelijke Instrumenten
-(PRTRI2012)[^12] geeft advies over het gebruik van het formaat.
+(PRTRI2012)[^11] geeft advies over het gebruik van het formaat.
 
-[^11]: Zie: [Standaard Toegankelijkheid Ruimtelijke Instrumenten](https://www.geonovum.nl/geo-standaarden/ro-standaarden-ruimtelijke-ordening/standaard-toegankelijkheid-ruimtelijke)
+[^10]: Zie: [Standaard Toegankelijkheid Ruimtelijke Instrumenten](https://www.geonovum.nl/geo-standaarden/ro-standaarden-ruimtelijke-ordening/standaard-toegankelijkheid-ruimtelijke)
 , paragraaf 4.2
 
-[^12]: De PRTRI licht toe welk formaat ondergronden moeten worden gebruikt bij
+[^11]: De PRTRI licht toe welk formaat ondergronden moeten worden gebruikt bij
 ruimtelijke plannen: [Praktijkrichtlijn Toegankelijkheid Ruimtelijke Instrumenten](https://www.geonovum.nl/geo-standaarden/ro-standaarden-ruimtelijke-ordening/praktijkrichtlijn-toegankelijkheid-ruimtelijke)
 
 -   *Type*
