@@ -205,8 +205,6 @@ provincies, EAR voor het Rijk en WILMA voor waterschappen. Uit NORA
 vloeien, naast andere dossiers, zowel het dossier Geo-informatie als het dossier
 voor beleidskaders voort,  zie Figuur 1.
 
-**Figuur 1 NORA en de relatie met geo-informatie**
-
 <figure id="NORA_geo">
     <img src="media/2dd1b161c3795c94ea432bdb7571b098.png" alt="NORA en de relatie met geo-informatie">
     <figcaption>NORA en de relatie met geo-informatie</figcaption>
