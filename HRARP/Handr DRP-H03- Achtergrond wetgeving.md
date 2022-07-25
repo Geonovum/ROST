@@ -207,7 +207,10 @@ voor beleidskaders voort,  zie Figuur 1.
 
 **Figuur 1 NORA en de relatie met geo-informatie**
 
-![](media/2dd1b161c3795c94ea432bdb7571b098.png)
+<figure id="NORA_geo">
+    <img src="media/2dd1b161c3795c94ea432bdb7571b098.png" alt="NORA en de relatie met geo-informatie">
+    <figcaption>NORA en de relatie met geo-informatie</figcaption>
+</figure>
 
 Het *dossier Geo-informatie* brengt ons waar de Wro ook naar toe leidt: via het Basismodel Geo-informatie (NEN3610) en het domeinmodel voor de ruimtelijke ordening: IMRO. Figuur 2 laat de NEN3610 piramide zien hoe het basismodel met de onderliggende families van informatiemodellen is ingebed in internationale standaarden.
 Op hetzelfde niveau als dat raamwerk voor geo-standaarden past de Baseline
