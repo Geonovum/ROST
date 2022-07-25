@@ -98,7 +98,7 @@ gecreëerd:
 | Structuurvisie            | Structuurvisie           | Rijksbestemmingsplan              |
 | Uitwerkingsplan           | Voorbereidingsbesluit    | Structuurvisie                    |
 | Voorbereidingsbesluit     |                          | Voorbereidingsbesluit             |
-| Wijzigingsplan            |                          | Coördinator beheer MIM            |
+| Wijzigingsplan            |                          |                                   |
 
 *In bovenstaande lijst komt ook omgevingsvergunning voor. Hiermee wordt
 kortweg aangegeven de omgevingsvergunning voor het afwijken van een
