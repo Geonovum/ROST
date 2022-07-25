@@ -377,13 +377,13 @@ het ruimtelijk plan zelf:
 -   Geleidefomulier  
 -   Ondergrond
 
-Conform de Standaard Toegankelijkheid Ruimtelijke Instrumenten (STRI2012) kan de
+Conform de Standaard Toegankelijkheid Ruimtelijke Instrumenten kan de
 samenstelling van de set bronbestanden per type ruimtelijke plan, maar ook per
 fase van het plan, verschillen. Welke bestandsformaten moeten worden gebruikt is
 tevens aangegeven in paragraaf 4.2 van de [Standaard Toegankelijkheid Ruimtelijke Instrumenten (STRI2012)](https://www.geonovum.nl/geo-standaarden/ro-standaarden-ruimtelijke-ordening/standaard-toegankelijkheid-ruimtelijke). De ondergrond maakt geen deel uit van
 de set van bronbestanden die het ruimtelijke instrument vormen. Om die reden
 bevat de STRI2012 geen voorschrift over de toegelaten bestandsformaten voor de
-ondergrond. De [Praktijkrichtlijn Toegankelijkheid Ruimtelijke Instrumenten](https://www.geonovum.nl/geo-standaarden/ro-standaarden-ruimtelijke-ordening/praktijkrichtlijn-toegankelijkheid-ruimtelijke) geeft advies over het gebruik van het formaat.
+ondergrond. De [Praktijkrichtlijn Toegankelijkheid Ruimtelijke Instrumenten (PRTRI)](https://www.geonovum.nl/geo-standaarden/ro-standaarden-ruimtelijke-ordening/praktijkrichtlijn-toegankelijkheid-ruimtelijke) geeft advies over het gebruik van het formaat.
 
 -   *Type*
 Met type en daaraan gekoppeld vorm, wordt concreet aangegeven welke
