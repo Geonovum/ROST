@@ -5,7 +5,7 @@ ordening en archiveren. We bedanken hen die tijd en moeite hebben gestoken in
 inhoudelijke bijdrage, bijwonen van discussies, mede schrijven of het anderszins
 tot stand laten komen van deze handreiking.
 
-**Versie 1:**
+**Versie 1.0:**
 
 Anja Meertens – provincie Limburg
 
@@ -35,7 +35,7 @@ Peter Diebels – provincie Zuid-Holland
 
 Silvie Pluim – gemeente Almere (hoofdstuk 2)
 
-**Versie 2:**
+**Versie 2.0:**
 
 Wout van der Reijden – Nationaal Archief
 
