@@ -93,7 +93,7 @@ gecreëerd:
 
 ![](media/4c7f10e003ce441a870a84a3071d9072.png)
 
-* *In bovenstaande lijst komt ook omgevingsvergunning voor. Hiermee wordt
+*In bovenstaande lijst komt ook omgevingsvergunning voor. Hiermee wordt
 kortweg aangegeven de omgevingsvergunning voor het afwijken van een
 bestemmingsplan: de mededeling van een met artikel 2.12, eerste lid, onderdeel
 a, onder 3 van de Wabo verleende omgevingsvergunning.*
