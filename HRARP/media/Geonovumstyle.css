@@ -12,12 +12,12 @@
 //-----------------------------------------------------------------------------------*/
 
 /*-- Definitie van Image ------------------------------------------------------------*/
-//--img 
-//--{
-//--  max-width: 100%;
-//-- height: auto;
-//-- width: auto;
-//-- }
+/* img 
+{
+     max-width: 100%;
+     height: auto;
+     width: auto;
+} */
 
 /*-- Definitie van Image Geonovum------------------------------------------------------------*/
 img#Geonovum
@@ -34,7 +34,7 @@ img#NORA_geo
 }
 
 /*-- Definite van NEN3610:2022 piramide figuur ------------------------*/
-img#img#NEN3610_2022
+img#NEN3610_2022
 {
   width: 200px !important;
   height: auto;
