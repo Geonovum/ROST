@@ -36,8 +36,8 @@ img#NORA_geo
 /*-- Definite van NEN3610:2022 piramide figuur ------------------------*/
 img#NEN3610_2022
 {
-  width: 200px !important;
-  height: auto;
+  width: auto;
+  height: 200px;
 }
 
 /*-- Definite van NEN-ISO_23081 figuur ------------------------*/
