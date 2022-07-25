@@ -12,13 +12,14 @@
 //-----------------------------------------------------------------------------------*/
 
 /*-- Definitie van Image ------------------------------------------------------------*/
-img 
-{
-  max-width: 100%;
-  height: auto;
-  width: auto;
-}
+//--img 
+//--{
+//--  max-width: 100%;
+//-- height: auto;
+//-- width: auto;
+//-- }
 
+/*-- Definitie van Image Geonovum------------------------------------------------------------*/
 img#Geonovum
 {
   width:132px;
@@ -28,15 +29,13 @@ img#Geonovum
 /*-- Definite van NORA en geo figuur ------------------------*/
 img#NORA_geo
 {
-  float: center;
-  width: 100%;
-  height: 100%;
+  width: auto;
+  height: auto;
 }
 
 /*-- Definite van NEN3610:2022 piramide figuur ------------------------*/
 img#img#NEN3610_2022
 {
-  float: center;
   width: 67%;
   height: 67%;
 }
@@ -44,9 +43,8 @@ img#img#NEN3610_2022
 /*-- Definite van NEN-ISO_23081 figuur ------------------------*/
 img#NEN-ISO_23081
 {
-  float: center;
-  width: 100%;
-  height: 100%;
+  width: auto;
+  height: auto;
 }
 
 /*-- Definite van BlockQuotes (uitgelichte tekstblokken) ----------------------------*/
