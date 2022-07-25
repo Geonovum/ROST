@@ -71,7 +71,8 @@ worden gesteld en vindbaar en toegankelijk worden gemaakt:
 -   Provinciale structuurvisie  
 -   Rijksstructuurvisie  
 -   Provinciale verordening  
--   Algemene Maatregel van Bestuur  
+-   Algemene Maatregel van Bestuur
+  
 Daar waar gesproken wordt in deze handreiking over ruimtelijke plannen, worden
 feitelijk bovenstaande plannen, visies en besluiten bedoeld. Digitaal geeft aan:
 conform de RO Standaarden.
@@ -149,6 +150,7 @@ De dataset omvat de verschillende onderdelen van het ruimtelijk plan:
 -   Besluitdocument;  
 -   Beleidsdocument;  
 -   Geleideformulier.  
+
 Tot slot maken ook de [praktijkrichtlijnen](https://www.geonovum.nl/geo-standaarden/ro-standaarden-ruimtelijke-ordening) onderdeel uit van de RO Standaarden.
 De praktijkrichtlijnen geven toelichting op de normen IMRO, STRI, SVBP en IMROPT
 door voor de gebruiker van de standaard per type ruimtelijk plan aan te geven
@@ -184,7 +186,7 @@ informatie ondersteunen:
     data and metadata -- Part 1: Fundamentals  
 10. [**ISO 19115-1:2014**](https://www.iso.org/standard/53798.html) Geographic information -- Metadata -- Part 1:
     Fundamentals  
-11. **INSPIRE richtlijnen**  
+11. **[INSPIRE richtlijnen](https://www.geonovum.nl/geo-standaarden/inspire-europese-leefomgeving) en de [Nederlands metadataprofielen voor datasets en services](https://www.geonovum.nl/geo-standaarden/metadata)**  
 12. [**eArchiving Building Block**](https://ec.europa.eu/cefdigital/wiki/display/](https://ec.europa.eu/cefdigital/wiki/display/CEFDIGITAL/2019/06/04/Publication+of+the+eArchiving+Building+Block+technical+specifications), specificaties van een op [OAIS](https://www.nationaalarchief.nl/archiveren/kennisbank/preservation-policy)
     gebaseerde archiveringsmethode die door de Europese commissie wordt gefinancierd.  
 13. [**Common Specification for Geospatial data**](https://github.com/DILCISBoard/E-ARK-Geodata/blob/master/Specification/CSGeo_v2.0.0.pdf), onderdeel van eArching building block, zie link  
