@@ -10,15 +10,13 @@ In de praktijk van de ruimtelijke ordening zijn de digitale ruimtelijke plannen
 conform de Wet ruimtelijke ordening (Wro) de authentieke plannen. Dit betekent
 dat een samenhangende set bronbestanden, dataset genoemd, conform de RO
 Standaarden door gemeenten, provincies en het Rijk geproduceerd, beschikbaar
-gesteld, vindbaar en toegankelijk gemaakt worden[^1]. De samenhangende set
-bronbestanden is naast alle analoge en digitale stukken, zoals de ondergrond,
+gesteld, vindbaar en toegankelijk gemaakt worden. Gemeenten, provincies en het rijk zijn bronhouders van de ruimtelijke
+plannen. Deze bestuursorganen maken de ruimtelijke plannen genoemd in artikel
+1.2.1 van het Besluit ruimtelijke ordening (Bro).
+De samenhangende set bronbestanden is naast alle analoge en digitale stukken, zoals de ondergrond,
 één van de onderdelen in de planprocedure. De bestuursorganen zijn tevens
 verplicht conform de Archiefwet de ruimtelijk plannen te archiveren met als doel
 de plannen in goede, geordende en toegankelijke staat te brengen en te houden.
-
-[^1]: Gemeenten, provincies en het rijk zijn bronhouders van de ruimtelijke
-plannen. Deze bestuursorganen maken de ruimtelijke plannen genoemd in artikel
-1.2.1 van het Besluit ruimtelijke ordening (Bro)
 
 In de dagelijkse praktijk is het archiveren van de analoge stukken geen
 probleem. Met betrekking tot het archiveren van de samenhangende set
@@ -50,25 +48,25 @@ Wanneer de handreiking in de praktijk wordt gebruikt, kan blijken dat
 aanscherping en/of uitbreiding van de handreiking wenselijk is. Bijvoorbeeld een
 verdere uitwerking op documentniveau die nog nu nog beperkt is opgenomen.
 Geonovum ontvangt graag deze informatie. U kunt ons dit laten weten via
-[ro-standaarden@geonovum.nl].
+ro-standaarden@geonovum.nl.
 
 ## Leeswijzer
 
-In [Hoofdstuk 2](#H02) komt het organiseren van het digitaal archiveren van ruimtelijke
+In [hoofdstuk 2](#H02) komt het organiseren van het digitaal archiveren van ruimtelijke
 plannen aan de orde: welke informatie moet eenmalig in de organisatie worden
 vastgelegd, welke informatie meermalig. Dit hoofdstuk is de vertaling van de
-[hoofdstukken 3](#H03) en [4](#H04).
+[hoofdstuk 3](#H03) en [hoofdstuk 4](#H04).
 
 Om te kunnen duiden welke verantwoordelijkheden gemeenten, provincies en het
 rijk hebben en mogelijk op een bepaalde manier zouden moeten uitvoeren, is de
 context van wet- en regelgeving met daaruit voortvloeiende vereisten samengevat.
-Deze vindt u terug in Hoofdstuk 3 en Hoofdstuk 4.
+Deze vindt u terug in hoofdstuk 3 en hoofdstuk 4.
 
-In Bijlage 2 is door middel van verschillende tabellen een lijst van elementen
+In [Bijlage 2](#B02) is door middel van verschillende tabellen een lijst van elementen
 opgenomen. Hierdoor is per niveau door het bestuursorgaan te bepalen welke
 informatie over de samenhangende set bronbestanden van het ruimtelijk plan moet
 worden verzameld om aan de slag te gaan met archiveren.
 
 Zonder de medewerking van een aantal experts op het gebied van archiveren en
 ruimtelijk ordening zou deze handreiking niet tot stand zijn gekomen. Zij worden
-van harte bedankt en genoemd in Bijlage 3.
+van harte bedankt en genoemd in [Bijlage 3](#B03).
