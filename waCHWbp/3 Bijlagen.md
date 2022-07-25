@@ -4,16 +4,13 @@
 
 Gemeenten die conform uitvoeringsbesluit Chw voor aangewezen gebieden een
 bestemmingsplan met verbrede reikwijdte mogen maken en daarbij af mogen wijken
-van de digitale vereisten van Wro en Bro zijn hieronder[^13] aangegeven. Dit
+van de digitale vereisten van Wro en Bro zijn hieronder d.d. maart 2016 aangegeven. Dit
 geldt voor alle gemeenten, of deelgebieden binnen de gemeente, die op grond van
 het Besluit uitvoering Crisis en herstelwet mogen afwijken van de RO
 Standaarden. Gemeenten die in aanmerking komen om een omgevingsvisie onder de
 Chw te maken, zijn niet in deze lijst opgenomen.
 
-[^13]: Deze lijst is een momentopname, er komen nieuwe tranches met nieuwe
-gemeenten en plangebieden
-
-6e tranche
+**6e tranche**
 
 -   Cruquiusgebied, Amsterdam (zie voor dit project aanvullende mogelijkheden in
     de 8e tranche)
@@ -28,7 +25,7 @@ gemeenten en plangebieden
 
 -   De Bronnen, Tynaarloo
 
-7e tranche
+**7e tranche**
 
 -   Oosterwold, Almere en Zeewolde
 
@@ -49,7 +46,7 @@ gemeenten en plangebieden
 
  
 
-8e tranche, gemeentedekkend:
+**8e tranche, gemeentedekkend:**
 
 -   Breda
 
@@ -63,11 +60,11 @@ gemeenten en plangebieden
 
 -   Oldenzaal
 
-9e tranche
+**9e tranche**
 
-Delft spoorzone
+-   Delft spoorzone
 
-10e tranche (nog niet definitief)
+**10e tranche (nog niet definitief)**
 
 -   De Scheg, gemeente Amstelveen,
 
@@ -86,6 +83,8 @@ Delft spoorzone
 -   CHV-terrein, gemeente Veghel,
 
 -   Bergwijkpark, gemeente Diemen,
+
+
 
 ### Bijlage 2
 
