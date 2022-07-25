@@ -80,7 +80,7 @@ op dezelfde manier als alle reguliere bestemmingsplannen en beheersverordeningen
 kunnen worden meegenomen in de technische overgang naar het omgevingsplan onder
 de Omgevingswet.
 
-In het vervolg van deze paragraaf worden beide opties toegelicht.
+In het vervolg van deze paragraaf worden beide opties toegelicht; optie 1 in paragraaf [2.1](/#uitvoering-met-behulp-van-een-contour-op-ruimtelijkeplannen-nl) en optie 2 in paragraaf [2.2](/#uitvoering-met-behulp-van-een-contour-op-ruimtelijkeplannen-nl).
 
 ### Uitvoering met behulp van een contour op Ruimtelijkeplannen.nl
 
@@ -123,7 +123,7 @@ Voor het maken en ontsluiten van het Chw bestemmingsplan met behulp van het
 plantype beheersverordening verwijzen we voor een volledige toelichting naar de
 Praktijkrichtlijn Gebiedsgerichte Besluiten [PRGB2012](https://www.geonovum.nl/geo-standaarden/ro-standaarden-ruimtelijke-ordening/praktijkrichtlijn-toegankelijkheid-ruimtelijke). Enkele attributen en waarden zijn hieronder nader toegelicht.
 
-Attributen en waarden
+**Attributen en waarden**
 
 Het typePlan is beheersverordening, de naam hiervan begint echter met “Chw
 bestemmingsplan”. In de toelichting is in ieder geval beschreven welke
@@ -171,7 +171,7 @@ Standaard Vergelijkbare Bestemmingsplannen [SVBP2012](https://www.geonovum.nl/ge
 [PRBP2012](https://www.geonovum.nl/geo-standaarden/ro-standaarden-ruimtelijke-ordening/praktijkrichtlijn-bestemmingsplannen-prbp2012). Enkele attributen en waarden zijn hieronder nader toegelicht.
 
 
-Attributen en waarden
+**Attributen en waarden**
 
 Het *typePlan* is bestemmingsplan, de *naam* hiervan begint echter met “Chw
 bestemmingsplan”. In de toelichting is in ieder geval beschreven welke
