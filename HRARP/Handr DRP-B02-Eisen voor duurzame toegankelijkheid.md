@@ -1,7 +1,6 @@
-# Bijlage 2: Eisen voor duurzame toegankelijkheid van overheidsinformatie[^50]
+# Bijlage 2: Eisen voor duurzame toegankelijkheid van overheidsinformatie
 
-[^50]: Bron: Nationaal Archief, zie
-https://www.nationaalarchief.nl/archiveren/kennisbank/overzicht-duto-eisen
+Conform het [Nationaal Archief](https://www.nationaalarchief.nl/archiveren/kennisbank/overzicht-duto-eisen):
 
 | Titel                                                                                                                   | Eis                                                                                                                                                                                             |
 |-------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -15,7 +14,7 @@ https://www.nationaalarchief.nl/archiveren/kennisbank/overzicht-duto-eisen
 | [Gedeeltelijke weergave](https://www.nationaalarchief.nl/archiveren/kennisbank/gedeeltelijke-weergave-duto-eis)         | Als een informatieobject slechts gedeeltelijk openbaar is, dan zijn er een gedeeltelijke weergave en export beschikbaar waarin alleen de openbare delen zijn opgenomen.                         |
 | [Beveiligd](https://www.nationaalarchief.nl/archiveren/kennisbank/beveiligd-duto-eis)                                   | Informatieobjecten zijn beveiligd tegen onbedoelde en onbevoegde wijzigingen. Conform de geldende standaarden voor informatiebeveiliging.                                                       |
 | [Standaard formaat](https://www.nationaalarchief.nl/archiveren/kennisbank/standaard-formaat-duto-eis)                   | De export van een informatieobject voldoet aan een open standaard formaat.                                                                                                                      |
-| [Meta gegevens](https://www.nationaalarchief.nl/archiveren/kennisbank/metagegevens-duto-eis)                            | De weergave en export van elk informatieobject bevat minimaal volledige en actuele metagegevens zoals voorgeschreven in de Richtlijn Metagegevens Overheidsinformatie.                          |
+| [Metagegevens](https://www.nationaalarchief.nl/archiveren/kennisbank/metagegevens-duto-eis)                            | De weergave en export van elk informatieobject bevat minimaal volledige en actuele metagegevens zoals voorgeschreven in de Richtlijn Metagegevens Overheidsinformatie.                          |
 | [Vernietiging](https://www.nationaalarchief.nl/archiveren/kennisbank/vernietiging-duto-eis)                             | Informatieobjecten worden niet eerder en niet later vernietigd dan is aangeven in de selectielijst. Na vernietiging van een informatieobject is er een verklaring van vernietiging beschikbaar. |
 | [Overbrenging](https://www.nationaalarchief.nl/archiveren/kennisbank/overbrenging-duto-eis)                             | Een blijvend te bewaren informatieobject wordt binnen twintig jaar overgebracht naar een archiefbewaarplaats.                                                                                   |
 |                                                                                                                         |                                                                                                                                                                                                 |
