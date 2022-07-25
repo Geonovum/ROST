@@ -12,20 +12,21 @@ Wat betreft wetgeving hebben we primair te maken met de Wet ruimtelijke ordening
 en de Archiefwet. Deze worden achtereenvolgens behandeld in deze paragraaf.
 
 ### Wet ruimtelijke ordening  
-De *Wet ruimtelijke ordening* (Wro) is op 1 juli 2008 in werking getreden. De
+De [Wet ruimtelijke ordening (Wro)](http://wetten.overheid.nl/BWBR0020449) is op 1 juli 2008 in werking getreden. De
 basis voor digitale ruimtelijke plannen is gelegd door voor verschillende
 planprocedures aan te geven dat de betrokken overheid het betreffende plan,
 visie of besluit tevens langs elektronische weg bekend maakt.
 
-De uitwerking vindt plaats in het *Besluit ruimtelijke ordening* (Bro) waar met
+De uitwerking vindt plaats in het [Besluit ruimtelijke ordening (Bro)](http://wetten.overheid.nl/BWBR0023798) waar met
 artikel 1.2.1 is bepaald welke instrumenten uit de Wro de betrokken
 bestuursorganen aan eenieder elektronisch beschikbaar moeten stellen. De
 betrokken bestuursorganen zijn gemeenten, provincies en het Rijk. Vervolgens
 bepaalt artikel 1.2.1 Bro dat er een landelijke voorziening is, waar deze
 visies, plannen en besluiten raadpleegbaar zijn. Verder is in de artikelen 1.2.3
 en 1.2.4 Bro bepaald dat een ondergrond samen met de visie, het besluit of plan
-digitaal wordt vastgesteld. Met de artikelen 1.2.5 en 1.2.6 Bro wordt de
-ministeriële *Regeling standaarden ruimtelijke ordening* geïntroduceerd waarin
+digitaal wordt vastgesteld. 
+Met de artikelen 1.2.5 en 1.2.6 Bro wordt de
+ministeriële [Regeling standaarden ruimtelijke ordening](http://wetten.overheid.nl/BWBR0031829) geïntroduceerd waarin
 nadere regels zijn opgenomen betreffende de geometrische plaatsbepaling en
 elektronische beschikbaarstelling, vindbaarheid en toegankelijkheid van de
 ruimtelijke plannen, visies en besluiten. De Regeling standaarden ruimtelijke
@@ -38,12 +39,12 @@ vorm van de ruimtelijke plannen is daarvan een kopie.
 
 ### Welke ruimtelijke plannen  
 In de vorige paragraaf is met artikel 1.2.1 Bro aangegeven welke ruimtelijke
-plannen digitaal door de bestuursorganen conform de RO Standaarden beschikbaar
+plannen digitaal door de bevoegde gezagen conform de RO Standaarden beschikbaar
 worden gesteld en vindbaar en toegankelijk worden gemaakt. Deze paragraaf geeft
 een concreet overzicht. Dit is inclusief de omgevingsvergunning om af te wijken
-van het bestemmingsplan[^13].
+van het bestemmingsplan op basis van de [Wabo](http://wetten.overheid.nl/BWBR0024779) en Besluit Omgevingsrecht (Bor). 
 
-[^13]: De wet- en regelgeving verplicht het bestuursorgaan om de mededeling
+De wet- en regelgeving verplicht het bestuursorgaan om de mededeling
 (kennisgeving in de Staatscourant) van een met artikel 2.12, eerste lid,
 onderdeel a, onder 3 van de Wabo verleende omgevingsvergunning met behulp van de
 RO Standaarden beschikbaar te stellen. In het Besluit Omgevingsrecht (Bor)
@@ -51,6 +52,9 @@ artikel 6.14 is aangegeven dat bij ministeriële regeling nadere regels worden
 gesteld over de wijze waarop de mededeling elektronisch wordt gedaan en
 beschikbaar gesteld. Dit betreft de ministeriële Regeling standaarden
 ruimtelijke ordening 2012.  
+
+Overzicht ruimtelijke plannen die door bevoegde gezagen conform de RO Standaarden beschikbaar
+worden gesteld en vindbaar en toegankelijk worden gemaakt:
 -   Voorbereidingsbesluit  
 -   Bestemmingsplan  
 -   Inpassingsplan  
@@ -95,7 +99,8 @@ behouden moeten blijven of tenminste reproduceerbaar zijn.
 ### Digitale ruimtelijke ordening  
 In het kader van de Wro zijn de RO Standaarden bepalend voor het uitwisselbaar,
 beschikbaar, vindbaar en toegankelijk maken van de ruimtelijke plannen. De
-Regeling standaarden ruimtelijke ordening 2012 geeft de volgende normen aan:  
+Regeling standaarden ruimtelijke ordening 2012 geeft de volgende normen aan: 
+
 1.  **IMRO**: Informatie Model Ruimtelijke Ordening  
 De plankaart wordt in GML formaat conform het Informatie Model Ruimtelijke
 Ordening opgeleverd. In deze GML is naast inhoudelijke planinformatie, ook
@@ -104,22 +109,24 @@ status van het plan en de relatie naar de ondergrond die bij het plan wordt
 vastgesteld. Deze ondergrond is geen onderdeel van de dataset maar moet wel
 bewaard worden door het betreffende bestuursorgaan. Raad van State
 bijvoorbeeld wil naast het plan zelf van een bepaald moment ook over de
-daarbij vastgestelde ondergrond kunnen beschikken[^14].  
-[^14]: Conform artikel 1.2.4 Bro moet bij het besluit tot vaststelling van het
+daarbij vastgestelde ondergrond kunnen beschikken. Conform artikel 1.2.4 Bro moet bij het besluit tot vaststelling van het
 ruimtelijk plan worden aangegeven welke ondergrond is gebruikt.
+
 2.  **STRI**: Standaard Toegankelijkheid Ruimtelijke Instrumenten  
 Bij het beschikbaar en toegankelijk maken van ruimtelijke plannen moet de
 Standaard Toegankelijkheid Ruimtelijke Instrumenten verplicht worden
 toegepast. In de STRI worden eisen gesteld aan de bestandsextensies,
 formaten, bestandsnamen, te gebruiken identificatienummer, het digitaal
-waarmerken (zie paragraaf 0) en de beschikbaarstelling zelf.  
+waarmerken (zie [STRI2012](https://www.geonovum.nl/geo-standaarden/ro-standaarden-ruimtelijke-ordening/standaard-toegankelijkheid-ruimtelijke)) en de beschikbaarstelling zelf. 
+
 3.  **SVBP**: Standaard Vergelijkbare Bestemmingsplannen  
 In de Standaard Vergelijkbare Bestemmingsplannen is voor bestemmingsplannen,
 inpassingsplannen, rijksbestemmingsplannen, wijzigings- en
 uitwerkingsplannen aangegeven hoe deze van een verbeelding (weergave) in een
 viewer (software) moeten worden voorzien. Voor andere ruimtelijke plannen
 dan deze plannen geldt dat zij conform de Wro vormvrij zijn: geen
-verbeeldingsafspraken.  
+verbeeldingsafspraken. 
+
 4.  **IMROPT**: Informatie Model Ruimtelijke Ordening Planteksten  
 De standaard voor planteksten moet door de bestuursorganen onder voorwaarde
 verplicht worden gebruikt. Toepassing van IMROPT2012 is verplicht wanneer
@@ -130,10 +137,10 @@ IMROPT is in dit geval dan niet van toepassing.
 
 In deze standaarden is bepaald dat ieder ruimtelijk plan, visie of besluit is
 opgebouwd uit een samenhangende set bronbestanden (dataset genoemd). Voor
-verschillende typen instrumenten is dit een andere set[^15]. De dataset omvat de
-verschillende onderdelen van het ruimtelijk plan:  
-[^15]: Welke planonderdelen bij welk instrument van toepassing zijn, is
+verschillende typen instrumenten is dit een andere set; welke planonderdelen bij welk instrument van toepassing zijn, is
 aangegeven in hoofdstuk 2 van de [STRI2012](https://www.geonovum.nl/geo-standaarden/ro-standaarden-ruimtelijke-ordening/standaard-toegankelijkheid-ruimtelijke)
+
+De dataset omvat de verschillende onderdelen van het ruimtelijk plan:  
 -   Plankaart;  
 -   Regels;  
 -   Toelichting;  
@@ -142,7 +149,7 @@ aangegeven in hoofdstuk 2 van de [STRI2012](https://www.geonovum.nl/geo-standaar
 -   Besluitdocument;  
 -   Beleidsdocument;  
 -   Geleideformulier.  
-Tot slot maken ook de praktijkrichtlijnen onderdeel uit van de RO Standaarden.
+Tot slot maken ook de [praktijkrichtlijnen](https://www.geonovum.nl/geo-standaarden/ro-standaarden-ruimtelijke-ordening) onderdeel uit van de RO Standaarden.
 De praktijkrichtlijnen geven toelichting op de normen IMRO, STRI, SVBP en IMROPT
 door voor de gebruiker van de standaard per type ruimtelijk plan aan te geven
 hoe het ruimtelijk plan moet en kan worden gemaakt volgens de standaard.
@@ -177,7 +184,7 @@ informatie ondersteunen:
     data and metadata -- Part 1: Fundamentals  
 10. [**ISO 19115-1:2014**](https://www.iso.org/standard/53798.html) Geographic information -- Metadata -- Part 1:
     Fundamentals  
-11. **Inspire richtlijnen**  
+11. **INSPIRE richtlijnen**  
 12. [**eArchiving Building Block**](https://ec.europa.eu/cefdigital/wiki/display/](https://ec.europa.eu/cefdigital/wiki/display/CEFDIGITAL/2019/06/04/Publication+of+the+eArchiving+Building+Block+technical+specifications), specificaties van een op [OAIS](https://www.nationaalarchief.nl/archiveren/kennisbank/preservation-policy)
     gebaseerde archiveringsmethode die door de Europese commissie wordt gefinancierd.  
 13. [**Common Specification for Geospatial data**](https://github.com/DILCISBoard/E-ARK-Geodata/blob/master/Specification/CSGeo_v2.0.0.pdf), onderdeel van eArching building block, zie link  
@@ -185,18 +192,16 @@ informatie ondersteunen:
  ## Andere kaders
 
 Naast wetgeving en standaarden zijn er een aantal andere kaders die een rol
-spelen bij ruimtelijke plannen. Een belangrijk kader is de Nederlandse Overheid
-Referentie Architectuur (NORA).
+spelen bij ruimtelijke plannen. Een belangrijk kader is de [Nederlandse Overheid
+Referentie Architectuur (NORA)](https://www.noraonline.nl/wiki/NORA_online).
 
 NORA bevat principes, beschrijvingen, modellen en standaarden voor het ontwerp
 en de inrichting van de elektronische overheid. Het centrale begrip is
 “interoperabiliteit”: het vermogen van organisaties en mensen om informatie uit
-te wisselen en die informatie te begrijpen en te gebruiken[^21]. Uit NORA
+te wisselen en die informatie te begrijpen en te gebruiken. NORA kent meerdere ‘dochters’, zoals GEMMA voor gemeenten, PETRA voor
+provincies, EAR voor het Rijk en WILMA voor waterschappen. Uit NORA
 vloeien, naast andere dossiers, zowel het dossier Geo-informatie als het dossier
 voor beleidskaders voort,  zie Figuur 1.
-
-[^21]: NORA kent meerdere ‘dochters’, zoals GEMMA voor gemeenten, PETRA voor
-provincies, EAR voor het Rijk en WILMA voor waterschappen.
 
 **Figuur 1 NORA en de relatie met geo-informatie**
 
@@ -221,14 +226,13 @@ ruimtelijke ordening**
 In de RO Standaarden is bepaald dat het ruimtelijk plan van een digitaal
 waarmerk moet worden voorzien. De dataset van het ruimtelijk plan wordt met
 behulp van een PKI-Overheid certificaat van een waarmerk voorzien. Op deze wijze
-wordt de authenticiteit van het plan gewaarborgd[^22]. Pas wanneer dit waarmerk
-aan het plan is toegevoegd, is dit het digitale authentieke plan conform de RO
-Standaarden dat beschikbaar, toegankelijk en vindbaar moet zijn.  
-[^22]: Dit wordt voorgeschreven vanuit de RO Standaarden, onderdeel Standaard
+wordt de authenticiteit van het plan gewaarborgd; dit wordt voorgeschreven vanuit de RO Standaarden, onderdeel Standaard
 Toegankelijkheid Ruimtelijke Instrumenten, zie [hoofdstuk 6 van de
-STRI2012](https://www.geonovum.nl/geo-standaarden/ro-standaarden-ruimtelijke-ordening/standaard-toegankelijkheid-ruimtelijke).  
-Artikel 24 van de Archiefregeling schrijft voor dat, wanneer er gebruik is
-gemaakt van een digitale waarmerk of handtekening[^23] in de metagegevens wordt
+STRI2012](https://www.geonovum.nl/geo-standaarden/ro-standaarden-ruimtelijke-ordening/standaard-toegankelijkheid-ruimtelijke).. 
+
+Pas wanneer dit waarmerk aan het plan is toegevoegd, is dit het digitale authentieke plan conform de RO
+Standaarden dat beschikbaar, toegankelijk en vindbaar moet zijn. Artikel 24 van de Archiefregeling schrijft voor dat, wanneer er gebruik is
+gemaakt van een digitale waarmerk of handtekening conform de [Wet elektronische handtekening](https://www.inspectie-oe.nl/toezichtvelden/overheidsinformatie/wet--en-regelgeving/overige-informatiewetgeving/wet-elektronische-handtekeningen) in de metagegevens wordt
 vastgelegd wie de houder is van de digitale handtekening, wanneer de
 handtekening is gevalideerd en wat daar het resultaat van was, welke
 functionaris verantwoordelijk was voor de validatie en de identificatie van het
@@ -236,8 +240,6 @@ certificaat van de digitale handtekening. De handtekening zelf hoeft volgens de
 *Archiefwet* niet permanent bewaard te worden. Dit is bij het gebruik van het
 PKI-Overheid certificaat voor het waarmerken van de digitale ruimtelijke plannen
 al geregeld.  
-[^23]: [Zie Wet elektronische handtekening](https://www.inspectie-oe.nl/toezichtvelden/overheidsinformatie/wet--en-regelgeving/overige-informatiewetgeving/wet-elektronische-handtekeningen)
-
 
 ## Samenvatting wet- en regelgeving met bijbehorende standaarden
 
@@ -252,22 +254,20 @@ al geregeld.
 -   **Archiefwet**  
 -   Archiefbesluit  
 -   Archiefregeling  
-    -   NEN-ISO 23081: Metadata voor archiefbescheiden[^28]  
-        [^28]: Zie:
+    -   NEN-ISO 23081: Metadata voor archiefbescheiden, zie:
         http://www.nen.nl/web/Normshop/Norm/NENISO-2308112006-nl.htm,
         http://www.nen.nl/web/Normshop/Norm/NENISO-2308122009-nl.htm en
         http://www.nen.nl/web/Normshop/Norm/NPRISOTR-2308132011-en.htm
         (leidraad voor self-assessment);  
     -   [NEN-ISO 30301](http://www.nen.nl/web/Normshop/Norm/NENISO-303002011-en.htm): Management systeem standaard voor archief- en
         informatiemanagement;  
-    -   NEN-ISO 15489-1: Standaard voor archief- en informatiemanagement[^30]  
-        [^30]: Zie:
+    -   NEN-ISO 15489-1: Standaard voor archief- en informatiemanagement, zie: 
         http://www.nen.nl/web/Normshop/Norm/NENISO-1548912001-nl.htm en
         http://www.nen.nl/web/Normshop/Norm/NPRISOTR-1548922001-nl.htm
         (implementatiegids)  
     -   NEN-ISO 16175: Standaard voor functionaliteiten van programmatuur voor
-        informatie- en archiefmanagement[^31]  
-        [^31]Zie: http://www.nen.nl/NEN-Shop/Norm/NENISO-1617512010-en.htm,
+        informatie- en archiefmanagement, zie: 
+        http://www.nen.nl/NEN-Shop/Norm/NENISO-1617512010-en.htm,
         http://www.nen.nl/NEN-Shop/Norm/NENISO-1617532010-en.htm,
         http://www.nen.nl/NEN-Shop/Norm/NENISO-1617522011-en.htm  
     -   [NEN-ISO 27000](http://www.nen.nl/web/Normshop/Norm/NENISOIEC-270002012-en.htm): Management systeem standaard voor
