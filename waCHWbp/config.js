@@ -68,7 +68,7 @@ var respecConfig =
   editors: 
  [
     {
-      name:       "Geonovum",
+      name:       "Beheerteam DRO",
       company:    "Geonovum",
       companyURL: "https://www.geonovum.nl"
     }, 
@@ -78,7 +78,7 @@ var respecConfig =
   authors: 
   [
     {
-      name:       "Geonovum",
+      name:       "Beheerteam DRO",
       company:    "Geonovum",
       companyURL: "https://www.geonovum.nl"
     }, 
