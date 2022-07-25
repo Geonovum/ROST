@@ -84,7 +84,7 @@ var respecConfig =
     }, 
   ],
   //-- shortName is verplicht! (komt in de URL: kies logische naam) --------------------
-  shortName: "rCHWbp",  	              // Wordt gebruikt in de document URL
+  shortName: "CHWbp",  	              // Wordt gebruikt in de document URL
   //-- pubDomain is verplicht! (komt in de URL: Activeer 1 van de volgende) ------------
   //pubDomain: "et", 	              // Energie transitie
   //pubDomain: "mim", 	            // Metamodel Informatie Modellering
