@@ -2,27 +2,23 @@
 
 Met het wijzigen van het Besluit uitvoering Crisis- en herstelwet in mei 2014
 ([Stb. 2014, nr.
-168](https://zoek.officielebekendmakingen.nl/stb-2014-168.html)) [^1] is het voor
-een aantal gemeenten mogelijk bestemmingsplannen (met verbrede reikwijdte) te
+168](https://zoek.officielebekendmakingen.nl/stb-2014-168.html)) en het aanvull van de bijlagen bij de Crisis- en herstelwet
+(zevende tranche)is het voor een aantal gemeenten mogelijk bestemmingsplannen (met verbrede reikwijdte) te
 maken waarmee kan worden afgeweken van een aantal met name genoemde onderdelen
 van de geldende wet- en regelgeving. De betreffende gemeenten experimenteren
 hiermee in het kader van de Crisis- en herstelwet en doen tevens ervaring op ter
 voorbereiding op de Omgevingswet. Een van de aspecten waar gemeenten onder
 voorwaarden van af mogen wijken zijn de digitale aspecten met RO Standaarden en
-Ruimtelijkeplannen.nl [^2]. Afgeweken kan worden onder de voorwaarde dat het Chw
+Ruimtelijkeplannen.nl. 
+In de huidige situatie dienen bestemmingsplannen te voldoen aan de op
+basis van artikel 1.2.6 Bro opgestelde Regeling standaarden ruimtelijke ordening 2012. Deze regeling bevat vereisten met betrekking tot vormgeving, inrichting en
+elektronische beschikbaarstelling van het plan: de RO Standaarden 2012.
+Afgeweken kan worden onder de voorwaarde dat het Chw
 bestemmingsplan wel elektronisch op een algemeen toegankelijke wijze beschikbaar
 wordt gesteld en blijft op een door de raad te bepalen internetadres
 (weblocatie). De landelijke voorziening Ruimtelijkeplannen.nl bevat een
 verwijzing naar dit internetadres. Dit is bepaald met artikel 7c, lid 9 van
 Besluit uitvoering Chw.
-
-[^1]: Besluit van 13 mei 2014 tot wijziging van het Besluit uitvoering Crisis-
-en herstelwet en tot aanvulling van de bijlagen bij de Crisis- en herstelwet
-(zevende tranche); [Stb. 2014, nr. 168](https://zoek.officielebekendmakingen.nl/stb-2014-168.html)
-
-[^2]: In de huidige situatie dienen bestemmingsplannen te voldoen aan de op
-basis van artikel 1.2.6 Bro opgestelde Regeling standaarden ruimtelijke ordening 2012. Deze regeling bevat vereisten met betrekking tot vormgeving, inrichting en
-elektronische beschikbaarstelling van het plan: de RO Standaarden 2012.
 
 Deze werkafspraak heeft betrekking op de ontsluiting van de informatie van het
 Chw bestemmingsplan via Ruimtelijkeplannen.nl. De werkafspraak gaat niet in op
