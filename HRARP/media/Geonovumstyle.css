@@ -37,7 +37,7 @@ img#NORA_geo
 img#NEN3610_2022
 {
   width: auto;
-  height: 200px;
+  height: 200px !important;
 }
 
 /*-- Definite van NEN-ISO_23081 figuur ------------------------*/
