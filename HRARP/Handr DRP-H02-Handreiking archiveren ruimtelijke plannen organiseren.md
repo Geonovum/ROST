@@ -86,12 +86,19 @@ informatie. In dit geval betreft het informatie gerelateerd aan ruimtelijke
 plannen.
 Het Nationaal Archief heeft een overzicht van de [DUTO-eisen](https://www.nationaalarchief.nl/archiveren/kennisbank/overzicht-duto-eisen). Meer hierover in [bijlage 1](#B01).
 
-De volgende ruimtelijke plannen worden door de verschillende bestuursorganen
+De volgende ruimtelijke plannen worden door de verschillende bevoegde gezagen
 gecreëerd:
 
-![](media/cac1843e93f9517549fd92263a490744.png)
-
-![](media/4c7f10e003ce441a870a84a3071d9072.png)
+| Gemeenten                 | Provincies               | Rijk		                   |
+|---------------------------|--------------------------|-----------------------------------|
+| Beheersverordening        | Aanwijzingsbesluit       | Aanwijzingsbesluit                |
+| Bestemmingsplan           | Inpassingsplan           | Algemene Maatregel van Bestuur    |
+| Exploitatieplan           | Provinciale verordening  | Inpassingsplan                    |
+| Omgevingsvergunning*      | Reactieve aanwijzing     | Reactieve aanwijzing              |
+| Structuurvisie            | Structuurvisie           | Rijksbestemmingsplan              |
+| Uitwerkingsplan           | Voorbereidingsbesluit    | Structuurvisie                    |
+| Voorbereidingsbesluit     |                          | Voorbereidingsbesluit             |
+| Wijzigingsplan            |                          | Coördinator beheer MIM            |
 
 *In bovenstaande lijst komt ook omgevingsvergunning voor. Hiermee wordt
 kortweg aangegeven de omgevingsvergunning voor het afwijken van een
