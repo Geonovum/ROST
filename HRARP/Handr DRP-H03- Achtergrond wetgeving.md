@@ -214,7 +214,7 @@ toegelicht.
 **Figuur 2 Basismodel voor geo-informatie met sectorale standaard voor de
 ruimtelijke ordening**
 
-![](media/Basisprogramma_Infomodel_NEN 3610 – stelsel logo Groot.png)
+![](media/Basisprogramma_Infomodel_NEN_3610_–_stelsel_logo_Groot.png)
 
 ## Digitaal waarmerken
 
