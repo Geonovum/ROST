@@ -202,8 +202,7 @@ provincies, EAR voor het Rijk en WILMA voor waterschappen.
 
 ![](media/2dd1b161c3795c94ea432bdb7571b098.png)
 
-Het *dossier Geo-informatie* brengt ons waar de Wro ook naar toe leidt: het
-raamwerk voor standaarden op het gebied van ruimtelijke ordening, zie Figuur 2.
+Het *dossier Geo-informatie* brengt ons waar de Wro ook naar toe leidt: via het Basismodel Geo-informatie (NEN3610) en het domeinmodel voor de ruimtelijke ordening: IMRO. Figuur 2 laat de NEN3610 piramide zien hoe het basismodel met de onderliggende families van informatiemodellen is ingebed in internationale standaarden.
 Op hetzelfde niveau als dat raamwerk voor geo-standaarden past de Baseline
 Informatiehuishouding binnen het dossier Beleidskaders. Voor zowel het rijk als
 gemeenten is er inmiddels een specifieke Baseline vastgesteld. Deze Baseline is
@@ -215,7 +214,7 @@ toegelicht.
 **Figuur 2 Basismodel voor geo-informatie met sectorale standaard voor de
 ruimtelijke ordening**
 
-![](media/4ebf8c68ccb21fa18f7c6689314ac79f.png)
+![](media/Basisprogramma_Infomodel_NEN 3610 – stelsel logo Groot.png)
 
 ## Digitaal waarmerken
 
