@@ -5,6 +5,7 @@ Een overzicht van de verschillende documenten vindt u hieronder:
 
 | Document                                                                                                            |  
 |-------------------------------------------------------------------------------------------------------|  
+| [Werkafspraak Chw bestemmingsplan](https://geonovum.github.io/ROST/waCHWbp/)                  |  
 | [Handreiking Archiveren ruimtelijke plannen](https://geonovum.github.io/ROST/HRARP/)                  |  
 | [Handreiking Data op Orde](https://geonovum.github.io/ROST/HRDoO/)                                    |  
 | [Wijzigingsprotocol RO Standaarden](https://geonovum.github.io/ROST/HRWIJZPROT/)                      |  
