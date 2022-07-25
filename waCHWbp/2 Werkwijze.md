@@ -116,8 +116,8 @@ bestemmingsplan met behulp van een planviewer raadplegen.
 
 Voor een volledig overzicht van te koppelen bestanden zoals het
 vaststellingsbesluit, te hanteren bestandsnamen en – formaten, raadpleeg de
-[Standaard Toegankelijkheid Ruimtelijke Instrumenten 2012](https://www.geonovum.nl/geo-standaarden/ro-standaarden-ruimtelijke-ordening/standaard-toegankelijkheid-ruimtelijke) en de toelichting op deze norm [Praktijkrichtlijn Toegankelijkheid Ruimtelijke
-Instrumenten 2012](https://www.geonovum.nl/geo-standaarden/ro-standaarden-ruimtelijke-ordening/praktijkrichtlijn-toegankelijkheid-ruimtelijke)
+Standaard Toegankelijkheid Ruimtelijke Instrumenten [STRI2012](https://www.geonovum.nl/geo-standaarden/ro-standaarden-ruimtelijke-ordening/standaard-toegankelijkheid-ruimtelijke) en de toelichting op deze norm Praktijkrichtlijn Toegankelijkheid Ruimtelijke
+Instrumenten [PTRI2012](https://www.geonovum.nl/geo-standaarden/ro-standaarden-ruimtelijke-ordening/praktijkrichtlijn-toegankelijkheid-ruimtelijke)
 
 Voor het maken en ontsluiten van het Chw bestemmingsplan met behulp van het
 plantype beheersverordening verwijzen we voor een volledige toelichting naar de
