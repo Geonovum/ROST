@@ -116,12 +116,12 @@ bestemmingsplan met behulp van een planviewer raadplegen.
 
 Voor een volledig overzicht van te koppelen bestanden zoals het
 vaststellingsbesluit, te hanteren bestandsnamen en – formaten, raadpleeg de
-[Standaard Toegankelijkheid Ruimtelijke Instrumenten 2012](http://www.geonovum.nl/wegwijzer/standaarden/standaard-toegankelijkheid-ruimtelijke-instrumenten-stri2012) en de toelichting op deze norm [Praktijkrichtlijn Toegankelijkheid Ruimtelijke
-Instrumenten 2012](http://www.geonovum.nl/wegwijzer/standaarden/praktijkrichtlijn-toegankelijkheid-ruimtelijke-instrumenten-prtri2012)
+[Standaard Toegankelijkheid Ruimtelijke Instrumenten 2012](https://www.geonovum.nl/geo-standaarden/ro-standaarden-ruimtelijke-ordening/standaard-toegankelijkheid-ruimtelijke) en de toelichting op deze norm [Praktijkrichtlijn Toegankelijkheid Ruimtelijke
+Instrumenten 2012](https://www.geonovum.nl/geo-standaarden/ro-standaarden-ruimtelijke-ordening/praktijkrichtlijn-toegankelijkheid-ruimtelijke)
 
 Voor het maken en ontsluiten van het Chw bestemmingsplan met behulp van het
 plantype beheersverordening verwijzen we voor een volledige toelichting naar de
-Praktijkrichtlijn Gebiedsgerichte Besluiten (PRGB2012](http://www.geonovum.nl/wegwijzer/standaarden/praktijkrichtlijn-gebiedsgerichte-besluiten-prgb2012). Enkele attributen en waarden zijn hieronder nader toegelicht.
+Praktijkrichtlijn Gebiedsgerichte Besluiten [PRGB2012](https://www.geonovum.nl/geo-standaarden/ro-standaarden-ruimtelijke-ordening/praktijkrichtlijn-toegankelijkheid-ruimtelijke). Enkele attributen en waarden zijn hieronder nader toegelicht.
 
 Attributen en waarden
 
@@ -131,7 +131,7 @@ ruimtelijke plannen dit Chw bestemmingsplan vervangt.
 In de toelichting is ook aangegeven op welke wijze en via welk internetadres de
 volledige inhoud van het Chw bestemmingsplan is te raadplegen.
 In het geleideformulier van dit plan wordt het internetadres opgenomen, in de
-Klasse *Supplementen* in het onderdeel *startPagina* (zie paragraaf 5.3 van de norm [STRI2012](http://www.geonovum.nl/wegwijzer/standaarden/standaard-toegankelijkheid-ruimtelijke-instrumenten-stri2012). Op deze wijze is via
+Klasse *Supplementen* in het onderdeel *startPagina* (zie paragraaf 5.3 van de norm [STRI2012](https://www.geonovum.nl/geo-standaarden/ro-standaarden-ruimtelijke-ordening/standaard-toegankelijkheid-ruimtelijke). Op deze wijze is via
 Ruimtelijkeplannen.nl een hyperlink zichtbaar en kan de raadpleger direct het
 interactieve Chw bestemmingsplan vinden.
 
@@ -167,8 +167,8 @@ Voor de werkwijze in de praktijk van het maken van het Chw bestemmingsplan met
 toepassing van plantype bestemmingsplan en ontsluiten als authentiek en volledig
 interactief raadpleegbaar plan via Ruimtelijkeplannen.nl zijn alle voor het
 bestemmingsplan relevante normen van de RO Standaarden van toepassing, zoals de
-Standaard Vergelijkbare Bestemmingsplannen [SVBP2012](http://www.geonovum.nl/wegwijzer/standaarden/standaard-vergelijkbare-bestemmingsplannen-svbp20120). Voor een volledige toelichting verwijzen we naar de Praktijkrichtlijn Bestemmingsplannen
-[PRBP2012](http://www.geonovum.nl/wegwijzer/standaarden/praktijkrichtlijn-bestemmingsplannen-prbp2012). Enkele attributen en waarden zijn hieronder nader toegelicht.
+Standaard Vergelijkbare Bestemmingsplannen [SVBP2012](https://www.geonovum.nl/geo-standaarden/ro-standaarden-ruimtelijke-ordening/standaard-vergelijkbare-bestemmingsplannen). Voor een volledige toelichting verwijzen we naar de Praktijkrichtlijn Bestemmingsplannen
+[PRBP2012](https://www.geonovum.nl/geo-standaarden/ro-standaarden-ruimtelijke-ordening/praktijkrichtlijn-bestemmingsplannen-prbp2012). Enkele attributen en waarden zijn hieronder nader toegelicht.
 
 
 Attributen en waarden
@@ -193,7 +193,7 @@ het Chw bestemmingsplan met toepassing van plantype beheersverordening en
 ontsluiten als authentiek en volledig interactief raadpleegbaar plan via
 Ruimtelijkeplannen.nl zijn alle voor de beheersverordening relevante normen van
 de RO Standaarden van toepassing, zoals de toelichtende Praktijkrichtlijn
-Gebiedsgerichte Besluiten [PRGB2012](http://www.geonovum.nl/wegwijzer/standaarden/praktijkrichtlijn-gebiedsgerichte-besluiten-prgb2012). Enkele attributen en waarden zijn hieronder nader toegelicht.
+Gebiedsgerichte Besluiten [PRGB2012](https://www.geonovum.nl/geo-standaarden/ro-standaarden-ruimtelijke-ordening/praktijkrichtlijn-gebiedsgerichte-besluiten). Enkele attributen en waarden zijn hieronder nader toegelicht.
 
 Het verschil tussen dit alternatief en het toepassen van de contour ([paragraaf
 2.1](#uitvoering-met-behulp-van-een-contour-op-ruimtelijkeplannen-nl)) is dat alternatief 2 naast een plangebied ook informatie-objecten heeft, in
