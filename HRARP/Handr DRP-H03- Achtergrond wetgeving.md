@@ -203,7 +203,7 @@ en de inrichting van de elektronische overheid. Het centrale begrip is
 te wisselen en die informatie te begrijpen en te gebruiken. NORA kent meerdere ‘dochters’, zoals GEMMA voor gemeenten, PETRA voor
 provincies, EAR voor het Rijk en WILMA voor waterschappen. Uit NORA
 vloeien, naast andere dossiers, zowel het dossier Geo-informatie als het dossier
-voor beleidskaders voort,  zie Figuur 1.
+voor beleidskaders voort, zie onderstaande figuur.
 
 <figure id="NORA_geo">
     <img src="media/2dd1b161c3795c94ea432bdb7571b098.png" alt="NORA en de relatie met geo-informatie">
@@ -219,10 +219,12 @@ wordt. Daarbij is rekening gehouden met onder meer de eisen uit de Archiefwet en
 de standaarden voor archief- en informatiehuishouding die hierna zullen worden
 toegelicht.
 
-**Figuur 2 Basismodel voor geo-informatie met sectorale standaard voor de
-ruimtelijke ordening**
-
-![](media/Basisprogramma_Infomodel_NEN_3610_stelsel_logo_Groot.png)
+<figure id="NEN3610_2022">
+    <img src="media/Basisprogramma_Infomodel_NEN_3610_stelsel_logo_Groot.png" alt="Basismodel voor geo-informatie met sectorale standaard voor de
+ruimtelijke ordening">
+    <figcaption>Basismodel voor geo-informatie met sectorale standaard voor de
+ruimtelijke ordening</figcaption>
+</figure>
 
 ## Digitaal waarmerken
 
