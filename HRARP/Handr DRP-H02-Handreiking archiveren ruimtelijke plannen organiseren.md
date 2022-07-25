@@ -143,12 +143,12 @@ Bij de verschillende bestuursorganen zijn hiervoor aangewezen:
 	- Gemeente: College van Burgemeester en Wethouders;  
 	- Provincie: Gedeputeerde Staten of Provinciale Staten;
 
-**Toelichting gemeente:** Conform artikel 3.1 van de Wet ruimtelijke ordening stelt de gemeenteraad
+Toelichting gemeente: Conform artikel 3.1 van de Wet ruimtelijke ordening stelt de gemeenteraad
 een ruimtelijk plan vast. Vanuit de Archiefwet is echter het college aangewezen
 als zorgdrager. Verantwoordelijke voor het archiveren is daardoor niet
 verantwoordelijke voor het vaststellen.  
 
-**Toelichting provincie:** Afhankelijk van het type ruimtelijk plan/ zaaktype is Gedeputeerde Staten,
+Toelichting provincie: Afhankelijk van het type ruimtelijk plan/ zaaktype is Gedeputeerde Staten,
 dan wel Provinciale Staten aangewezen als zorgdrager van het ruimtelijk plan.  
 Rijk: Betrokken Minister(‘s)  
 
@@ -307,8 +307,7 @@ Bijvoorbeeld: bij ketensamenwerking en in verband met het backupbeleid.
 Binnen het ruimtelijk planproces zijn diverse fasen te onderscheiden. Per
 dossier kunnen deze fasen verschillen. Per fase wordt in het dossier van het
 betreffende ruimtelijk plan (zaaktype) een subdossier aangemaakt. Wanneer meer
-dan één fase per dossier/ zaak is te onderscheiden worden subdossiers
-<u>meermalig</u> aangemaakt.
+dan één fase per dossier/ zaak is te onderscheiden worden subdossiers *meermalig* aangemaakt.
 
 Naar voorbeeld van het bestemmingsplan of inpassingsplan kunnen de fasen en
 daarmee de subdossiers concept, voorontwerp, ontwerp en vastgesteld worden
@@ -360,8 +359,7 @@ van de samenhangende set van bronbestanden.
 
 Gemeenten, provincies en het Rijk zijn conform het Bro verplicht hun via
 een vooraf opgegeven locatie aan een ieder beschikbaar, vindbaar en toegankelijk
-te maken. De locatie wordt gemeld aan de index van de landelijk voorziening RO:
-[https://www.ruimtelijkeplannen.nl/index](https://www.ruimtelijkeplannen.nl/index).
+te maken. De locatie wordt gemeld aan de index van de landelijk voorziening [Ruimtelijkeplannen.nl](https://www.ruimtelijkeplannen.nl/index).
 
 ### Document
 
