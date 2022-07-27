@@ -105,9 +105,9 @@ var respecConfig =
   //pubDomain: "visu", 	            // Visualisatie
   //pubDomain: "wp", 	              // White Paper
   //-- license: voor de geldende gebruiksvoorwaarden
-  // licence: "cc-by-nd",              //-- bronvermelding, geen afgeleide werken (default)
+  licence: "cc-by-nd",              //-- bronvermelding, geen afgeleide werken (default)
   // licence: "cc0",                //-- Public Domain Dedication
-  licence: "cc-by",              //-- Attribution, met bronvermelding
+  //licence: "cc-by",              //-- Attribution, met bronvermelding
   
   //-- localBiblio: lokale bibliografie, voor verwijzigingen
   //-- NB: kijk eesrt naar de beschikbare www.specref.org voor verwijziging 
