@@ -219,7 +219,6 @@ wordt. Daarbij is rekening gehouden met onder meer de eisen uit de Archiefwet en
 de standaarden voor archief- en informatiehuishouding die hierna zullen worden
 toegelicht.
 
-<figure style='width: 35%;'><a name='Basismodel voor geo-informatie met sectorale standaard voor de ruimtelijke ordening'></a><img src='media/image3.png' alt='media/Basisprogramma_Infomodel_NEN_3610_stelsel_logo_Groot.png'></img>
 <figure id="NEN3610_2022">
     <img src="media/Basisprogramma_Infomodel_NEN_3610_stelsel_logo_Groot.png" alt="Basismodel voor geo-informatie met sectorale standaard voor de
 ruimtelijke ordening">
