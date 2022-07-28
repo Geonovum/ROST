@@ -36,7 +36,7 @@ plan-identificatienummer.
 
 <details class='note'>
  De toepassing van een uniek plan identificatienummer is voorgeschreven
-door de *Standaard Toegankelijkheid Ruimtelijke Instrumenten 2012*. Ieder
+door de Standaard Toegankelijkheid Ruimtelijke Instrumenten 2012. Ieder
 ruimtelijk Wro plan, visie of besluit kent een ‘NL.IMRO’ nummer. Ondanks dat op
 grond van het Besluit uitvoering Crisis- en herstelwet van de RO Standaarden mag
 worden afgeweken, dient het plan wel een uniek planidentificatienummer te
