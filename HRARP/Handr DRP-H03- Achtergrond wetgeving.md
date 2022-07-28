@@ -220,7 +220,7 @@ de standaarden voor archief- en informatiehuishouding die hierna zullen worden
 toegelicht.
 
 <figure id="NEN3610_2022">
-    <img src="media/Basisprogramma_Infomodel_NEN_3610_stelsel_logo_Groot.png" alt="Basismodel voor geo-informatie met sectorale standaard voor de
+    <img  id="NEN3610_2022" src="media/Basisprogramma_Infomodel_NEN_3610_stelsel_logo_Groot.png" alt="Basismodel voor geo-informatie met sectorale standaard voor de
 ruimtelijke ordening">
     <figcaption>Basismodel voor geo-informatie met sectorale standaard voor de ruimtelijke ordening</figcaption>
 </figure>
