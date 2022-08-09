@@ -21,7 +21,7 @@
 <tr><td align='left' style='border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; background-color: none;'>Validator
 
 </td>
-<td align='left' style='border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; background-color: none;'>Er is een mogelijke impact met betrekking tot de detectie van de gehanteerde IMROPT versie van het plantekstenbestand<a name='_Ref352055971'></a><span class='noot'>[5]<span class='noottekst'> Dit versienummer kan niet bepaald worden aan de hand van het geleideformulier, maar dient uit de XML Namespace van het plantekstenbestand zelf bepaald te worden.<br/></span></span> bij validatie vanuit het manifest. 
+<td align='left' style='border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; background-color: none;'>Er is een mogelijke impact met betrekking tot de detectie van de gehanteerde IMROPT versie van het plantekstenbestand<a name='_Ref352055971'></a><span class='noot'>[*]<span class='noottekst'> Dit versienummer kan niet bepaald worden aan de hand van het geleideformulier, maar dient uit de XML Namespace van het plantekstenbestand zelf bepaald te worden.<br/></span></span> bij validatie vanuit het manifest. 
 
 </td>
 </tr>
