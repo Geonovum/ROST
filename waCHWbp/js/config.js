@@ -19,11 +19,11 @@ var respecConfig =
       companyURL: "https://www.geonovum.nl/"
     }
   ],
-  shortName: "ChwBestemmingsplannenDigitaalBeschikbaarStellen",
+  shortName: "waCHWbp",
   format: "markdown",
-  github: "https://github.com/Geonovum/ro-ChwBestemmingsplannenDigitaalBeschikbaarStellen/",
-  issueBase: "https://github.com/Geonovum/ro-ChwBestemmingsplannenDigitaalBeschikbaarStellen/issues/",
-  edDraftURI: "https://Geonovum.github.io/ro-ChwBestemmingsplannenDigitaalBeschikbaarStellen/",
+  github: "https://github.com/geonovum/ROST/",
+  issueBase: "https://github.com/geonovum/ROST/issues/",
+  edDraftURI: "https://Geonovum.github.io/ROST/",
   publishISODate: "2016-03-24T00:00:00.000Z",
   generatedSubtitle: "Vastgestelde versie 24 maart 2016"
 }
