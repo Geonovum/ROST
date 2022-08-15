@@ -1,6 +1,5 @@
 var respecConfig =
 {
-  subtitle: "IMROPT2012 toevoegen objecttype (sub)lid",
   pubDomain: "ro",
   specStatus: "GN-DEF",
   specType: "WA",
