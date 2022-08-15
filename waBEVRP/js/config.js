@@ -1,6 +1,5 @@
 var respecConfig =
 {
-  subtitle: "Beveiligingseisen beschikbaar stellen ruimtelijke instrumenten",
   pubDomain: "ro",
   specStatus: "GN-DEF",
   specType: "WA",
