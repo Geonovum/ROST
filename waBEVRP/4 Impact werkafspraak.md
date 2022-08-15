@@ -14,7 +14,7 @@
 <tr><td align='left' style='border-top: 0.5pt solid #BFBFBF; border-left: 0.5pt solid #BFBFBF; border-bottom: 0.5pt solid #BFBFBF; border-right: 0.5pt solid #BFBFBF; background-color: none;'>Wet- en regelgeving
 
 </td>
-<td align='left' style='border-top: 0.5pt solid #BFBFBF; border-left: 0.5pt solid #BFBFBF; border-bottom: 0.5pt solid #BFBFBF; border-right: 0.5pt solid #BFBFBF; background-color: none;'>Geen. 
+<td align='left' style='border-top: 0.5pt solid #BFBFBF; border-left: 0.5pt solid #BFBFBF; border-bottom: 0.5pt solid #BFBFBF; border-right: 0.5pt solid #BFBFBF; background-color: none;'>Geen
 
 </td>
 </tr>
