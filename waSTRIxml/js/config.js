@@ -21,9 +21,9 @@ var respecConfig =
   ],
   shortName: "waSTRIxml",
   format: "markdown",
-  github: "https://github.com/Geonovum/ro-waSTRIxml/",
-  issueBase: "https://github.com/Geonovum/ro-waSTRIxml/issues/",
-  edDraftURI: "https://Geonovum.github.io/ro-waSTRIxml/",
+  github: "https://github.com/Geonovum/ROST/",
+  issueBase: "https://github.com/Geonovum/ROST/issues/",
+  edDraftURI: "https://Geonovum.github.io/ROST/",
   publishISODate: "2013-06-11T00:00:00.000Z",
   generatedSubtitle: "Vastgestelde versie 11 juni 2013"
 }
