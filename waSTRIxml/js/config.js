@@ -1,6 +1,5 @@
 var respecConfig =
 {
-  subtitle: "Discrepantie STRI2012 norm en XML Schema",
   pubDomain: "ro",
   specStatus: "GN-DEF",
   specType: "WA",
