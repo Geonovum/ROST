@@ -1,6 +1,5 @@
 var respecConfig =
 {
-  subtitle: "Wijzigen reeds eerder gepubliceerde plannen",
   pubDomain: "ro",
   specStatus: "GN-DEF",
   specType: "WA",
