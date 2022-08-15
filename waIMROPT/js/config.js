@@ -21,9 +21,9 @@ var respecConfig =
   ],
   shortName: "waIMROPT",
   format: "markdown",
-  github: "https://github.com/Geonovum/ro-waIMROPT/",
-  issueBase: "https://github.com/Geonovum/ro-waIMROPT/issues/",
-  edDraftURI: "https://Geonovum.github.io/ro-waIMROPT/",
+  github: "https://github.com/Geonovum/ROST/",
+  issueBase: "https://github.com/Geonovum/ROST/issues/",
+  edDraftURI: "https://Geonovum.github.io/ROST/",
   publishISODate: "2013-06-11T00:00:00.000Z",
   generatedSubtitle: "Vastgestelde versie 11 juni 2013"
 }
