@@ -16,6 +16,7 @@ var respecConfig =
     {
       name: "Beheerder RO Standaarden",
       company: "Geonovum",
+      companyURL: "https://www.geonovum.nl/"
     }
   ],
   shortName: "waSTRIIMRO",
