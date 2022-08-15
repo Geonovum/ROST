@@ -21,9 +21,9 @@ var respecConfig =
   ],
   shortName: "waSTRIIMRO",
   format: "markdown",
-  github: "https://github.com/Geonovum/ro-waSTRIIMRO/",
-  issueBase: "https://github.com/Geonovum/ro-waSTRIIMRO/issues/",
-  edDraftURI: "https://Geonovum.github.io/ro-waSTRIIMRO/",
+  github: "https://github.com/Geonovum/ROST/",
+  issueBase: "https://github.com/Geonovum/ROST/issues/",
+  edDraftURI: "https://Geonovum.github.io/ROST/",
   publishISODate: "2018-09-01T00:00:00.000Z",
   generatedSubtitle: "Vastgestelde versie 1 september 2018"
 }
