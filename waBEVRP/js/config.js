@@ -21,9 +21,9 @@ var respecConfig =
   ],
   shortName: "waBEVRP",
   format: "markdown",
-  github: "https://github.com/Geonovum/ro-waBEVRP/",
-  issueBase: "https://github.com/Geonovum/ro-waBEVRP/issues/",
-  edDraftURI: "https://Geonovum.github.io/ro-waBEVRP/",
+  github: "https://github.com/Geonovum/ROST/",
+  issueBase: "https://github.com/Geonovum/ROST/issues/",
+  edDraftURI: "https://Geonovum.github.io/ROST/",
   publishISODate: "2014-01-01T00:00:00.000Z",
   generatedSubtitle: "Vastgestelde versie 1 januari 2014"
 }
