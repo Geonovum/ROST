@@ -220,7 +220,7 @@ betreffende ruimtelijke plan.
 
 De meest ideale situatie is als alle bestuursorganen dezelfde begrippen zouden
 hanteren. Bij het toepassen hoeven dan alleen de variabelen te worden ingevuld.
-Dit is in de praktijk mogelijk nog niet haalbaar. In bijlage 1 is een eerste opzet
+Dit is in de praktijk mogelijk nog niet haalbaar. In [Bijlage 1](#B01) is een eerste opzet
 met begrippen toegevoegd.
 
 ## Stap 3: informatie vastleggen tijdens het werkproces
@@ -236,12 +236,12 @@ subdossier dat wordt aangemaakt is die van de fase ontwerp.
 
 ### Dossier
 Dossier is een veelgebruikte naam voor een samenhangende aggregatie
-van informatieobjecten (records) met een eigen identiteit. Een standaard als
-TMLO schrijft geen aggregatieniveaus voor, maar biedt organisaties ruimte om
-aggregaties (van records) een naam te geven die aansluit bij de eigen
+van archiefstukken met een eigen identiteit. Een standaard als
+[MDTO](https://www.nationaalarchief.nl/archiveren/mdto) schrijft geen aggregatieniveaus voor, maar biedt organisaties ruimte om
+aggregaties (van archiefstukken) een naam te geven die aansluit bij de eigen
 ordening van informatie.
 
-In het dossier/ zaak wordt de volgende metadata met betrekking tot het
+In het dossier/ zaak wordt de volgende metagegevens met betrekking tot het
 ruimtelijke plan vastgelegd:
 
 -   *Werkproces*  
@@ -296,7 +296,7 @@ hier geconcretiseerd en gaan in op het moment dar de zaak wordt gesloten.
 Bijvoorbeeld: vernietigingsjaar, overbrengingsjaar, jaar geplande conversie. 
 
 -   *Aanwezigheid kopieversies*  
-Indien van toepassing geldt hier aanduiding van de vindplaats van de
+Indien van toepassing geldt hier de aanduiding van de vindplaats van de
 archiefstukken in andere beheeromgevingen.
 Bijvoorbeeld: bij ketensamenwerking en in verband met het backupbeleid.
 
@@ -312,7 +312,7 @@ daarmee de subdossiers concept, voorontwerp, ontwerp en vastgesteld worden
 onderscheiden. Vervolgens kan nog een subdossier worden aangemaakt al naar
 gelang het verloop van de bestemmingsplan procedure: geheel onherroepelijk in
 werking, deels onherroepelijk in werking.
-Per fase en daarmee subdossier wordt de volgende metadata verzameld.  
+Per fase en daarmee subdossier wordt de volgende metagegevens verzameld.  
 
 -   *Identificatie (ID)*  
 Het ID van het subdossier is gelijk aan het IMRO2012 planidentificatienummer
@@ -355,8 +355,8 @@ beschikbaar via de weblocatie die is gemeld aan de
 publicatie datum van beschikbaarstelling wordt vastgelegd bij het archiveren
 van de samenhangende set van bronbestanden.
 
-Gemeenten, provincies en het Rijk zijn conform het Bro verplicht hun via
-een vooraf opgegeven locatie aan een ieder beschikbaar, vindbaar en toegankelijk
+Gemeenten, provincies en het Rijk zijn conform het Bro verplicht hun ruimtelijke plannen via
+een vooraf opgegeven locatie aan eenieder beschikbaar, vindbaar en toegankelijk
 te maken. De locatie wordt gemeld aan de index van de landelijk voorziening [Ruimtelijkeplannen.nl](https://www.ruimtelijkeplannen.nl/index).
 
 ### Document
@@ -376,7 +376,7 @@ het ruimtelijk plan zelf:
 -   Ondergrond
 
 Conform de Standaard Toegankelijkheid Ruimtelijke Instrumenten kan de
-samenstelling van de set bronbestanden per type ruimtelijke plan, maar ook per
+samenstelling van de set bronbestanden per type ruimtelijk plan, maar ook per
 fase van het plan, verschillen. Welke bestandsformaten moeten worden gebruikt is
 tevens aangegeven in paragraaf 4.2 van de [Standaard Toegankelijkheid Ruimtelijke Instrumenten (STRI2012)](https://www.geonovum.nl/geo-standaarden/ro-standaarden-ruimtelijke-ordening/standaard-toegankelijkheid-ruimtelijke). De ondergrond maakt geen deel uit van
 de set van bronbestanden die het ruimtelijke instrument vormen. Om die reden
@@ -417,6 +417,6 @@ verwerken voor het raadplegen.
 De fysieke of virtuele vindplaats(-en) van het archiefstuk. Dit is de
 vindplaats binnen de eigen organisatie, en niet de openbare vindplaats zoals
 aangegeven in het manifest van het desbetreffende bestuursorgaan. In het
-geval de bronbestanden niet in een DMS zijn opgeslagen en de andere stukken
+geval de bronbestanden niet in (bijvoorbeeld) een DMS zijn opgeslagen en de andere stukken
 wel standaard in een DMS zijn opgeslagen, wordt aangegeven waar de
 bronbestanden zijn opgeslagen.
