@@ -1,5 +1,13 @@
 ## Aanleiding
 
+---
+
+Deze werkafspraak is opgesteld en vastgesteld in nauwe samenwerking tussen de volgende organisaties:  
+  
+  <img src='media/LogoOrganisaties.jpg' alt='media/LogoOrganisaties.jpg' style='width: 100%;'></img>
+
+---
+
 Met het wijzigen van het Besluit uitvoering Crisis- en herstelwet in mei 2014
 ([Stb. 2014, nr.
 168](https://zoek.officielebekendmakingen.nl/stb-2014-168.html)) en het aanvullen van de bijlagen bij de Crisis- en herstelwet
