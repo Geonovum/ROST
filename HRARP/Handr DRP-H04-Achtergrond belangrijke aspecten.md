@@ -93,11 +93,11 @@ geschikte software beschikt.
 
 De Archiefwet schrijft voor dat ieder overheidsorgaan moet beschikken over een
 selectielijst, die door de minister wordt vastgesteld. In de selectielijsten is
-bepaald of, en zo ja wanneer, archiefbescheiden vernietigd moeten worden. De
-[VNG](https://www.nationaalarchief.nl/archiveren/kennisbank/selectielijst-voor-de-archiefbescheiden-van-gemeentelijke-en) (bij mandaat van alle gemeenten), het [IPO](https://www.nationaalarchief.nl/archiveren/kennisbank/selectielijst-voor-archiefbescheiden-van-de-provinciale-organen-en-van-de) (bij mandaat van de
+bepaald of, en zo ja wanneer, archiefstukken vernietigd moeten worden. De
+[VNG](https://www.nationaalarchief.nl/archiveren/kennisbank/selectielijst-voor-de-archiefbescheiden-van-gemeentelijke-en) (bij mandaat van alle gemeenten), het [IPO](https://www.nationaalarchief.nl/archiveren/kennisbank/selectielijst-voor-archiefbescheiden-van-de-provinciale-organen-vanaf-1) (bij mandaat van de
 provincies) en het [Rijk](https://www.nationaalarchief.nl/archiveren/kennisbank/selectielijst-van-het-ministerie-van-binnenlandse-zaken-en) hebben ieder aparte selectielijsten opgesteld.
 
-Wanneer archiefbescheiden voor bewaring worden aangemerkt, moeten ze na maximaal
+Wanneer archiefstukken voor bewaring worden aangemerkt, moeten ze na maximaal
 20 jaar (korter mag ook, langer niet -uitzonderingen daargelaten-) worden
 overgebracht naar de archiefbewaarplaats die door de zorgdrager is aangewezen.
 Het ministerie van OCW is voornemens om de overbrengingstermijn in de
@@ -107,17 +107,17 @@ Gemeenten en provincies kunnen eigen archiefbewaarplaatsen hebben. Zij kunnen
 ook daarin samenwerken, zoals bijvoorbeeld Regionale Archiefdiensten. Zolang de
 plannen nog niet zijn overgebracht naar een archiefbewaarplaats is de beheerder
 die is aangewezen door het bestuur, verantwoordelijk voor het in goede,
-geordende en toegankelijke staat te houden van de archiefbescheiden.
+geordende en toegankelijke staat te houden van de archiefstukken.
 
-Op dit moment wordt er gewerkt aan een nieuwe archiefwet, deze zal naar
+Op dit moment wordt er gewerkt aan een nieuwe Archiefwet, deze zal naar
 verwachting behalve vernietiging en overbrenging naar een archiefbewaarplaats
 (van te bewaren materiaal) ook nog een derde keuze bieden. Namelijk “bewaren bij
 de bron”, hiermee wordt het onder strenge vooraarden mogelijk dat een
-archiefvormer/ zorgdrager zelf als archiefbewaarplaats wordt aangewezen. Dit is
+archiefvormer/ zorgdrager zelf als archiefbewaarplaats wordt aangewezen voor bepaalde collecties. Dit is
 van belang voor organisaties die veel eigen dossiers voor langere tijd willen
 hergebruiken. Denk hier bij o.a aan het Kadaster. Bewaren bij de bron heeft geen
 invloed op de bewaartermijnen zelf maar wel op de locatie en de manier van
-opslag van archiefmateriaal.
+opslag van archiefstukken.
 
 Ook voor ruimtelijke plannen is bepaald of ze voor bewaring of vernietiging op
 termijn in aanmerking komen. Uit de desbetreffende selectielijsten blijkt dat
@@ -125,7 +125,7 @@ deze plannen doorgaans voor permanente bewaring worden bestemd. Vaak is daarbij
 gespecificeerd dat het de vastgestelde versie van het plan betreft.
 Voorbereidende stukken moeten op termijn vernietigd worden (de
 vernietigingstermijnen variëren tussen de 5 en 20 jaar). De bepalingen in de
-selectielijsten gelden voor alle archiefbescheiden ongeacht de vorm.
+selectielijsten gelden voor alle archiefstukken ongeacht de vorm.
 
 Digitale ruimtelijke plannen vormen daarop geen uitzondering.
 
@@ -137,22 +137,18 @@ volgt een korte opsomming.
 De stukken die behoren bij de voorbereiding van het ruimtelijke plan, visie of
 besluit worden 20 jaar bewaard. Blijvend bewaard worden de stukken van het
 ruimtelijk plan, visie of besluit dat door de gemeente is vastgesteld. Na 20
-jaar brengt de zorgdrager (de gemeente) de archiefbescheiden over naar de
-archiefbewaarplaats in het eigen archief, streekarchief of Nationaal Archief.
+jaar brengt de zorgdrager (de gemeente) de archiefstukken over naar de aangewezen
+archiefbewaarplaats.
 
 ### Provincies  
 Ruimtelijke plannen (zoals structuurvisies), ‘met inbegrip van voorstadia die om
 inhoudelijke of procedurele redenen belangrijke wijzigingen van de tekst
 bevatten’, worden gewaardeerd met bewaren. De waardering (bewaartermijn) van
-overige conceptversies is niet specifiek geregeld. In de geactualiseerde
-selectielijst, geldig voor provinciale archieven vanaf 2013, is
-gespecificeerd dat bepaalde onderdelen (voorontwerpen, overleg, zienswijzen) na
-10 jaar vernietigd moeten worden. Blijvend bewaard worden de stukken van het
-ruimtelijk plan, visie of besluit dat door de provincie is vastgesteld. Na 20
-jaar brengt de provincie de archiefbescheiden over naar de archiefbewaarplaats
+overige conceptversies is niet specifiek geregeld. Na 20
+jaar brengt de provincie de archiefstukken over naar de archiefbewaarplaats
 in het eigen archief, streekarchief of Nationaal Archief
 
-### Het rijk  
+### Het Rijk  
 Voor de rijksoverheid zijn per beleidsterrein voor de verschillende
 archiefvormers (departementen, uitvoeringsorganisaties etc.) selectielijsten
 vastgesteld. Ruimtelijke plannen vallen onder het beleidsterrein Ruimtelijke
