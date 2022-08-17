@@ -194,7 +194,7 @@ voor beleidskaders voort, zie onderstaande figuur.
     <figcaption>NORA en de relatie met geo-informatie</figcaption>
 </figure>
 
-Het *dossier Geo-informatie* brengt ons waar de Wro ook naar toe leidt: via het Basismodel Geo-informatie (NEN3610) en het domeinmodel voor de ruimtelijke ordening: IMRO. Figuur 2 laat de NEN3610 piramide zien hoe het basismodel met de onderliggende families van informatiemodellen is ingebed in internationale standaarden.
+Het *dossier Geo-informatie* brengt ons waar de Wro ook naar toe leidt: via het Basismodel Geo-informatie (NEN3610) en het domeinmodel voor de ruimtelijke ordening: IMRO. Figuur 2 laat de NEN3610 pyramide zien hoe het basismodel met de onderliggende families van informatiemodellen is ingebed in internationale standaarden.
 Op hetzelfde niveau als dat raamwerk voor geo-standaarden past de Baseline
 Informatiehuishouding binnen het dossier Beleidskaders. Voor zowel het rijk als
 gemeenten is er inmiddels een specifieke Baseline vastgesteld. Deze Baseline is
@@ -225,9 +225,7 @@ vastgelegd wie de houder is van de digitale handtekening, wanneer de
 handtekening is gevalideerd en wat daar het resultaat van was, welke
 functionaris verantwoordelijk was voor de validatie en de identificatie van het
 certificaat van de digitale handtekening. De handtekening zelf hoeft volgens de
-*Archiefwet* niet permanent bewaard te worden. Dit is bij het gebruik van het
-PKI-Overheid certificaat voor het waarmerken van de digitale ruimtelijke plannen
-al geregeld.  
+*Archiefwet* niet permanent bewaard te worden. De handtekening is slechts belangrijk voor de validatie en dit is bij het gebruik van het PKI-Overheid certificaat voor het waarmerken van de digitale ruimtelijke plannen al geregeld. Voor archivering is alleen belangrijk dát er gevalideerd is en door de juiste persoon.  
 
 ## Samenvatting wet- en regelgeving met bijbehorende standaarden
 
@@ -235,32 +233,19 @@ al geregeld.
 -   Besluit ruimtelijke ordening  
 -   Regeling standaarden ruimtelijke ordening  
     -   RO Standaarden  
-        -   [IMRO](http://ro-standaarden.geonovum.nl/2012/IMRO/1.2/IMRO2012-v1.2.pdf): Informatie Model Ruimtelijke Ordening;  
-        -   [STRI](http://ro-standaarden.geonovum.nl/2012/STRI/1.1/STRI2012-v1.1.pdf): Standaard Toegankelijkheid Ruimtelijke Instrumenten;  
-        -   [SVBP](http://ro-standaarden.geonovum.nl/2012/SVBP/1.2/SVBP2012-v1.2.pdf): Standaard Vergelijkbare Bestemmingsplannen;  
-        -   [IMROPT](http://ro-standaarden.geonovum.nl/2012/IMROPT/1.1/IMROPR-v1.1.pdf): Informatie Model Ruimtelijke Ordening Planteksten.  
+        -   [IMRO](https://ro-standaarden.geonovum.nl/2012/IMRO/1.2/IMRO2012-v1.2.pdf): Informatie Model Ruimtelijke Ordening;  
+        -   [STRI](https://ro-standaarden.geonovum.nl/2012/STRI/1.1/STRI2012-v1.1.pdf): Standaard Toegankelijkheid Ruimtelijke Instrumenten;  
+        -   [SVBP](https://ro-standaarden.geonovum.nl/2012/SVBP/1.2/SVBP2012-v1.2.pdf): Standaard Vergelijkbare Bestemmingsplannen;  
+        -   [IMROPT](https://ro-standaarden.geonovum.nl/2012/IMROPT/1.1/IMROPT2012-v1.1.pdf): Informatie Model Ruimtelijke Ordening Planteksten.  
 -   **Archiefwet**  
 -   Archiefbesluit  
 -   Archiefregeling  
-    -   NEN-ISO 23081: Metadata voor archiefbescheiden, zie:
-        http://www.nen.nl/web/Normshop/Norm/NENISO-2308112006-nl.htm,
-        http://www.nen.nl/web/Normshop/Norm/NENISO-2308122009-nl.htm en
-        http://www.nen.nl/web/Normshop/Norm/NPRISOTR-2308132011-en.htm
-        (leidraad voor self-assessment);  
-    -   [NEN-ISO 30301](http://www.nen.nl/web/Normshop/Norm/NENISO-303002011-en.htm): Management systeem standaard voor archief- en
-        informatiemanagement;  
-    -   NEN-ISO 15489-1: Standaard voor archief- en informatiemanagement, zie: 
-        http://www.nen.nl/web/Normshop/Norm/NENISO-1548912001-nl.htm en
-        http://www.nen.nl/web/Normshop/Norm/NPRISOTR-1548922001-nl.htm
-        (implementatiegids)  
-    -   NEN-ISO 16175: Standaard voor functionaliteiten van programmatuur voor
-        informatie- en archiefmanagement, zie: 
-        http://www.nen.nl/NEN-Shop/Norm/NENISO-1617512010-en.htm,
-        http://www.nen.nl/NEN-Shop/Norm/NENISO-1617532010-en.htm,
-        http://www.nen.nl/NEN-Shop/Norm/NENISO-1617522011-en.htm  
-    -   [NEN-ISO 27000](http://www.nen.nl/web/Normshop/Norm/NENISOIEC-270002012-en.htm): Management systeem standaard voor
-        informatiebeveiliging.
--   [**Model Archiefverordening 2017**](https://vng.nl/onderwerpenindex/dienstverlening-en-informatiebeleid/archieven/brieven/model-archiefverordening-2017-en-aanhangende-modellen);
+    -   NEN-ISO 23081: Metagegevens voor archiefstukken, zie: https://www.nen.nl/nen-iso-23081-1-2017-nl-269387, https://www.nen.nl/nen-iso-23081-2-2021-nl-296581 en http://www.nen.nl/web/Normshop/Norm/NPRISOTR-2308132011-en.htm (leidraad voor self-assessment);  
+    -   NEN-ISO 30301]: Managementsysteem standaard voor archivering, zie https://www.nen.nl/nen-iso-30301-2019-en-256359;  
+    -   NEN-ISO 15489-1: Informatie- en archiefmanagement – Deel 1: Concepten en uitgangspunten, zie: https://www.nen.nl/nen-iso-15489-1-2016-en-218754  
+    -   NEN-ISO 16175: Functionele eisen en bijbehorende richtlijnen voor applicaties voor het beheren van digitale archiefstukken, zie: https://www.nen.nl/nen-iso-16175-1-2020-nl-287549
+    -   NEN-ISO 27000: Management systeem standaard voor informatiebeveiliging, zie https://www.nen.nl/nen-en-iso-iec-27000-2020-en-268561.
+-   **Model Archiefverordening 2017**
 -   Model Aanwijzings- en benoemingsbesluiten informatiebeheer  
 -   Model Beheerregeling informatiebeheer  
 -   Model Raadsbesluit Archiefverordening 2017 (word 2.0 versie)
