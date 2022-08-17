@@ -241,7 +241,7 @@ certificaat van de digitale handtekening. De handtekening zelf hoeft volgens de
 -   **Archiefwet**  
 -   Archiefbesluit  
 -   Archiefregeling  
-    -   NEN-ISO 23081: Metagegevens voor archiefstukken, zie: https://www.nen.nl/nen-iso-23081-1-2017-nl-269387, https://www.nen.nl/nen-iso-23081-2-2021-nl-296581 en http://www.nen.nl/web/Normshop/Norm/NPRISOTR-2308132011-en.htm (leidraad voor self-assessment);  
+    -   NEN-ISO 23081: Metagegevens voor archiefstukken, zie: https://www.nen.nl/nen-iso-23081-1-2017-nl-269387, https://www.nen.nl/nen-iso-23081-2-2021-nl-296581 en https://www.nen.nl/npr-iso-tr-23081-3-2011-en-163226 (leidraad voor self-assessment);  
     -   NEN-ISO 30301]: Managementsysteem standaard voor archivering, zie https://www.nen.nl/nen-iso-30301-2019-en-256359;  
     -   NEN-ISO 15489-1: Informatie- en archiefmanagement – Deel 1: Concepten en uitgangspunten, zie: https://www.nen.nl/nen-iso-15489-1-2016-en-218754  
     -   NEN-ISO 16175: Functionele eisen en bijbehorende richtlijnen voor applicaties voor het beheren van digitale archiefstukken, zie: https://www.nen.nl/nen-iso-16175-1-2020-nl-287549
