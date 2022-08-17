@@ -151,7 +151,7 @@ De dataset omvat de verschillende onderdelen van het ruimtelijk plan:
 -   Beleidsdocument;  
 -   Geleideformulier.  
 
-Tot slot maken ook de [praktijkrichtlijnen](https://www.geonovum.nl/geo-standaarden/ro-standaarden-ruimtelijke-ordening) onderdeel uit van de RO Standaarden.
+Tot slot maken ook de [praktijkrichtlijnen](https://www.geonovum.nl/geo-standaarden/ro-standaarden-ruimtelijke-ordening#ROstandaarden) onderdeel uit van de RO Standaarden.
 De praktijkrichtlijnen geven toelichting op de normen IMRO, STRI, SVBP en IMROPT
 door voor de gebruiker van de standaard per type ruimtelijk plan aan te geven
 hoe het ruimtelijk plan moet en kan worden gemaakt volgens de standaard.
