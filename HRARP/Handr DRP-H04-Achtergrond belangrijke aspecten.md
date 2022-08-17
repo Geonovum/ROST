@@ -70,7 +70,7 @@ van duurzame toegankelijkheid en wordt geacht generiek te zijn (dus van
 toepassing op alle soorten informatie). Organisaties kunnen daarnaast andere
 metagegevens vastleggen voor andere doeleinden (zoals het specifiek beschrijven
 van geo-informatie), met behulp andere standaarden of bestaande ontologieën
-(zoals NEN-ISO 19115)
+(zoals NEN-ISO 19115).
 
 Op dit moment wordt er gewerkt aan een nieuwe Archiefwet, deze zal naar verwachting behalve vernietiging en overbrenging naar een archiefbewaarplaats (van te bewaren materiaal) ook nog een derde keuze bieden. Namelijk “bewaren bij de bron;, hiermee wordt het onder strenge voorwaarden mogelijk dat een archiefvormer/ zorgdrager zelf als archiefbewaarplaats wordt aangewezen voor bepaalde collecties. Dit is van belang voor organisaties die veel eigen dossiers voor langere tijd willen hergebruiken. Denk hier bij o.a. aan het Kadaster. Bewaren bij de bron heeft geen invloed op de bewaartermijnen zelf maar wel op de locatie en de manier van opslag van archiefstukken.
 
@@ -260,5 +260,5 @@ aanwezige systeem voor de BAG, GBA, het e-depot of RO beheersysteem mogelijk
 geschikt zijn. De zorgdrager is niet verplicht vanuit de wet- en regelgeving
 voor archiveren te kiezen voor een bepaalde applicatie of database. De
 zorgdrager kiest het systeem naar aanleiding van de eerder geschetste
-randvoorwaarden zoals de DUTO eisen (zie [Bijlage 1](#B01) en richt het systeem en de
+randvoorwaarden zoals de DUTO eisen (zie [Bijlage 1](#B01)) en richt het systeem en de
 organisatie op basis van die eisen daarvan in.
