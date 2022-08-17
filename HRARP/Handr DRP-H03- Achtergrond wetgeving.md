@@ -78,8 +78,8 @@ feitelijk bovenstaande plannen, visies en besluiten bedoeld. Digitaal geeft aan:
 conform de RO Standaarden.
 
 ### Archiefwet  
-Nederlandse overheidsorganen vallen onder de [Archiefwet 1995](https://wetten.overheid.nl/BWBR0007376). Specifieke
-bepalingen uit de *Archiefwet* zijn uitgewerkt in het [Archiefbesluit](https://wetten.overheid.nl/BWBR0007748). En
+Nederlandse overheidsorganen vallen onder de [Archiefwet 1995](https://wetten.overheid.nl/BWBR0007376/). Specifieke
+bepalingen uit de *Archiefwet* zijn uitgewerkt in het [Archiefbesluit](https://wetten.overheid.nl/BWBR0007748/). En
 gedetailleerde regels voor de informatiehuishouding en de archieven van de
 overheid zijn geformuleerd in de *Archiefregeling*. Ieder overheidsorgaan moet
 nadere regels vaststellen voor de organisatie van het archiefbeheer,
