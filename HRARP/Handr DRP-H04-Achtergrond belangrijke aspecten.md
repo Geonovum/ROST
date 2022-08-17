@@ -3,26 +3,24 @@
 **Nu de kaders van wet- en regelgeving zijn gegeven, wordt in dit hoofdstuk een
 aantal randvoordwaarden op rij gezet. Randvoorwaarden die voortvloeien uit deze
 kaders. We richten ons daarbij met name op de digitale aspecten van het
-archiveren. Achtereenvolgens komen metadata, bewaartermijnen, toegestane
+archiveren. Achtereenvolgens komen metagegevens, bewaartermijnen, toegestane
 compressie en formaten en het bewaren van software aan de orde.**
 
-## Metadata
+## Metagegevens
 
-Metadata zijn gegevens die de context, inhoud en structuur van archiefbescheiden
-(records) beschrijven, evenals het beheer van die records door de tijd heen. Ze
-zijn niet alleen onmisbaar om de terugvindbaarheid, bruikbaarheid,
-authenticiteit, integriteit en betrouwbaarheid van de records te garanderen en
+Metagegevens zijn gegevens die de context, inhoud en structuur van archiefstukken beschrijven, evenals het beheer van die archiefstukken door de tijd heen. Ze zijn niet alleen onmisbaar om de terugvindbaarheid, bruikbaarheid,
+authenticiteit, integriteit en betrouwbaarheid van de archiefstukken te garanderen en
 het beheer ervan op lange termijn mogelijk te maken, maar ook zijn ze van
-essentieel belang voor interoperabiliteit. Om het uitwisselen van records tussen
+essentieel belang voor interoperabiliteit. Om het uitwisselen van archiefstukken tussen
 systemen mogelijk te maken, moeten afspraken gemaakt worden over de manier
 waarop dat gebeurt, in welke ‘taal’ deze systemen met elkaar spreken en hoe
-metagegevens en records geïnterpreteerd moeten worden. Uitwisseling tussen
+metagegevens en archiefstukken geïnterpreteerd moeten worden. Uitwisseling tussen
 systemen is zowel aan de orde binnen de bestuursorganen als tussen de
 verschillende organisaties. Als het gaat om metagegevens zijn zulke
 afspraken vastgelegd in onder andere metagegevensschema’s. In een digitale
-wereld zijn metadata zo mogelijk nog belangrijker dan vroeger. Dat is ook de
-reden dat metadata worden gezien als onlosmakelijk onderdeel van de
-archiefbescheiden zelf.
+wereld zijn metagegevens zo mogelijk nog belangrijker dan vroeger. Dat is ook de
+reden dat metagegevens worden gezien als onlosmakelijk onderdeel van de
+archiefstukken zelf.
 
 <figure id="NEN-ISO_23081">
     <img src="media/06559dd772ed0615f21edda007a51f51.png" alt="Basismodel voor metagegevens van NEN ISO 23081">
@@ -30,17 +28,16 @@ archiefbescheiden zelf.
 </figure>
 
 
-Bovenstaande figuur is afkomstig uit SPIRT project: Sue McKemmish, Glenda Acland and Barbara
-Reed, Towards a Framework for Standardising Recordkeeping Metagegevens: [The
-Australian Recordkeeping Metagegevens Schema](https://research.monash.edu/en/searchAll/index/?search=Glenda+Acland&pageSize=25&showAdvanced=false&allConcepts=true&inferConcepts=true&searchBy=PartOfNameOrTitle) en in NEN-ISO 23081-1:2017 Metagegevens voor records - Principes (paragraaf 9.1).
+Bron: Sue McKemmish, Glenda Acland and Barbara Reed, Towards a Framework for Standardising Recordkeeping Metagegevens: [The
+Australian Recordkeeping Metagegevens Schema](https://research.monash.edu/en/publications/towards-a-framework-for-standardising-recordkeeping-metadata-the-) en NEN-ISO 23081-1:2017 Metagegevens voor archiefstukken - Principes (paragraaf 9.1).
 
 ### Standaard  
-De NEN-ISO 19115 metadata standaard voor geo-informatie is bij de meeste
+De NEN-ISO 19115 metagegevens standaard voor geo-informatie is bij de meeste
 overheden die met ruimtelijke plannen werken vermoedelijk wel bekend vanwege het
 [toepassingsprofiel voor geo-informatie in Nederland](https://www.geonovum.nl/geo-standaarden/metadata). De [Europese
 richtlichtlijn INSPIRE](https://www.geonovum.nl/geo-standaarden/inspire-europese-leefomgeving) verplicht het gebruik van het toepassingsprofiel.  
-Er bestaat daarnaast een andere metadata standaard, de NEN-ISO 23081, die
-specifiek betrekking heeft op metadata voor archiefbescheiden. Deze standaard
+Er bestaat daarnaast een andere metagegevens standaard, de NEN-ISO 23081, die
+specifiek betrekking heeft op metagegevens voor archiefstukken. Deze standaard
 wordt ook genoemd in de Archiefregeling. Samengevat zegt de Archiefregeling het
 volgende over metagegevens (artikelen 17, 19, 20 en 24 van de Archiefregeling):
 
@@ -48,14 +45,14 @@ volgende over metagegevens (artikelen 17, 19, 20 en 24 van de Archiefregeling):
 
 2.  Leg metagegevens vast over:
 
-	-   inhoud, vorm en structuur van de archiefbescheiden  
-	-   de context waarbinnen de archiefbescheiden zijn gevormd (binnen welkproces, door welke actor)  
-	-   relatie met andere archiefbescheiden  
-	-   beheersactiviteiten die op de archiefbescheiden zijn uitgevoerd (denk aan conversie, migratie, selectie, openbaarmaking etc.)  
-	-   software die gebruikt wordt om archiefbescheiden te beheren;  
-3.  Zorg dat de koppeling tussen metagegevens en archiefbescheiden behouden
+	-   inhoud, vorm en structuur van de archiefstukken;  
+	-   de context waarbinnen de archiefstukken zijn gevormd (binnen welkproces, door welke actor);  
+	-   relatie met andere archiefstukken;  
+	-   beheersactiviteiten die op de archiefstukken zijn uitgevoerd (denk aan conversie, migratie, selectie, openbaarmaking etc.);  
+	-   software die gebruikt wordt om archiefstukken te beheren;  
+3.  Zorg dat de koppeling tussen metagegevens en archiefstukken behouden
     blijft. Dat betekent bijvoorbeeld dat er voorzieningen getroffen moeten
-    worden om die koppeling in stand te houden als de archiefbescheiden
+    worden om die koppeling in stand te houden als de archiefstukken
     verplaatst worden vanuit het ene naar het andere systeem.
 
 ### Metagevensschema  
@@ -67,7 +64,7 @@ het gebruik en beheer van metagegevens, vooral met betrekking tot:
 -   syntaxis - hoe wordt de inhoud van het element samengesteld, bijvoorbeeld yyyymmdd of ddmmyyyy;  
 -   het verplichtingenregime - welke elementen zijn verplicht en welke optioneel.
 
-Tezamen wordt dit ook wel een elementen set genoemd. TMLO is een voorbeeld van
+Tezamen wordt dit ook wel een elementen set genoemd. [MDTO](https://www.nationaalarchief.nl/archiveren/mdto) is een voorbeeld van
 een elementenset. De elementenset is hier gespecificeerd vanuit het oogpunt
 van duurzame toegankelijkheid en wordt geacht generiek te zijn (dus van
 toepassing op alle soorten informatie). Organisaties kunnen daarnaast andere
@@ -75,25 +72,15 @@ metagegevens vastleggen voor andere doeleinden (zoals het specifiek beschrijven
 van geo-informatie), met behulp andere standaarden of bestaande ontologieën
 (zoals NEN-ISO 19115)
 
-**TO DO:
-Op dit moment zijn er twee toepassingsprofielen, die beide gebaseerd zijn
-op de Richtlijn: TMLO voor lokale overheden en het Toepassingsprofiel
-Metagegevens Rijksoverheid. TMLO wordt op dit moment doorontwikkeld, waarbij het
-de intentie is dat ook het Rijk TMLO gaat adopteren (en het TP Rijk komt te
-vervallen).**
+Op dit moment wordt er gewerkt aan een nieuwe Archiefwet, deze zal naar verwachting behalve vernietiging en overbrenging naar een archiefbewaarplaats (van te bewaren materiaal) ook nog een derde keuze bieden. Namelijk “bewaren bij de bron;, hiermee wordt het onder strenge voorwaarden mogelijk dat een archiefvormer/ zorgdrager zelf als archiefbewaarplaats wordt aangewezen voor bepaalde collecties. Dit is van belang voor organisaties die veel eigen dossiers voor langere tijd willen hergebruiken. Denk hier bij o.a. aan het Kadaster. Bewaren bij de bron heeft geen invloed op de bewaartermijnen zelf maar wel op de locatie en de manier van opslag van archiefstukken.
 
-Iedere overheidsorganisatie wordt geacht een eigen metagegevensschema vast te
-stellen, Dit geldt voor alle blijvend te bewaren archiefbescheiden die in de
-organisatie voorkomen. Van belang daarbij is dat in ieder geval elementen zoals
-gespecificeerd in het toepassingsprofiel onderdeel zijn van dit schema. Met
-behulp van dit schema kunnen organisaties nagaan in hoeverre informatiesystemen
-voldoen aan de regels uit het schema en maatregelen nemen als dit nodig blijkt.
+Iedere overheidsorganisatie wordt geacht een eigen metagegevensschema vast te stellen. Van belang daarbij is dat in ieder geval elementen zoals gespecificeerd in de elementensets onderdeel zijn van dit schema. Met behulp van dit schema kunnen organisaties nagaan in hoeverre informatiesystemen voldoen aan de regels uit het schema en maatregelen nemen als dit nodig blijkt.
 
 ### Software  
-In de metadata moet ook worden vastgelegd met welke applicatie de informatie is
+In de metagegevens moet ook worden vastgelegd met welke applicatie de informatie is
 gecreëerd, inclusief versienummer. Ook als er een nieuwe versie wordt
 geïnstalleerd, moet dit worden vastgelegd. Dit is een voorbeeld van
-‘event-history’ zoals in NEN-ISO 23081 en de Richtlijn/toepassingsprofiel verder
+‘event-history’ zoals in NEN-ISO 23081 en de RMDTO/TMR verder
 wordt toegelicht.
 
 Doordat de ruimtelijke plannen worden gemaakt met de wettelijke open standaarden (zie ook het [Forum Standaardisatie](https://forumstandaardisatie.nl/wat-zijn-standaarden)) is er tot op heden geen aanleiding voor het bewaren van software. Er wordt uitgegaan
