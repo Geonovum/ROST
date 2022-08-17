@@ -172,7 +172,7 @@ ruimtelijke ordening op provinciaal of regionaal niveau’ (uit het BSD Landinri
 
 ## Toegestane compressie en bestandsformaten  
 ### Bestandsformaten  
-Artikel 26 van de *Archiefregeling* schrijft voor dat digitale archiefbescheiden
+Artikel 26 van de *Archiefregeling* schrijft voor dat digitale archiefstukken
 opgeslagen worden in een open, en daarmee valideerbaar en gedocumenteerd
 bestandsformaat. Dat betekent dat informatie over de eigenschappen van dat
 formaat bekend en vrijelijk beschikbaar zijn. Het voorschrift dat een
@@ -185,14 +185,14 @@ basis hiervan de [Handreiking
 Voorkeursformaten](https://www.nationaalarchief.nl/archiveren/kennisbank/handreiking-voorkeursformaten-nationaal-archief)
 ontwikkeld. Hiermee worden organisaties handvatten geboden om bij de vorming van
 digitaal archief rekening te houden met de voorkeur van het Nationaal Archief
-(en in het kielzog daarvan ook andere archiefinstellingen). Let op de lijst
+(en in het kielzog daarvan ook andere archiefinstellingen). Let op: de lijst
 voorkeursformaten is niet limitatief, het is niet verboden om bestandsformaten
 te gebruiken die niet op de lijst staan. Het zijn slechts de formaten waaraan
-het NA de voorkeur geeft. Wanneer een organisatie bestandsformaten gebruikt die
+het Nationaal Archief de voorkeur geeft. Wanneer een organisatie bestandsformaten gebruikt die
 niet op de lijst staan dan is er altijd ruimte om deze bestandsformaten en de
 eventuele voor- en nadelen met het Nationaal Archief te bespreken.
 Archiefinstellingen met een eigen archiefbewaarplaats maken hun eigen keuzes
-omrend de geaccepteerde en bestandsformaten. Over het algemeen gaat de keuze
+omtrent de bestandsformaten die zij accepteren. Over het algemeen gaat de keuze
 voor bestandsformaten uit naar formaten die open source zijn en/of voldoen aan
 open standaarden. Specifieke bestandsformaten die in het geo-informatie werkveld
 worden gebruikt zijn nog niet opgenomen in de lijst met voorkeursformaten.  
@@ -213,22 +213,12 @@ gooit daadwerkelijk pixels/data weg). Op de LZW-compressie rusten bijvoorbeeld
 commerciële licenties, waardoor het voordeel van een open formaat teniet wordt
 gedaan.
 
-Van de samenhangende set van bronbestanden van het ruimtelijk plan wordt in de
-praktijk regelmatig een zip gemaakt. De Raad van State vraagt bijvoorbeeld om de
-dataset, verpakt in een zip te uploaden. Zip is echter niet de aangewezen wijze
-van archiveren; de afzonderlijke bestanden van de dataset zijn daarvoor niet
-direct beschikbaar er kan informatieverlies optreden. In de samenhangende set
-van bronbestanden zijn GML en XML bestanden opgenomen. Deze zouden in principe
-een bedreiging kunnen vormen voor het archiefsysteem omdat in een XML
-programma’s kunnen worden opgenomen. Hiervan is geen sprake bij ruimtelijk
-plannen conform de RO Standaarden, echter wel een punt voor overleg tussen de
-archiefvormer en de beheerder.
+Van de samenhangende set van bronbestanden van het ruimtelijk plan wordt in de praktijk regelmatig een zip gemaakt. De Raad van State vraagt bijvoorbeeld om de dataset verpakt in een zip te uploaden. Zip is echter niet de aangewezen wijze van archiveren. De afzonderlijke bestanden van de dataset zijn daarvoor niet direct beschikbaar en er kan informatieverlies optreden. In de samenhangende set van bronbestanden zijn GML en XML bestanden opgenomen. Deze zouden in principe een bedreiging kunnen vormen voor het archiefsysteem omdat in een XML programma’s kunnen worden opgenomen. Hiervan is geen sprake bij ruimtelijk plannen conform de RO Standaarden, het is echter wel een punt voor overleg tussen de archiefvormer en de beheerder.
 
 Een alternatief voor .zip bestanden kan bestaan uit de ‘Geodata Archival
 Information Package’ (GEO-IP) zoals genoemd in de ‘Common Specification for
-Geospatial data’ (zie pagina 17). Met de GEO-IP kan ook beschrijvende metadata
-en documentatie van gebruikte XML en GML formaten meegeleverd worden. In 2020
-wil het Nationaal Archief meer onderzoek naar het archiveren van geo-data en geo-informatie.
+Geospatial data’ (zie pagina 17). Met de GEO-IP kan ook beschrijvende metagegevens
+en documentatie van gebruikte XML en GML formaten meegeleverd worden. 
 
 ## Vervanging
 
