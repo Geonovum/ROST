@@ -168,12 +168,13 @@ informatie ondersteunen:
 4.  **NEN-ISO 23081**: metagegevens voor archiefstukken. De creatie van een metagegevensschema zoals bedoeld in deze standaard wordt ook voorgeschreven in de Archiefregeling.   
 5.  **NEN-ISO 14721**: Open Archival Information System (OAIS) - standaard (referentiemodel) voor de functionaliteit van een e-depot.  
 6.  **NEN-ISO 16175**: internationale standaard Functionele eisen en bijbehorende richtlijnen voor applicaties voor het beheren van digitale archiefstukken.  7.  **OWMS**: de Overheid.nl Web Metadata Standaard (OWMS) is de metagegevensstandaard voor informatie van de Nederlandse overheid op internet. Deze is/ wordt vervangen door [TOOI](https://tardis.overheid.nl/).   
-8.  **NEN-ISO 27000**: Management systeem standaard voor informatiebeveiliging, in Nederland uitgewerkt in de Baseline Informatiebeveiliging Overheid (BIO).  9.  [**ISO 19165-1:2018**](https://www.iso.org/standard/67325.html) Geographic information -- Preservation of digital
+8.  **NEN-ISO 27000**: Management systeem standaard voor informatiebeveiliging, in Nederland uitgewerkt in de Baseline Informatiebeveiliging Overheid (BIO).
+9.  [**ISO 19165-1:2018**](https://www.iso.org/standard/67325.html) Geographic information -- Preservation of digital
     data and metadata -- Part 1: Fundamentals  
 10. [**ISO 19115-1:2014**](https://www.iso.org/standard/53798.html) Geographic information -- Metadata -- Part 1:
     Fundamentals  
 11. **[INSPIRE richtlijnen](https://www.geonovum.nl/geo-standaarden/inspire-europese-leefomgeving) en de [Nederlands metadataprofielen voor datasets en services](https://www.geonovum.nl/geo-standaarden/metadata)**  
-12. [**Common Specification for Geospatial data**], onderdeel van [eArchiving building block](https://ec.europa.eu/isa2/library/inspire-common-geospatial-data-standards-more-informed-and-timely-decisions_en/).  
+12. **Common Specification for Geospatial data**, onderdeel van [eArchiving building block](https://ec.europa.eu/isa2/library/inspire-common-geospatial-data-standards-more-informed-and-timely-decisions_en/).  
 
  ## Andere kaders
 
