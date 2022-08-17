@@ -222,22 +222,22 @@ en documentatie van gebruikte XML en GML formaten meegeleverd worden.
 
 ## Vervanging
 
-Vervanging betekent dat archiefbescheiden worden vervangen door reproducties. De
+Vervanging betekent dat archiefstukken worden vervangen door reproducties. De
 originele bescheiden worden vervolgens vernietigd. De reproducties nemen dus
 volledig de plaats in van de oorspronkelijke bescheiden. De nieuwe
 informatiedragers moeten dan voldoen aan de eisen die worden gesteld in de
-Archiefregeling.. Van de ruimtelijke plannen conform het Bro is de digitale
+Archiefregeling. Van de ruimtelijke plannen conform het Bro is de digitale
 versie de authentieke versie. Bij vaststelling van het ruimtelijk plan wordt
 tevens een papieren versie gemaakt. Vervanging is in dat geval geen optie, de
-papieren zijn in dit geval een kopie en mogen gewoon vernietigd of verwijderd
-worden. Echter, een overheid kan, zeker van particulieren, nog plannen of
+papieren zijn een kopie en mogen gewoon vernietigd of verwijderd
+worden. Echter, een overheidsorganisatie kan, zeker van particulieren, nog plannen of
 reacties daarop in papieren vorm ontvangen en wensen deze digitaal toe te voegen
 aan de overige bescheiden. Dan is vervanging een logische actie.
 
 Organisaties die onder de werking van de Archiefwet 1995 vallen, mogen
 vervanging toepassen, mits dat gebeurt met juiste en volledige weergave van de
 in de bescheiden voorkomende gegevens (artikel 6, eerste lid van het
-Archiefbesluit 1995). Gaat het om archiefbescheiden die ingevolge een
+Archiefbesluit 1995). Gaat het om archiefstukken die ingevolge een
 vastgestelde selectielijst niet voor vernietiging (op termijn) in aanmerking
 komen, dan is artikel 26b van de Archiefregeling van toepassing.
 
@@ -245,16 +245,13 @@ Dit betekent dat de overheid die gaat vervangen, inzicht kan geven in een aantal
 elementen van vervanging, waaronder de reikwijdte, de technische instellingen,
 de gebruikte hard- en software en de kwaliteitsprocedures. Op grond van artikel
 26b moet een zorgdrager deze elementen in het besluit tot vervanging van te
-bewaren archiefbescheiden opnemen. In de praktijk gebeurt dit door het opstellen
+bewaren archiefstukken opnemen. In de praktijk gebeurt dit door het opstellen
 van een handboek vervanging. Het Nationaal Archief biedt, hoewel zij geen
 formele rol heeft bij het opstellen van een vervangingsbesluit, organisaties een
 handvat in de vorm van de ‘[Handreiking vervanging
 archiefbescheiden](https://www.nationaalarchief.nl/archiveren/kennisbank/handreiking-vervanging-archiefbescheiden)’.
 
 ## Archiefsysteem
-
-In dit hoofdstuk zijn de belangrijkste voorwaarden aangegeven die een zorgdrager
-moet organiseren voor het archiveren van digitale ruimtelijke plannen.
 
 Het archiefsysteem waar de samenhangende set bronbestanden worden opgeslagen,
 wordt door de zorgdrager onder andere geselecteerd op basis van deze voorwaarden
@@ -263,5 +260,5 @@ aanwezige systeem voor de BAG, GBA, het e-depot of RO beheersysteem mogelijk
 geschikt zijn. De zorgdrager is niet verplicht vanuit de wet- en regelgeving
 voor archiveren te kiezen voor een bepaalde applicatie of database. De
 zorgdrager kiest het systeem naar aanleiding van de eerder geschetste
-randvoorwaarden (zoals de DUTO eisen, zie bijlage 1)en richt het systeem en de
+randvoorwaarden zoals de DUTO eisen (zie [Bijlage 1](#B01) en richt het systeem en de
 organisatie op basis van die eisen daarvan in.
