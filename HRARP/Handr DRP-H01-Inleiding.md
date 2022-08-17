@@ -7,8 +7,8 @@ handreiking kunt verwachten.**
 ## Aanleiding
 
 In de praktijk van de ruimtelijke ordening zijn de digitale ruimtelijke plannen
-conform de Wet ruimtelijke ordening (Wro) de authentieke plannen. Dit betekent
-dat een samenhangende set bronbestanden, dataset genoemd, conform de RO
+conform de Wet ruimtelijke ordening (Wro), de authentieke plannen. Dit betekent
+dat een samenhangende set bronbestanden (dataset genoemd) conform de RO
 Standaarden door gemeenten, provincies en het Rijk geproduceerd, beschikbaar
 gesteld, vindbaar en toegankelijk gemaakt worden. 
 <details class='note'>
@@ -28,15 +28,15 @@ onbekendheid. Daarnaast wordt soms ten onrechte verondersteld dat de landelijke
 voorziening Ruimtelijkeplannen.nl een archieffunctie heeft of zou moeten hebben.
 Vragen hierover worden aan Geonovum gesteld.
 
-Het digitaal archiveren van ruimtelijke plannen was dan ook aanleiding om samen
-met experts van gemeenten, provincies, het ministerie van IenM en het Nationaal
-Archief nader te onderzoeken en de resultaten samen te vatten in een praktische
-handreiking. De centrale vraag die daarbij wordt gesteld is *“waar moet ik op
+Dit gaf aanleiding om samen
+met experts van gemeenten, provincies, (destijds) het ministerie van IenM en het Nationaal
+Archief het digitaal archiveren van ruimtelijke plannen nader te onderzoeken en de resultaten samen te vatten in een praktische
+handreiking. De centrale vraag die daarbij werd gesteld is *“waar moet ik op
 letten wanneer ik een ruimtelijk plan (bv. bestemmingsplan) archiveer c.q.
 overdraag aan een archiefdienst?*”.
 
 Het doel van de handreiking is een aanzet te geven voor personen die betrokken
-zijn bij het archiveren van data en zij die betrokken zijn bij de creatie en
+zijn bij het archiveren van data en voor degenen die betrokken zijn bij de creatie en
 vaststelling van het ruimtelijke plan: ruimtelijke ordenaars,
 informatieverzorgers en archivarissen bij een gemeente, provincie en het rijk.
 Een aanzet om het werkproces zo in te richten dat ruimtelijke plannen worden
@@ -57,7 +57,7 @@ ro-standaarden@geonovum.nl.
 
 In [hoofdstuk 2](#H02) komt het organiseren van het digitaal archiveren van ruimtelijke
 plannen aan de orde: welke informatie moet eenmalig in de organisatie worden
-vastgelegd, welke informatie meermalig. Dit hoofdstuk is de vertaling van de
+vastgelegd, welke informatie meermalig. Dit hoofdstuk is de vertaling van 
 [hoofdstuk 3](#H03) en [hoofdstuk 4](#H04).
 
 Om te kunnen duiden welke verantwoordelijkheden gemeenten, provincies en het
