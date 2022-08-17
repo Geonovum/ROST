@@ -2,8 +2,8 @@
 
 Deze werkafspraak is opgesteld en vastgesteld in nauwe samenwerking tussen de volgende organisaties: 
 
-  
-  <img src='media/LogoOrganisaties.jpg' alt='media/LogoOrganisaties.jpg' style='width: 100%;'></img>
+
+<img src='media/LogoOrganisaties.jpg' alt='media/LogoOrganisaties.jpg' style='width: 100%;'></img>
 
 
 
