@@ -2,7 +2,7 @@
 
 **In dit hoofdstuk wordt in drie stappen uiteengezet welke informatie verzameld
 moet worden om ruimtelijke plannen digitaal te archiveren. De stappen worden
-genomen door de bestuursorganen en betreft het vastleggen op organisatieniveau,
+genomen door de bestuursorganen en betreffen het vastleggen op organisatieniveau,
 type plan en vervolgens het ruimtelijke plan zelf. Dit hoofdstuk is een
 vertaling van de hoofdstukken drie en vier die de achtergrond van wet- en regelgeving
 en andere belangrijke aspecten weergeven.**
@@ -37,16 +37,14 @@ samenhangende set van bronbestanden zelf, maar richten we ons op de
 documentatie: welke informatie moet er worden gedocumenteerd met betrekking tot
 het archiveren en waar ontstaat deze informatie in het proces van creatie en
 vaststelling van het ruimtelijke plan? 
-De metadata, slechts een van de vele vereisten van het archiveren, zijn hierbij het uitgangspunt. Metadata (ook wel
-metagegevens genoemd) zijn gegevens die de karakteristieken van gegevens
-beschrijven. Het zijn eigenlijk gegevens over de data. Voorbeelden van karakteristieken
+De metagegevens, slechts een van de vele vereisten van het archiveren, zijn hierbij het uitgangspunt. Metagegevens zijn gegevens die de karakteristieken van archiefstukken beschrijven. Voorbeelden van karakteristieken
 zijn de creator, de datum van creatie, de gebruikte taal en het bestandsformaat.
-Metadata beschrijven niet alleen de gegevens zelf, maar ook de context
-waarbinnen de gegevens zijn ontstaan of ontvangen. En wat er vanaf het moment
-van ontstaan of ontvangst met die gegevens is gebeurd.
+Metagegevens beschrijven niet alleen de archiefstukken zelf, maar ook de context
+waarbinnen de archiefstukken zijn ontstaan of ontvangen. En wat er vanaf het moment
+van ontstaan of ontvangst met die archiefstukken is gebeurd.
 
 De handreiking kan tevens worden gebruikt als leidraad bij het archiveren van de
-overige digitale archiefbescheiden die in het werkproces ontstaan, zoals
+overige digitale archiefstukken die in het werkproces ontstaan, zoals
 zienswijzen en andere onderdelen dan de samenhangende set bronbestanden van het
 ruimtelijk plan. Het gebruik van een (bepaald) archiefsysteem (paragraaf [4.5](#archiefsysteem))
 komt niet aan de orde, omdat dit voor iedere organisatie weer anders kan zijn.
@@ -54,7 +52,7 @@ Dit heeft echter geen invloed op de het verzamelen van de informatie die
 gearchiveerd moet worden.
 
 Om te kunnen gaan archiveren moet dit worden georganiseerd voordat feitelijk
-archiefbescheiden worden aangeboden. Het organiseren van dit archiveringsproces
+archiefstukken worden aangeboden. Het organiseren van dit archiveringsproces
 valt uiteen in de volgende stappen:  
 1.  inzicht krijgen in de organisatie van informatie in de organisatie;  
 2.  indelen van ruimtelijke plannen per procedure;  
@@ -107,7 +105,7 @@ a, onder 3 van de Wabo verleende omgevingsvergunning.*
 
 Naast deze ruimtelijke plannen is de gerechtelijke uitspraak conform de RO
 Standaarden ook een type ruimtelijk plan. De basis voor dit instrument is gelegd in het Bro artikel 1.2.1 lid 3 met
-de daarbij behorende toelichting onderdeel L van Nota van Toelichting.
+de daarbij behorende toelichting onderdeel L van de Nota van Toelichting.
 Wanneer bijvoorbeeld in de
 procedure van het bestemmingsplan beroep volgt, heeft de uitspraak gevolgen voor
 het vastgestelde plan. Dit is een nieuwe fase in de procedure en wordt bij
@@ -118,7 +116,7 @@ Organisaties gebruiken meerdere systemen om informatie mee vast te leggen en te
 beheren. Het archiveren van digitale ruimtelijke plannen kan in een of meerdere
 van die informatiesystemen. Deze systemen kunnen specifiek voor archivering
 bedoeld zijn, of vakapplicaties in het primaire proces die bepaalde
-archiveringsfunctionaliteit hebben (zoals functionaliteit voor vernietiging) .  
+archiveringsfunctionaliteit hebben (zoals functionaliteit voor vernietiging).  
 Een organisatie zal daarin keuzes moeten maken, omdat het gevolgen heeft voor
 werkprocessen en de inrichting van systemen. Systemen zullen, idealiter [by
 design](https://www.nationaalarchief.nl/archiveren/kennisbank/archiveren-by-design),
@@ -131,7 +129,7 @@ regelgeving, maar ook vanuit normen en standaarden. Een overzicht hiervan is in
 Als duidelijk is welke informatie zich waar bevindt, is het belangrijk om te
 bepalen wie verantwoordelijk is voor de creatie en het beheer van informatie
 gerelateerd aan ruimtelijke plannen (de ‘actor’). De vastlegging hiervan kan
-door middel van metadata. Zeker in het geval van keteninformatisering is het
+door middel van metagegevens. Zeker in het geval van keteninformatisering is het
 belangrijk dat de betrokken organisaties hierover afspraken maken.
 
 Informatie met betrekking tot identificatie van de eigenaar en maker van het
@@ -140,7 +138,7 @@ organisatie vastgelegd. In het kader van ruimtelijke plannen is onderstaande
 informatie naar verwachting reeds vastgelegd en kan als eventuele controle
 gebruikt worden.
 
-De volgende metadata is of wordt verzameld:  
+De volgende metagegevens zijn of worden verzameld:  
 -   *Zorgdrager*  
 Het bestuursorgaan dat conform de Archiefwet de verantwoordelijkheid heeft
 voor het archiveren van het ruimtelijk plan wordt aangeduid als de
@@ -149,6 +147,7 @@ ruimtelijk plan.
 Bij de verschillende bestuursorganen zijn hiervoor aangewezen:
 	- Gemeente: College van Burgemeester en Wethouders;  
 	- Provincie: Gedeputeerde Staten of Provinciale Staten;
+	- Rijk: Betrokken Minister('s).
 
 Toelichting gemeente: Conform artikel 3.1 van de Wet ruimtelijke ordening stelt de gemeenteraad
 een ruimtelijk plan vast. Vanuit de Archiefwet is echter het college aangewezen
@@ -157,11 +156,10 @@ verantwoordelijke voor het vaststellen.
 
 Toelichting provincie: Afhankelijk van het type ruimtelijk plan/ zaaktype is Gedeputeerde Staten,
 dan wel Provinciale Staten aangewezen als zorgdrager van het ruimtelijk plan.  
-Rijk: Betrokken Minister(‘s)  
 
 Voor het vastleggen van en verwijzen naar institutionele informatie over
 bestuursorganen kan gebruik gemaakt worden van het [Actorenregister](https://actorenregister.nationaalarchief.nl/) van het
-Nationaal Archief. Op deze manier is een verwijzing in de metadata voldoende
+Nationaal Archief. Op deze manier is een verwijzing in de metagegevens voldoende
 en kan worden voorkomen dat deze informatie redundant bij de informatie zelf
 wordt opgeslagen. 
 
@@ -187,38 +185,31 @@ ruimtelijk plan zij oplevert.
 
 ## Stap 2: zaaktypen per procedure
 
-Als duidelijk is welk organisatieonderdeel archiefbescheiden oplevert, wordt
+Als duidelijk is welk organisatieonderdeel archiefstukken oplevert, wordt
 informatie met betrekking tot de type ruimtelijke plannen *eenmalig* in de
-organisatie vastgelegd. Er kan daarbij gebruik worden gemaakt van zaaktypen,
-of zaakomschrijvingen en deze vastleggen in de vorm van een zaaktypecatalogus.
-Dit is niet verplicht en aan de betreffende overheid, dat organisatieonderdeel
-te bepalen.
+organisatie vastgelegd. Er kan daarbij gebruik worden gemaakt van een zaaktypecatalogus waarin zaaktypen/ zaakomschrijvingen worden vastgelegd. Dit is niet verplicht; de desbetreffende overheid moet zelf beslissen hoe dit wordt bepaald.
 
 De VNG heeft een GEMMA zaaktypecatalogus (ZTC) ontwikkeld
 voor het ontwerpen, beheren en uitwisselen van zaaktypen. De laatste versie is beschikbaar via het overzicht op [GEMMA online](https://www.gemmaonline.nl/index.php/GEMMA_Zaaktypecatalogus)
 
-Welke ruimtelijke plannen conform Wro en Wabo (daarmee zaaktypen) per
+Welke ruimtelijke plannen conform de Wro en Wabo (daarmee zaaktypen) per
 bestuursorgaan worden vastgelegd, is in paragraaf [2.2](#stap-1-inzicht-in-organisatie-van-informatie) aangegeven. Er moet
 daarnaast onder andere gebruik worden gemaakt worden van RO Standaarden en de
-metadata standaarden uit het toepassingsprofiel (paragraaf [3.2](#normen-en-standaarden)).
+metagegevens standaarden (paragraaf [3.2](#normen-en-standaarden)).
 
 Het bepalen van het type ruimtelijk plan geeft tevens inzicht in de fasen en
 onderdelen: welke activiteiten vinden er plaats tijdens de procedure van het
-ruimtelijk plan. Er wordt daarbij inzicht gegeven in de procedure van het
-ruimtelijk plan; wanneer is een fase klaar en welke informatie is
-archiefplichting. De selectielijst (paragraaf [4.2](#bewaartermijnen)) geeft inzicht in de
+ruimtelijk plan en welke informatie is archiefplichtig. De selectielijst (paragraaf [4.2](#bewaartermijnen)) geeft inzicht in de
 bewaartermijn van het betreffende ruimtelijk plan. Een selectielijst geeft aan
-hoe lang de verschillende archiefbescheiden bewaard moeten of mogen worden.
-Archiefbescheiden worden soms ook informatie-objecten, documenten of records
-genoemd. Het [ontwerpen van een selectielijst](https://www.nationaalarchief.nl/archiveren/kennisbank/selectielijst-maken), is verplicht voor
-overheidsorganisaties op basis van artikel 5 van de Archiefwet 1995. Dit artikel
-blijft ook in de nieuwe archiefwet bestaan. Nieuwe selectielijsten worden door
+hoe lang de verschillende archiefstukken bewaard moeten of mogen worden.
+Het [ontwerpen van een selectielijst](https://www.nationaalarchief.nl/archiveren/kennisbank/selectielijst-maken), is verplicht voor
+overheidsorganisaties op basis van artikel 5 van de Archiefwet 1995. Nieuwe selectielijsten worden door
 de minister van Onderwijs, Cultuur en Wetenschap vastgesteld door middel van een
 vaststellingsbesluit.
 
 Per type plan wordt met betrekking tot de RO Standaarden vervolgens bepaald
 welke documenttypen worden gearchiveerd: bijvoorbeeld plankaart, planregels en
-welke bestandsformaten.
+met welke bestandsformaten.
 
 Het is aan te bevelen om van te voren een begrippenlijst vast te leggen zodat er
 geen verwarring kan ontstaan over bijvoorbeeld procedure, zaak of dossier.
@@ -229,7 +220,7 @@ betreffende ruimtelijke plan.
 
 De meest ideale situatie is als alle bestuursorganen dezelfde begrippen zouden
 hanteren. Bij het toepassen hoeven dan alleen de variabelen te worden ingevuld.
-Dit is in de praktijk mogelijk nog niet haalbaar. In bijlage 1 een eerste opzet
+Dit is in de praktijk mogelijk nog niet haalbaar. In bijlage 1 is een eerste opzet
 met begrippen toegevoegd.
 
 ## Stap 3: informatie vastleggen tijdens het werkproces
