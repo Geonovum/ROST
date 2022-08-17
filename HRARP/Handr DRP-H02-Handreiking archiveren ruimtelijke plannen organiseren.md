@@ -82,7 +82,7 @@ informatiesystemen van overheidsorganisaties. De eisen zijn generiek van aard en
 weerspiegelen de eisen die gebruikers stellen aan de toegankelijkheid van de
 informatie. In dit geval betreft het informatie gerelateerd aan ruimtelijke
 plannen.
-Het Nationaal Archief heeft een overzicht van de [DUTO-eisen](https://www.nationaalarchief.nl/archiveren/kennisbank/overzicht-duto-eisen). Meer hierover in [bijlage 1](#B01).
+Het Nationaal Archief heeft een overzicht van de [DUTO-eisen](https://www.nationaalarchief.nl/archiveren/kennisbank/overzicht-duto-eisen). Meer hierover in [Bijlage 1](#B01).
 
 De volgende ruimtelijke plannen worden door de verschillende bevoegde gezagen
 gecreëerd:
