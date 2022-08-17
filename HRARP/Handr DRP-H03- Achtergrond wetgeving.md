@@ -163,33 +163,17 @@ informatie ondersteunen:
 1.  [DUTO](https://www.nationaalarchief.nl/archiveren/duto): Normenkader met
     eisen voor duurzame toegankelijkheid van overheidsinformatie in
     informatiesystemen, mede op basis van wet- en regelgeving en standaarden.  
-2.  **NEN-ISO 30301**: Management systeem standaard voor het beheer van
-    archiefbescheiden, dat beschreven wordt in NEN-ISO 15489.  
-3.  **NEN-ISO 15489-1**: standaard voor archief- en informatiemanagement. De
-    Archiefregeling schrijft in artikel 16 voor, dat een organisatie ervoor
-    zorgt, dat het beheer van de archiefbescheiden moet voldoen aan toetsbare
-    eisen van een kwaliteitssysteem. De NEN-ISO 15489 wordt daarbij genoemd als
-    voorbeeld van een kwaliteitssysteem, dat specifiek gericht is op de
-    kwaliteit van het archief- en informatiebeheer.  
-4.  **NEN-ISO 23081**: metadata voor archiefbescheiden. De creatie van een
-    metadataschema zoals bedoeld in deze standaard wordt ook voorgeschreven in
-    de Archiefregeling.   
-5.  **NEN-ISO 14721**: standaard voor de functionaliteit van een e-depot.  
-6.  **NEN-ISO 16175**: internationale standaard voor functionaliteiten van
-    programmatuur voor archiefmanagement. Deze is onlangs geadopteerd door NEN,
-    vervangt in principe NEN 2082 (zie onder) en is actueler dan Moreq2010.  
-7.  **OWMS**: de Overheid.nl Web Metadata Standaard (OWMS) is de metadata
-    standaard voor informatie van de Nederlandse overheid op internet.  
-8.  **NEN-ISO 27000**: Management systeem standaard voor informatiebeveiliging,
-    in Nederland uitgewerkt in de Baseline Informatiebeveiliging Overheid (BIO).  
-9.  [**ISO 19165-1:2018**](https://www.iso.org/standard/67325.html) Geographic information -- Preservation of digital
+2.  **NEN-ISO 30301**: Managementsystemen voor archivering.  
+3.  **NEN-ISO 15489-1**: Informatie- en archiefmanagement – Deel 1: Concepten en uitgangspunten: standaard waarin principes en uitgangspunten voor het beheer van archiefstukken worden beschreven.  
+4.  **NEN-ISO 23081**: metagegevens voor archiefstukken. De creatie van een metagegevensschema zoals bedoeld in deze standaard wordt ook voorgeschreven in de Archiefregeling.   
+5.  **NEN-ISO 14721**: Open Archival Information System (OAIS) - standaard (referentiemodel) voor de functionaliteit van een e-depot.  
+6.  **NEN-ISO 16175**: internationale standaard Functionele eisen en bijbehorende richtlijnen voor applicaties voor het beheren van digitale archiefstukken.  7.  **OWMS**: de Overheid.nl Web Metadata Standaard (OWMS) is de metagegevensstandaard voor informatie van de Nederlandse overheid op internet. Deze is/ wordt vervangen door [TOOI](https://tardis.overheid.nl/).   
+8.  **NEN-ISO 27000**: Management systeem standaard voor informatiebeveiliging, in Nederland uitgewerkt in de Baseline Informatiebeveiliging Overheid (BIO).  9.  [**ISO 19165-1:2018**](https://www.iso.org/standard/67325.html) Geographic information -- Preservation of digital
     data and metadata -- Part 1: Fundamentals  
 10. [**ISO 19115-1:2014**](https://www.iso.org/standard/53798.html) Geographic information -- Metadata -- Part 1:
     Fundamentals  
 11. **[INSPIRE richtlijnen](https://www.geonovum.nl/geo-standaarden/inspire-europese-leefomgeving) en de [Nederlands metadataprofielen voor datasets en services](https://www.geonovum.nl/geo-standaarden/metadata)**  
-12. [**eArchiving Building Block**](https://ec.europa.eu/cefdigital/wiki/display/](https://ec.europa.eu/cefdigital/wiki/display/CEFDIGITAL/2019/06/04/Publication+of+the+eArchiving+Building+Block+technical+specifications), specificaties van een op [OAIS](https://www.nationaalarchief.nl/archiveren/kennisbank/preservation-policy)
-    gebaseerde archiveringsmethode die door de Europese commissie wordt gefinancierd.  
-13. [**Common Specification for Geospatial data**](https://github.com/DILCISBoard/E-ARK-Geodata/blob/master/Specification/CSGeo_v2.0.0.pdf), onderdeel van eArching building block, zie link  
+12. [**Common Specification for Geospatial data**], onderdeel van [eArchiving building block](https://ec.europa.eu/isa2/library/inspire-common-geospatial-data-standards-more-informed-and-timely-decisions_en/).  
 
  ## Andere kaders
 
