@@ -42,7 +42,7 @@ In de vorige paragraaf is met artikel 1.2.1 Bro aangegeven welke ruimtelijke
 plannen digitaal door de bevoegde gezagen conform de RO Standaarden beschikbaar
 worden gesteld en vindbaar en toegankelijk worden gemaakt. Deze paragraaf geeft
 een concreet overzicht. Dit is inclusief de omgevingsvergunning om af te wijken
-van het bestemmingsplan op basis van de [Wabo](http://wetten.overheid.nl/BWBR0024779) en Besluit Omgevingsrecht (Bor). 
+van het bestemmingsplan op basis van de [Wabo](http://wetten.overheid.nl/BWBR0024779) en het [Besluit Omgevingsrecht (Bor)](https://wetten.overheid.nl/BWBR0027464). 
 
 De wet- en regelgeving verplicht het bestuursorgaan om de mededeling
 (kennisgeving in de Staatscourant) van een met artikel 2.12, eerste lid,
@@ -78,8 +78,8 @@ feitelijk bovenstaande plannen, visies en besluiten bedoeld. Digitaal geeft aan:
 conform de RO Standaarden.
 
 ### Archiefwet  
-Nederlandse overheidsorganen vallen onder de *Archiefwet 1995*. Specifieke
-bepalingen uit de *Archiefwet* zijn uitgewerkt in het *Archiefbesluit*. En
+Nederlandse overheidsorganen vallen onder de [Archiefwet 1995](https://wetten.overheid.nl/BWBR0007376). Specifieke
+bepalingen uit de *Archiefwet* zijn uitgewerkt in het [Archiefbesluit](https://wetten.overheid.nl/BWBR0007748). En
 gedetailleerde regels voor de informatiehuishouding en de archieven van de
 overheid zijn geformuleerd in de *Archiefregeling*. Ieder overheidsorgaan moet
 nadere regels vaststellen voor de organisatie van het archiefbeheer,
@@ -88,12 +88,12 @@ zorgplicht zal worden uitgevoerd) en een besluit Informatiebeheer (specificatie
 van de wijze waarop de beheerplicht zal worden uitgevoerd).
 
 De Archiefwet en de regels die daaruit voortvloeien hebben betrekking op zowel
-informatie die permanent bewaard moet blijven als informatie die op termijn
-vernietigd wordt. De wet- en regelgeving op het gebied van archieven heeft als
+informatie die permanent bewaard moet blijven als op informatie die op termijn
+vernietigd moet worden. De wet- en regelgeving op het gebied van archieven heeft als
 belangrijkste doel de duurzaamheid, authenticiteit, betrouwbaarheid,
 bruikbaarheid en integriteit van overheidsinformatie te borgen. Een belangrijk
-basisconcept daarbij is dat vorm, inhoud en structuur van archiefbescheiden
-behouden moeten blijven of tenminste reproduceerbaar zijn.
+basisconcept daarbij is dat vorm, inhoud en structuur van archiefstukken
+behouden moeten blijven of tenminste reproduceerbaar moeten zijn.
 
 ## Normen en standaarden
 
