@@ -12,39 +12,18 @@
 //-----------------------------------------------------------------------------------*/
 
 /*-- Definitie van Image ------------------------------------------------------------*/
-/* img 
+img 
 {
-     max-width: 100%;
-     height: auto;
-     width: auto;
-} */
+  max-width: 100%;
+  height: auto;
+  width: auto;
+}
 
-/*-- Definitie van Image Geonovum------------------------------------------------------------*/
+/*-- Definite van het Geonovum Logo bovenaan Respec document ------------------------*/
 img#Geonovum
 {
   width:132px;
   height: 67px;
-}
-
-/*-- Definite van NORA en geo figuur ------------------------*/
-img#NORA_geo
-{
-  width: auto;
-  height: auto;
-}
-
-/*-- Definite van NEN3610:2022 piramide figuur ------------------------*/
-img#NEN3610_2022
-{
-  width: 50% !important;
-  height: 50% !important;
-}
-
-/*-- Definite van NEN-ISO_23081 figuur ------------------------*/
-img#NEN-ISO_23081
-{
-  width: auto;
-  height: auto;
 }
 
 /*-- Definite van BlockQuotes (uitgelichte tekstblokken) ----------------------------*/
@@ -55,7 +34,8 @@ blockquote
   font-style: italic;
   border-color: transparent !important;
   border-style: none !important;
-  background-color: darkgray;
+/*  background-color: darkgray;-*/
+  background-color: green;
   color: white;
 }
 

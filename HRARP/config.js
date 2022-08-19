@@ -149,8 +149,8 @@ var respecConfig =
   postProcess:[custGHPG],
 
   //-- Voor dit blok geldt: alleen als er eerdere versies zijn en altijd beiden aan/uit! 
-  //previousPublishDate: "2018-09-18",  	    // Format is "YYY-MM-DD"
-  //previousMaturity: "CV",                   // kies 1 van deze 2 regels  	  
+  previousPublishDate: "2019-10-08",  	    // Format is "YYY-MM-DD"
+  previousMaturity: "GN-DEF",                   // kies 1 van deze 2 regels  	  
   //previousMaturity: "VV",  	                // kies 1 van deze 2 regels
 
   //-- Optionele parameters:

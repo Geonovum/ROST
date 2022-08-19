@@ -1,0 +1,216 @@
+﻿/*-------------------------------------------------------------------------------------
+//-- File. . . :  Geonovumstyle.css
+//-- Bevat . . :  Template voor de  stylesheet voor respec  
+//--              Gebaseerd op https://github.com/Geonovum/respec/wiki
+//--              Deze file mag worden neergezet in de root-directory van de 
+//--              betreffende standaard, maar ook 1 niveau lager in de map "media"
+//--              gedefinieerde stijlen overschrijven de default stijlen.  
+//-- Door. . . :  Jan van Gelder
+//-------------------------------------------------------------------------------------
+//-------------------------------------------------------------------------------------
+//-- Log . . . :  20181009 - JvG - Initiele versie 
+//-- Log . . . :  20220818 - JvG - Nieuwe CSS - WCAG compiant
+//-----------------------------------------------------------------------------------*/
+
+/*-- START NIEUWE LAYOUT ------------------------------------------------------------*/
+/*-- Body ---------------------------------------------------------------------------*/
+body
+{
+     font-family:   'Open Sans', 'regular' !important;
+     font-size:     16px !important;
+     color:         #64686b !important;
+}
+
+/*-- Titel en SubTitel --------------------------------------------------------------*/
+#title
+{
+     font-family:   'Montserrat', 'semibold' !important;
+     font-size:     35.2px !important;
+     color:         #5e5e5e !important;
+}
+
+#title h2
+{
+     font-family:   'Open Sans', 'regular' !important;
+     font-size:     35.2px !important;
+}
+
+/*-- Subtitel en Headers ------------------------------------------------------------*/ 
+h1, h2, h3, h4 
+{    
+     font-family:   'Montserrat', 'semibold' !important;
+     color:         #5e5e5e !important;
+}
+h1             {    font-size:     22.4px !important;  }
+h2             {    font-size:     19.2px !important;  }
+h3, h4         {    font-size:       16px !important;  }
+
+/*-- Start Of The Document ----------------------------------------------------------*/ 
+#sotd p em
+{    
+     font-size:     18px !important;
+     color:         #5e5e5e !important;
+}
+
+/*-- Table Of Contents --------------------------------------------------------------*/
+#toc
+{
+     background-color: #f7f7f7 !important;
+}
+
+#toc h2
+{
+     font-family:   'Montserrat', 'semibold' !important;
+     font-size:     22.4px !important;
+}
+
+/*-- Tabellen ----------------------------------------------------------------------*/
+table
+{
+     empty-cells:           show !important;
+     min-width:             90% !important;
+     border-color:          #f7f7f7 !important;
+     border-style:          solid !important;
+}
+
+/*-- Definite van de kopregel van een tabel ----------------------------------------*/
+thead
+{
+     background-color:      #97c00e !important;
+     color:                 #ffffff !important;
+}
+
+/*-- Definite van de body van een tabel --------------------------------------------*/
+tbody
+{
+     border-color:          #97c00e !important;
+     background-color:      #f7f7f7 !important;
+}
+
+/*-- Definitie van de tabel-rij (deze zorgt voor 2 kleuren in de rijen) ------------*/
+tr:nth-child(even) 
+{
+     background-color:      #ffffff !important;
+}
+
+/*-- Definite van de tabel-cel (data) ----------------------------------------------*/
+td 
+{
+     min-width:             100px !important;     
+}
+
+/*-- Noot-blok ---------------------------------------------------------------
+
+
+
+
+
+
+/*-- EINDE NIEUWE LAYOUT ------------------------------------------------------------*/
+
+
+
+
+
+/*-- Definitie van Image Geonovum ---------------------------------------------------*/
+img#Geonovum
+{
+  width:132px;
+  height: 67px;
+}
+
+/*-- Definite van NORA en geo figuur ------------------------*/
+img#NORA_geo
+{
+  width: auto;
+  height: auto;
+}
+
+/*-- Definite van NEN3610:2022 piramide figuur ------------------------*/
+img#NEN3610_2022
+{
+  width: 50% !important;
+  height: 50% !important;
+}
+
+/*-- Definite van NEN-ISO_23081 figuur ------------------------*/
+img#NEN-ISO_23081
+{
+  width: auto;
+  height: auto;
+}
+
+/*-- Definite van BlockQuotes (uitgelichte tekstblokken) ----------------------------*/
+blockquote 
+{
+  /* margin-left: 20px !important; */
+  font-family:  'Esteban', serif !important;
+  font-style: italic;
+  border-color: transparent !important;
+  border-style: none !important;
+  background-color: darkgray;
+  color: white;
+}
+
+/*-- Optioneel een symbool voor de blockquote --------------------------------------*/
+blockquote:before 
+{
+  display: block;
+  height: 0;
+  /* content: "|"; */   
+  margin-left: -0.95em;
+  font: italic 400%/1 Esteban, serif;
+  color: grey;
+}
+
+/* -- Definite van tabellen ---------------------------------------------------------*/
+/* table
+{
+  empty-cells: show;
+  min-width: 90%;
+  border-color: grey;
+  border-style: solid;
+} */
+
+/*-- Definite van de kopregel van een tabel ----------------------------------------*/
+/* thead
+{
+  background-color: grey;
+  color: white;
+} */
+
+/*-- Definite van de body van een tabel --------------------------------------------*/
+/* tbody
+{
+  border-color: darkolivegreen;
+  background-color: lightgrey
+} */
+
+/*-- Definite van de tabel-rij (deze zorgt voor 2 kleuren in de rijen) -------------*/
+/* tr:nth-child(even) 
+{
+  background-color:  darkgrey;
+} */
+
+/*-- Definite van de tabel-cel (data) ----------------------------------------------*/
+/* td 
+{
+  min-width: 100px;
+} */
+
+/*-- Definite van rode tekst -------------------------------------------------------*/
+r
+{
+  color: red;
+}
+
+/*-- Definite van rose tekstblok ---------------------------------------------------*/
+div#remark
+{
+  border-color: darkblue;
+  border-style: solid;
+  background-color:  rosybrown;
+  color: darkblue;
+}
+
+
