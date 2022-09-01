@@ -1,6 +1,6 @@
 ## Opstellen wijzigingsbesluit omgevingsplan
 
-### <a name='_Ref237755337'></a>Technische uitgangspunten
+### Technische uitgangspunten
 
 De kern van het gebruik van TAM-omgevingsplan is, dat vanaf inwerkingtreding van de Omgevingswet, de bestaande Wro planketen gebruikt kan worden voor het opstellen en publiceren van een wijziging van het omgevingsplan. De RO Standaarden 2012 worden niet aangepast. Ook wordt op geen enkele manier iets aangepast aan de Wro plansoftware die wordt gebruikt voor digitale ruimtelijke plannen. Ook aan de manier van publiceren naar Ruimtelijkeplannen.nl verandert niets. Wel wordt de validator voor Ruimtelijkeplannen.nl aangevuld en enigszins aangepast om het overgangsrecht van Wro naar Omgevingswet te faciliteren, en de TAM-omgevingsplan mogelijk te maken.
 
@@ -123,7 +123,7 @@ Op dezelfde manier kunnen ook overige gewenste objecttypen voor een TAM-omgeving
 
 #### Plantekst
 
-In paragraaf [2.2.2](/#TAM-omgevingsplan) is aangegeven hoe de kaartobjecten voor een TAM-omgevingsplan kunnen worden gesimuleerd met behulp van IMRO2012 middels het planfiguur ‘bestemmingsplan’. Daarbij moeten ook de regels en de motivering worden meegeleverd in de publicatie. Voor de motivering kan gebruik gemaakt worden van het object toelichting.
+In paragraaf [2.2.2](#tam-omgevingsplan) is aangegeven hoe de kaartobjecten voor een TAM-omgevingsplan kunnen worden gesimuleerd met behulp van IMRO2012 middels het planfiguur ‘bestemmingsplan’. Daarbij moeten ook de regels en de motivering worden meegeleverd in de publicatie. Voor de motivering kan gebruik gemaakt worden van het object toelichting.
 
 Bij het meeleveren van planteksten zijn twee opties beschikbaar voor het publiceren van de planteksten; HTML-formaat of, middels de standaard IMROPT2012 xml-formaat. De standaard voor objectgerichte planteksten (IMROPT2012) is facultatief voor bestemmingsplannen en werd daardoor niet door alle gemeenten gebruikt. 
 
