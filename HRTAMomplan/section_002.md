@@ -47,27 +47,22 @@ Een omgevingswetbesluit kent geen object ‘plangebied’. Voor de validatie is 
 
 Als de gemeente er voor kiest gebruik te maken van de gebiedsaanwijzing ‘functie’ onder de Omgevingswet dan kunnen die bijvoorbeeld middels ‘enkelbestemmingen’ worden gemodelleerd. De keuze is daarbij of de bestaande enkelbestemmingen worden gebruikt, bijvoorbeeld ‘Wonen’, of dat enkelbestemmingen worden toegevoegd: elke functiebenaming is toegestaan in het omgevingsplan. IMRO staat het uitbreiden van de enkelbestemmingen toe mits ze voldoen aan de vereisten van de SVBP2012. Een nieuw bestemming/functie wordt dan aangemaakt in de Wro plansoftware, waarbij een hoofdgroep moet worden gekozen, en de naam van de hoofdgroep moet terugkomen in de naam van de bestemming/functie. De naam na de hoofdgroep is geheel vrij te kiezen. De structuur voor de eigen benamingen is, conform de SVBP2012:
 
-<b>Naam hoofdgroep</b> [spatie] [-] [spatie] <b>Specificatie van de bestemming</b>
+<i>Naam hoofdgroep [spatie] [-] [spatie] Specificatie van de bestemming</i>
 
-De eigen benaming na de hoofdgroep en het koppelteken begint altijd met een hoofdletter.
-
-Voorbeelden van functiebenamingen kunnen zijn:
-
+De eigen benaming na de hoofdgroep en het koppelteken begint altijd met een hoofdletter. Voorbeelden van functiebenamingen kunnen zijn:
 <ul><li>Detailhandel – Kernwinkelgebied;</li>
 <li>Verkeer – Stroomgebied;</li>
 <li>Water – Oppervlaktewater.</li>
 </ul>
-
 De benaming na het koppelteken is vrij te kiezen en zou ook het woord ‘Functie’ mogen bevatten voor de eigenlijke benaming: Verkeer – Functie stroomgebied.
 
 Het gebruik van een hoofdgroep is verplicht en kan gebruikt worden om de kaartweergave te sturen. In de omgevingsloket viewer Regels op de Kaart zal het TAM-omgevingsplan in dezelfde kleuren worden getoond als een bestemmingsplan. In de bovenstaande voorbeelden; donkerroze voor Kernwinkelgebied, donkergrijs voor Stroomgebied en blauw voor Oppervlaktewater.
 
 Omdat het noodzakelijk is de naam van de hoofdgroep op te nemen in de naam van de functie, ligt het voor de hand inhoudelijke logische hoofdgroepen te kiezen, waardoor dan ook de kleur wordt bepaald. Als die logica er niet is (en dat zal voor een omgevingsplan vaak voorkomen) dan kan gebruik worden gemaakt van de hoofdgroep ‘Overig’. Dat biedt alle ruimte voor eigen toevoegingen. Alle functies die met ‘Overig zijn gemodelleerd, worden dan wel in dezelfde lichtgrijze kleur getoond. Voor de hoofdgroep ‘Overig’ geldt dat de naam van de hoofdgroep niet hoeft te worden opgenomen in de nieuwe benaming, conform de SVBP2012:
 
-<b>Specificatie van de bestemming</b>
+<i>Specificatie van de bestemming</i>
 
 Voorbeelden hiervan kunnen zijn:
-
 <ol><li>Herstructureringsgebied</li>
 <li>Transformatiegebied</li>
 </ol>
@@ -77,37 +72,30 @@ Voor een TAM-omgevingsplan geldt dat locaties naar believen mogen worden gestape
 <b><i>Andersoortige gebiedsaanwijzingen</i></b>
 
 Als de gemeente er voor kiest ook andersoortige gebiedsaanwijzingen te gebruiken die mogelijk zijn in het omgevingsplan, dan kan daarvoor bij een TAM-omgevingsplan bijvoorbeeld gebruik worden gemaakt van het object ‘dubbelbestemming’. Dit werkt op identieke wijze als hiervoor beschreven bij functies, ook in de naamgeving. Dubbelbestemmingen kennen slechts drie hoofdgroepen, en er is geen hoofdgroep ‘Overig’.
-
 Voorbeelden hiervan kunnen zijn:
-
 <ul><li>Waarde – Gemeentelijk beschermd stadsgezicht;</li>
 <li>Waarde – Historische kelders;</li>
 <li>Waarde – Welstand.</li>
 </ul>
-
 Dubbelbestemmingen konden en mochten volgens IMRO2012 en SVBP2012 altijd al gestapeld, en/of overlappend gebruikt worden, en zijn daarmee ook prima inzetbaar om een TAM-omgevingsplan vorm te geven.
 
 Meer sectoraal gerichte gebiedsaanwijzingen (geluid, geur, etc.) kunnen goed worden gemodelleerd met behulp van het object ‘gebiedsaanduiding’. Deze werden al gebruikt voor sectorale toepassingen in bestemmingsplannen en hebben daardoor hoofdgroepen waar gebiedsaanwijzingen onder te brengen zijn. De naamgeving moet voldoen aan de SVBP2012:
 
-<b>hoofdgroep</b> [spatie] [-] [spatie] <specificatie van de aanduiding>
-
+<i>Hoofdgroep [spatie] [-] [spatie] specificatie van de aanduiding</i>
 (let op het gebruik van kleine letter in plaats van hoofdletter)
 
 Bijvoorbeeld:
-
 <ul><li>geluidzone – geluidaandachtgebied centrum;</li>
 <li>geurzone – geurbelastingsgebied Westervoortsedijk</li>
 <li>vrijwaringszone – spoorgebied Centraal Station Westzijde</li>
 </ul>
-
 Ook voor gebiedsaanduidingen geldt dat deze altijd al gestapeld, en/of overlappend gebruikt konden en mochten worden volgens IMRO2012 en SVBP2012 Daarmee zijn prima inzetbaar om een TAM-omgevingsplan vorm te geven.
 
 <b><i>Activiteiten</i></b>
 
 Uit de Omgevingswet lijkt te volgen dat activiteiten wel als centraal onderdeel van een omgevingsplan moeten worden opgenomen. Dat geldt daarmee dan ook voor een TAM-omgevingsplan. Activiteiten zijn typisch objecten die we niet kennen in Wro bestemmingsplannen. In de basis gaat het weer over een regeltekst met een activiteit, die daarmee verplicht moet worden voorzien van een locatie (werkingsgebied). Omdat activiteiten wellicht moeilijk aan een hoofdgroep te koppelen zijn kan hiervoor de gebiedsaanduiding met de hoofdgroep ‘overige zone’ worden gebruikt. Er is in IMRO2012 geen beperking aan het aantal gebiedsaanduidingen dat kan worden toegevoegd. Bij het gebruik van de hoofdgroep ‘overige zone’ moet de hoofdgroep worden opgenomen in de benaming van de eigen gebiedsaanduiding, in dit geval activiteit voor het TAM-omgevingsplan, voldoet de naamgeving aan de SVBP2012: 
 
-overige zone[spatie] [-] [spatie] <specificatie van de aanduiding>
-
+<i>Overige zone[spatie] [-] [spatie] specificatie van de aanduiding</i>
 (let op het gebruik van kleine letters in plaats van hoofdletters)
 
 Het is bij gebiedsaanduidingen niet toegestaan om ‘overige zone’ weg te laten vóór de eigen gekozen benaming. Bijvoorbeeld:
