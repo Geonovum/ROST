@@ -121,7 +121,7 @@ Op deze wijze kunnen alle gewenste activiteiten voor een TAM-omgevingsplan met b
 
 Op dezelfde manier kunnen ook overige gewenste objecttypen voor een TAM-omgevingsplan worden gemaakt. Denk bijvoorbeeld aan Bouwregels, Omgevingsplanactiviteiten (vergunningplicht), Algemene regels voor activiteiten, etc.
 
-#### Plantekst
+#### TAM omgevingsplan
 
 In paragraaf [2.2.2](#tam-omgevingsplan) is aangegeven hoe de kaartobjecten voor een TAM-omgevingsplan kunnen worden gesimuleerd met behulp van IMRO2012 middels het planfiguur ‘bestemmingsplan’. Daarbij moeten ook de regels en de motivering worden meegeleverd in de publicatie. Voor de motivering kan gebruik gemaakt worden van het object toelichting.
 
