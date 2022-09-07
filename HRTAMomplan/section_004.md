@@ -2,6 +2,7 @@
 
 Een TAM-omgevingsplan is juridisch een omgevingswetbesluit maar technisch een (Wro) bestemmingsplan. Dat heeft als voordeel dat in noodgevallen toch ruimtelijke ontwikkelingen doorgang kunnen vinden zelfs als de keten ‘van plan tot publicatie’ door welke oorzaak dan ook nog niet kan worden ingezet na inwerkingtreding van de Omgevingswet. Maar er zijn ook aandachtspunten, hiermee dient rekening te worden gehouden bij de inzet van TAM-omgevingsplan: 
 
+
 - De weergave van een TAM-omgevingsplan wordt gestuurd door de keuze van de IMRO-objecten die worden ingezet om het besluit te maken. Het besluit is raadpleegbaar in het omgevingsloket. De werking van de viewer Regels op de Kaart en de overbruggingsfunctie bepalen uiteindelijk hoe bruikbaar het kaartbeeld wordt.
 - Het is niet mogelijk om bij een TAM-omgevingsplan de pons-functie mee te geven om het onderliggende Wro-bestemmingsplannen in het tijdelijk deel omgevingsplan onzichtbaar te maken. Een TAM-omgevingsplan komt <u>technische gezien</u> zelf ook in dat tijdelijk deel.
 - Tijdreizen in de viewer Regels op de Kaart zal niet goed werken met TAM-omgevingsplan. IMRO2012 heeft niet de juiste tijdreisattributen om dit te kunnen ondersteunen.
