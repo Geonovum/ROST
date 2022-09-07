@@ -14,8 +14,8 @@ var respecConfig =
   ],
   shortName: "waTAMvbbesluit",
   format: "markdown",
-  github: "https://github.com/Geonovum/ro-waTAMvbbesluit/",
-  issueBase: "https://github.com/Geonovum/ro-waTAMvbbesluit/issues/",
-  edDraftURI: "https://Geonovum.github.io/ro-waTAMvbbesluit/",
+  github: "https://github.com/Geonovum/ROST/",
+  issueBase: "https://github.com/Geonovum/ROST/issues/",
+  edDraftURI: "https://Geonovum.github.io/ROST/",
   generatedSubtitle: "Werkversie 7 september 2022"
 }
