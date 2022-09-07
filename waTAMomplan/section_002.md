@@ -17,6 +17,6 @@ Bij de uitwerking van deze werkafspraak hanteren we de volgende uitgangspunten.
 <li>De publicatie van de bekendmaking blijft het DROP spoor naar Overheid.nl volgen.</li>
 <li>Wro software wordt niet aangepast.</li>
 <li>De werkafspraak mag alleen toegepast worden als noodmaatregel om te voorkomen dat gewenste gebiedsontwikkelingen stil komen te liggen. </li>
-<li>De met de RO Standaarden opgestelde wijziging van het omgevingsplan moet uiteindelijk door de gemeente worden verwerkt in het omgevingsplan conform STOP/TPOD.</li>
+<li>De met de RO Standaarden opgestelde wijziging van het omgevingsplan moet uiteindelijk door de gemeente worden verwerkt in het omgevingsplan conform STOP/TPOD standaarden.</li>
 </ul>
 
