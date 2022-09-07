@@ -25,9 +25,10 @@ In principe is een omgevingsplan vormvrij. De gemeente bepaalt binnen zekere gre
 <li>Gebiedsaanduiding.</li>
 </ul>
 
-<img src='media/image1.png' alt='media/image1.png' style='width: 100%;'></img>
-<ol><li>Koppeling tussen regeltekst en Locatie (werkingsgebied) zoals deze wordt gebruik in de STOP/ TPOD standaard</li>
-</ol>
+<figure> 
+<img src='media/Koppeling_regeltekst_locatie.png' alt='Koppeling tussen regeltekst en Locatie (werkingsgebied) zoals deze wordt gebruik in de STOP/ TPOD standaard' style='width: 100%;'></img>
+<figcaption>Koppeling tussen regeltekst en Locatie (werkingsgebied) zoals deze wordt gebruik in de STOP/ TPOD standaard</figcaption>
+</figure>
 
 Voor het object ‘omgevingsnorm’ uit STOP/TPOD kan gebruik worden gemaakt van het IMRO-object ‘maatvoering’. Deze heeft weliswaar geen koppeling met de tekst maar lijkt het meest op de omgevingsnorm. Let er op dat maatvoeringen maar beperkt kunnen worden uitgebreid.
 
