@@ -47,7 +47,7 @@ Een omgevingswetbesluit kent geen object ‘plangebied’. Voor de validatie is 
 
 Als de gemeente er voor kiest gebruik te maken van de gebiedsaanwijzing ‘functie’ onder de Omgevingswet dan kunnen die bijvoorbeeld middels ‘enkelbestemmingen’ worden gemodelleerd. De keuze is daarbij of de bestaande enkelbestemmingen worden gebruikt, bijvoorbeeld ‘Wonen’, of dat enkelbestemmingen worden toegevoegd: elke functiebenaming is toegestaan in het omgevingsplan. IMRO staat het uitbreiden van de enkelbestemmingen toe mits ze voldoen aan de vereisten van de SVBP2012. Een nieuw bestemming/functie wordt dan aangemaakt in de Wro plansoftware, waarbij een hoofdgroep moet worden gekozen, en de naam van de hoofdgroep moet terugkomen in de naam van de bestemming/functie. De naam na de hoofdgroep is geheel vrij te kiezen. De structuur voor de eigen benamingen is, conform de SVBP2012:
 
-<<Naam hoofdgroep>> [spatie] [-] [spatie] <Specificatie van de bestemming>
+<b>Naam hoofdgroep</b> [spatie] [-] [spatie] <b>Specificatie van de bestemming</b>
 
 De eigen benaming na de hoofdgroep en het koppelteken begint altijd met een hoofdletter.
 
@@ -64,7 +64,7 @@ Het gebruik van een hoofdgroep is verplicht en kan gebruikt worden om de kaartwe
 
 Omdat het noodzakelijk is de naam van de hoofdgroep op te nemen in de naam van de functie, ligt het voor de hand inhoudelijke logische hoofdgroepen te kiezen, waardoor dan ook de kleur wordt bepaald. Als die logica er niet is (en dat zal voor een omgevingsplan vaak voorkomen) dan kan gebruik worden gemaakt van de hoofdgroep ‘Overig’. Dat biedt alle ruimte voor eigen toevoegingen. Alle functies die met ‘Overig zijn gemodelleerd, worden dan wel in dezelfde lichtgrijze kleur getoond. Voor de hoofdgroep ‘Overig’ geldt dat de naam van de hoofdgroep niet hoeft te worden opgenomen in de nieuwe benaming, conform de SVBP2012:
 
-<Specificatie van de bestemming>
+<b>Specificatie van de bestemming</b>
 
 Voorbeelden hiervan kunnen zijn:
 
@@ -89,7 +89,7 @@ Dubbelbestemmingen konden en mochten volgens IMRO2012 en SVBP2012 altijd al gest
 
 Meer sectoraal gerichte gebiedsaanwijzingen (geluid, geur, etc.) kunnen goed worden gemodelleerd met behulp van het object ‘gebiedsaanduiding’. Deze werden al gebruikt voor sectorale toepassingen in bestemmingsplannen en hebben daardoor hoofdgroepen waar gebiedsaanwijzingen onder te brengen zijn. De naamgeving moet voldoen aan de SVBP2012:
 
-<<hoofdgroep>> [spatie] [-] [spatie] <specificatie van de aanduiding>
+<b>hoofdgroep</b> [spatie] [-] [spatie] <specificatie van de aanduiding>
 
 (let op het gebruik van kleine letter in plaats van hoofdletter)
 
