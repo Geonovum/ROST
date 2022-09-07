@@ -82,6 +82,7 @@ Dubbelbestemmingen konden en mochten volgens IMRO2012 en SVBP2012 altijd al gest
 Meer sectoraal gerichte gebiedsaanwijzingen (geluid, geur, etc.) kunnen goed worden gemodelleerd met behulp van het object ‘gebiedsaanduiding’. Deze werden al gebruikt voor sectorale toepassingen in bestemmingsplannen en hebben daardoor hoofdgroepen waar gebiedsaanwijzingen onder te brengen zijn. De naamgeving moet voldoen aan de SVBP2012:
 
 <i>Hoofdgroep [spatie] [-] [spatie] specificatie van de aanduiding</i>
+
 (let op het gebruik van kleine letter in plaats van hoofdletter)
 
 Bijvoorbeeld:
@@ -96,6 +97,7 @@ Ook voor gebiedsaanduidingen geldt dat deze altijd al gestapeld, en/of overlappe
 Uit de Omgevingswet lijkt te volgen dat activiteiten wel als centraal onderdeel van een omgevingsplan moeten worden opgenomen. Dat geldt daarmee dan ook voor een TAM-omgevingsplan. Activiteiten zijn typisch objecten die we niet kennen in Wro bestemmingsplannen. In de basis gaat het weer over een regeltekst met een activiteit, die daarmee verplicht moet worden voorzien van een locatie (werkingsgebied). Omdat activiteiten wellicht moeilijk aan een hoofdgroep te koppelen zijn kan hiervoor de gebiedsaanduiding met de hoofdgroep ‘overige zone’ worden gebruikt. Er is in IMRO2012 geen beperking aan het aantal gebiedsaanduidingen dat kan worden toegevoegd. Bij het gebruik van de hoofdgroep ‘overige zone’ moet de hoofdgroep worden opgenomen in de benaming van de eigen gebiedsaanduiding, in dit geval activiteit voor het TAM-omgevingsplan, voldoet de naamgeving aan de SVBP2012: 
 
 <i>Overige zone[spatie] [-] [spatie] specificatie van de aanduiding</i>
+
 (let op het gebruik van kleine letters in plaats van hoofdletters)
 
 Het is bij gebiedsaanduidingen niet toegestaan om ‘overige zone’ weg te laten vóór de eigen gekozen benaming. Bijvoorbeeld:
