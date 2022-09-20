@@ -1,20 +1,17 @@
 ---
 name: ROST - TAM
-about: Suggest an idea for this project
-title: ''
+about: 'TAM''s provincies '
+title: TAM
 labels: ''
 assignees: ''
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+**Welke TAM betreft? 1) Omgevingsverordening, 2) Voorbereidingsbesluit, 3) Projectbesluit, 4) Reactieve interventie,**
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+**Betreft het de werkspraak (ROST/waTAM,..) of de technische handreiking (ROST/HRTAM...)?**
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+**Welke paragraaf?**
+
+**Wat is het tekstvoorstel; aanvulling, wijziging?**
