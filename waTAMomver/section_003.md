@@ -4,11 +4,11 @@ Technisch gezien maakt de provincie de omgevingsverordening conform de RO Standa
 - het IMRO2012 plantype Provinciale verordening;
 - met STRI2012 manifest beschikbaarstelling en ontsluiting via Ruimtelijkeplannen.nl.
 
-Een omgevingsverordening opgesteld met behulp van TAM in plaast van STOP/ TPOD standaarden, moet heerkenbaar zijn. Dit is belangrijk voor een goede validatie en ten behoeve van de overbruggingsfunctie naar het DSO. Daarom leggen we in deze werkafspraak de naamgeving vast: 
+Een omgevingsverordening opgesteld met behulp van TAM in plaast van STOP/ TPOD standaarden, moet herkenbaar zijn. Dit is belangrijk voor een goede validatie en ten behoeve van de overbruggingsfunctie naar het DSO. Daarom leggen we in deze werkafspraak de naamgeving vast: 
 
 Werkafspraak: de naam van het plan is ‘TAM-omgevingsverordening[spatie][plannaam]’
 
-De met IMRO opgestelde omgevingsverordening moet door de provincie uiteindelijk worden verwerkt in de omgevingsverordening op basis van de STOP/TPOD standaard. Juridisch gezien is het TAM-omgevingsverordening een volwaardige wijziging van het omgevingsverordening onder de Omgevingswet. Inhoudelijk moet deze wijziging van de omgevingsverordening voldoen aan de eisen vanuit de Omgevingswet.
+De met IMRO opgestelde omgevingsverordening moet door de provincie uiteindelijk worden verwerkt in de omgevingsverordening op basis van de STOP/TPOD standaard. Juridisch gezien is de TAM-omgevingsverordening een volwaardige wijziging van het omgevingsverordening onder de Omgevingswet. Inhoudelijk moet deze wijziging van de omgevingsverordening voldoen aan de eisen vanuit de Omgevingswet.
 
 Een omgevingswetbesluit kent geen object ‘plangebied’. Voor de validatie is het wel noodzakelijk om een plangebied op te nemen omdat de naam van het plan leidend is bij het al dan niet uploaden van het plan bij Ruimtelijkeplannen.nl.
 De omgevingsverordening kan met behulp van IMRO2012 alleen op objectniveau worden gemodelleerd. Er kunnen bijvoorbeeld geen annotaties worden opgenomen, zoals dit met TPOD standaarden wel kan. 
