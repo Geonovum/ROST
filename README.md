@@ -1,5 +1,5 @@
 # ROST
-Repository voor beheer van de verschillende onderdelen van de RO-Standaarden.
+Repository voor beheer van de verschillende onderdelen van de RO Standaarden.
 
 Een overzicht van de verschillende documenten vindt u hieronder:
 
