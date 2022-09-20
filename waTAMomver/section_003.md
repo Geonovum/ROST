@@ -34,7 +34,7 @@ De werkafspraak is samengevat in Tabel 1.
 <tbody valign='top'><tr><td align='left' style='border-top: 0.75pt solid #000000; border-left: 0.75pt solid #000000; border-bottom: 0.75pt solid #000000; border-right: 0.75pt solid #000000; background-color: #FFFFFF;'>typePlan
 
 </td>
-<td align='left' style='border-top: 0.75pt solid #000000; border-left: 0.75pt solid #000000; border-bottom: 0.75pt solid #000000; border-right: 0.75pt solid #000000; background-color: #FFFFFF;'>bestemmingsplan
+<td align='left' style='border-top: 0.75pt solid #000000; border-left: 0.75pt solid #000000; border-bottom: 0.75pt solid #000000; border-right: 0.75pt solid #000000; background-color: #FFFFFF;'>provinciale verordening
 
 </td>
 </tr>
