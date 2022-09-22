@@ -4,7 +4,7 @@ Indien in de voorbereiding op een wijziging van het omgevingsplan een voorbereid
 
 Anders dan bij bijvoorbeeld Wro bestemmingsplannen worden voorbereidingsbesluiten niet gemodelleerd met veel objecten. Voorbereidingsbesluiten vallen onder IMRO2012 in de categorie ‘Gebiedsgerichte Besluiten’, feitelijk niet meer dan het plangebied met daarbinnen één of enkele gebieden (vlakken)  waarvoor regels kunnen gelden. Aan het voorbereidingsbesluit is de besluittekst gekoppeld als vaststellingsbesluit en besluittekst. Het Omgevingswet voorbereidingsbesluit als TAM-voorbereidingsbesluit kan op dezelfde wijze worden gemaakt als het Wro voorbereidingsbesluit. Zie daarvoor de <a href='https://docs.geostandaarden.nl/ro/def-pr-gb2012-20181023/#voorbereidingsbesluit' target='_blank'>Praktijkrichtlijn Gebiedsgerichte Besluiten</a>, paragraaf 5.3.3.
 
-Om een Omgevingswet voorbereidingsbesluit dat gemaakt is met behulp van IMRO2012 te kunnen onderscheiden van Wro voorbereidingsbesluit, is het noodzakelijk dat de naam van het plan begint met ‘TAM-voorbereidingsbesluit‘, gevolgd door de naam van het besluit. 
+Om een Omgevingswet voorbereidingsbesluit dat gemaakt is met behulp van TAM te kunnen onderscheiden van Wro voorbereidingsbesluit, is het noodzakelijk dat de naam van het plan begint met ‘TAM-voorbereidingsbesluit‘, gevolgd door de naam van het besluit. 
 
 <b>Tabel</b> <b>1</b> <b>Specifieke waarden ‘Besluitgebied’ bij een TAM-voorbereidingsbesluit</b>
 

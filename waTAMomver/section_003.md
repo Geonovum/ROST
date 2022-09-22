@@ -4,7 +4,7 @@ Technisch gezien maakt de provincie de omgevingsverordening conform de RO Standa
 - het IMRO2012 plantype Provinciale verordening;
 - met STRI2012 manifest beschikbaarstelling en ontsluiting via Ruimtelijkeplannen.nl.
 
-Een omgevingsverordening opgesteld met behulp van TAM in plaast van STOP/ TPOD standaarden, moet herkenbaar zijn. Dit is belangrijk voor een goede validatie en ten behoeve van de overbruggingsfunctie naar het DSO. Daarom leggen we in deze werkafspraak de naamgeving vast: 
+Een omgevingsverordening opgesteld met behulp van TAM in plaast van de STOP/ TPOD standaarden, moet herkenbaar zijn. Dit is belangrijk voor een goede validatie en ten behoeve van de overbruggingsfunctie naar landelijke voorziening Digitaakl Stelsel Omgevingswet. Daarom leggen we in deze werkafspraak de naamgeving vast: 
 
 Werkafspraak: de naam van het plan is ‘TAM-omgevingsverordening[spatie][plannaam]’
 
