@@ -4,7 +4,7 @@ Technisch gezien maakt de provincie het projectbesluit conform de RO Standaarden
 - het IMRO2012 plantype inpassingsplan;
 - met STRI2012 manifest beschikbaarstelling en ontsluiting via Ruimtelijkeplannen.nl.
 
-Een projectbesluit opgesteld met behulp van TAM in plaast van de STOP/ TPOD standaarden, moet herkenbaar zijn. Dit is belangrijk voor een goede validatie en ten behoeve van de overbruggingsfunctie naar de landelijke voorziening Digitaakl Stelsel Omgevingswet. Daarom leggen we in deze werkafspraak de naamgeving vast: 
+Een projectbesluit opgesteld met behulp van TAM in plaats van de STOP/TPOD standaarden, moet herkenbaar zijn. Dit is belangrijk voor een goede validatie en ten behoeve van de overbruggingsfunctie naar de Landelijke Voorziening Digitaal Stelsel Omgevingswet. Daarom leggen we in deze werkafspraak de naamgeving vast: 
 
 Werkafspraak: de naam van het plan is ‘TAM-projectbesluit[spatie][plannaam]’
 
