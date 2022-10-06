@@ -2,9 +2,8 @@
 
 Tijdelijke Alternatieve Maatregelen (TAM) zijn er voor het geval overheden niet op tijd kunnen aansluiten op het DSO of wanneer DSO bijvoorbeeld op een onderdeel niet op tijd klaar is. De minister wil voorkomen dat hierdoor bij gemeenten, provincies en het Rijk eventuele woningbouwontwikkelingen of ontwikkelingen zoals op het gebied van de energietransitie vertraging oplopen.
 
+De Omgevingswet geeft gedeputeerde staten (verder: GS) de bevoegdheid om te besluiten dat een onderdeel van een besluit van een gemeente tot vaststelling of wijziging van een omgevingsplan geen deel van het omgevingsplan uitmaakt. Dit besluit van GS wordt reactieve interventie genoemd. In de Omgevingswet is vastgelegd in welke gevallen en onder welke omstandigheden GS van deze bevoegdheid gebruik kunnen maken. Voorafgaand aan het nemen van dit besluit moeten GS met B&W c.q. gemeenteraad van de betreffende gemeente overleg voeren.
+
 Met de werkafspraak TAM-reactieve interventie worden provincies de mogelijkheid geboden om een Omgevingswet reactieve interventie op te stellen op basis van de RO Standaarden 2012, en te publiceren via Ruimtelijkeplannen.nl en de overbruggingsfunctie van het Informatiehuis Ruimte naar het Digitaal Stelsel Omgevingswet. 
 
-
-
-Aanleiding voor deze werkafspraak is de <a href='https://zoek.officielebekendmakingen.nl/kst-33118-CF.html' target='_blank'>kamerbrief van 27 mei 2021</a>, waarin de minister de Tweede Kamer informeert over inwerkingtredingsdatum van de Omgevingswet en mogelijke Tijdelijke Alternatieve Maatregelen (TAM). Deze tijdelijke alternatieve maatregelen maken inwerkingtreding van de Omgevingswet mede mogelijk. Deze zgn. TAM's bieden gemeenten, provincies en het Rijk naast de zogenaamde ‘hoofdroute’ een tijdelijk een alternatieve route. Deze TAM-reactieve interventie biedt provincies de mogelijkheid om op basis van de RO Standaarden 2012 na inwerkingtreden van de Omgevingswet de reactieve interventie alsnog te kunnen ontsluiten in het DSO.
-
+Aanleiding voor deze werkafspraak is de <a href='https://zoek.officielebekendmakingen.nl/kst-33118-CF.html' target='_blank'>kamerbrief van 27 mei 2021</a>, waarin de minister de Tweede Kamer informeert over inwerkingtredingsdatum van de Omgevingswet en mogelijke Tijdelijke Alternatieve Maatregelen (TAM). Deze tijdelijke alternatieve maatregelen maken inwerkingtreding van de Omgevingswet mede mogelijk. Deze zgn. TAM's bieden gemeenten, provincies en het Rijk naast de zogenaamde ‘hoofdroute’ een tijdelijk een alternatieve route. 
