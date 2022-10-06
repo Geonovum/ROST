@@ -44,4 +44,7 @@ De werkafspraak is samengevat in Tabel 1.
 </tbody>
 </table>
 
+Het publiceren van een Omgevingswet projectbesluit met behulp van TAM-projectbesluit gaat op dezelfde wijze als het Wro inpassingsplan: met de RO Standaarden 2012. Vooraf kan met de validator van pilot.Ruimtelijkeplannen.nl worden gecontroleerd of het besluit valide is, van belang is de naamgeving conform deze werkafspraak.
+
+TAM-projectbesluiten worden weergegeven in de viewer Regels op de Kaart (omgevingsloket) Er is geen sturing op de weergave met de RO Standaarden mogelijk, en daarmee ook niet op TAM-projectbesluiten.
 
