@@ -1,4 +1,6 @@
-## Aandachtspunt
+## Aandachtspunten
 
 Voor het Wro inpassinsplan geldt net als voor het bestemmingsplan het gebruik van de Standaard Vergelijkbare Bestemmingsplannen (SVBP2012). De inhoudelijke verplichtingen voor het toepassen van de SVBP2012 vervallen onder de Omgevingswet.
 Het TAM-projectbesluit wordt via Ruimteljkeplannen.nl en de overbruggingsfunctie van het Informatiehuis Ruimte beschikbaar gesteld aan het DSO. Om die reden moet het TAM-projectbesluit technisch voldoen aan de validatie eisen die ook aan bestemmingsplannen en inpassingsplannen worden gesteld. De validatieservice van Ruimtelijkeplannen.nl blijft ook na inwerkingtreden Omgevingswet hierop te toetsen. Dit betekent voor de opstellers van het TAM-projectbesluit dat voor de naamgeving van objecten strikt de technische voorschriften van de SVBP2012 moet worden gevolgd, inclusief de vrijheden en mogelijkheden voor 'eigen' objecten die de SVBP2012 biedt. 
+
+In het Toepassingsprofiel Omgevingsdocumenten (TPOD) projectbesluit zijn in hoofdstuk 2 de inhoudelijke aspecten van het projectbesluit toegelicht, waaronder het overgangsrecht en overgangsfase. We verwijzen naar dit hoofstuk van de TPOD projectbesluit als leidraad bij de keuze van provincies en het Rijk voor de inhoudelijke keuzes voor het projectbesluit dat met behulp van de TAM-projectbesluit wordt opgesteld en ontsloten.   
