@@ -4,6 +4,16 @@ Technisch gezien maakt de provincie de reactieve interventie conform de RO Stand
 - het IMRO2012 plantype reactieve aanwijzing;
 - met STRI2012 manifest beschikbaarstelling en ontsluiting via Ruimtelijkeplannen.nl.
 
+Een reactieve interventie opgesteld met behulp van TAM in plaats van de STOP/TPOD standaarden, moet herkenbaar zijn. Dit is belangrijk voor een goede validatie en ten behoeve van de overbruggingsfunctie naar de landelijke voorziening Digitaal Stelsel Omgevingswet. Daarom leggen we in deze werkafspraak de naamgeving vast:
+
+Werkafspraak: de naam van het plan is ‘TAM-reactieve interventie[spatie][plannaam]’
+
+De reactieve interventie valt onder IMRO2012 in de categorie ‘Gebiedsgerichte Besluiten’: feitelijk niet meer dan het plangebied met daarbinnen één of enkele gebieden (vlakken) waarvoor regels kunnen gelden. De motivering van het besluit van GS, waarin is aangeven waarom ze geen gebruik hebben kunnen maken van andere bevoegdheden die zij hebben om het provinciaal belang te beschermen (artikel 16.21 lid 3 Ow), wordt als 'besluitdocument' bij het attribuut verwijzingNaarTekstInfo toegevoegd. De motivering als besluit ook gekoppeld als vaststellingsbesluit. Het Omgevingswet reactieve interventie als TAM-reactieve interventie kan op dezelfde wijze worden gemaakt als de Wro reactieve aanwijzing. Zie daarvoor de <a href='https://docs.geostandaarden.nl/ro/def-pr-gb2012-20181023/#aanwijzing' target='_blank'>Praktijkrichtlijn Gebiedsgerichte Besluiten</a>, paragraaf 5.2.1.
+
+
+
+
+
 TO DO
 
 De werkafspraak is samengevat in Tabel 1. 
