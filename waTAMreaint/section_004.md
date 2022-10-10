@@ -1,2 +1,3 @@
 ## Aandachtspunt
 
+De wetgever heeft de reactieve interventie zo bedoeld dat het nemen van dit besluit tot gevolg heeft dat de regels van een ander type omgevingsdocument, te weten het omgevingsplan, worden gewijzigd. In artikel 16.2 Omgevingswet is dan ook bepaald dat, ter uitvoering van artikel 19 van de Bekendmakingswet, het bestuursorgaan van Rijk of provincie dat met toepassing van artikel 16.21 een omgevingsplan wijzigt, verplicht is om deze wijziging te verwerken in een nieuwe geconsolideerde versie van het omgevingsplan conform de STOP/TPOD standaarden. Deze werkafspraak gaat niet in op de verantwoordelijkheid voor het aanpassen van het omgevingsplan en meervoudig bronhouderschap.

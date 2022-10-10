@@ -1,3 +1,10 @@
 ## Uitgangspunt
 
-Deze noodmaatregel zorgt ervoor dat de provincies 
+Deze noodmaatregel zorgt ervoor dat de provincies/ GS kunnen besluiten dat dat een onderdeel van een besluit tot vaststelling of wijziging van een omgevingsplan geen deel daarvan uitmaakt. De reactieve
+interventie alleen kan bestaan uit het verwijderen van (delen van) regels uit het besluit tot wijziging van het omgevingsplan.
+
+Het toepassen van deze noodmaatregel door de provincies is totdat de zij het Omgevingswet instrument reactieve interventie wel conform de STOP/TPOD standaarden kunnen bekendmaken en beschikbaar stellen via het DSO-LV.
+
+Voor het gebruik deze TAM-reactieve interventie geldt, dat vanaf inwerkingtreding van de Omgevingswet, de Wro planketen gebruikt kan worden voor het opstellen en publiceren van een reactieve interventie. De RO Standaarden 2012 worden niet aangepast. Ook wordt op geen enkele manier iets aangepast aan de Wro plansoftware die (op dat moment nog) wordt gebruikt voor digitale ruimtelijke plannen conform overgangsrecht van Wro naar Omgevingswet. Ook aan de manier van publiceren via Ruimtelijkeplannen.nl verandert niets. Wel wordt de validator voor Ruimtelijkeplannen.nl aangevuld en enigszins aangepast om het overgangsrecht van Wro naar Omgevingswet te faciliteren, en de TAM-reactieve interventie mogelijk te maken.
+
+Om een omgevingswetbesluit te kunnen nemen met behulp van TAM-reactieve interventie wordt uitsluitend gebruik gemaakt van de Wro planfiguur ‘reactieve aanwijzing’, conform de RO Standaarden 2012. De Wro planfiguur (IMRO plantype) ‘reactieve aanwijzing’ wordt na de inwerkingtreding van de Omgevingswet in principe tegengehouden door de validator van Ruimtelijkeplannen.nl. De validator moet een TAM-reactieve interventie kunnen herkennen om deze wel door te laten ná inwerkingtreding van de Omgevingswet. Daarom is met deze werkafspraak de plannaam bepalend: de plannaam begint met “TAM-reactieve interventie”, gevolgd door de naam van het besluit. Hiermee wordt het onderscheid gemaakt tussen een Wro reactieve aanwijzing en een reactieve interventie onder de Omgevingswet.
