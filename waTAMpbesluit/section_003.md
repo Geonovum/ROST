@@ -9,7 +9,7 @@ Een projectbesluit opgesteld met behulp van TAM in plaats van de STOP/TPOD stand
 Werkafspraak: de naam van het plan is ‘TAM-projectbesluit[spatie][plannaam]’
 
 
-TO DO
+TO DO schrijversteam
 
 De werkafspraak is samengevat in Tabel 1. 
 
