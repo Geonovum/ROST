@@ -1,7 +1,6 @@
 ## Uitgangspunt
 
-Deze noodmaatregel zorgt ervoor dat de provincies/ GS kunnen besluiten dat dat een onderdeel van een besluit tot vaststelling of wijziging van een omgevingsplan geen deel daarvan uitmaakt. De reactieve
-interventie alleen kan bestaan uit het verwijderen van (delen van) regels uit het besluit tot wijziging van het omgevingsplan.
+Deze noodmaatregel zorgt ervoor dat de provincies/ GS kunnen besluiten dat een onderdeel van een besluit tot vaststelling of wijziging van een omgevingsplan geen deel daarvan uitmaakt. De reactieve interventie alleen kan bestaan uit het verwijderen van (delen van) regels uit het besluit tot wijziging van het omgevingsplan.
 
 Het toepassen van deze noodmaatregel door de provincies is totdat de zij het Omgevingswet instrument reactieve interventie wel conform de STOP/TPOD standaarden kunnen bekendmaken en beschikbaar stellen via het DSO-LV.
 
