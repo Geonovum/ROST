@@ -1,4 +1,4 @@
-## Opstellen wijzigingsbesluit projectbesluit
+## Wijzigingsbesluit projectbesluit
 
 ### Technische uitgangspunten
 

@@ -1,19 +1,16 @@
 ## Inleiding
 
-### Aanleiding
-
 TO DO
 
-### De werkafspraak
+### Werkafspraak en handreiking
 
 TO DO
-
-
-### Leeswijzer
-
-TO DO 
 
 ### Doel van de handreiking
 
 TO DO
+
+### Leeswijzer
+
+TO DO 
 

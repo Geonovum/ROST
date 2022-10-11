@@ -1,4 +1,4 @@
-## Opstellen wijzigingsbesluit omgevingsverordening
+## Wijzigingsbesluit omgevingsverordening
 
 ### Technische uitgangspunten
 
