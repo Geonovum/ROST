@@ -4,7 +4,7 @@ Technisch gezien maakt de provincie het projectbesluit conform de RO Standaarden
 - het IMRO2012 plantype inpassingsplan;
 - met STRI2012 manifest beschikbaarstelling en ontsluiting via Ruimtelijkeplannen.nl.
 
-Een projectbesluit opgesteld met behulp van TAM in plaats van de STOP/TPOD standaarden, moet herkenbaar zijn. Dit is belangrijk voor een goede validatie en ten behoeve van de overbruggingsfunctie naar de landelijke voorziening Digitaal Stelsel Omgevingswet. Daarom leggen we in deze werkafspraak de naamgeving vast: 
+Een projectbesluit dat is opgesteld met behulp van TAM-projectbesluit, in plaats van met de STOP/TPOD-standaard, moet herkenbaar zijn. Dit is belangrijk voor een goede validatie en ten behoeve van de overbruggingsfunctie naar de landelijke voorziening Digitaal Stelsel Omgevingswet. Daarom leggen we in deze werkafspraak de naamgeving vast: 
 
 Werkafspraak: de naam van het plan is ‘TAM-projectbesluit[spatie][plannaam]’
 
@@ -44,7 +44,7 @@ De werkafspraak is samengevat in Tabel 1.
 </tbody>
 </table>
 
-Het publiceren van een Omgevingswet projectbesluit met behulp van TAM-projectbesluit gaat op dezelfde wijze als het Wro inpassingsplan: met de RO Standaarden 2012. Vooraf kan met de validator van pilot.Ruimtelijkeplannen.nl worden gecontroleerd of het besluit valide is, van belang is de naamgeving conform deze werkafspraak.
+Het publiceren van een Omgevingswet-projectbesluit met behulp van TAM-projectbesluit gaat op dezelfde wijze als het Wro inpassingsplan: met de RO Standaarden 2012. Vooraf kan met de validator van pilot.Ruimtelijkeplannen.nl worden gecontroleerd of het besluit valide is, van belang is de naamgeving conform deze werkafspraak.
 
-TAM-projectbesluiten worden weergegeven in de viewer Regels op de Kaart (omgevingsloket) Er is geen sturing op de weergave met de RO Standaarden mogelijk, en daarmee ook niet op TAM-projectbesluiten.
+TAM-projectbesluiten worden weergegeven in de DSO-viewer(s) van het Omgevingsloket. Voor het Wro-inpassingsplan geldt dat de RO Standaarden de provincies geen mogelijkheid bieden om zelf invloed uit te oefenen op de weergave op de kaart. Datzelfde geldt voor TAM-projectbesluiten.
 
