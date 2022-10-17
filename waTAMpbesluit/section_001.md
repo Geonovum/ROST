@@ -1,6 +1,6 @@
 ## Aanleiding 
 
-Tijdelijke Alternatieve Maatregelen (TAM) zijn er voor het geval overheden niet op tijd kunnen aansluiten op het DSO of wanneer DSO bijvoorbeeld op een onderdeel niet op tijd klaar is. De minister wil voorkomen dat hierdoor bij gemeenten, provincies en het Rijk eventuele woningbouwontwikkelingen of ontwikkelingen zoals op het gebied van de energietransitie vertraging oplopen.
+Tijdelijke Alternatieve Maatregelen (TAM) zijn er voor het geval overheden niet op tijd kunnen aansluiten op het DSO of wanneer het DSO bijvoorbeeld op een onderdeel niet op tijd klaar is. De minister wil voorkomen dat hierdoor bij gemeenten, provincies en het Rijk eventuele woningbouwontwikkelingen of ontwikkelingen zoals op het gebied van de energietransitie vertraging oplopen.
 
 Het projectbesluit is gericht op het uitvoeren van een project en het in werking hebben of in stand houden daarvan. Het heeft betrekking op projecten waar een nationaal, provinciaal of waterstaatsbelang mee gemoeid is of waar een privaat belang samenvalt met een publiek belang, zoals de aanleg van een windpark. Voor een aantal categorieën van projecten is het vaststellen van een projectbesluit verplicht, voor andere projecten van publiek belang is het mogelijk om een projectbesluit vast te stellen. In beide gevallen wordt de projectprocedure toegepast. Het uitvoeren van een (vaak) complex project in de fysieke leefomgeving door middel van het projectbesluit mag niet onmogelijk zijn als de DSO-keten nog niet (helemaal) werkt.
 
