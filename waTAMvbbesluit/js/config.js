@@ -4,7 +4,7 @@ var respecConfig =
   specStatus: "GN-WV",
   specType: "WA",
   license: "cc-by-nd",
-  publishDate: "2022-09-07",
+  publishDate: "2022-10-24",
   authors: [
     {
       name: "beheerder RO Standaarden",
@@ -17,5 +17,5 @@ var respecConfig =
   github: "https://github.com/Geonovum/ROST/",
   issueBase: "https://github.com/Geonovum/ROST/issues/",
   edDraftURI: "https://Geonovum.github.io/ROST/",
-  generatedSubtitle: "Werkversie 7 september 2022"
+  generatedSubtitle: "Werkversie 24 oktober 2022"
 }
