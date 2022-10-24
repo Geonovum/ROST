@@ -7,7 +7,7 @@ Het Wro planfiguur (IMRO plantype) ‘voorbereidingsbesluit’ wordt na de inwer
 
 Deze TAM geldt voor gemeenten, provincies en het Rijk. Voor pronvincies geldt dat zij in twee situaties kunnen besluiten tot het nemen van een voorbereidingsbesluit:
 - een voorbereidingsbesluiten gericht op de omgevingsverordening;
-- een voorbereidingsbesluiten gericht op het omgevingsplannen. 
+- een voorbereidingsbesluiten gericht op het omgevingsplan. 
 
 
 
