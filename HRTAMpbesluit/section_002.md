@@ -14,6 +14,7 @@ Deze onderdelen van het Omgevingswet instrument worden technisch met behulp van 
 
 Het projectbesluit wordt opgesteld met Wro plansoftware die de provincies gebruiken in het het kader van de Wro. De software maakt gebruik van de RO Standaarden 2012. 
 Voor de TAM projectbesluit worden de RO Standaarden niet aangepast. De plansoftware wordt ook niet aangepast. 
+Voor de naamgeving van de objecten in de TAM projectbesluit op basis van het Wro inpassingplan moet strikt de technische voorschriften van de van de Standaard Vergelijkbare Bestemmingsplannen (SVBP2012) moeten worden gevolgd, inclusief de vrijheden en mogelijkheden voor 'eigen' objecten die de SVBP2012 biedt.  
 
 
 ### Gebruik IMRO
@@ -76,7 +77,15 @@ gebruik van Wro instrument inpassingplan
 #### TAM projectbesluit
 
 TO DO:
-- gebruik van SVBP 
+
+beschrijving wat komt waar. Hoofdelementen 
+- Besluit
+- Regeling
+-- regeling vrije tekst
+-- tijdelijk regelingdeel
+
+vanaf sheet 26 hier verwerken 
+
 
 
 
