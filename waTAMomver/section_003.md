@@ -15,7 +15,7 @@ De omgevingsverordening kan met behulp van IMRO2012 alleen op objectniveau worde
 
 Voor de  objecten 'Besluitvlak_P' en 'Besluitsubvlak_P' wordt net als bij de Wro provinciale verordening, ook met de TAM-omgevingsverordening een representatie meegegeven die met een duidelijke structuur het plan onderverdeelt in consistente onderdelen. Voor deze representatie (digitale verbeelding) moet gebruik worden gemaakt van de symboolcodelijst die bij de RO Standaarden 2012 beschikbaar is via de [Geonovum website](https://www.geonovum.nl/geo-standaarden/ro-standaarden-ruimtelijke-ordening/informatiemodel-ruimtelijke-ordening-imro2012). De symboolcodelijst beschrijft de vormgeving van de symbolen, kleuren en patronen. 
 
-Het publiceren van een Omgevingswet omgevingsverordening met behulp van TAM-omgevingsverordening gaat op dezelfde wijze als het Wro provinciale verordening: met de RO Standaarden 2012. Vooraf kan met de validator van pilot.Ruimtelijkeplannen.nl worden gecontroleerd of het besluit valide is, van belang is de naamgeving conform deze werkafspraak. De werkafspraak is samengevat in Tabel 1. 
+De werkafspraak is samengevat in Tabel 1. 
 
 <b>Tabel 1 Specifieke waarden ‘Besluitgebied’ bij een TAM-omgevingsverordening</b>
 
@@ -48,4 +48,6 @@ Het publiceren van een Omgevingswet omgevingsverordening met behulp van TAM-omge
 </tbody>
 </table>
 
-Aanvullend op deze werkafspraak is een korte handreiking beschikbaar. In deze handreiking wordt deze werkafspraak nader toegelicht en wordt aangeven op welke wijze de RO Standaarden wel of niet kunnen/moeten worden toegepast. De handreiking is te raadplegen via de [Geonovum website](https://www.geonovum.nl/geo-standaarden/ro-standaarden-ruimtelijke-ordening#Werkafspraken).
+Het publiceren van een Omgevingswet omgevingsverordening met behulp van TAM-omgevingsverordening gaat op dezelfde wijze als het Wro provinciale verordening: met de RO Standaarden 2012. Vooraf kan met de validator van pilot.Ruimtelijkeplannen.nl worden gecontroleerd of het besluit valide is, van belang is de naamgeving conform deze werkafspraak. 
+
+Aanvullend op deze werkafspraak is een korte handreiking beschikbaar. In deze handreiking wordt deze werkafspraak nader toegelicht en wordt aangeven op welke wijze de RO Standaarden wel of niet kunnen/moeten worden toegepast. De handreiking is te raadplegen via de [Geonovum website](https://www.geonovum.nl/geo-standaarden/ro-standaarden-ruimtelijke-ordening#Werkafspraken) [NOG NIET BESCHIKBAAR].
