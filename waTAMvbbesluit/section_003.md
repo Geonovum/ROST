@@ -43,5 +43,4 @@ Een voorbereidingsbesluit dat betrekking heeft op de gehele provincie krijgt als
 
 Het publiceren van een Omgevingswet voorbereidingsbesluit als TAM-voorbereidingsbesluit gaat op dezelfde wijze als het Wro voorbereidingsbesluit: met de RO Standaarden 2012. Vooraf kan met de <a href='https://pilot.ruimtelijkeplannen.nl/validator' target='_blank'>validator van pilot.Ruimtelijkeplannen.nl</a> worden gecontroleerd of het besluit valide is, van belang is de naamgeving conform deze werkafspraak.
 
-TAM-voorbereidingsbesluiten worden weergegeven in de viewer Regels op de Kaart (omgevingsloket) op dezelfde wijze als de Wro voorbereidingsbesluiten. Er is geen sturing op de weergave mogelijk met de RO Standaarden, en daarmee ook niet op TAM-voorbereidingsbesluiten.
 

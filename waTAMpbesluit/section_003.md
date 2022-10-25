@@ -68,5 +68,4 @@ Het publiceren van een Omgevingswet-projectbesluit met behulp van TAM-projectbes
 
 Aanvullend op deze werkafspraak is een korte handreiking beschikbaar. In deze handreiking wordt deze werkafspraak nader toegelicht en wordt aangeven op welke wijze de RO Standaarden wel of niet kunnen/moeten worden toegepast. De handreiking is te raadplegen via de [Geonovum website](https://www.geonovum.nl/geo-standaarden/ro-standaarden-ruimtelijke-ordening#Werkafspraken) [NOG NIET BESCHIKBAAR].
 
-TAM-projectbesluiten worden weergegeven in de DSO-viewer(s) van het Omgevingsloket. Voor het Wro-inpassingsplan geldt dat de RO Standaarden de provincies geen mogelijkheid bieden om zelf invloed uit te oefenen op de weergave op de kaart. Datzelfde geldt voor TAM-projectbesluiten.
 
