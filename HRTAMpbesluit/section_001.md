@@ -8,7 +8,7 @@ Het projectbesluit is het Omgevingswet-instrument voor het uitvoeren van een pro
 Het projectbesluit bevat:
 a.	een beschrijving van het project, de te treffen maatregelen en de toestemmingen;
 b.	de regels waarmee het projectbesluit het omgevingsplan wijzigt.
-In het [Toepassingsprofiel (TPOD)](https://geonovum.github.io/TPOD/TPOD%20Projectbesluit/TPOD_Projectbesluit_v3.0.0.pdf) projectbesluit is beschreven dat het projectbesluit bestaat uit een besluitdeel, een regeling voor het vrijetekstdeel ten behoeve van de onderdelen genoemd bij a, en een regeling met artikelstructuur ten behoeve van onderdeel b: de regels waarmee het omgevingsplan wordt gewijzigd. De laatste is juridisch gezien het tijdelijk regelingdeel. Het tijdelijk regelingdeel kan net zo vaak voorkomen als er omgevingsplannen worden gewijzigd door een projectbesluit.
+In het [Toepassingsprofiel (TPOD) projectbesluit](https://geonovum.github.io/TPOD/TPOD%20Projectbesluit/TPOD_Projectbesluit_v3.0.0.pdf) projectbesluit is beschreven dat het projectbesluit bestaat uit een besluitdeel, een regeling voor het vrijetekstdeel ten behoeve van de onderdelen genoemd bij a, en een regeling met artikelstructuur ten behoeve van onderdeel b: de regels waarmee het omgevingsplan wordt gewijzigd. De laatste is juridisch gezien het tijdelijk regelingdeel. Het tijdelijk regelingdeel kan net zo vaak voorkomen als er omgevingsplannen worden gewijzigd door een projectbesluit.
 
 ### Werkafspraak en handreiking
 
