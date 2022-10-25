@@ -1,8 +1,8 @@
 ## Werkwijze
 
-Technisch gezien maakt de provincie het projectbesluit conform de RO Standaarden 2012: 
+Technisch gezien maakt de provincie het projectbesluit conform de RO Standaarden 2012, met toepassing van: 
 - het IMRO2012 plantype inpassingsplan;
-- met STRI2012 manifest beschikbaarstelling en ontsluiting via Ruimtelijkeplannen.nl.
+- het STRI2012 manifest voor de beschikbaarstelling op de weblocatie van de bronhouder ten behoeve van de ontsluiting via Ruimtelijkeplannen.nl.
 
 Een projectbesluit dat is opgesteld met behulp van TAM-projectbesluit, in plaats van met de STOP/TPOD-standaard, moet herkenbaar zijn. Dit is belangrijk voor een goede validatie en ten behoeve van de overbruggingsfunctie naar de landelijke voorziening Digitaal Stelsel Omgevingswet. Daarom leggen we in deze werkafspraak de naamgeving vast: 
 

@@ -1,8 +1,8 @@
 ## Werkwijze
 
-Technisch gezien maakt de provincie de reactieve interventie conform de RO Standaarden 2012: 
+Technisch gezien maakt de provincie de reactieve interventie conform de RO Standaarden 2012, met toepassing van: 
 - het IMRO2012 plantype reactieve aanwijzing;
-- met STRI2012 manifest beschikbaarstelling en ontsluiting via Ruimtelijkeplannen.nl.
+- het STRI2012 manifest beschikbaarstelling op de weblocatie van de bronhouder ten behoeve van de ontsluiting via Ruimtelijkeplannen.nl.
 
 Een reactieve interventie opgesteld met behulp van TAM in plaats van de STOP/TPOD standaarden, moet herkenbaar zijn. Dit is belangrijk voor een goede validatie en ten behoeve van de overbruggingsfunctie naar de landelijke voorziening Digitaal Stelsel Omgevingswet. Daarom leggen we in deze werkafspraak de naamgeving vast:
 

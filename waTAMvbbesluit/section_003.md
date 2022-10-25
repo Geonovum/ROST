@@ -1,6 +1,8 @@
 ## Werkwijze
 
-Indien in de voorbereiding op een wijziging van het omgevingsplan, dan wel een omgevingsverordening een voorbereidingsbesluit nodig is, dan kan gebruik gemaakt worden van het IMRO-plantype ‘voorbereidingsbesluit’.
+Technisch gezien maakt de gemeente, provincie of het Rijk het voorbereidingsbesluit conform de RO Standaarden 2012, met toepassing van: 
+- het IMRO2012 plantype voorbereidingsbesluit;
+- het STRI2012 manifest beschikbaarstelling op de weblocatie van de bronhouder ten behoeve van de ontsluiting via Ruimtelijkeplannen.nl.
 
 Voorbereidingsbesluiten vallen onder IMRO2012 in de categorie ‘Gebiedsgerichte Besluiten’: feitelijk niet meer dan het plangebied met daarbinnen één of enkele gebieden (vlakken) waarvoor regels kunnen gelden. Aan het voorbereidingsbesluit is de besluittekst gekoppeld als vaststellingsbesluit en besluittekst. Het Omgevingswet voorbereidingsbesluit als TAM-voorbereidingsbesluit kan op dezelfde wijze worden gemaakt als het Wro voorbereidingsbesluit. Zie daarvoor de <a href='https://docs.geostandaarden.nl/ro/def-pr-gb2012-20181023/#voorbereidingsbesluit' target='_blank'>Praktijkrichtlijn Gebiedsgerichte Besluiten</a>, paragraaf 5.3.3.
 
