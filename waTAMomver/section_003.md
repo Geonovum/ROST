@@ -10,10 +10,10 @@ Werkafspraak: de naam van het plan is ‘TAM-omgevingsverordening[spatie][planna
 
 De met IMRO opgestelde omgevingsverordening moet door de provincie uiteindelijk worden verwerkt in de omgevingsverordening op basis van de STOP/TPOD standaard. Juridisch gezien is de TAM-omgevingsverordening een volwaardige wijziging van de omgevingsverordening onder de Omgevingswet. Inhoudelijk moet deze wijziging van de omgevingsverordening voldoen aan de eisen vanuit de Omgevingswet.
 
-Een omgevingswetbesluit kent geen object ‘plangebied’. Voor de validatie is het wel noodzakelijk om een plangebied op te nemen omdat de naam van het plan leidend is bij het al dan niet doorlaten van het plan bij Ruimtelijkeplannen.nl.
-De omgevingsverordening kan met behulp van IMRO2012 alleen op objectniveau worden gemodelleerd. Er kunnen bijvoorbeeld geen annotaties worden opgenomen, zoals dit met TPOD standaarden wel kan.
-
+Een omgevingswetbesluit kent geen object ‘plangebied’. Voor de validatie van de middels de TAM opgestelde provinciale verordeningis het wel noodzakelijk om een plangebied op te nemen. Hiervoor maken we gebruik van het object 'Besluitgebied_P'
 Voor de  objecten 'Besluitvlak_P' en 'Besluitsubvlak_P' wordt net als bij de Wro provinciale verordening, ook met de TAM-omgevingsverordening een representatie meegegeven die met een duidelijke structuur het plan onderverdeelt in consistente onderdelen. Voor deze representatie (digitale verbeelding) moet gebruik worden gemaakt van de symboolcodelijst die bij de RO Standaarden 2012 beschikbaar is via de [Geonovum website](https://www.geonovum.nl/geo-standaarden/ro-standaarden-ruimtelijke-ordening/informatiemodel-ruimtelijke-ordening-imro2012). De symboolcodelijst beschrijft de vormgeving van de symbolen, kleuren en patronen. 
+
+De omgevingsverordening kan met behulp van IMRO2012 alleen op objectniveau worden gemodelleerd. Er kunnen bijvoorbeeld geen annotaties worden opgenomen, zoals dit met TPOD standaarden wel kan.
 
 De werkafspraak is samengevat in Tabel 1. 
 
