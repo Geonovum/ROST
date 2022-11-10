@@ -9,6 +9,7 @@
 //-------------------------------------------------------------------------------------
 //-- Log . . . :  20181015 - JvG - Initiele versie 
 //--              20191001 - GRK - Aanpassing voor PRSV2012 v1.1.4
+//--              20221110 - GRK - Aanpassing voor PRSV2012 v1.1.5 verwijzing naar STRI2012 v2.0
 //-------------------------------------------------------------------------------------
 
 //-------------------------------------------------------------------------------------
@@ -31,7 +32,7 @@ var respecConfig =
   format: "markdown",                 // altijd "markdown"     
   //-- publishDate is verplicht -------------------------------------------------------
   //-- NB: in de werkversie uitzetten, want dan pakt Respec de pushdate ---------------
-  publishDate: "2018-10-23",  	    // Format is "YYYY-MM-DD"
+  publishDate: "2022-11-23",  	    // Format is "YYYY-MM-DD"
   //-- de namen van de Editor(s) ------------------------------------------------------
   //-- vul in: per Editor: name:, company:, companyURL: -------------------------------
   //-- de github repository waar je documentn in staat --------------------------------
@@ -41,7 +42,7 @@ var respecConfig =
   {
       name:       "Beheerteam DRO",
       company:    "Geonovum",
-      companyURL: "https://www.geonovum.nl"
+      companyURL: "https://www.geonovum.nl/geo-standaarden/ro-standaarden-ruimtelijke-ordening"
     }, 
 //    {
 //      name:       "Editor-2",
@@ -54,9 +55,9 @@ var respecConfig =
   authors: 
   [
     {
-      name:       "Beheerteam DRO",
+      name:       "Geonovum",
       company:    "Geonovum",
-      companyURL: "https://www.geonovum.nl/geo-standaarden/ro-standaarden-ruimtelijke-ordening"
+      companyURL: "https://www.geonovum.nl"
     }, 
   ],
   //-- shortName is verplicht! (komt in de URL: kies logische naam) --------------------
