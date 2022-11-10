@@ -147,7 +147,7 @@ Praktijkrichtlijn Provinciale Verordening (PRPV2012).
 Betreft een door de provincie op te stellen instrument, zijnde een verordening
 waarin re­gels worden gesteld omtrent de inhoud van bestemmingsplannen,
 beheersverordeningen en van omgevingsvergunningen waarbij met toepassing van
-[artikel 2.12, eerste lid, onderdeel a, onder 30, van de Wet algemene bepalingen
+[artikel 2.12, eerste lid, onderdeel a, onder 3<sup>0</sup>, van de Wet algemene bepalingen
 omgevingsrecht](http://wetten.overheid.nl/BWBR0024779/geldigheidsdatum_22-11-2011#Hoofdstuk2_23_Artikel212)
 (Wabo) van het bestemmingsplan of de beheersverordening wordt afgeweken, al
 dan niet voor een daarbij aangegeven ge­deel­te van het grondgebied van de
