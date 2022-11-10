@@ -46,9 +46,9 @@ oorspronkelijke algemene maatregel van bestuur of ministeriële regeling worden
 geraadpleegd. Daarmee wordt de volledige digitale representatie van een algemene
 maatregel van bestuur of ministeriële regeling vastgelegd.
 
-De amvb of mr is een instrument waarmee door de minister van Infrastructuur en
-Milieu (IenM) of de minister die verantwoordelijk is voor het desbetreffende
-beleidsterrein in overeenstemming met de minister van IenM regels kunnen worden
+De amvb of mr is een instrument waarmee door de minister van het ministerie van 
+Binnenlandse Zaken & koninkrijksrelaties (BZK) of de minister die verantwoordelijk is 
+voor het desbetreffende beleidsterrein in overeenstemming met de minister van BZK regels kunnen worden
 gegeven omtrent de inhoud van bestemmingsplannen en provinciale
 inpassingsplannen, daaraan voorafgaande projectbesluiten en van
 beheersverordeningen, al dan niet voor een daarbij aangegeven gedeelte van het
@@ -92,8 +92,8 @@ instrumenten. Dit zijn de RO standaarden 2012.
 In de Rsro is bepaald dat bij de digitalisering van ruimtelijke instrumenten
 gebruik moet worden gemaakt van IMRO2012. Dit informatiemodel is de standaard
 voor de beschrijving en codering van ruimtelijke instrumenten. IMRO2012 is
-gebaseerd op het Basis­model Geo-Informatie (NEN 3610: 2011). Dit Basismodel
-kent een aantal objectklassen en at­tributen waarmee aan het aardoppervlak
+gebaseerd op het Basis­model Geo-Informatie (NEN3610: 2011, en herziening 2022). Dit Basismodel
+kent een aantal objectklassen en attributen waarmee aan het aardoppervlak
 gerelateerde ruimtelijke objecten kunnen worden ge­codeerd. IMRO2012 gebruikt
 slechts één van deze objectklassen, namelijk PlanologischGe­bied.
 Met IMRO wordt de inhoud (representatie van de werkelijkheid) digitaal
@@ -147,9 +147,9 @@ regeling is dit deze Praktijkrichtlijn Algemene Maatregel van Bestuur
 (PRAMvB2012).  
 
 **de amvb (algemene maatregel van bestuur): artikel 4.3 Wro**  
-De amvb is een instrument waarmee door de minister van IenM of door de minister
+De amvb is een instrument waarmee door de minister van BZK of door de minister
 verantwoordelijk voor het desbetreffende beleidsterrein in overeenstemming met
-de minister van IenM regels kunnen worden gegeven omtrent de inhoud van
+de minister van BZK regels kunnen worden gegeven omtrent de inhoud van
 bestemmingsplannen en provin­ciale inpassingsplannen, daaraan voorafgaande
 projectbesluiten en van beheersverordenin­gen, al dan niet voor een daarbij
 aangegeven gedeelte van het land.  
