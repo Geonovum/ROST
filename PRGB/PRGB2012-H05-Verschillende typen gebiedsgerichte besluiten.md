@@ -144,7 +144,7 @@ juli 2013 beschikbaar moet worden gesteld. Een exploitatieplan kan alleen in een
 
 [^3]: Wijziging van het Bro per 1 oktober 2012, zie toelichting wettelijke
 bepalingen op de Geonovum website:
-http://www.geonovum.nl/dossiers/rostandaarden/destandaarden
+https://www.geonovum.nl/geo-standaarden/ro-standaarden-ruimtelijke-ordening
 
 De Vereniging Nederlandse Gemeenten (VNG) heeft eind 2010 een handleiding voor
 het exploitatieplan opgesteld[^4]. Op basis hiervan zijn de specifieke waarden
@@ -152,7 +152,7 @@ voor het besluitgebied in Tabel 9 opgesteld. In deze uitwerking is voor het
 overzicht niet gebruik gemaakt van objectgerichte planteksten, maar dit is
 natuurlijk wel mogelijk.
 
-[^4]: Zie: http://www.vng.nl/smartsite.dws?id=101954 en https://vng.nl/files/vng/vng/Documenten/Extranet/Ruimte/2010/20101122_Handreikingexploitatieplan.pdf
+[^4]: Zie: https://vng.nl/files/vng/vng/Documenten/Extranet/Ruimte/2010/20101122_Handreikingexploitatieplan.pdf
 
 Attributen en waarden  
 Een van de waarden van *typeTekst* is regels. De regels worden gekoppeld aan het
@@ -225,7 +225,7 @@ treedt. Deze informatie wordt als dossierstatus in het manifest opgenomen[^6].
 
 [^6]: Zie hiervoor de toelichting in paragraaf 5.7 van de Praktijkrichtlijn
 Toegankelijkheid Ruimtelijke Instrumenten (PRTRI2012), zie
-[http://www.geonovum.nl/onderwerpen/ruimtelijke-ordening-standaarden?tab=standaarden].
+https://www.geonovum.nl/geo-standaarden/ro-standaarden-ruimtelijke-ordening/praktijkrichtlijn-toegankelijkheid-ruimtelijke.
 
 Attributen en waarden  
 De *typeTekst* bij een gerechtelijke uitspraak is het besluitdocument. Het
@@ -295,7 +295,7 @@ De omgevingsvergunning om af te wijken van een bestemmingsplan wordt als een
 gebiedsgericht besluit beschikbaar gesteld door de bronhouder. Doordat de
 bronhouder de kennisgeving conform de RO Standaarden beschikbaar stelt op haar
 weblocatie, wordt deze opgehaald door de landelijke voorziening[^9] en is te
-raadplegen via www.ruimtelijkeplannen.nl[^10]. Voor andere onderdelen dan het
+raadplegen via https://www.ruimtelijkeplannen.nl/ [^10]. Voor andere onderdelen dan het
 hier genoemde type omgevingsvergunning kent de Wabo geen verplichting tot
 elektronische beschikbaarstelling van een omgevingsvergunning.
 
