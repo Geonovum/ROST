@@ -98,12 +98,12 @@ Voor IMROPT2012 geldt sinds juni 2013 een werkafspraak met betrekking tot het
 toevoegen van een objecttype. Vanaf publicatie van deze werkafspraak tot het
 tijdstip van inwerkingtreden van vernieuwde RO Standaarden of
 omgevingstandaarden dan wel nader bericht van de beheerder van de RO Standaarden
+geldt de werkafspraak. 
+De werkafspraak is beschikbaar via de Geonovum website  
+[RO Standaarden – Ruimtelijke Ordening](http://www.geonovum.nl/onderwerpen/ruimtelijke-ordening-standaarden?tab=documenten](http://www.geonovum.nl/onderwerpen/ruimtelijke-ordening-standaarden?tab=documenten) 
 
-geldt de werkafspraak. De werkafspraak is beschikbaar via de Geonovum
-website  
-[http://www.geonovum.nl/onderwerpen/ruimtelijke-ordening-standaarden?tab=documenten](http://www.geonovum.nl/onderwerpen/ruimtelijke-ordening-standaarden?tab=documenten)  
 of direct:  
-[http://www.geonovum.nl/sites/default/files/IMROPT2012%20toevoegen%20objecttype%20%28sub%29lid.pdf](http://www.geonovum.nl/sites/default/files/IMROPT2012%20toevoegen%20objecttype%20%28sub%29lid.pdf)  
+[Objectgerichte planteksten; IMROPT2012 toevoegen objecttype (sub)lid](https://docs.geostandaarden.nl/ro/def-wa-waIMROPT-20130611/)
 
 ## Leeswijzer
 In [Hoofdstuk 2](#H02) wordt er ingegaan op wat objectgerichte teksten zijn en welke
