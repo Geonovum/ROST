@@ -1,5 +1,6 @@
 ## Inleiding
 
+Er is niet voorzien in overgangsrecht voor de omgevingsverordening. Streven is dat de provincies hun omgevingsverordeningen op het moment van inwerkingtreding van de Omgevingswet hebben vastgesteld en bekendgemaakt.
 De provincie moet voor de inwerkingtreding van de Omgevingswet een ontwerp-omgevingsverordening en een definitieve omgevingsverordening publiceren. Daarna volgen wijzigingsbesluiten. Zowel de initiële omgevingsverordening als de wijzigingsbesluiten kunnen worden gemaakt met behulp van de werkafspraak TAM-omgevingsverordening. Juridisch gezien is de TAM-omgevingsverordening een volwaardige wijziging van de omgevingsverordening onder de Omgevingswet. Inhoudelijk moet deze wijziging van de omgevingsverordening voldoen aan de eisen vanuit de Omgevingswet. De met IMRO opgestelde omgevingsverordening moet door de provincie uiteindelijk worden verwerkt in de omgevingsverordening op basis van de STOP/TPOD standaard. 
 
 ### Werkafspraak en handreiking
