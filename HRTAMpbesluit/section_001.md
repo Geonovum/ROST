@@ -13,9 +13,9 @@ In het [Toepassingsprofiel (TPOD) projectbesluit](https://geonovum.github.io/TPO
 ### Werkafspraak en handreiking
 
 Met de werkafspraak TAM-projectbesluit wordt provincies en het Rijk de mogelijkheid geboden om een Omgevingswet-projectbesluit op te stellen op basis van de RO Standaarden 2012, en te publiceren via Ruimtelijkeplannen.nl en de overbruggingsfunctie van het Informatiehuis Ruimte naar het Digitaal Stelsel Omgevingswet. 
-Onder de Omgevingswet hebben ook de waterschappen de bevoegdheid een projectbesluit vast te stellen. Deze werkafspraak is echter niet voor de waterschappen bedoeld omdat zij onder huidig recht geen instrumenten opstellen waarop de RO Standaarden van toepassing zijn.
+Onder de Omgevingswet hebben ook de waterschappen de bevoegdheid een projectbesluit vast te stellen. Deze werkafspraak is echter niet voor de waterschappen bedoeld, omdat zij onder huidig recht geen instrumenten opstellen waarop de RO Standaarden van toepassing zijn.
 
-De onderdelen van de TAM-projectbesluit voor pronvincies en het Rijk zijn: 
+De onderdelen van de TAM-projectbesluit voor provincies en het Rijk zijn: 
 - de werkafspraak TAM-projectbesluit;
 - validatieregels, geimplementeerd in de validator van Ruimtelijkeplannen.nl;
 - deze technische handreiking.
