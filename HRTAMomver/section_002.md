@@ -1,12 +1,16 @@
-## Wijzigingsbesluit omgevingsverordening
+## Omgevingsverordening
+
+initiële omgevingsverordening
+wijzigingsbesluiten
+
+hoofdregeling vs. tijdelijke regelingdelen, invloed voorbereidingsbesluit - geconsolideerde versie alleen mogelijk met heulp van STOP/ TPOD standaarden. 
+
 
 ### Technische uitgangspunten
 
 TO DO
 
-### Gebruik IMRO objecten
-
-#### Objectkeuze 
+### Gebruik IMRO 
 
 TO DO 
 
