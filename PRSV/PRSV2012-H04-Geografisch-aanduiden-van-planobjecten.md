@@ -4,8 +4,8 @@
 structuurvisies niet alleen om de inhoud, maar ook om een bepaalde visie over te
 brengen. De verbeelding, in één of meerdere kaarten, is hierbij een handig
 instrument. Het is van belang hierbij in het oog te houden dat de wijze waarop
-een kaart wordt getoond qua kleur en volgorde van de planobjecten per viewer kan**
-verschillen.
+een kaart wordt getoond qua kleur en volgorde van de planobjecten per viewer kan
+verschillen.**
 
 ## Kaart(en)
 
