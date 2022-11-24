@@ -275,3 +275,4 @@ arcering dichter of opener weer te geven.
 
 ![](media/4eff0961615ab07392bc7c6466bb5d50.png)  
 **Figuur 10 Weergave gebiedsaanduidingen op de analoge bestemmingsplankaart**
+

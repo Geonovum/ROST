@@ -7,8 +7,7 @@ hoofdstuk de eisen voor de bestandsnamen toegelicht.**
 Ieder ruimtelijk instrument kent een eigen identificatienummer (idn). Deze
 identificatie maakt het mogelijk dat op landelijk niveau een uniek onderscheid
 voor ieder instrument aanwezig is. Voor de invulling hiervan wordt eerst
-vermeld: "NL.IMRO." of “NL.IMWE” indien het een Welstandsnota betreft,
-vervolgens wordt het CBS-nummer van de bronhouder opgenomen (voor het Rijk:
+vermeld: "NL.IMRO.", vervolgens wordt het CBS-nummer van de bronhouder opgenomen (voor het Rijk:
 0000), gevolgd door een punt (.) en aansluitend een unieke naam van maximaal 18
 tekens, een koppelteken, ASCII 45 (-) en een versiecode van maximaal 4
 alfanumeriek tekens, beide laatstgenoemde door de bronhouder te bepalen. De
@@ -26,7 +25,6 @@ Voorbeelden van geldige (maar wel fictieve) idn's:
 NL.IMRO.1234.A-0001  
 NL.IMRO.5678.centrumgebied-0012  
 NL.IMRO.1111.structuurvisie2012-AD12  
-NL.IMWE.5678.Welstandsnota2014-VG01  
 
 Het gedeelte van het identificatienummer tot aan het liggend streepje wordt het
 dossiernummer genoemd. Dit wordt van belang in Hoofdstuk 5.
@@ -35,13 +33,12 @@ Voorbeelden van geldige (maar wel fictieve) dossiernummers:
 NL.IMRO.1234.A  
 NL.IMRO.5678.centrumgebied  
 NL.IMRO.1111.structuurvisie2012  
-NL.IMWE.5678.Welstandsnota2014  
 
 ## Bestandsnaam vereisten
 Voor ieder onderdeel van ieder ruimtelijk instrument worden eisen gesteld aan de
 bestandsnaam van het bronbestand. De bestandsnaam kent de volgende opbouw:
 
--   Voor alle onderdelen behalve het IMRO / IMWE GML begint de bestandsnaam met
+-   Voor alle onderdelen behalve het IMRO-GML begint de bestandsnaam met
     een aanduiding van het type onderdeel als één of twee karakters zoals
     gegeven in tabel 1 en tabel 2 van de STRI2012, gevolgd door een underscore
     (_);
@@ -63,4 +60,3 @@ Voorbeelden van geldige (maar wel fictieve) bestandsnamen:
 NL.IMRO.1234.A-0001.gml  
 vb_NL.IMRO.5678.centrumgebied-0012.html  
 b_NL.IMRO.1111.structuurvisie2012-AD12_bijlage.pdf  
-pt_NL.IMWE.5678.Welstandsnota2014.xml  

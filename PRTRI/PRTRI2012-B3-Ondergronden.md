@@ -21,16 +21,11 @@ uitwisselbaarheid van deze ondergronden te verbeteren. De Raad van State
 schrijft één van de onderstaande bestandsformaten voor:
 
 -   Vectorformaten:  
-	-   AutoCAD DXF[^20]
-	-   ESRI shape (incl. verbeelding) in 2D[^21]
+	-   [AutoCAD© DXF](https://en.wikipedia.org/wiki/AutoCAD_DXF)
+	-   [ESRI© shape (incl. verbeelding) in 2D](http://www.esri.com/library/whitepapers/pdfs/shapefile.pdf)
 	-   GML
 -   Rasterformaten
 	-   JPEG 2000
-
-[^20]: AutoCAD© DXF: voor AutoCAD 13, 14 en 2000 – 2012,  
-http://usa.autodesk.com/adsk/servlet/item?siteID=123112&id=12272454&linkID=10809853  
-[^21]: ESRI© shape: july 1998,  
-http://www.esri.com/library/whitepapers/pdfs/shapefile.pdf  
 
 Waarbij geldt:  
 -   Voor de ondergronden is alleen de geometrie bepalend. Attributen en layer

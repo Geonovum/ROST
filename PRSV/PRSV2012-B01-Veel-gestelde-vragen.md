@@ -28,7 +28,7 @@ het opstellen van een digitale structuurvisie.
      als los bestand met als verplichte naamgeving:  
      vb_IDN.pdf (of .xhtml of .html). Voor meer informatie zie de STRI2012[^11].
 
-[^11] (http://ro-standaarden.geonovum.nl/2012/STRI/1.1/STRI2012-v1.1.pdf)
+[^11] (https://ro-standaarden.geonovum.nl/2012/STRI/2.0/STRI2012-v2.0.pdf)
 
 4.  *Hoe ga ik om met herzieningen?*  
 Dit is nader toegelicht in [Bijlage 3](#B03).

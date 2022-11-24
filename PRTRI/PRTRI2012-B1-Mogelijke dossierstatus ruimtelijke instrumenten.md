@@ -148,16 +148,3 @@ vaststellen ervan onherroepelijk wordt, kent het uitsluitend de dossierstatussen
 'in voorbereiding', 'geheel onherroepelijk in werking', 'vervallen' en
 'geconsolideerd'.
 
-**Welstandsnota**  
-Gemeenten kunnen één of meer welstandsnota’s vaststellen. In een welstandsnota
-wordt het te voeren welstandsbeleid vastgelegd middels beleidsregels waarin in
-ieder geval de criteria zijn opgenomen die het bevoegd gezag toepast.  
-1.  Er wordt een ontwerp-welstandsnota ter inzage gelegd waartegen zienswijzen
-    of inspraakreacties kunnen worden ingediend.
-2.  Tegen de vastgestelde welstandsnota kan geen beroep worden ingesteld en geen
-    bezwaarschrift worden ingediend.  
-
-Door de mogelijkheid van een voorbereidingsprocedure en doordat de welstandsnota
-direct na het vaststellen ervan onherroepelijk wordt, kent het uitsluitend de
-dossierstatussen 'in voorbereiding' en 'geheel onherroepelijk in werking',
-'vervallen' en 'geconsolideerd'.’

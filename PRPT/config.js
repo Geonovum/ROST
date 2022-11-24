@@ -8,7 +8,8 @@
 //-------------------------------------------------------------------------------------
 //-------------------------------------------------------------------------------------
 //-- Log . . . :  20181015 - JvG - Initiele versie 
-//-- Log . . . :  20191022 - GRK - PRPT2012 
+//-- Log . . . :  20191022 - GRK - PRPT2012
+//-- Log . . . :  20221111 - GRK - PRPT2012 aanpassing link
 //-------------------------------------------------------------------------------------
 
 //-------------------------------------------------------------------------------------
@@ -31,7 +32,7 @@ var respecConfig =
   format: "markdown",                 // altijd "markdown"     
   //-- publishDate is verplicht -------------------------------------------------------
   //-- NB: in de werkversie uitzetten, want dan pakt Respec de pushdate ---------------
-  publishDate: "2015-12-14",  	    // Format is "YYYY-MM-DD"
+  publishDate: "2022-11-23",  	    // Format is "YYYY-MM-DD"
   //-- de namen van de Editor(s) ------------------------------------------------------
   //-- vul in: per Editor: name:, company:, companyURL: -------------------------------
   //-- de github repository waar je documentn in staat --------------------------------
@@ -54,7 +55,7 @@ var respecConfig =
   authors: 
   [
     {
-      name:       "Beheerteam DRO",
+      name:       "Geonovum",
       company:    "Geonovum",
       companyURL: "https://www.geonovum.nl"
     }, 

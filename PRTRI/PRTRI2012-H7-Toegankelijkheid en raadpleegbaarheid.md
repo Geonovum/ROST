@@ -14,7 +14,8 @@ manieren tot uitdrukking:
     instrument behorende bestanden.  
 
 De relaties tussen bestanden, Manifest, digitale verbeelding en hun onderlinge
-functies en relaties worden weergegeven in Figuur 5.  
+functies en relaties worden weergegeven in Figuur 5. 
+ 
 ![](media/22538695c7857efe5940c206e8f211b3.png)  
 **Figuur 5 Relaties tussen bestanden, Manifest en verbeelding**
 
@@ -28,8 +29,8 @@ worden gevonden door afnemers. Er zijn twee soorten afnemers:
 -   Computersystemen. De digitale instrumenten moeten ook vindbaar worden voor
     externe systemen. Hiervoor is het Manifest bedoeld. Om het Manifest van
     iedere bronhouder eenvoudig te kunnen vinden op internet, wordt het webadres
-    van ieder Manifest door de bronhouder aangemeld bij de Index Internet
-    Publicatie binnen de landelijke voorziening RO[^17]. De Index beschikt over
+    van ieder Manifest door de bronhouder aangemeld bij de [Index Internet
+    Publicatie](https://www.ruimtelijkeplannen.nl/web-roi/index/) binnen de landelijke voorziening RO. De Index beschikt over
     actuele links naar alle Manifesten van alle bronhouders. Daarmee is ieder
     ruimtelijk instrument altijd in drie stappen ontsloten voor een extern
     systeem: ten eerste wordt de Index service geraadpleegd voor het juiste
@@ -38,7 +39,6 @@ worden gevonden door afnemers. Er zijn twee soorten afnemers:
     tenslotte verwijst het Manifest door naar de webadressen van de individuele
     ruimtelijke instrumenten.  
 
-    [^17]: Zie: http://index.ruimtelijkeplannen.nl/
 
 ![](media/d021490674f0f3d3973e42d752c8ea00.png)  
 In Figuur 6 is het zoeken en vinden door beide soorten afnemer schematisch
@@ -47,19 +47,17 @@ weergegeven.
 **Figuur 6 Zoekproces**  
 Een belangrijk aspect van ieder ruimtelijk instrument is de volledige,
 toegankelijke raadpleegbaarheid door middel van een cartografische visualisatie
-die wordt gegenereerd uit de IMRO- / IMWE-bestanden, en die samen met de overige
+die wordt gegenereerd uit de IMRO-bestanden, en die samen met de overige
 inhoud beschikbaar worden gesteld. Dit wordt de digitale verbeelding van het
 instrument genoemd. Het beschikbaar maken van een digitale verbeelding is nodig
-omdat de IMRO- / IMWE-bestanden zelf voor veel afnemers niet direct bruikbaar
-zullen zijn. De landelijke voorziening RO[^18] is wettelijk verantwoordelijk
+omdat de IMRO-bestanden zelf voor veel afnemers niet direct bruikbaar
+zullen zijn. De [landelijke voorziening RO](http://www.ruimtelijkeplannen.nl/) is wettelijk verantwoordelijk
 voor deze raadpleegbaarheid. De bronhouder kan ook zelf een verbeelding
 verzorgen, bijvoorbeeld op de eigen website. Deze digitale verbeelding is een
 interactieve raadpleegomgeving die afgeleid is uit de authentieke informatie. De
 digitale verbeelding ontsluit de gehele inhoud van het instrument. Voor
 bestemmingsplannen en inpassingsplannen wordt de digitale verbeelding gemaakt
 volgens de Standaard voor Vergelijkbare Bestemmingsplannen SVBP2012.
-
-[^18]: Zie: http://www.ruimtelijkeplannen.nl/
 
 De landelijke voorziening RO toont de ruimtelijke instrumenten van de bronhouder
 ook in onderlinge samenhang. Dit betekent op zijn minst dat de landelijke
@@ -96,7 +94,7 @@ indien nodig gemotiveerd van afwijken.
 Wanneer de bronhouder kiest voor het gebruik van een eigen ondergrond, moet deze
 een duidelijke naam hebben en bij voorkeur een bestandsformaat dat door derden
 ontvangen en begrepen kan worden. Een lijst van bestandsformaten is opgenomen in
-[Bijlage 3](B03).  
+[Bijlage 3](#B03).  
 
 Conform IMRO2012 is het bij de ruimtelijke instrumenten alleen mogelijk
 ondergronden te gebruiken van de volgende basisregistratie(s):  

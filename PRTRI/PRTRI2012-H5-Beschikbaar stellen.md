@@ -21,13 +21,13 @@ raadpleegomgeving wordt gebruikt.
 Bijvoorbeeld, als een instrument met idn NL.IMRO.1111.visie2012-0012 beschikbaar
 gesteld wordt in de virtuele directory:  
 
-<div style="display: inline">http://ro.durperdam.nl/visie2012/0012/ </div>
+ht<span>tp://ro.durperdam.nl/visie2012/0012/<sup>[1]</sup>
 
 dan worden alle bij dit instrument behorende bestanden direct in deze virtuele
 directory geplaatst.
 
 Het IMRO GML bestand van dit instrument wordt dus beschikbaar gesteld op:  
-http://ro.durperdam.nl/visie2012/0012/NL.IMRO.1111.visie2012-0012.gml  
+ht<span>tp://ro.durperdam.nl/visie2012/0012/NL.IMRO.1111.visie2012-0012.gml  
 
 Beschikbaar stellen van elementen binnen een andere virtuele directory of in een
 subdirectory binnen de virtuele directory is niet toegestaan. Het is dus niet
@@ -35,20 +35,22 @@ toegestaan het GML bestand bijvoorbeeld als volgt beschikbaar te stellen
 (foutieve elementen <u>onderstreept</u> 
 en in <r>rood</r>):  
 
-http://ro.durperdam.nl/visie2012/0012/<u><r>IMRO</r></u>/NL.IMRO.1111.visie2012-0012.gml of
+ht<span>tp://ro.durperdam.nl/visie2012/0012/<u><r>IMRO</r></u>/NL.IMRO.1111.visie2012-0012.gml of
 
-http://ro.durperdam.nl/visie2012<u><r>/</r></u>NL.IMRO.1111.visie2012-0012.gml of
+ht<span>tp://ro.durperdam.nl/visie2012<u><r>/</r></u>NL.IMRO.1111.visie2012-0012.gml of
 
-http://<u><r>ww.roservice.nl</r></u>/visie2012/0012/NL.IMRO.1111.visie2012-0012.gml.
+ht<span>tp://<u><r>ww<span>w.roservice.nl</r></u>/visie2012/0012/NL.IMRO.1111.visie2012-0012.gml.
 
 Overigens is het wel toegestaan om binnen dezelfde virtuele directory bestanden
 toe te voegen, bijvoorbeeld:
 
-http://ro.durperdam.nl/visie2012/0012/index.htm
+ht<span>tp://ro.durperdam.nl/visie2012/0012/index.htm
 
 is dus toegestaan. De index.htm pagina is dus geen onderdeel van het ruimtelijk
 instrument zelf, maar wordt in dit voorbeeld gebruikt voor de inrichting van de
 informatievoorziening door de bronhouder.
+
+<sup>[1]</sup>ht<span>tp://ro.durperdam.nl is een niet bestaande voorbeeldsite.
 
 ## Periode van beschikbaarheid
 De bronbestanden van iedere beschikbaar gestelde versie van een ruimtelijk
@@ -73,12 +75,11 @@ gewaarmerkt. Vervolgens worden alle bronbestanden op internet beschikbaar
 gemaakt, en wordt het Manifest aangepast en vervolgens ook gewaarmerkt. Tot slot
 moet het al op internet beschikbaar gestelde Manifest vervangen worden door het
 gewijzigde Manifest, en wordt ook de digitale verbeelding bijgewerkt. Dit
-laatste gebeurt overigens veelal in geautomatiseerde systemen, zoals bij de
-landelijke voorziening RO[^13]. Daarna is het ruimtelijk instrument voor een
+laatste gebeurt overigens veelal in geautomatiseerde systemen, zoals bij [de
+landelijke voorziening RO](http://www.ruimtelijkeplannen.nl/). Daarna is het ruimtelijk instrument voor een
 ieder beschikbaar, raadpleegbaar en via het Manifest ook vindbaar. De werkwijze
 is weergegeven in Figuur 1.  
-[^13]
-:Zie: [http://www.ruimtelijkeplannen.nl/](http://www.ruimtelijkeplannen.nl/)
+
 
 ![](media/d0c3ebe26021f094279b53de44e926fe.png)  
 **Figuur 1 Primair proces beschikbaar stellen**
@@ -136,8 +137,8 @@ De landelijke voorziening Ruimtelijkeplannen.nl maakt van de standaard opmaak
 gebruik, maar ook andere applicaties / implementaties kunnen van de standaard
 opmaak gebruik maken.
 
-[^14]: *De handleiding is beschikbaar via de Ruimtelijkeplannen.nl, de besloten
-omgeving voor bronhouders en via de helpdesk van Ruimtelijkeplannen.nl.*
+[^14]: *De handleiding is beschikbaar via Ruimtelijkeplannen.nl, de besloten
+omgeving voor bronhouders, en via de helpdesk van Ruimtelijkeplannen.nl.*
 
 [^15]: *Deze standaard XSL en CSS zijn tezamen met de rest van de andere
 onderdelen van de RO Standaarden 2012 beschikbaar via de Geonovum website,
@@ -153,8 +154,6 @@ Voor het weergeven van planteksten zijn er vier mogelijkheden:
 2.  HTML planregels met eigen CSS opmaakbestand;  
 3.  XML planteksten zonder eigen CSS opmaakbestand;  
 4.  XML planteksten met eigen CSS opmaakbestand.  
-
-N.B. Voor welstandsnota’s zijn alleen optie 3 en 4 van toepassing.
 
 Ad. 1. HTML planregels zonder eigen CSS opmaakbestand  
 De niet-objectgerichte planregels zijn vastgelegd in een HTML of XHTML bestand
@@ -237,7 +236,7 @@ Het Manifest is een XML bestand dat een overzicht geeft van alle elektronisch
 beschikbaar gestelde ruimtelijke instrumenten van één bronhouder. Iedere
 bronhouder heeft conform de STRI2012 één actueel Manifest beschikbaar op een via
 het internet toegankelijk webadres (bijvoorbeeld een webadres als
-http://ro.durperdam.nl/manifest.xml). In het manifest is ordening aangebracht
+ht<span>tp://ro.durperdam.nl/manifest.xml). In het manifest is ordening aangebracht
 met behulp van dossiers. Overigens kan er naast het STRI2012 manifest ook nog
 een STRI2006 manifest beschikbaar worden gesteld door de bronhouder, omwille van
 het beschikbaar stellen van IMRO2006 plannen. Dit is echter buiten de scope van
@@ -250,7 +249,7 @@ instrumenten met een identiek dossiernummer worden geplaatst. Bij het plaatsen
 van plannen in dossiers wordt de volgende stelregel gehanteerd:
 
 *Ieder ruimtelijk plan dat een zelfstandige Wro, Awb of Wabo procedure kent,
-krijgt ook een eigen dossier. Dit geldt ook voor welstandsnota’s.*
+krijgt ook een eigen dossier.*
 
 Gerechtelijke uitspraken komen op basis van deze stelregel in het dossier van
 het bestemmingsplan (of andere ruimtelijk plan) waar zij bij horen. Wijzigingen,
@@ -285,12 +284,12 @@ betekenis in Hoofdstuk 5 van de STRI2012 gerangschikt zijn binnen een
 Naast het Manifest wordt bij ieder ruimtelijk instrument een geleideformulier
 meegeleverd voor een gedetailleerd overzicht van het desbetreffende individuele
 instrument. Ook het geleideformulier is een XML bestand. Manifest en
-Geleideformulier zijn beide voorzien van een waarmerk, zie [Hoofdstuk 6](H06).
+Geleideformulier zijn beide voorzien van een waarmerk, zie [Hoofdstuk 6](#H06).
 
 **Status van een ruimtelijk instrument versus status van het Dossier**
 
 In de systematiek van beschikbaar stellen wordt als uitgangspunt gehanteerd dat
-de planstatus onveranderlijk is en in IMRO / IMWE GML bestand en
+de planstatus onveranderlijk is en in het IMRO-GML bestand en
 geleideformulier is opgenomen. De status van het dossier is daarentegen
 dynamisch en wordt alleen beschikbaar gesteld in het Manifest. De volgende
 aandachtspunten zijn hierbij van belang:  
@@ -303,7 +302,7 @@ aandachtspunten zijn hierbij van belang:
     dynamische (proces-)informatie wordt alleen opgenomen in het Manifest;
 -   Een versie “geconsolideerd” van een ruimtelijk instrument wordt in een
     separaat dossier gepubliceerd;
--   De status van het instrument is vastgelegd in de IMRO / IMWE GML en het XML
+-   De status van het instrument is vastgelegd in de IMRO-GML en het XML
     geleideformulier;
 -   Ieder plan valt binnen een dossier;
 -   De status van het dossier is dynamisch en wordt vastgelegd en beschikbaar
@@ -394,7 +393,6 @@ instrumenten geldt dat hiertegen geen rechtstreeks beroep mogelijk is:
 -   provinciale verordening;
 -   AMvB met onderliggende ministeriële regelingen;
 -   structuurvisie;
--   welstandsnota.
 
 Voor deze besluiten zonder beroepsmogelijkheid zijn in algemene zin alleen de
 dossierstatussen van toepassing: in voorbereiding, geheel onherroepelijk in

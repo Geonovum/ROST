@@ -18,7 +18,7 @@ weergeven.
 
 Het attribuut dat hiervoor door de bronhouder moeten worden gebruikt is
 *cartografieInfo*. Dit is een samengesteld attribuut bestaande uit de attributen
-*kaartnummer, kaartnaam* en *symboolcode*. In de volgende paragrafen volgt we
+*kaartnummer, kaartnaam* en *symboolcode*. In de volgende paragrafen volgt de
 werkwijze voor het gebruik van de symboolcodelijst.
 
 ## CartografieInfo

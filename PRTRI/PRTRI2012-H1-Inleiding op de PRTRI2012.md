@@ -7,8 +7,7 @@ plannen, besluiten, verordeningen, algemene maatregelen van bestuur en
 onderliggende ministeriële regelingen digitaal vervaardigd en op elektronische
 wijze beschikbaar gesteld moeten worden. Daarnaast is ook in de Wet algemene
 bepalingen omgevingsrecht (Wabo) een verplichte elektronische
-beschikbaarstelling opgenomen voor sommige gevallen. Welstandsnota’s mogen op
-vrijwillige basis digitaal vervaardigd en beschikbaar gesteld worden. Om dit
+beschikbaarstelling opgenomen voor sommige gevallen. Om dit
 mogelijk te maken zijn de RO standaarden ontwikkeld. De Standaard
 Toegankelijkheid Ruimtelijke Instrumenten (STRI2012) is één van de standaarden
 uit dit samenhangende pakket. Het voorliggende document vormt een toelichting op
@@ -37,7 +36,6 @@ De STRI2012 is van toepassing op de volgende ruimtelijke instrumenten:
 -   exploitatieplan;
 -   omgevingsvergunning[^1];
 -   gerechtelijke uitspraak;
--   welstandsnota (niet verplicht).  
 
 [^1]: *Het betreft hier de omgevingsvergunning als bedoeld in artikel 2.12
 eerste lid, onder a, sub 3e van de Wabo*  
@@ -47,16 +45,10 @@ Ieder hoofdstuk in deze praktijkrichtlijn vormt een toelichting op het
 corresponderende hoofdstuk in de STRI2012.
 
 Voor STRI2012 geldt sinds januari 2014 de werkafspraak dat bronhouders van
-ruimtelijke *instrumenten* de manifesten en plannen voortaan alleen publiceren via
+ruimtelijke instrumenten de manifesten en plannen voortaan alleen publiceren via
 poort 80 voor HTTP verkeer of poort 443 voor HTTPS verkeer. Vanaf publicatie van
 deze werkafspraak tot het tijdstip van inwerkingtreden van vernieuwde RO
 Standaarden of omgevingstandaarden dan wel nader bericht van de beheerder van de
-RO Standaarden geldt deze werkafspraak, die beschikbaar is via de Geonovum
-website[^2].
-
-[^2]
-Zie:
-[http://www.geonovum.nl/onderwerpen/ruimtelijke-ordening-standaarden?tab=documenten](http://www.geonovum.nl/onderwerpen/ruimtelijke-ordening-standaarden?tab=documenten)
-of direct:
-[http://www.geonovum.nl/sites/default/files/20140116%20STRI%20wa%20beveiligingseisen.pdf](http://www.geonovum.nl/sites/default/files/20140116%20STRI%20wa%20beveiligingseisen.pdf)
+RO Standaarden geldt deze werkafspraak, die beschikbaar is via de [Geonovum
+website](https://www.geonovum.nl/geo-standaarden/ro-standaarden-ruimtelijke-ordening#Werkafspraken).
 
