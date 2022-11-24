@@ -8,18 +8,20 @@ De publicatie van een TAM-omgevingsverordening volgt dezelfde route als een prov
 
 Technisch betekent dat, dat de TAM-omgevingsverordening onderdeel wordt van de provinciale Wro planvoorraad zoals opgenomen in het Wro-manifest. Dat heeft weinig consequenties, maar de totale planvoorraad moet wel goed beheerd worden door de provincie. Het is immers tijdelijk dat Wro-besluiten en Omgevingswet-besluiten door elkaar staan in de planvoorraad die beheerd wordt met behulp van de Wro plansoftware.
 
-Alle plannen in Ruimtelijkeplannen.nl worden voortdurend ingelezen door de overbruggingsfunctie van Informatiehuis Ruimte voor de ontsluiting in het DSO-LV. Hierdoor worden de besluiten van de provincie zichtbaar in de viewer Regels op de Kaart (het omgevingsloket). 
+Alle plannen in Ruimtelijkeplannen.nl worden voortdurend ingelezen door de overbruggingsfunctie van Informatiehuis Ruimte voor de ontsluiting in het DSO-LV. Hierdoor worden de besluiten van de provincie zichtbaar in de viewer 'Regels op de Kaart' (het omgevingsloket). 
 
 ### Pilot.ruimtelijkeplannen.nl
 
-TO DO
+Technische gezien is een TAM-omgevingsverordening een IMRO2012 provinciale verordening. Daarom kan de TAM-omgevingsverordening ook gepubliceerd worden op de test-omgeving van Ruimtelijkplannen.nl. Dat maakt de verordeningen raadpleegbaar op pilot.ruimtelijkeplannen.nl zonder dat daar juridische consequenties aan verbonden zijn. Deze route kan dienen om, voor inwerkingtreden Omgevingswet, het gemaakte TAM-omgevingsverordening <i>technisch</i> te toetsen op juistheid en volledigheid. 
+
+Het is voor inwerkingtreden Omgevingswet slechts beperkt en alleen in samenwerking met het ministerie BZK en het Kadaster mogelijk een TAM-omgevingsverordening te testen in de keten naar het omgevingsloket, de zogenaamde pré-omgeving van het DSO. 
 
 ### De ‘Pons’
 
-TO DO 
+De STOP/TPOD standaard maakt het voor het bevoegd gezag mogelijk om bij een wijzigingsbesluit omgevingsplan een vlak-object mee te sturen ter grootte van het werkingsgebied van het nieuwe besluit. Dat wordt de pons genoemd. De pons kan echter alleen voor omgevingsplannen gebruikt worden en niet voor omgevingsverordeningen. De pons is dan ook niet van toepassing voor de TAM-omgevingsverordening.
 
 ### Weergave DSO
 
-
-TO DO
+Bij inwerkingtreden van de Omgevingswet zal de viewer van Ruimtelijkeplannen.nl niet meer de volledige actuele situatie weergeven. Raadplegen van ruimtelijke plannen kan vanaf dat moment in samenhang met de omgevingswetbesluiten op basis van STOP/TPOD uitsluitend via de viewer ‘Regels op de Kaart’ van het omgevingsloket.
+De viewer ‘Regels op de Kaart’ van het omgevingsloket geeft de Wro plannen zoveel mogelijk weer als nu gebruikelijk is op Ruimtelijkeplannen.nl. De weergave van provinciale verordeningen, en dus ook de TAM-omgevingsverordening, kan dus gestuurd worden met de keuze van de hoofdgroep, bij het definiëren van objecten voor de TAM-omgevingsverordening in de Wro plansoftware. Als de provincie kiest voor een TAM-omgevingsverordening dat dicht bij de opbouw van de huidige provinciale verordening ligt, dan zal de weergave daarvan ook veel lijken op wat we gewend zijn bij de provinciale verordeningen van de Wro. Gebruik van de symboolcodes van ,a href='https://docs.geostandaarden.nl/ro/def-pr-pv2012-20181023/' target=_blank'>Praktijkrichtlijn Provinciale Verordening</a> is noodzakelijk om de TAM-omgevingsverordening goed door de keten te krijgen en te verbeelden in het omgevingsloket.
 
