@@ -50,7 +50,7 @@ karakter niet in de STRI2012 zijn opgenomen. Deze beperkingen zijn als volgt:
 -   Het gebruik van XSLT is niet- toegestaan;
 -   XPointers die verwijzen naar externe bestanden zijn niet toegestaan;
 -   Een Transform element met
-    Algorithm="http://www.w3.org/2000/09/xmldsig\#enveloped-signature" mag
+    Algorithm="http://www.w3.org/2000/09/xmldsig/#enveloped-signature" mag
     alleen voorkomen indien de Reference URI="";
 -   Binnen KeyInfo elementen zijn slechts X509Data elementen toegestaan;
 -   Er is slechts één X509Data element toegestaan binnen een KeyInfo element;
@@ -65,25 +65,25 @@ karakter niet in de STRI2012 zijn opgenomen. Deze beperkingen zijn als volgt:
 Verder zijn alleen de volgende algoritmes zijn toegestaan:  
 Transform Algorithm:  
 -   http://www.w3.org/TR/2001/REC-xml-c14n-20010315
--   http://www.w3.org/2001/10/xml-exc-c14n\#
--   http://www.w3.org/2000/09/xmldsig\#base64
--   http://www.w3.org/2000/09/xmldsig\#enveloped-signature  
+-   http://www.w3.org/2001/10/xml-exc-c14n/#
+-   http://www.w3.org/2000/09/xmldsig/#base64
+-   http://www.w3.org/2000/09/xmldsig/#enveloped-signature  
 
 CanonicalizationMethod Algorithm:  
 -   http://www.w3.org/TR/2001/REC-xml-c14n-20010315
--   http://www.w3.org/2001/10/xml-exc-c14n\#  
+-   http://www.w3.org/2001/10/xml-exc-c14n/#  
 
 SignatureMethod Algorithm:  
--   http://www.w3.org/2000/09/xmldsig\#rsa-sha1
--   http://www.w3.org/2001/04/xmldsig-more\#rsa-sha256
--   http://www.w3.org/2001/04/xmldsig-more\#rsa-sha384
--   http://www.w3.org/2001/04/xmldsig-more\#rsa-sha512  
+-   http://www.w3.org/2000/09/xmldsig/#rsa-sha1
+-   http://www.w3.org/2001/04/xmldsig-more/#rsa-sha256
+-   http://www.w3.org/2001/04/xmldsig-more/#rsa-sha384
+-   http://www.w3.org/2001/04/xmldsig-more/#rsa-sha512  
 
 DigestMethod Algorithm:  
--   http://www.w3.org/2000/09/xmldsig\#sha1
--   http://www.w3.org/2000/09/xmldsig\#sha256
--   http://www.w3.org/2001/04/xmldsig-more\#sha384
--   http://www.w3.org/2000/09/xmldsig\#sha512  
+-   http://www.w3.org/2000/09/xmldsig/#sha1
+-   http://www.w3.org/2000/09/xmldsig/#sha256
+-   http://www.w3.org/2001/04/xmldsig-more/#sha384
+-   http://www.w3.org/2000/09/xmldsig/#sha512  
 
 Bovenstaande aanvullende beperkingen dienen verplicht te worden toegepast om te
 kunnen voldoen aan de eis in het Bro dat de landelijke voorziening in staat moet
