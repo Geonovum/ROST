@@ -23,6 +23,9 @@ Deze handreiking gaat niet in op de inhoud van het instrument omgevingsverordeni
 
 ### Leeswijzer
 
-TO DO 
+Deze handreiking is bedoeld voor iedereen die een omgevingsverordening gaat maken en/of publiceren en daarbij overweegt gebruikt te maken van deze tijdelijke alternatieve maatregel. Aangeraden wordt om de hele handreiking te lezen, naast de werkafspraak. Het is wel van belang om de toepassing van het gebruik van deze tijdelijke alternatieve maatregel in zijn geheel te begrijpen om een afgewogen beslissing te kunnen nemen of en eventueel hoe de TAM toegepast kan worden in de eigen organisatie.
 
+De werkafspraak en de handreiking gaan samen in op hoe het technisch mogelijk gemaakt wordt om Wro plansoftware te gebruiken om een wijziging van de omgevingsverordening te maken en te publiceren via Ruimtelijkeplannen.nl. Via het Informatiehuis Ruimte (de ‘overbruggingsfunctie’) komt het besluit daardoor ook beschikbaar in het omgevingsloket. Deze handreiking is een *technische* handleiding en geen juridische. We geven dus niet aan hoe een de TAM-omgevingsverordening juridisch/inhoudelijk moet worden vormgegeven conform de Omgevingswet. 
+
+Hoofdstuk 2 gaat in op de [omgevingsverordening](#omgevingsverordening). Hoofdstuk 3 betreft het [publiceren](#publiceren) van de omgevingsverordening. Overwegingen bij de afweging om al dan niet gebruik te gaan maken van de optie TAM-omgevingsverordening zijn opgenomen in [Hoofdstuk 4](#aandachtspunten).
 
