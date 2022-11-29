@@ -62,7 +62,7 @@ karakter niet in de STRI2012 zijn opgenomen. Deze beperkingen zijn als volgt:
     mogen geen subelementen of tekst bevatten;
 -   SignatureMethod en DigestMethod mogen geen MD5 Algorithm gebruiken.  
 
-Verder zijn alleen de volgende algoritmes zijn toegestaan<sup>[1]</sup>:  
+Verder zijn alleen de volgende algoritmes zijn toegestaan<sup>[6]</sup>:  
 Transform Algorithm:  
 -   http://www.w3.org/TR/2001/REC-xml-c14n-20010315
 -   http://www.w3.org/2001/10/xml-exc-c14n#
@@ -85,7 +85,7 @@ DigestMethod Algorithm:
 -   [http://www.w3.org/2001/04/xmldsig-more#sha384](https://www.rfc-editor.org/rfc/rfc6931#section-2.3.2)
 -   http://www.w3.org/2000/09/xmldsig#sha512  
 
-<sup>[1]</sup> Niet van al de genoemde algorithms zijn de oorspronkelijke web-locaties nog beschikbaar.
+<sup>[6]</sup> Niet van al de genoemde algorithms zijn de oorspronkelijke web-locaties nog beschikbaar.
 
 Bovenstaande aanvullende beperkingen dienen verplicht te worden toegepast om te
 kunnen voldoen aan de eis in het Bro dat de landelijke voorziening in staat moet
