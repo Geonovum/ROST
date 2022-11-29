@@ -95,9 +95,10 @@ planteksten in HTML- en/of PDF-formaat geldt dat de bronhouder een eigen CSS
 stylesheet (opmaakbestand) kan mee sturen met de plantekstbestanden. De
 Landelijke Voorziening Ruimtelijkeplannen.nl zal bij de verbeelding gebruik
 maken van het opmaakbestand en daarmee de huisstijl van de bronhouder toepassen.
-Ook derden kunnen van dit opmaakbestand gebruik maken.  
-***Gebruik van PDF-bestanden***  
-Indien er PDF-bestanden worden gebruikt in een planset dan is het beter om PDF-
+Ook derden kunnen van dit opmaakbestand gebruik maken.
+
+> ***Gebruik van PDF-bestanden***  
+> Indien er PDF-bestanden worden gebruikt in een planset dan is het beter om PDF-
 bestanden te gebruiken die geen flashcomponenten bevatten. Bestanden met
 flashcomponenten kunnen om veiligheidsredenen niet meer in een webbrowser worden
 geopend waardoor de PDF-bestanden bij raadpleging van Ruimtelijkeplannen.nl geen
