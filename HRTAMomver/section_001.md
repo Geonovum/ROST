@@ -19,7 +19,7 @@ In het [Toepassingsprofiel (TPOD) omgevingsverordening](https://geonovum.github.
 
 De handreiking geeft de werkwijze en keuzemogelijkheden weer voor het Omgevingswet-instrument omgevingsverordening, dat door de provincie technisch wordt gerealiseerd met de RO Standaarden 2012, en door gebruik van de Wro plan keten het projectbesluit te ontsluiten via Ruimtelijkeplannen.nl naar het Digitaal Stelsel Omgevingswet.  
 
-Deze handreiking gaat niet in op de inhoud van het instrument omgevingsverordening. Voor de juridische context van het intrument verwijzen we naar de Omgevingswet- en regelgeving. Voor meer informatie over het omgevingsverordening, raadpleeg de TPOD omgevingsverordening via de [Geonovum website](https://www.geonovum.nl/geo-standaarden/omgevingswet/STOPTPOD) en de website [Informatiepunt Leefomgeving](https://iplo.nl/regelgeving/instrumenten/omgevingsverordening/omgevingsverordening-digitaal-stelsel/). 
+Deze handreiking gaat niet in op de inhoud van het instrument omgevingsverordening. Voor de juridische context van het intrument verwijzen we naar de Omgevingswet- en regelgeving. Voor meer informatie over het omgevingsverordening, raadpleeg de TPOD omgevingsverordening via de [Geonovum website](https://www.geonovum.nl/geo-standaarden/omgevingswet/STOPTPOD) en de website [Informatiepunt Leefomgeving](https://iplo.nl/regelgeving/instrumenten/omgevingsverordening). 
 
 ### Leeswijzer
 
