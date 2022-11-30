@@ -43,7 +43,7 @@ Gekoppeld met de dossierstatus in het manifest betekent dit:
 
 Er is minimaal 1 besluitvlak. Voor Gebiedsaanwijzingen en Activiteiten kan gebruik gemaakt worden van besluitvlakken. 
 Voor wijzigingsbesluiten van de omgevingsverordening, waarbij in het wijzigingsbesluit wordt aangegeven welke regelteksten en locaties zijn toegevoegd of komen te vervallen, wordt het object besluitsubvlak gebruikt. De ontstane locatie na consolidatie van het besluit vormt het besluitvlak. Het besluitsubvlak geeft aan welk deel toegevoegd of verwijderd is.
-De geconsolideerde versie van de omgevingsverordening is alleen mogelijk met heulp van STOP/ TPOD standaarden.
+De geconsolideerde versie van de omgevingsverordening is alleen mogelijk met behulp van de STOP/ TPOD standaarden.
 
 Bij tekstwijzigingen bevat het besluit alleen de gewijzigde artikelen. Bij artikelen die op een specifieke locatie gericht zijn, kan er een besluitvlak worden aangemaakt met de duiding van de wijziging.
 
