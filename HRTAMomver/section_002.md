@@ -3,7 +3,7 @@
 De [omgevingsverordening](https://iplo.nl/regelgeving/instrumenten/omgevingsverordening/) bevat alle provinciale regels voor de fysieke leefomgeving. Per provincie is er 1 omgevingsverordening die de bestaande verordeningen vervangt. Zoals de milieuverordening, de planologische verordening, de ontgrondingenverordening, de landschapsverordening en de grondwaterverordening.
 
 Er is geen overgangsrecht voor bestaande provinciale verordeningen die opgaan in de omgevingsverordening op basis van de Omgevingswet. De provincies hebben afgesproken dat de omgevingsverordeningen klaar moeten zijn wanneer de Omgevingswet ingaat. Bestaande provinciale verordeningen gelden dus niet meer vanaf de inwerkingtreding.
-De werkafspraak TAM-omgevingsverordening betreft het opstellen van een initiële omgevingsverordening. Het is ook mogelijk in het geval van wijzigingsbesluiten de TAM-omgevingsverordening te gebruiken. dit wordt in [paragraaf 2.3](#tam-omgevingsverordening) toegelicht. 
+De werkafspraak TAM-omgevingsverordening betreft het opstellen van een initiële omgevingsverordening. Het is ook mogelijk in het geval van wijzigingsbesluiten de TAM-omgevingsverordening te gebruiken. Dit wordt in [paragraaf 2.3](#tam-omgevingsverordening) toegelicht. 
 
 ### Technische uitgangspunten
 
