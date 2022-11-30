@@ -27,7 +27,10 @@ In principe is een omgevingsverordening vormvrij. De provincie bepaalt binnen ze
 <figcaption>Koppeling tussen regeltekst en Locatie (werkingsgebied) zoals deze wordt gebruik in de STOP/ TPOD standaard</figcaption>
 </figure>
 
-Er is altijd een besluitgebied de hele provincie betreft. Vervolgens is er minimaal een besluitvlak. 
+Er is altijd een besluitgebied de hele provincie betreft. Vervolgens is er minimaal een besluitvlak.
+
+Voor Gebiedsaanwijzingen en Activiteiten kan gebruik gemaakt worden van besluitvlakken. 
+
 
 Voor wijzigingsbesluiten van de omgevingsverordening, waarbij in het wijzigingsbesluit wordt aangegeven welke regelteksten en locaties zijn toegevoegd of komen te vervallen, wordt het object besluitsubvlak gebruikt. De onstane locatie na consolidatie van het besluit vormt het besluitvlak. Het besluitsubvlak geeft aan welk deel toegevoegd of verwijderd is.
 
