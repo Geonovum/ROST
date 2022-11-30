@@ -20,15 +20,6 @@ Om een TAM-omgevingsverordening te maken kan binnen het planfiguur ‘provincial
 
 In principe is een omgevingsverordening vormvrij. De provincie bepaalt binnen zekere grenzen hoe een omgevingsverordening wordt opgebouwd. Toch is het niet in lijn met de Omgevingswetgedachte om te blijven werken met de Wro-objecten besluitgebied, besluitvlak, besluitsubvlak, daar waar een TAM-omgevingsverordening objecten als activiteiten, functies, andere gebiedsaanwijzingen en omgevingsnormen verwacht. Daarnaast gaat de STOP/TPOD standaard uit van een koppeling van een werkingsgebied (locatie) aan elke regeltekst. Dit betekent dat conform IMRO2012 bij de objecten besluitgebied, besluitvlak, besluitsubvlak de verplicht te gebruiken attributen verwijzingNaarTekstInfo. 
 
-Bij het object besluitgebied moet tevens het atribuut planStatusInfo worden ingevuld. Ten behoeve van de TAM-omgevingsverordening is de volgende planstatus toegestaan: 
-
-Gekoppeld met de dossierstatus in het manifest.. 
-
-
-
-
-
-
 
 <figure> 
 <img src='media/Koppeling_regeltekst_locatie.png' alt='Koppeling tussen regeltekst en Locatie (werkingsgebied) zoals deze wordt gebruik in de STOP/ TPOD standaard' style='width: 100%;'></img>
@@ -36,13 +27,21 @@ Gekoppeld met de dossierstatus in het manifest..
 </figure>
 
 
+Bij het object besluitgebied moet tevens het atribuut planStatusInfo worden ingevuld. Ten behoeve van de TAM-omgevingsverordening is de volgende planstatus toegestaan: 
+
+Gekoppeld met de dossierstatus in het manifest.. 
+
+
 ### TAM omgevingsverordening
 
-TO DO
+Een omgevingsverordening opgesteld met behulp van TAM in plaats van de STOP/TPOD standaarden, moet herkenbaar zijn. Dit is belangrijk voor een goede validatie en ten behoeve van de overbruggingsfunctie naar de landelijke voorziening Digitaal Stelsel Omgevingswet. Daarom leggen we in deze werkafspraak de naamgeving vast: 
 
-hoofdletters
--
-geen spaties
+- het typePlan is provinciale verordening
+- de naam van het plan is ‘TAM-omgevingsverordening[spatie][plannaam]’
+
+Let op de bij naamgeving:
+- TAM wordt geschreven in hoofdletters;
+- Er wordt geen gebruik gemaakt spaties tussen en TAM en omgevingsverordening, maar alleen een koppelteken;
 
 
 
