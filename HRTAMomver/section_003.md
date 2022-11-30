@@ -18,7 +18,7 @@ Het is voor inwerkingtreden Omgevingswet slechts beperkt en alleen in samenwerki
 
 ### De ‘Pons’
 
-De STOP/TPOD standaard maakt het voor het bevoegd gezag mogelijk om bij een wijzigingsbesluit omgevingsplan een vlak-object mee te sturen ter grootte van het werkingsgebied van het nieuwe besluit. Dat wordt de pons genoemd. De pons kan echter alleen voor omgevingsplannen gebruikt worden en niet voor omgevingsverordeningen. De pons is dan ook niet van toepassing voor de TAM-omgevingsverordening.
+De pons mogelijkheid bestaat voor het omgevingsplan: de STOP/TPOD standaard maakt het voor het bevoegd gezag mogelijk om bij een wijzigingsbesluit van het omgevingsplan een vlak-object mee te sturen ter grootte van het werkingsgebied van het nieuwe besluit. De pons kan alleen voor omgevingsplannen gebruikt worden en niet voor omgevingsverordeningen. De pons is dan ook niet van toepassing voor de TAM-omgevingsverordening.
 
 ### Weergave DSO
 
