@@ -1,10 +1,9 @@
 ## Omgevingsverordening
 
-initiële omgevingsverordening
-wijzigingsbesluiten
+De [omgevingsverordening](https://iplo.nl/regelgeving/instrumenten/omgevingsverordening/) bevat alle provinciale regels voor de fysieke leefomgeving. Per provincie is er 1 omgevingsverordening die de bestaande verordeningen vervangt. Zoals de milieuverordening, de planologische verordening, de ontgrondingenverordening, de landschapsverordening en de grondwaterverordening.
 
-hoofdregeling vs. tijdelijke regelingdelen, invloed voorbereidingsbesluit - geconsolideerde versie alleen mogelijk met heulp van STOP/ TPOD standaarden. 
-
+Er is geen overgangsrecht voor bestaande provinciale verordeningen die opgaan in de omgevingsverordening op basis van de Omgevingswet. De provincies hebben afgesproken dat de omgevingsverordeningen klaar moeten zijn wanneer de Omgevingswet ingaat. Bestaande provinciale verordeningen gelden dus niet meer vanaf de inwerkingtreding.
+De werkafspraak TAM-omgevingsverordening betreft het opstellen van een initiële omgevingsverordening. Het is ook mogelijk in het geval van wijzigingsbesluiten de TAM-omgevingsverordening te gebruiken. dit wordt in [paragraaf 2.3](#tam-omgevingsverordening) toegelicht. 
 
 ### Technische uitgangspunten
 
@@ -44,6 +43,7 @@ Gekoppeld met de dossierstatus in het manifest betekent dit:
 
 Er is minimaal 1 besluitvlak. Voor Gebiedsaanwijzingen en Activiteiten kan gebruik gemaakt worden van besluitvlakken. 
 Voor wijzigingsbesluiten van de omgevingsverordening, waarbij in het wijzigingsbesluit wordt aangegeven welke regelteksten en locaties zijn toegevoegd of komen te vervallen, wordt het object besluitsubvlak gebruikt. De ontstane locatie na consolidatie van het besluit vormt het besluitvlak. Het besluitsubvlak geeft aan welk deel toegevoegd of verwijderd is.
+De geconsolideerde versie van de omgevingsverordening is alleen mogelijk met heulp van STOP/ TPOD standaarden.
 
 Bij tekstwijzigingen bevat het besluit alleen de gewijzigde artikelen. Bij artikelen die op een specifieke locatie gericht zijn, kan er een besluitvlak worden aangemaakt met de duiding van de wijziging.
 
