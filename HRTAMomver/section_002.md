@@ -26,7 +26,7 @@ In principe is een omgevingsverordening vormvrij. De provincie bepaalt binnen ze
 
 ### TAM omgevingsverordening
 
-Een omgevingsverordening opgesteld met behulp van TAM in plaats van de STOP/TPOD standaarden, moet herkenbaar zijn. Dit is belangrijk voor een goede validatie en ten behoeve van de overbruggingsfunctie naar de landelijke voorziening Digitaal Stelsel Omgevingswet. Daarom leggen we in deze werkafspraak de naamgeving vast: 
+Een omgevingsverordening opgesteld met behulp van TAM in plaats van de STOP/TPOD standaarden, moet herkenbaar zijn. Dit is belangrijk voor een goede validatie en ten behoeve van de overbruggingsfunctie naar de landelijke voorziening Digitaal Stelsel Omgevingswet. De werkafspraak is als volgt: 
 
 - het typePlan is provinciale verordening
 - de naam van het plan is ‘TAM-omgevingsverordening[spatie][plannaam]’
