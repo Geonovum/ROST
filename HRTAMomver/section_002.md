@@ -16,9 +16,19 @@ De TAM-omgevingsverordening moet uiteindelijk door de provincie omgezet worden n
 
 ### Gebruik IMRO 
 
-TO DO 
+Om een TAM-omgevingsverordening te maken kan binnen het planfiguur ‘provinciale verordening’ in principe gebruik worden gemaakt van alle objecten (besluitgebied, besluitvlak, besluitsubvlak) die beschikbaar zijn. Belangrijk is te bedenken dat een TAM-omgevingsverordening technisch moet voldoen aan IMRO2012 om door de validator te kunnen komen. Concreet betekent dat ook dat er een object ‘besluitgebied’ moet zijn met de gegevens van het besluit, ondanks dat de omgevingsverordening dit niet kent onder de Omgevingswet. 
 
-plastatus en dossierstatus
+In principe is een omgevingsverordening vormvrij. De provincie bepaalt binnen zekere grenzen hoe een omgevingsverordening wordt opgebouwd. Toch is het niet in lijn met de Omgevingswetgedachte om te blijven werken met de Wro-objecten besluitgebied, besluitvlak, besluitsubvlak, daar waar een TAM-omgevingsverordening objecten als activiteiten, functies, andere gebiedsaanwijzingen en omgevingsnormen verwacht. Daarnaast gaat de STOP/TPOD standaard uit van een koppeling van een werkingsgebied (locatie) aan elke regeltekst. Dit betekent dat conform IMRO2012 bij de objecten besluitgebied, besluitvlak, besluitsubvlak de verplicht te gebruiken attributen verwijzingNaarTekstInfo. 
+
+Bij het object besluitgebied moet tevens het atribuut planStatusInfo worden ingevuld. Ten behoeve van de TAM-omgevingsverordening is de volgende planstatus toegestaan: 
+
+Gekoppeld met de dossierstatus in het manifest.. 
+
+
+
+
+
+
 
 <figure> 
 <img src='media/Koppeling_regeltekst_locatie.png' alt='Koppeling tussen regeltekst en Locatie (werkingsgebied) zoals deze wordt gebruik in de STOP/ TPOD standaard' style='width: 100%;'></img>
