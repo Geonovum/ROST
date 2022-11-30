@@ -41,7 +41,5 @@ Een omgevingsverordening opgesteld met behulp van TAM in plaats van de STOP/TPOD
 
 Let op de bij naamgeving:
 - TAM wordt geschreven in hoofdletters;
-- Er wordt geen gebruik gemaakt spaties tussen en TAM en omgevingsverordening, maar alleen een koppelteken;
-
-
-
+- omgevingsverordening wordt geschreven in kleine letters;
+- er wordt geen gebruik gemaakt spaties tussen en TAM en omgevingsverordening, maar alleen een koppelteken.
