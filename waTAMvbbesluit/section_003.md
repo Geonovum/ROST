@@ -40,10 +40,20 @@ Om een Omgevingswet voorbereidingsbesluit dat gemaakt is met behulp van TAM te k
 <tr><td align='left' style='border-top: 0.75pt solid #000000; border-left: 0.75pt solid #000000; border-bottom: 0.75pt solid #000000; border-right: 0.75pt solid #000000; background-color: #FFFFFF;'>planstatus
 
 </td>
-<td align='left' style='border-top: 0.75pt solid #000000; border-left: 0.75pt solid #000000; border-bottom: 0.75pt solid #000000; border-right: 0.75pt solid #000000; background-color: #FFFFFF;'>vastgesteld. De planstatus vastgesteld wordt gebruikt in combinatie met de in het manifest opgenomen dossierstatus vastgesteld.  
+<td align='left' style='border-top: 0.75pt solid #000000; border-left: 0.75pt solid #000000; border-bottom: 0.75pt solid #000000; border-right: 0.75pt solid #000000; background-color: #FFFFFF;'>vastgesteld  
 
 </td>
 </tr>
+
+<tr><td align='left' style='border-top: 0.75pt solid #000000; border-left: 0.75pt solid #000000; border-bottom: 0.75pt solid #000000; border-right: 0.75pt solid #000000; background-color: #FFFFFF;'>dossierstatus (in manifest)
+
+</td>
+<td align='left' style='border-top: 0.75pt solid #000000; border-left: 0.75pt solid #000000; border-bottom: 0.75pt solid #000000; border-right: 0.75pt solid #000000; background-color: #FFFFFF;'>geheel onherroepelijk in werking  
+
+</td>
+</tr>
+  
+  
 </tbody>
 </table>
 
