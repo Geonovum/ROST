@@ -1,6 +1,6 @@
 ## Werkwijze
 
-Technisch gezien maakt de provincie het projectbesluit conform de RO Standaarden 2012, met toepassing van: 
+Technisch gezien maakt de provincie of het Rijk het projectbesluit conform de RO Standaarden 2012, met toepassing van: 
 - het IMRO2012 typePlan inpassingsplan;
 - het STRI2012 manifest voor de beschikbaarstelling op de weblocatie van de bronhouder ten behoeve van de ontsluiting via Ruimtelijkeplannen.nl.
 
@@ -64,8 +64,8 @@ De werkafspraak is samengevat in Tabel 1.
 </tbody>
 </table>
 
-Het publiceren van een Omgevingswet-projectbesluit met behulp van TAM-projectbesluit gaat op dezelfde wijze als het Wro inpassingsplan: met de RO Standaarden 2012. Vooraf kan met de validator van pilot.Ruimtelijkeplannen.nl worden gecontroleerd of het besluit valide is, van belang is de naamgeving conform deze werkafspraak.
+Het publiceren van een Omgevingswet-projectbesluit met behulp van TAM-projectbesluit gaat op dezelfde wijze als het Wro inpassingsplan: met de RO Standaarden 2012. Vooraf kan met de validator van Ruimtelijkeplannen.nl worden gecontroleerd of het besluit valide is, van belang is de naamgeving conform deze werkafspraak.
 
-Aanvullend op deze werkafspraak is een korte handreiking beschikbaar. In deze handreiking wordt deze werkafspraak nader toegelicht en wordt aangeven op welke wijze de RO Standaarden wel of niet kunnen/moeten worden toegepast. De handreiking is te raadplegen via de [Geonovum website](https://www.geonovum.nl/geo-standaarden/ro-standaarden-ruimtelijke-ordening#Werkafspraken) [NOG NIET BESCHIKBAAR].
+Aanvullend op deze werkafspraak is een korte handreiking beschikbaar. In deze handreiking wordt deze werkafspraak nader toegelicht en wordt aangeven op welke wijze de RO Standaarden wel of niet kunnen/moeten worden toegepast. De handreiking is te raadplegen via de [Geonovum website](https://www.geonovum.nl/geo-standaarden/ro-standaarden-ruimtelijke-ordening#Werkafspraken).
 
 
