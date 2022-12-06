@@ -9,25 +9,25 @@ informatiemodel toegelicht.**
 Een bestemmingsplan bestaat uit drie typen objecten (klassen):  
 -   Bestemmingsplangebied;
 -   Bestemmingsvlak;
--   Aan­duiding.
+-   Aanduiding.
 
-Het bestem­mingsvlak is het gebied waarnaar de bijbehorende regels ver­wijzen en
-is in sa­menhang daar­mee te beschouwen als één geheel object. Aan­duidingen
-kunnen iets zeg­gen over het bestemmingsplangebied of een bestem­mings­vlak.
-IMRO2012 noemt deze ob­jectty­pen klas­sen. In Figuur 1 is de hoofd indeling
-weer­gegeven.
+Het bestemmingsvlak is het gebied waarnaar de bijbehorende regels verwijzen en
+is in samenhang daarmee te beschouwen als één geheel object. Aanduidingen
+kunnen iets zeggen over het bestemmingsplangebied of een bestemmingsvlak.
+IMRO2012 noemt deze objecttypen klassen. In Figuur 1 is de hoofd indeling
+weergegeven.
 
 ![](media/a30223d2c1180b3061d6a5c297c706c9.png)
 
 **Figuur 1 Objectklassen bestemmingsplan**
 
-De klas­se *Aan­duiding* kent objecten uit zes subklassen:  
--   Bouw­vlak;
+De klasse *Aanduiding* kent objecten uit zes subklassen:  
+-   Bouwvlak;
 -   Functieaanduiding;
 -   Bouwaanduiding;
--   Maat­voe­ring;
--   Fi­guur;
--   Gebieds­aan­dui­ding.
+-   Maatvoering;
+-   Figuur;
+-   Gebiedsaanduiding.
 
 In Figuur 2 is het complete schema weergegeven met alle onderscheiden objecten.
 
@@ -58,7 +58,7 @@ De basis wordt gevormd door het object *Bestemmingsvlak*. Veelal zal daaraan een
 object *Bouwvlak* zijn gekoppeld. Vervolgens kunnen aanduidingen voorkomen die
 een specificatie van het bestemmingsvlak of het bouwvlak geven voor het gebruik
 of het bouwen. Iedere aanduiding moet ook in de regels voorkomen. Figuur 3 geeft
-de laagsgewijze op­bouw weer.
+de laagsgewijze opbouw weer.
 
 ![](media/b02a31d8208cb09c0af7baec9d25713a.png)
 
@@ -67,7 +67,7 @@ de laagsgewijze op­bouw weer.
 Naast deze direct bij een bestemmingsvlak behorende aanduidingen zijn er ook
 aanduidingen die vanuit de regels gewenst zijn en betekenis geven aan een
 onafhankelijke deel van het plangebied. Een voorbeeld is een
-wijzigingsbevoegdheid voor een bepaald ge­deelte van het plangebied. Voor een
+wijzigingsbevoegdheid voor een bepaald gedeelte van het plangebied. Voor een
 dergelijke aanduiding wordt het object *Gebiedsaanduiding* gebruikt.
 
 Hieronder wordt verder ingegaan op de onderscheiden objecten.
@@ -77,8 +77,8 @@ Hieronder wordt verder ingegaan op de onderscheiden objecten.
 **Figuur 4 Onderscheid in objecten**
 
 Voor een verdere beschrijving van de specifieke mogelijkheden die zijn
-toegestaan om nadere in­vulling te geven aan de verschillende objecten wordt
-verwezen naar de Standaard Verge­lijkbare Bestemmingsplannen (SVBP2012).
+toegestaan om nadere invulling te geven aan de verschillende objecten wordt
+verwezen naar de [Standaard Vergelijkbare Bestemmingsplannen (SVBP2012)](https://www.geonovum.nl/geo-standaarden/ro-standaarden-ruimtelijke-ordening).
 
 ## Gemeente- en provinciegrensoverschrijdende bestemmingsplannen
 
@@ -92,15 +92,15 @@ ontstaan, elk voor het eigen gemeentelijk grondgebied en elk met een eigen
 identiteit (attribuut *idn*).
 
 Voor provinciegrens overschrijdende plannen geldt dat eveneens, voor zover deze
-door meer­dere provincies worden opgesteld. Voor door de provincie binnen haar
+door meerdere provincies worden opgesteld. Voor door de provincie binnen haar
 eigen grondgebied vallende inpassingsplannen en voor door het Rijk vast te
 stellen inpassingsplannen geldt deze splitsing niet.
 
 Om inzichtelijk te maken welke gemeenten (locatie) het betreft bij een
 provinciaal of inpassingsplan van het rijk, moet het attribuut *locatienaam*
 worden gebruikt om de betreffende gemeentenamen en in voorkomend geval
-provincienamen te benoemen. Zie toelichting in Hoofdstuk 3: "De planobjecten met
-attributen".
+provincienamen te benoemen. Zie toelichting in Hoofdstuk 3: ["De planobjecten met
+attributen"](#H03).
 
 ## Geometrie en/of tekst als ingang voor raadpleging
 
@@ -114,10 +114,10 @@ wordt het in de toekomst mogelijk om de tekst te laten fungeren als ingang voor
 het raadplegen van het ruimtelijk plan binnen een interactieve
 raadpleegomgeving.
 
-In Hoofdstuk 3 van deze praktijkrichtlijn worden de attributen voor planteksten
+In [Hoofdstuk 3](#H03) van deze praktijkrichtlijn worden de attributen voor planteksten
 benoemd. Voor toelichting op het gebruik van de standaard voor planteksten
-(IMROPT2012) wordt verwezen naar de toelichting Praktijkrichtlijn voor
-Planteksten (PRPT2012).
+(IMROPT2012) wordt verwezen naar de toelichting [Praktijkrichtlijn voor
+Planteksten (PRPT2012)](https://www.geonovum.nl/geo-standaarden/ro-standaarden-ruimtelijke-ordening).
 
 ## Digitaal vs. analoog
 
@@ -136,8 +136,8 @@ analoge bestemmingsplankaart worden de planregels en plantoelichting ook in
 analoge vorm opgeleverd. Van het bestemmingsplan bestaan dus 2 productvormen:
 digitaal en analoog. Voor de wijze waarop de analoge bestemmingsplankaart wordt
 opgesteld, is binnen de RO Standaarden 2012 een aparte, facultatief te
-gebruiken, richtlijn opgesteld: de Praktijkrichtlijn Analoge Bestemmingsplan
-Kaart (PRABPK2012).
+gebruiken, richtlijn opgesteld: de [Praktijkrichtlijn Analoge Bestemmingsplan
+Kaart (PRABPK2012)](https://www.geonovum.nl/geo-standaarden/ro-standaarden-ruimtelijke-ordening).
 
 ## Metadata
 
@@ -149,9 +149,9 @@ betrekking tot deze bestanden.
 In het GML bestand is bepaalde informatie over het bestemmingsplan opgenomen.
 Ook in het geleideformulier en manifest is bepaalde informatie over het
 bestemmingsplan opgenomen. Gegevens over gegevens wordt metadata genoemd. In
-IMRO2012 zijn bij de klasse *Metadata­IMRO­­­bestand* regels opgenomen over de
+IMRO2012 zijn bij de klasse *MetadataIMRObestand* regels opgenomen over de
 in het GML bestand op te nemen metadata. In Tabel 1 wordt de klasse
-*Metadata­IMRO­­­bestand* toegelicht.
+*MetadataIMRObestand* toegelicht.
 
 ![](media/2d195fda80b5a394f9799caac7b4b393.png)
 
