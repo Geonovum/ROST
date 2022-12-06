@@ -3,14 +3,14 @@
 inrichting van het digitale bestemmingsplan. Deze praktijkrichtlijn geeft
 richtlijnen voor de opmaak van de analoge bestemmingsplankaart.**
 
-## Grondslagen in Wro, Bro en Regeling standaarden ruimtelijke ordening..
+## Grondslagen in Wro, Bro en Regeling standaarden ruimtelijke ordening
 Deze richtlijn is van toepassing op bestemmingsplannen, provinciale
 inpassingsplannen, rijksinpassingsplannen en rijksbestemmingsplannen. Omwille
 van de leesbaarheid worden deze typen instrumenten in dit document samen
 aangehaald met de term bestemmingsplan, tenzij hier expliciet van wordt
 afgeweken.
 
-In de ministeriële Regeling standaarden ruimtelijke ordening is vastgelegd dat
+In de [ministeriële Regeling standaarden ruimtelijke ordening](http://wetten.overheid.nl/BWBR0031829) is vastgelegd dat
 de Standaard Vergelijkbare Bestemmingsplannen (hierna SVBP2012) de norm is voor
 de vergelijkbaarheid van bestemmingsplannen. Dit document is een aanvullende,
 niet wettelijk vereiste richtlijn naast de SVBP2012. Het is niet verplicht dit
@@ -18,7 +18,7 @@ document te gebruiken voor het maken van de analoge bestemmingsplankaart. In het
 geval dit document wel wordt gebruikt, wordt geadviseerd de voorschreven
 werkwijze te hanteren.
 
-Conform Wro en Bro wordt een bestemmingsplan met de daarbij behorende
+Conform [Wro](http://wetten.overheid.nl/BWBR0020449) en [Bro](http://wetten.overheid.nl/BWBR0023798) wordt een bestemmingsplan met de daarbij behorende
 toelichting in digitale geautoriseerde bronbestanden vastgelegd en in die vorm
 vastgesteld. Daarnaast kent de Wro een papieren versie van (hetzelfde)
 bestemmingsplan. Indien de inhoud van digitale stukken tot een andere uitleg
@@ -27,7 +27,7 @@ bestemmingsplan is daarmee een digitaal juridisch authentiek document. De
 informatie die is vastgelegd in het plan moet in elektronische vorm volledig
 toegankelijk en raadpleegbaar zijn. Dit wordt de digitale verbeelding genoemd.
 
-De SVBP2012 geeft normen voor de opbouw van de regels en voor de digitale
+De [SVBP2012](https://ro-standaarden.geonovum.nl/2012/SVBP/1.3/SVBP2012-v1.3.1.pdf) geeft normen voor de opbouw van de regels en voor de digitale
 verbeelding van het bestemmingsplan. Dit document geeft de aanvullende
 richtlijnen voor de opmaak van de analoge bestemmingsplan kaarten. Daarbij dient
 opgemerkt te worden dat dit document zich dus uitsluitend richt op de analoge
