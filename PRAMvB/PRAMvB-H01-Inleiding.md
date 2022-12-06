@@ -1,7 +1,7 @@
 # Inleiding
 
-**De Praktijkrichtlijn Algemene Maatregel van Bestuur is een toelichting op het
-Informatiemodel Ruimtelijke Ordening voor wat betreft deze besluiten. In dit
+**De Praktijkrichtlijn Algemene Maatregel van Bestuur (PRAMVB2012) is een toelichting op het
+Informatiemodel Ruimtelijke Ordening (IMRO2012) voor wat betreft deze besluiten. In dit
 hoofdstuk wordt de achtergrond van de praktijkrichtlijn aangegeven, evenals de
 strekking van de standaard.**
 
@@ -37,7 +37,7 @@ toelichtingen, de zogenoemde praktijkrichtlijnen:
 De STRI2012 is ook in praktijkrichtlijn nader toegelicht:   
 -   Praktijkrichtlijn Toegankelijkheid Ruimtelijke Instrumenten (PRTRI2012).
 
-Het voorliggende rapport betreft de Praktijkrichtlijn Algemene Maatregel van
+Dit document betreft de Praktijkrichtlijn Algemene Maatregel van
 Bestuur (PRAMvB2012). Als uitgangspunt voor deze praktijkrichtlijn worden alle
 gegevens beschouwd die in de vorm van een algemene maatregel van bestuur (amvb)
 of ministeriële regeling (mr) worden vastgesteld. Op basis van deze
@@ -47,7 +47,7 @@ geraadpleegd. Daarmee wordt de volledige digitale representatie van een algemene
 maatregel van bestuur of ministeriële regeling vastgelegd.
 
 De amvb of mr is een instrument waarmee door de minister van het ministerie van 
-Binnenlandse Zaken & koninkrijksrelaties (BZK) of de minister die verantwoordelijk is 
+Binnenlandse Zaken & Koninkrijksrelaties (BZK) of de minister die verantwoordelijk is 
 voor het desbetreffende beleidsterrein in overeenstemming met de minister van BZK regels kunnen worden
 gegeven omtrent de inhoud van bestemmingsplannen en provinciale
 inpassingsplannen, daaraan voorafgaande projectbesluiten en van
