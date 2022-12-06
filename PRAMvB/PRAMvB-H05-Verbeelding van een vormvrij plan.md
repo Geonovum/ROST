@@ -19,7 +19,7 @@ weergeven.
 Het attribuut dat hiervoor door de bronhouder moeten worden gebruikt is
 *cartografieInfo*. Dit is een samengesteld attribuut bestaande uit de attributen
 *kaartnummer, kaartnaam* en *symboolcode*. In de volgende paragrafen volgt de
-werkwijze voor het gebruik van de symboolcodelijst.
+werkwijze voor het gebruik van de symboolcodelijst. De symboolcodelijst is beschikbaar via de [Geonovum website](https://www.geonovum.nl/geo-standaarden/ro-standaarden-ruimtelijke-ordening) en direct onder [IMRO2012](https://www.geonovum.nl/geo-standaarden/ro-standaarden-ruimtelijke-ordening/informatiemodel-ruimtelijke-ordening-imro2012).
 
 ## CartografieInfo
 
@@ -35,8 +35,7 @@ gedefinieerde weergave in de interactieve raadpleegomgeving: het object in een
 grijstint.
 
 Bij de RO Standaarden 2012 is een symboolcodelijst beschikbaar als bijlage bij
-IMRO2012. De symboolcode bepaalt alleen het uiterlijk van het symbool (kleur,
-arcering, vorm, etc.) en zegt niets over de betekenis. Dit is een zogenaamde
+[IMRO2012](https://www.geonovum.nl/geo-standaarden/ro-standaarden-ruimtelijke-ordening/informatiemodel-ruimtelijke-ordening-imro2012). De symboolcode bepaalt alleen het uiterlijk van het symbool (kleur, arcering, vorm, etc.) en zegt niets over de betekenis. Dit is een zogenaamde
 enkelvoudige code, dat wil zeggen: geen aparte aanduiding voor vlakkleur,
 vulling en lijnstructuur en lijnkleur, maar 1 code voor de complete symboliek.
 Degene die het ruimtelijk plan codeert bepaalt zelf welk symbool voor een
@@ -74,15 +73,11 @@ van de symboolcode bepalend. Op de volgende wijze dient het type symbool
 gepositioneerd te worden in de verbeelding van het plan, volgorde van onder naar
 boven:
 
-Dicht vlaksymbool: 											S\<nr\>
-
-Semi-transparant vlaksymbool met 50% / zonder vulling: 		ES\<nr\>
-
-Gearceerd vlaksymbool: 										AS\<nr\>
-
-Lijnsymbool: 												L\<nr\>
-
-Puntsymbool: 												P\<nr\>
+- Dicht vlaksymbool: 	S\<nr\>
+- Semi-transparant vlaksymbool met 50% / zonder vulling: ES\<nr\>
+- Gearceerd vlaksymbool: AS\<nr\>
+- Lijnsymbool: L\<nr\>
+- Puntsymbool: P\<nr\>
 
 De gebruikte objectenstructuur in het ruimtelijk plan dient de volgorde tussen
 de elementen binnen een symboolprefix te bepalen: kindelementen liggen boven de
@@ -100,9 +95,7 @@ onderliggende objecten (gebieden of complexen) onder een complex worden gegeven.
 
 Bij selectie van een onderliggend object moet deze niet verbeeld worden met de
 symboolcode van het bovenliggende complex. Er vindt dus geen overerving van
-symboolcode plaats. In
-
-Figuur **3** een voorbeeld van de weergave in niveaus.
+symboolcode plaats. In Figuur **3** een voorbeeld van de weergave in niveaus.
 
 ![](media/27b978278da93c40c5103f33869e9c1f.png)
 
