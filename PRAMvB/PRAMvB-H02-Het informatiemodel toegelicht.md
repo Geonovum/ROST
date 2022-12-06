@@ -20,6 +20,7 @@ Een amvb bestaat uit drie typen objecten (klassen):
 -   Besluitgebied; 
 -   Besluitvlak; 
 -   Besluitsubvlak.  
+
 In Figuur 1 is het complete schema weergegeven met alle onderscheiden objecten.
 
 ![](media/99198463f25b2203e13d8c4c5a61f87b.jpg)
@@ -93,7 +94,7 @@ vorm van GML-geometrie elementen is leidend of bindend voor de locatie van de
 objecten.
 
 De bronhouder dient een digitale verbeelding van het besluit ter beschikking te
-stellen. Met behulp van een symboolcodelijst die bij de RO Standaarden 2012
+stellen. Met behulp van een symboolcodelijst te vinden onder [IMRO2012](https://www.geonovum.nl/geo-standaarden/ro-standaarden-ruimtelijke-ordening/informatiemodel-ruimtelijke-ordening-imro2012) die bij de [RO Standaarden 2012](https://www.geonovum.nl/geo-standaarden/ro-standaarden-ruimtelijke-ordening)
 beschikbaar is, kan de bronhouder aangeven hoe de amvb worden weergegeven in een
 interactieve raadpleegomgeving.
 
