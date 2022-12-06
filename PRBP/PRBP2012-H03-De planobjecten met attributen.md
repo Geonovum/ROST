@@ -1,19 +1,19 @@
 # De planobjecten met attributen
 
-**Een klasse, te be­schouwen als een objecttype, kent attributen die de
-eigen­schappen van dat object­type geven. In dit hoofdstuk worden de
-(sub)klassen (objec­ttypen) met bijbe­horende attributen be­schreven.**
+**Een klasse, te beschouwen als een objecttype, kent attributen die de
+eigenschappen van dat objecttype geven. In dit hoofdstuk worden de
+(sub)klassen (objecttypen) met bijbehorende attributen beschreven.**
 
 ## Klasse Bestemmingsplangebied
 
 Het object (de klasse) *Bestemmingsplangebied* is het object dat het gebied, of
-de gebieden, bin­nen de plangrenzen geometrisch represen­teert. Aan dit object
-worden de algemene ei­gen­schappen van het plange­bied als attribuut ge­koppeld.
+de gebieden, binnen de plangrenzen geometrisch representeert. Aan dit object
+worden de algemene eigenschappen van het plangebied als attribuut gekoppeld.
 
 In Tabel 2 zijn de attributen benoemd, de waarden aangegeven die deze attributen
-kunnen bevatten en wordt aangegeven of het gebruik van het attribuut ver­plicht
+kunnen bevatten en wordt aangegeven of het gebruik van het attribuut verplicht
 is en of het attribuut meerdere malen mag worden gebruikt (multipliciteit). Ook
-is aangege­ven of het sa­mengestelde attributen betreffen, dat wil zeggen altijd
+is aangegeven of het samengestelde attributen betreffen, dat wil zeggen altijd
 in samenhang moeten worden gebruikt. Na de tabel is per attribuut een nadere
 toelichting gegeven.
 
@@ -75,22 +75,22 @@ ministeries zijn, wordt naamOverheid evenzoveel ingevuld,
 **overheidsCode** (verplicht):  
 Om inzichtelijk te maken van welke beleidsmatig verantwoordelijke overheid het
 bestemmingsplan is, wordt hier het viercijferige CBS-nummer van die overheid
-opgenomen. Voor deelgemeen­ten/­stadsdelen wordt het nummer gebruikt van de
+opgenomen. Voor deelgemeenten/stadsdelen wordt het nummer gebruikt van de
 gemeente waartoe zij behoren. Voor de provincies worden, voorafgaand aan het
 CBS-nummer van de provincie, twee voorloopnegens geplaatst, zodat de totale
 lengte 4 posities bedraagt. Voor het Rijk wordt het nummer "0000" gebruikt.
 
 **naam** (verplicht):  
 In het waardeveld van het attribuut *naam* dient de volledig naam van het
-bestemmingsplan te worden opge­nomen zoals deze in de Slotregel in de planregels
+bestemmingsplan te worden opgenomen zoals deze in de Slotregel in de planregels
 is opgenomen. De volledige naam is gelijk aan de aanhaaltitel in de planregels,
 conform SVBP2012.
 
 **locatieNaam** (indien gewenst / voorwaardelijk verplicht):  
 Het kan gewenst zijn om de geografische naam van de locatie waarbinnen het
 bestemmingsplan zich bevindt kenbaar te maken. De naam (namen) van die locatie
-kan bij dit attribuut worden ingevuld. Bij een bestem­mingsplan buitengebied zal
-bijvoorbeeld veelal geen locatienaam be­horen, bij een bestemmingsplan voor
+kan bij dit attribuut worden ingevuld. Bij een bestemmingsplan buitengebied zal
+bijvoorbeeld veelal geen locatienaam behoren, bij een bestemmingsplan voor
 stedelijk gebied mogelijk wel.  
 Het is noodzakelijk (verplicht) het attribuut *locatieNaam* te gebruiken voor
 zover het een inpassingsplan betreft dat door een provincie of door het Rijk
@@ -101,25 +101,25 @@ gemeentenamen opgenomen waarbinnen het bestemmingsplan valt.
 
 Dit attribuut is noodzakelijk om de plangegevens te kunnen plaatsen naar tijd en
 belang. Het samengesteld attribuut *planstatusInfo* verwijst naar het object
-*Planstatus­En­Datum*, bestaande uit de attributen:  
+*PlanstatusEnDatum*, bestaande uit de attributen:  
 -	**planstatus** (verplicht)  
 Het domein *Planstatus* geeft de toegestane waarden voor het attribuut *planstatus* waaruit er één moet worden gekozen. De waarde van dit attribuut
 geeft de planstatus weer.  
 -	**datum** (verplicht)  
 Het attribuut *datum* is bedoeld om de proceduredatum van het plan op te
 nemen. De in het waardeveld op te nemen datum dient overeenkomstig het in
-IMRO2012 afgesproken da­tumformaat te worden genoteerd: jjjj-mm-dd.
+IMRO2012 afgesproken datumformaat te worden genoteerd: jjjj-mm-dd.
 
 **besluitnummer** (onder voorwaarde verplicht):  
 Nummer van het vaststellingsbesluit van het plan. Het besluitnummer is alleen
-toegestaan en ver­plicht indien de planstatus *vastgesteld*.
+toegestaan en verplicht indien de planstatus *vastgesteld*.
 
 **verwijzingNaarVaststellingsbesluit** (onder voorwaarde verplicht):  
 Hierin wordt een link opgenomen naar de tekst van het vaststellingsbesluit. In
-het format vol­gens de bestandsnaamconventie *vaststellingsbesluit* conform de
+het format volgens de bestandsnaamconventie *vaststellingsbesluit* conform de
 STRI2012. De link is alleen verplicht bij de planstatus *vastgesteld*. Bij een
 andere (eerdere) planstatus is dit attribuut niet toegestaan. Aan het bestand
-kunnen indien gewenst ook door de bronhouder andere relevant geachte stuk­ken,
+kunnen indien gewenst ook door de bronhouder andere relevant geachte stukken,
 die voor een goed begrip nodig kunnen zijn, zoals het raadsvoorstel, worden
 toegevoegd.
 
@@ -145,12 +145,12 @@ keuze voor XML of HTML/PDF planteksten geldt niet alleen voor het
 bestemmingsplangebied, de keuze geldt ook voor de andere objecten (bestemmingen/
 aanduidingen) binnen het bestemmingsplan. Daarnaast wordt de keuze vastgelegd
 met behulp van het attribuut *verwijzingNorm* bij Bestemmingsplangebied van dit
-bestemmingsplan. Het format dient overeen­komstig de afspraak over de
+bestemmingsplan. Het format dient overeenkomstig de afspraak over de
 bestandsnaamconventies conform de STRI2012 te zijn.  
 -	**verwijzingNaarTekst** (verplicht)  
-De waarde van dit attribuut is een (hy­per)­link naar het soort document dat
+De waarde van dit attribuut is een (hyper)link naar het soort document dat
 is aangegeven bij het attribuut *typeTekst*. Er wordt in de waarde geen
-elementen van een directory­ structuur/pad opgenomen.  
+elementen van een directory structuur/pad opgenomen.  
 -	**typeTekst** (verplicht)  
 Hiermee wordt aangegeven om wat voor type tekst het gaat. Per verwijzing
 naar tekst dient gekozen te worden uit een van de volgende waarden van het
@@ -176,13 +176,13 @@ Er zijn meerdere waarden mogelijk.
 	-	basisregistratie kadaster (BRK)  
 Indien geen gebruik is gemaakt van een ondergrond uit het domein
 Ondergronden, dan wordt de naam van het bestand van de gebruikte
-ondergrond(en) als vrije tekst opgegeven. In de PRTRI2012, hoofdstuk 7, is
+ondergrond(en) als vrije tekst opgegeven. In de [PRTRI2012](https://www.geonovum.nl/geo-standaarden/ro-standaarden-ruimtelijke-ordening), hoofdstuk 7, is
 toegelicht welke bestandformaten voor de ondergrond kunnen worden gebruikt.  
 - **ondergronddatum** (verplicht)  
 De datum van de gebruikte ondergrond.
 
 ***verwijzingNaarExternPlanInfo*** (onder voorwaarde verplicht):  
-Dit attribuut betreft een verwij­zing naar het externe plan waar het type plan
+Dit attribuut betreft een verwijzing naar het externe plan waar het type plan
 een gevolg van is. De verwijzing naar het externe plan wordt verplicht opgenomen
 bij het *typePlan*:  
 -   uitwerkingsplan;  
@@ -203,28 +203,28 @@ naam van het bestemmingsplan opgenomen waarvan dit een uitwerking of
 wijziging.  
 - **idnExternPlan** (indien bekend)  
 Met dit attribuut wordt de identificatie (idn) van het externe plan waarnaar
-wordt verwezen op­geno­men.  
+wordt verwezen opgenomen.  
 - **rolExternPlan** (verplicht)  
 Hierin wordt de betekenis van het externe plan ten opzichte van het hier
 betreffende plan vastgelegd. Het betreft hier een van de volgende vaste
-waarden uit het domein *Rol­Extern­Plan_BP*:  
+waarden uit het domein *RolExternPlan_BP*:  
 	-	*ten gevolge van extern plan* in geval van bijvoorbeeld een uitwerkings- of
-    wijzigingsplan, of in ge­val van een aanwijzingsbesluit, en dergelijke;  
+    wijzigingsplan, of in geval van een aanwijzingsbesluit, en dergelijke;  
 	-	*ter vervanging van extern plan* voor het geval het een gedeeltelijke
-    herziening van een bestemmingsplan betreft, als uiteengezet in Hoofdstuk 4
+    herziening van een bestemmingsplan betreft, als uiteengezet in [Hoofdstuk 4](#H04)
     van deze praktijkrichtlijn;  
 	-	*als mutatie opgenomen* voor het geval er sprake is van een"geconsolideerd
-    plan ", als uiteenge­zet in Hoofdstuk 4 van deze praktijkrichtlijn.
+    plan ", als uiteengezet in Hoofdstuk 4 van deze praktijkrichtlijn.
 
 **verwijzingNorm** (verplicht):  
 Teneinde de zekerheid te hebben welke technische status de data hebben, is het
 noodzakelijk dat wordt aangegeven aan welke IMRO versie de gegevensset voldoet.
-Tevens moet een verwijzing wor­den opgenomen naar de gebruikte versie van de
+Tevens moet een verwijzing worden opgenomen naar de gebruikte versie van de
 praktijkrichtlijn. In het geval objectgerichte planteksten (XML) onderdeel zijn
 van het bestemmingsplan, dan wordt ook de verwijzing naar de standaard voor
 planteksten opgenomen.
 
-Het attribuut *verwijzingNorm* dient minimaal twee keer te wor­den opgeno­men
+Het attribuut *verwijzingNorm* dient minimaal twee keer te worden opgenomen
 met de verwijzing naar de betreffende versies in het waardeveld: IMRO2012 en
 PRBP2012. Bij het gebruik van objectgerichte planteksten in dit ruimtelijk plan
 moet ook worden opgenomen: IMROPT2012. Indien gebruik wordt gemaakt van een
@@ -246,11 +246,11 @@ aantal attributen dat aan dat object wordt gekoppeld.
 
 In Tabel 4 zijn de attributen benoemd, waarbij per attribuut is aangege­ven
 welke waarde gewenst is, welke dit moet zijn, of het gebruik van het attribuut
-verplicht is, of het attri­buut meerdere keren mag voorkomen en hoe de waarde,
+verplicht is, of het attribuut meerdere keren mag voorkomen en hoe de waarde,
 al dan niet automatisch, wordt ingevoerd. Het object Bestemmingsvlak is niet
 verplicht indien het *typePlan* een inpassingsplan of wijzigingsplan betreft.
 Ook is aangegeven of attributen gekoppeld zijn, dat wil zeggen altijd in
-samenhang moeten wor­den gebruikt. Na de tabel is per attribuut een toelichting
+samenhang moeten worden gebruikt. Na de tabel is per attribuut een toelichting
 gegeven.
 
 **Tabel 4 Klasse Bestemmingsvlak 1..n\***
@@ -272,8 +272,8 @@ tekens: {”A”…”Z”, “a”…”z”, ”0”…”9”, “_”, “- 
 **typePlanobject** (verplicht):  
 Het attribuut *typePlanobject* maakt het via het bijbehorende domein
 *RuimtelijkPlanobject* mogelijk aan te geven welk object het betreft. Dit
-do­mein kent daarvoor twee waarden: enkelbestemming en dubbelbestemming. Daaruit
-moet worden geko­zen.
+domein kent daarvoor twee waarden: enkelbestemming en dubbelbestemming. Daaruit
+moet worden gekozen.
 "Enkel"bestemmingen zijn te allen tijde tezamen vlakdekkend binnen het
 plangebied. Bij inpassingsplannen, bestemmingsplanherzieningen die alleen iets
 toevoegen aan of verwijderen uit de vigerende bestemmingen en/of bijbehorende
@@ -286,16 +286,16 @@ waar vervolgens wordt verwezen (met identificatienummer) naar het oorspronkelijk
 plan. De volledige regels hoeven daardoor niet te worden overgenomen. Of
 bestemmingen met bijbehorende regels wel/ niet worden opgenomen is aan de
 bronhouder te bepalen en in de planregels te verantwoorden.
-Bestem­mingen kunnen ook de vorm van een zogenoemde dubbelbestemming hebben.
-Onder een dubbelbestem­ming wordt een aparte bestemming verstaan die (een)
-an­dere bestemming(en) willekeurig overlapt. Een voorbeeld kan de bestemming
+Bestemmingen kunnen ook de vorm van een zogenoemde dubbelbestemming hebben.
+Onder een dubbelbestemming wordt een aparte bestemming verstaan die (een)
+andere bestemming(en) willekeurig overlapt. Een voorbeeld kan de bestemming
 "Leiding - Gas” zijn, die andere bestemmingen overlapt. In geval van
 bijvoorbeeld de bestemming "Gemengd" is evenwel geen sprake van een
-dubbelbestemming maar van meerdere be­stemmings­functies binnen één bestem­ming.
-Uit overweging van herkenbaarheid van een dub­belbe­stemming ten opzichte van de
+dubbelbestemming maar van meerdere bestemmingsfuncties binnen één bestemming.
+Uit overweging van herkenbaarheid van een dubbelbestemming ten opzichte van de
 enkelbestemming is het gewenst om deze als apart object te kunnen onderscheiden.
-Voor dubbelbestemmingen geldt dat deze op gelijke wijze worden ge­codeerd als
-een en­kel­bestem­ming.
+Voor dubbelbestemmingen geldt dat deze op gelijke wijze worden gecodeerd als
+een enkelbestemming.
 
 **plangebied** (verplicht):  
 Voor elk object is een verwijzing noodzakelijk naar het object
