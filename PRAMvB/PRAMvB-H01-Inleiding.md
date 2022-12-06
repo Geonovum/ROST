@@ -163,5 +163,5 @@ AMvB dat de verdere uitwerking van die AMvB is opgenomen in een mr.
 De voorliggende praktijkrichtlijn gaat in [Hoofdstuk 2](#H02) in op aard en karakter van
 de amvb en mr in de context van het informatiemodel. [Hoofdstuk 3](#H03) beschrijft alle
 objecten en de bijbehorende attributen. [Hoofdstuk 4](#H04) gaat in op gedeeltelijke
-herzieningen en een geconsolideerd besluit. [Hoofdstuk 5](H05) gaat in op het gebruik
+herzieningen en een geconsolideerd besluit. [Hoofdstuk 5](#H05) gaat in op het gebruik
 van de symboolcodelijst voor vormvrije plannen.
