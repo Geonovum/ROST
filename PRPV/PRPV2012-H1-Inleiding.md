@@ -7,11 +7,10 @@ evenals de strekking van de standaard.**
 
 ## Aanleiding
 
-In de Wet ruimtelijke ordening (Wro) en het Besluit ruimtelijke ordening (Bro)
-is vastgelegd dat planologische visies, plannen, besluiten, verordeningen en
+In de Wet ruimtelijke ordening ([Wro](http://wetten.overheid.nl/BWBR0020449)) en het Besluit ruimtelijke ordening ([Bro](http://wetten.overheid.nl/BWBR0023798)) is vastgelegd dat planologische visies, plannen, besluiten, verordeningen en
 algemene maatregelen van bestuur digitaal vervaardigd en op elektronische wijze
 beschikbaar gesteld moeten worden. Om dit mogelijk te maken zijn de RO
-standaarden ontwikkeld. Deze verplichte RO Standaarden zijn:
+standaarden ontwikkeld. Deze verplichte RO Standaarden, vastgelegd met de [ministeriële Regeling standaarden ruimtelijke ordening](http://wetten.overheid.nl/BWBR0031829), zijn:
 
 -   Informatiemodel Ruimtelijke Ordening (IMRO2012);
 
@@ -150,15 +149,14 @@ beheersverordeningen en van omgevingsvergunningen waarbij met toepassing van
 [artikel 2.12, eerste lid, onderdeel a, onder 3<sup>0</sup>, van de Wet algemene bepalingen
 omgevingsrecht](http://wetten.overheid.nl/BWBR0024779/geldigheidsdatum_22-11-2011#Hoofdstuk2_23_Artikel212)
 (Wabo) van het bestemmingsplan of de beheersverordening wordt afgeweken, al
-dan niet voor een daarbij aangegeven ge­deel­te van het grondgebied van de
+dan niet voor een daarbij aangegeven gedeelte van het grondgebied van de
 provincie.
-
 
 ## Leeswijzer
 
-De voorliggende praktijkrichtlijn gaat in Hoofdstuk 2 in op aard en karakter van
-de provinciale verordening in de context van het informatiemodel. Hoofdstuk 3
-beschrijft alle objecten en de bijbehorende attributen. Hoofdstuk 4 gaat in op
-gedeeltelijke herzieningen en de versie geconsolideerd. 0 gaat in op het gebruik
-van de symboolcodelijst voor vormvrije plannen. In Bijlage 1en Bijlage 2 is een
+De voorliggende praktijkrichtlijn gaat in [Hoofdstuk 2](#H02) in op aard en karakter van
+de provinciale verordening in de context van het informatiemodel. [Hoofdstuk 3](#H03)
+beschrijft alle objecten en de bijbehorende attributen. [Hoofdstuk 4](#H04) gaat in op
+gedeeltelijke herzieningen en de versie geconsolideerd. [Hoofdstuk 5](#H05) gaat in op het gebruik
+van de symboolcodelijst voor vormvrije plannen. In [Bijlage 1](#B1) en [Bijlage 2](#B2) is een
 voorbeeld verordening in tekst en conform IMRO opgenomen.
