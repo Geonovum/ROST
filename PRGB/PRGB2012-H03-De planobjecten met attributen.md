@@ -10,8 +10,8 @@ objecten (klassen) samenhangen en welke attributen mogelijk zijn.**
 Het object *Besluitgebied_X* is het object dat de grenzen van het gebied, of de
 gebieden, waarover het besluit uitspraken doet geometrisch vastlegt. De
 geometrie daarvan is altijd een vlak of multivlak en altijd exact. Aan dit
-object worden de algemene ei­gen­schappen van het gebiedsgericht besluit als
-attribuut ge­koppeld.
+object worden de algemene eigenschappen van het gebiedsgericht besluit als
+attribuut gekoppeld.
 
 In Tabel 3 zijn de attributen behorend bij de klasse *Besluitgebied_X* benoemd,
 de waarden aangegeven die deze attributen moeten bevatten en is aangegeven of
@@ -19,7 +19,7 @@ het gebruik van het attribuut verplicht is en of het attribuut meerdere malen
 mag worden gebruikt. Ook is aangegeven of attributen in samenhang moeten worden
 gebruikt. Na de tabel is per attribuut een nadere toelichting gegeven.
 
-In Hoofdstuk 5 is voor per type gebiedsgerichte besluit een nadere uitwerking
+In [Hoofdstuk 5](#H05) is voor per type gebiedsgerichte besluit een nadere uitwerking
 gegeven van Tabel 3.
 
 **Tabel 3 Klasse Besluitgebied_X 1\***
@@ -85,7 +85,7 @@ lengte 4 posities bedraagt. Voor het Rijk wordt het nummer “0000” gebruikt.
 
 **Naam** (verplicht):  
 In het waardeveld van het attribuut *naam* dient de volledige naam van het
-gebiedsgerichte besluit te worden opge­nomen zoals deze volgens de
+gebiedsgerichte besluit te worden opgenomen zoals deze volgens de
 (aanhaal)titel daarvan wordt genoemd. De volledige naam wordt ge­bruikt. Indien
 er sprake is van een aanhaaltitel in het besluit dan wordt deze gebruikt.
 
@@ -110,11 +110,11 @@ kent. Dit kan in het geval van een gerechtelijke uitspraak bijvoorbeeld alleen *
 - **Planstatus** (verplicht)
 Het domein *Planstatus* geeft de toegestane waarden voor het attribuut *planstatus* waaruit er één moet worden gekozen. De waarde van dit attribuut geeft de planstatus weer.  
 - **Datum**- (verplicht)
-Het attribuut *datum* is bedoeld om de proceduredatum van het plan op te nemen. De in het waardeveld op te nemen datum dient overeenkomstig het binnen het IMRO afgesproken da­tumformaat te worden genoteerd: jjjj-mm-dd.
+Het attribuut *datum* is bedoeld om de proceduredatum van het plan op te nemen. De in het waardeveld op te nemen datum dient overeenkomstig het binnen het IMRO afgesproken datumformaat te worden genoteerd: jjjj-mm-dd.
 
 **besluitnummer** (onder voorwaarde verplicht):  
 Nummer van het vaststellingsbesluit van het besluit / plan. Het besluitnummer is
-alleen toegestaan en dan ver­plicht indien de planstatus *vastgesteld* is.
+alleen toegestaan en dan verplicht indien de planstatus *vastgesteld* is.
 
 **verwijzingNaarVaststellingsbesluit** (onder voorwaarde verplicht):  
 Hierin wordt een link opgenomen naar de tekst van het vaststellingsbesluit. In
@@ -156,11 +156,11 @@ niet-objectgerichte als objectgerichte planteksten wordt dit attribuut
 geldt niet alleen voor het besluitgebied, de keuze geldt ook voor de andere
 objecten (besluitvlakken/ besluitsubvlakken) binnen het gebiedsgericht besluit.
 De keuze wordt vastgelegd met behulp van het attribuut *verwijzingNorm* bij
-BesluitGebied_X van dit gebiedsgericht besluit. Het format dient overeen­komstig
+BesluitGebied_X van dit gebiedsgericht besluit. Het format dient overeenkomstig
 de afspraak over de bestandsnaamconventies conform de STRI2012 te zijn.
 
 - **verwijzingNaarTekst** (verplicht)
-Dit attribuut is bedoeld om (hyper)links te kunnen opnemen. Hier dient een (hy­per)­link naar het soort document dat is aangegeven bij het attribuut
+Dit attribuut is bedoeld om (hyper)links te kunnen opnemen. Hier dient een (hyper)link naar het soort document dat is aangegeven bij het attribuut
 - **typeTekst** te worden opgenomen. Het format dient overeen­komstig deafspraak over de bestandsnaamconventies voor het bestandstype *besluitdocument*, *toelichting*, *regels* of *bijlagen* conform de STRI2012 te zijn.  
 - **typeTekst** (verplicht)
 Hiermee wordt aangegeven om wat voor type tekst het gaat. Per verwijzing naar tekst dient gekozen te worden uit een van de volgende waarden van het domein *TeksttypeBG_XGB*:  
@@ -233,7 +233,7 @@ verwezen wordt bekend is, wordt deze idn hier worden opgenomen.
 - **rolExternPlan** (verplicht)  
 Hierin wordt de betekenis van het externe plan (besluit) ten opzichte van
 het hier betreffende gebiedsgerichte besluit vastgelegd. Het betreft hier
-een van de volgende vaste waarden uit het domein *Rol­Extern­Plan_XGB:*  
+een van de volgende vaste waarden uit het domein *RolExternPlan_XGB:*  
 	- *als mutatie opgenomen* in het geval er sprake is van een mutatieplan van
     een beheersverordening, een en ander als uiteengezet in hoofdstuk 4.1 van
     deze praktijkrichtlijn;  
@@ -262,7 +262,7 @@ moet ook worden opgenomen: IMROPT2012.
 
 **Geometrie** (verplicht):  
 Het object *Besluitgebied* kent uitsluitend de geometrie van een vlak of
-multivlak (multipoly­goon). Dit attribuut kent daarom coördinaten in een
+multivlak (multipolygoon). Dit attribuut kent daarom coördinaten in een
 vastgesteld format (gml) en kan door een applicatie automatisch worden
 gegenereerd.
 
@@ -299,7 +299,7 @@ tekens: {”A”…”Z”, “a”…”z”, ”0”…”9”, “_”, “- 
 
 **typePlanobject** (verplicht):  
 Het attribuut *typePlanobject* maakt het via het bijbehorende domein
-*RuimtelijkPlanobject* mo­gelijk aan te geven welk object het betreft. Hier
+*RuimtelijkPlanobject* mogelijk aan te geven welk object het betreft. Hier
 wordt de vaste waarde *besluitvlak_X* ingevuld.
 
 **besluitgebied** (verplicht):  
@@ -322,19 +322,19 @@ samengestelde attribuut *TekstReferentie_XGB*, bestaande uit de attributen
 *verwijzingNaarTekst, typeTekst* en *normadressant*.
 De bronhouder kiest voor dezelfde vorm van planteksten als bij het object
 *Besluitgebied_X*: objectgericht in XML of niet-objectgericht in HTML formaat.
-Het format dient overeen­komstig de afspraak over de bestandsnaamconventies
+Het format dient overeenkomstig de afspraak over de bestandsnaamconventies
 conform de STRI2012 te zijn. De keuze van de bonhouder wordt vastgelegd in de
 *verwijzingNorm* bij dit gebiedsgericht besluit.  
 - **verwijzingNaarTekst** (verplicht)
 Dit attribuut is bedoeld om (hyper)links te kunnen opnemen. Hier dient een
-(hy­per)­link naar het soort document dat is aangegeven bij het attribuut *typeTekst* te worden opgenomen.
+(hyper)link naar het soort document dat is aangegeven bij het attribuut *typeTekst* te worden opgenomen.
 Voor de waarde van het attribuut *verwijzingNaarTekst* geldt dat geen
 elementen van een directorystructuur/pad mogen worden opgenomen. Wel moet
 een nadere precisering naar de plaats binnen een document te worden
 opgenomen met behulp van een fragmentidentifier. Het fragment in de
 hyperlink is de locatie in de plantekst (XML of HTML) waar het van
 toepassing zijnde attribuut *typeTekst* betrekking op heeft. Een hyperlink
-krijgt dan de vorm: <u>bestandsnaam.xml­\#fragment</u> of
+krijgt dan de vorm: <u>bestandsnaam.xml\#fragment</u> of
 <u>bestandsnaam.htm­\#fragment</u>.  
 - **typeTekst** (verplicht)  
 Hiermee wordt aangegeven om wat voor type tekst het gaat. Per verwijzing
@@ -368,7 +368,7 @@ Naast objecten van het type *Besluitvlak_X* kunnen ook objecten van het type
 *Besluitsubvlak_X* voorkomen. Deze geven een nadere betekenis aan een gedeelte
 van een of meer objecten *Besluitvlak_X* of aan een of meer andere objecten
 *Besluitsubvlak_X*. Het object *Besluitsubvlak_X* kan zo vaak voorkomen als
-gewenst. De geome­trie daarvan is altijd een vlak of multivlak en altijd exact.
+gewenst. De geometrie daarvan is altijd een vlak of multivlak en altijd exact.
 De eigenschappen van dit object worden bepaald door een aantal attributen dat
 aan dat object wordt gekoppeld.
 
@@ -397,7 +397,7 @@ tekens: {”A”…”Z”, “a”…”z”, ”0”…”9”, “_”, “- 
 
 **typePlanobject** (verplicht):  
 Het attribuut *typePlanobject* maakt het via het bijbehorende domein
-*RuimtelijkPlanobject* mo­gelijk aan te geven welk object het betreft. Hier
+*RuimtelijkPlanobject* mogelijk aan te geven welk object het betreft. Hier
 wordt de vaste waarde *Besluitsubvlak_X* ingevuld.
 
 **besluitgebied** (verplicht):  
@@ -441,7 +441,7 @@ conform de STRI2012 te zijn. De keuze van de bonhouder wordt vastgelegd in de
 *verwijzingNorm* bij dit gebiedsgericht besluit.  
 - **verwijzingNaarTekst** (verplicht)  
 Dit attribuut is bedoeld om (hyper)links te kunnen opnemen. Hier dient een
-(hy­per)­link naar het soort document dat is aangegeven bij het attribuut *typeTekst* te worden opgenomen.
+(hyper)link naar het soort document dat is aangegeven bij het attribuut *typeTekst* te worden opgenomen.
 Voor de waarde van het attribuut *verwijzingNaarTekst* geldt dat geen
 elementen van een directorystructuur/pad mogen worden opgenomen. Wel moet
 een nadere precisering naar de plaats binnen een document te worden
@@ -449,7 +449,7 @@ opgenomen met behulp van een fragmentidentifier. Het fragment in de
 hyperlink is de locatie in de plantekst (XML of HTML) waar het van
 toepassing zijnde attribuut *typeTekst* betrekking op heeft. Een hyperlink
 krijgt dan de vorm: <u>bestandsnaam.xml­\#fragment</u> of
-<u>bestandsnaam.htm­\#fragment</u>.  
+<u>bestandsnaam.htm\#fragment</u>.  
 - **typeTekst** (verplicht)  
 Hiermee wordt aangegeven om wat voor type tekst het gaat. Per verwijzing
 naar tekst dient gekozen te worden uit een van de volgende waarden van het
@@ -472,6 +472,6 @@ treedt deze waarde in de plaats van de waarde die bij het object
 
 **geometrie** (verplicht)  
 Het object *Besluitsubvlak_X* kent uitsluitend de geometrie van een vlak of
-multivlak (multipoly­goon). Dit attribuut kent daarom coördinaten in een
+multivlak (multipolygoon). Dit attribuut kent daarom coördinaten in een
 vastgesteld format (gml) en kan door een applicatie automatisch worden
 gegenereerd.

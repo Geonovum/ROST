@@ -5,13 +5,13 @@ achtergrond van de praktijkrichtlijn gegeven evenals de strekking van de
 standaard.**
 
 ## Aanleiding
-In de Wet ruimtelijke ordening (Wro) is vastgelegd dat planologische visies,
+In de Wet ruimtelijke ordening ([Wro](http://wetten.overheid.nl/BWBR0020449)) en het Besluit ruimtelijke ordening ([Bro](http://wetten.overheid.nl/BWBR0023798)) is vastgelegd dat planologische visies,
 plannen, besluiten, verordeningen, algemene maatregelen van bestuur en
 ministeriële regelingen digitaal vervaardigd en op elektronische wijze
 beschikbaar gesteld moeten worden. Daarnaast is ook in de Wet algemene
 bepalingen omgevingsrecht (Wabo) een verplichte elektronische
 beschikbaarstelling opgenomen voor sommige gevallen. Om dit mogelijk te maken
-zijn de RO standaarden ontwikkeld. Deze verplichte RO Standaarden zijn:
+zijn de RO standaarden ontwikkeld. Deze verplichte RO Standaarden zijn, vastgelegd met de [ministeriële Regeling standaarden ruimtelijke ordening](http://wetten.overheid.nl/BWBR0031829),:
 
 -   Informatiemodel Ruimtelijke Ordening (IMRO2012);
 -   Standaard voor Toegankelijkheid Ruimtelijke Instrumenten (STRI2012);
@@ -99,11 +99,7 @@ toevoegen van een objecttype. Vanaf publicatie van deze werkafspraak tot het
 tijdstip van inwerkingtreden van vernieuwde RO Standaarden of
 omgevingstandaarden dan wel nader bericht van de beheerder van de RO Standaarden
 geldt de werkafspraak. 
-De werkafspraak is beschikbaar via de Geonovum website  
-[RO Standaarden – Ruimtelijke Ordening](http://www.geonovum.nl/onderwerpen/ruimtelijke-ordening-standaarden?tab=documenten](http://www.geonovum.nl/onderwerpen/ruimtelijke-ordening-standaarden?tab=documenten) 
-
-of direct:  
-[Objectgerichte planteksten; IMROPT2012 toevoegen objecttype (sub)lid](https://docs.geostandaarden.nl/ro/def-wa-waIMROPT-20130611/)
+De werkafspraak is beschikbaar via de [Geonovum website, pagina RO Standaarden](http://www.geonovum.nl/onderwerpen/ruimtelijke-ordening-standaarden), of direct: [Objectgerichte planteksten; IMROPT2012 toevoegen objecttype (sub)lid](https://docs.geostandaarden.nl/ro/def-wa-waIMROPT-20130611/)
 
 ## Leeswijzer
 In [Hoofdstuk 2](#H02) wordt er ingegaan op wat objectgerichte teksten zijn en welke

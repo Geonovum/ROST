@@ -37,7 +37,7 @@ Het object *Besluitvlak* is een gebied, geometrisch vastgelegd binnen een object
 gekoppeld(e) voorschrift/regel). In het geval het gebiedsgericht besluit
 uitsluitend inhoudelijke bepalingen kent die betrekking hebben op het hele
 werkingsgebied van het gebiedsgericht besluit wordt het werkingsgebied altijd
-tevens aangeduid als object *Be­sluitvlak*. Er is dus altijd tenminste één
+tevens aangeduid als object *Besluitvlak*. Er is dus altijd tenminste één
 besluitvlak dat in dat geval dezelfde geometrie kent als het object
 *Besluitgebied.* Meerdere objecten *Besluitvlak* dekken tezamen het gehele
 object *Besluitgebied* af en kunnen elkaar overlappen. Het object komt altijd
@@ -48,7 +48,7 @@ Het object *Besluitsubvlak* is een gebied, geometrisch vast­gelegd binnen een
 object *Besluitgebied*, met een inhoude­lijke relatie met een of meer
 bovenliggende geometrisch vastgelegde objecten *Besluitvlak* of andere objecten
 *Besluitsubvlak* en heeft geen directe in­houdelijke relatie met het hele
-werkingsge­bied van het gebiedsgericht besluit (het object *Besluitgebied*). Een
+werkingsgebied van het gebiedsgericht besluit (het object *Besluitgebied*). Een
 object *Besluitsubvlak* kan een object *Besluitvlak* of een ander object
 *Besluitsubvlak* willekeurig overlappen. Het object komt zo vaak voor als
 gewenst (0..n).
@@ -81,7 +81,7 @@ in het besluit. Desondanks is er in deze praktijkrichtlijn de mogelijkheid
 opgenomen (facultatief) een kaart als plaatje aan het besluit toe te voegen. Dit
 "plaatje" heeft echter geen geometrie en is derhalve louter illustratief. De
 ontvanger van het bestand bouwt zelf vanuit het GML-bestand de door hem gewenste
-verbeelding op. De digitale verbeelding kan der­halve een andere pre­sentatie
+verbeelding op. De digitale verbeelding kan derhalve een andere presentatie
 zijn van dezelfde gegevens. Een interactieve raadpleegomgeving zal er echter
 zorg voor moeten dragen dat het gebiedsgerichte besluit correct en volledig
 wordt weergegeven, waarmee raadpleging van de gebiedsgerichte besluiten
@@ -100,7 +100,7 @@ grondgebied en elk met een eigen identiteit (attribuut *idn*).
 Teneinde kenbaar te kunnen maken welke gemeenten het betreft in geval van een
 provinciaal of Rijksbesluit dient het attribuut *locatieNaam* te worden gebruikt
 om de betreffende gemeentenamen en in voorkomend geval provincienamen te
-benoemen. Daarvoor wordt verwezen naar het volgende hoofdstuk.
+benoemen. Daarvoor wordt verwezen naar het [volgende hoofdstuk](#H03).
 
 ## Geometrie of tekst als ingang voor beleid
 
@@ -129,9 +129,9 @@ STRI2012 geeft regels met betrekking tot deze bestanden.
 In het GML bestand is ook bepaalde informatie over het gebiedsgerichte besluit
 opgenomen. Ook in het geleideformulier en manifest is bepaalde informatie over
 het gebiedsgerichte besluit opgenomen. Gegevens over gegevens wordt metadata
-genoemd. In IMRO2012 zijn bij de klasse *Metadata­IMRO­­­bestand* regels
+genoemd. In IMRO2012 zijn bij de klasse *MetadataIMRObestand* regels
 opgenomen over de in het GML bestand op te nemen metadata. In Tabel 2 wordt
-klasse *Metadata­IMRO­­­bestand* toegelicht.
+klasse *MetadataIMRObestand* toegelicht.
 
 **Tabel 2 KlasseMetadataIMRObestand 1\***
 ![](media/1a81bef29f2c642e10fc741840419e16.png)
@@ -143,4 +143,4 @@ Rijksdriehoekstelsel (RD-coördinaten). Daarvoor is de schaal in principe niet
 van belang. Bij de digitale en analoge verbeelding is de schaal waarop
 (gedeelten van) het gebiedsgerichte besluit zinvol kunnen worden weergegeven wel
 van belang. Daarom wordt in de metadata van de dataset de maximale schaal
-meegegeven waarop het plan zinvol ver­beeld mag worden.
+meegegeven waarop het plan zinvol verbeeld mag worden.
