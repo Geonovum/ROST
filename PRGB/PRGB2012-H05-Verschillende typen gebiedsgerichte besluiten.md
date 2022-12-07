@@ -15,7 +15,7 @@ Met behulp van IMRO is een zestal gebiedsgerichte besluiten te maken (coderen)
 die allemaal op dezelfde manier te maken zijn. Deze gebiedsgerichte besluiten
 verschillen echter onderling. De verschillen zorgen er bijvoorbeeld voor dat de
 waarden van bepaalde attributen anders worden ingevuld, of dat er andere
-informatie nodig is. Algemeen geldt dat Hoofdstuk 3 van deze praktijkrichtlijn
+informatie nodig is. Algemeen geldt dat [Hoofdstuk 3](#H03) van deze praktijkrichtlijn
 moet worden gebruikt bij het maken van het instrument.
 
 In dit hoofdstuk worden de attributen toegelicht die zijn gekoppeld aan het
@@ -32,7 +32,7 @@ deze tekst. In het geval regels zijn gekoppeld aan het *Besluitgebied_X,* dan
 worden wordt bij de besluit(sub)vlakken alleen naar delen van deze type tekst
 (regels)verwezen.
 
-[^1]: De voorwaarden hiervoor zijn opgenomen in IMRO2012 hoofdstuk 8 OCL Model
+[^1]: De voorwaarden hiervoor zijn opgenomen in [IMRO2012](https://ro-standaarden.geonovum.nl/2012/IMRO/1.2/IMRO2012-v1.2.pdf) hoofdstuk 8 OCL Model
 Contraints
 
 ## Gebiedsgerichte besluiten: inhoud
@@ -101,7 +101,7 @@ De Vereniging Nederlandse Gemeenten (VNG) heeft in 2011 de handreiking
 Beheersverordening Wro geactualiseerd. Voor een inhoudelijke toelichting op de
 beheersverordening verwijzen we naar deze handreiking[^2].
 
-[^2] : Zie: [http://www.vng.nl/Documenten/actueel/beleidsvelden/recht/2011/20110901_Beheersverordening_Wro.pdf](https://vng.nl/files/vng/vng/Documenten/actueel/beleidsvelden/recht/2011/20110901_Beheersverordening_Wro.pdf)]
+[^2] : Zie: [http://www.vng.nl/Documenten/actueel/beleidsvelden/recht/2011/20110901_Beheersverordening_Wro.pdf](https://vng.nl/files/vng/vng/Documenten/actueel/beleidsvelden/recht/2011/20110901_Beheersverordening_Wro.pdf)
 
 Attributen en waarden  
 Een van de waarden van *typeTekst* is regels. De regels worden gekoppeld aan het
