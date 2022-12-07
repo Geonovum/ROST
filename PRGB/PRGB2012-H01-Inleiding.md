@@ -6,15 +6,14 @@ de praktijkrichtlijn gegeven evenals de strekking van de standaard.**
 
 ## Aanleiding
 
-In de Wet ruimtelijke ordening (Wro) en het Besluit ruimtelijke ordening (Bro)
-is vastgelegd dat planologische visies, plannen, besluiten, verordeningen en
+In de Wet ruimtelijke ordening ([Wro](http://wetten.overheid.nl/BWBR0020449)) en het Besluit ruimtelijke ordening ([Bro](http://wetten.overheid.nl/BWBR0023798)) is vastgelegd dat planologische visies, plannen, besluiten, verordeningen en
 algemene maatregelen van bestuur digitaal vervaardigd en op elektronische wijze
 beschikbaar gesteld moeten worden. De digitale visie, plan, besluit verordening,
 maatregel is conform artikel 1.2.1 van het Bro het juridisch authentieke stuk.
 Daarnaast is ook in de Wet algemene bepalingen omgevingsrecht (Wabo) een
 verplichte elektronische beschikbaarstelling opgenomen voor sommige gevallen. Om
 dit mogelijk te maken zijn de RO standaarden ontwikkeld. Deze verplichte RO
-Standaarden zijn:  
+Standaarden zijn, vastgelegd met de [ministeriële Regeling standaarden ruimtelijke ordening](http://wetten.overheid.nl/BWBR0031829),:  
 -   Informatiemodel Ruimtelijke Ordening (IMRO2012); 
 -   Standaard voor Toegankelijkheid Ruimtelijke Instrumenten (STRI2012);
 -   Standaard Vergelijkbare Bestemmingsplannen (SVBP2012).
@@ -41,9 +40,9 @@ De STRI2012 is ook in praktijkrichtlijn nader toegelicht:
 -   Praktijkrichtlijn Toegankelijkheid Ruimtelijke Instrumenten (PRTRI2012).
 
 Het voorliggende rapport betreft de Praktijkrichtlijn Gebiedsgerichte Besluiten
-(PRGB2012). Als uit­gangspunt voor deze praktijkrichtlijn worden alle gege­vens
+(PRGB2012). Als uitgangspunt voor deze praktijkrichtlijn worden alle gegevens
 beschouwd die in de vorm van een gebiedsgericht besluit worden vastgesteld. Op
-basis van deze praktijk­richtlijn kan te allen tijde vanuit de gegevensset de
+basis van deze praktijkrichtlijn kan te allen tijde vanuit de gegevensset de
 inhoud van het oorspronkelijke gebiedsgerichte besluit worden geraadpleegd.
 Daarmee wordt de volledige digitale representatie van een gebiedsgericht besluit
 vastgelegd. De PRGB2012 is van toepassing op de instrumenten: 
@@ -88,10 +87,10 @@ instrumenten. Dit zijn de RO standaarden 2012.
 In de Rsro is bepaald dat bij de digitalisering van ruimtelijke instrumenten
 gebruik moet worden gemaakt van IMRO2012. Dit informatiemodel is de standaard
 voor de beschrijving en codering van ruimtelijke instrumenten. IMRO2012 is
-gebaseerd op het Basis­model Geo-Informatie (NEN 3610: 2011). Dit Basismodel
-kent een aantal objectklassen en at­tributen waarmee aan het aardoppervlak
-gerelateerde ruimtelijke objecten kunnen worden ge­codeerd. IMRO2012 gebruikt
-slechts één van deze objectklassen, namelijk PlanologischGe­bied.
+gebaseerd op het Basismodel Geo-Informatie (NEN 3610: 2011). Dit Basismodel
+kent een aantal objectklassen en attributen waarmee aan het aardoppervlak
+gerelateerde ruimtelijke objecten kunnen worden gecodeerd. IMRO2012 gebruikt
+slechts één van deze objectklassen, namelijk PlanologischGebied.
 Met IMRO wordt de inhoud (representatie van de werkelijkheid) digitaal
 vastgelegd. De gebruiker van het bestand bouwt zelf de door hem gewenste
 verbeelding op. Deze verbeelding kan dus een andere presentatie zijn van
@@ -149,12 +148,12 @@ gebied zonder omgevingsvergunning:
 - bouwwerken te slopen.
 Het instrument kan ook gebruikt worden door provincie en Rijk om voorbescherming
 te verkrijgen voor een op te stellen inpassingsplan. Ook kunnen provincie en
-Rijk, in relatie tot het geven van een aanwij­zing aan gemeenten overeenkomstig
+Rijk, in relatie tot het geven van een aanwijzing aan gemeenten overeenkomstig
 artikel 4.2 en 4.4, verklaren dat een bestemmingsplan door de gemeente wordt
 voorbereid. Het zelfde instrument wordt ook geboden in de artikelen 4.1, lid 5
 en 4.3, lid 4 waar provincie en Rijk de mogelijkheid hebben
 voorbereidingsbescherming te geven aan een op te stellen provinciale
-veror­de­ning, respectie­ve­lijk AMvB.
+verordening, respectievelijk AMvB.
 
 **het aanwijzingsbesluit (proactieve aanwijzing): artikel 4.2 en 4.4 Wro**  
 Dit is een door gedeputeerde staten of door de minister van Infrastructuur en
