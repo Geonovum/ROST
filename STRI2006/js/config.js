@@ -1,12 +1,12 @@
 var respecConfig =
 {
-  subtitle: "STRI2006",
+  //subtitle: "STRI2006",
   pubDomain: "ro",
   specStatus: "GN-DEF",
-  specType: "NO",
+  specType: "PR",
   license: "cc-by-nd",
   publishDate: "2022-11-15",
-  previousPublishDate: "2012-11-15",
+  //previousPublishDate: "2012-11-15",
   previousMaturity: "GN-DEF",
   authors: [
     {
@@ -22,11 +22,11 @@ var respecConfig =
       companyURL: "https://www.geonovum.nl/"
     }
   ],
-  shortName: "StandaardToegankelijkheidImro2006PlannenEnPlancontourPdf",
+  shortName: "STRI2006",
   format: "markdown",
-  github: "https://github.com/Geonovum/ro-StandaardToegankelijkheidImro2006PlannenEnPlancontourPdf/",
-  issueBase: "https://github.com/Geonovum/ro-StandaardToegankelijkheidImro2006PlannenEnPlancontourPdf/issues/",
-  edDraftURI: "https://Geonovum.github.io/ro-StandaardToegankelijkheidImro2006PlannenEnPlancontourPdf/",
+  github: "https://github.com/geonovum/ROST",
+  issueBase: "https://github.com/geonovum/ROST/issues/",
+  edDraftURI: "https://Geonovum.github.io/ROST/",
   publishISODate: "2022-11-15T00:00:00.000Z",
   generatedSubtitle: "Vastgestelde versie 15 november 2022"
 }

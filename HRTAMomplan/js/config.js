@@ -21,7 +21,7 @@ var respecConfig =
   ],
   shortName: "HRTAMomplan",
   format: "markdown",
-  github: "https://github.com/Geonovum/ROST/",
+  github: "https://github.com/Geonovum/ROST",
   issueBase: "https://github.com/Geonovum/ROST/issues/",
   edDraftURI: "https://Geonovum.github.io/ROST/",
  // publishISODate: "2022-09-07T00:00:00.000Z",
