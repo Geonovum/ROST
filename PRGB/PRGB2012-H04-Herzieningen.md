@@ -54,11 +54,11 @@ daarvan betreft gecodeerd en wordt voldaan aan de wettelijke plicht te
 beschikken over een objectgericht plan, maar ontstaat *geen* compleet overzicht
 van de nieuwe geldende situatie. Een oplossing daarvoor is om gebruik te maken
 van een "geconsolideerd besluit " waarin de gevolgen van de herziening zijn
-verwerkt. Daarop wordt hierna onder 4.2. nader ingegaan.
+verwerkt. Daarop wordt hierna in paragraaf 4.2. nader ingegaan.
 
 ## Geldende situatie: de versie ‘geconsolideerd’.
 
-Om de raadpleger van [ruimtelijkeplannen.nl](http://www.ruimtelijkeplannen.nl/)
+Om de raadpleger van [ruimtelijkeplannen.nl](https://www.ruimtelijkeplannen.nl/)
 meer duidelijkheid te kunnen bieden over de exacte status en werkingssfeer van
 de wijzigingen van een gebiedsgericht besluit en het actuele planologische
 regime ter plaatse kan het gebruik van een versie “geconsolideerd” de oplossing
