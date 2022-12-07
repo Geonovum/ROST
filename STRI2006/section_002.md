@@ -326,7 +326,7 @@ Plancontour & PDF is geen officiële verplichte standaard. Doel is de niet-digit
 
 In overeenstemming met de gangbare wijze onder DURP Standaarden 2006 en RO Standaarden 2008 worden alle afzonderlijke plannen een samenhangende set bestanden beschikbaar gesteld. Waarbij alle bij het betreffende plan behorende bestanden binnen 1 virtuele directory gepubliceerd (plancontour en PDF’s). Aanbevelingen aan de bestandsformaten met betrekking tot Plancontour & PDF zijn opgenomen in <a href='#_Ref300236819'>Tabel 3<a></a>.
 
-<a name='_Ref300236819'></a><b>Tabel</b> <b>3</b> <b>Richtlijnen voor bestandsformaten m.b.t. Plancontour & PDF</b>
+<a name='_Ref300236819'></a><b>Tabel 3</b> <b>Richtlijnen voor bestandsformaten m.b.t. Plancontour & PDF</b>
 
 <table style='width: 100%;'><caption></caption>
 <colgroup><col id='col1' style='width: 16.795411985018728%;'
@@ -378,13 +378,13 @@ PDF/A-1 ISO 19005-1:20057
 </tbody>
 </table>
 
-Tabel 4 wordt voorgeschreven om te gebruiken voor het beschikbaar stellen van ruimtelijke plannen onder de oude WRO en alle ruimtelijke plannen tussen 1 juli 2008 en 1 januari 2010 overeenkomstig de huidige Wro analoog in procedure zijn geweest.
+<a href='#_Ref298925074'>Tabel 4<a></a> wordt voorgeschreven om te gebruiken voor het beschikbaar stellen van ruimtelijke plannen onder de oude WRO en alle ruimtelijke plannen tussen 1 juli 2008 en 1 januari 2010 overeenkomstig de huidige Wro analoog in procedure zijn geweest.
 
 Door middel van het boolean attribuut Contour in het element Plan in de GML wordt aangegeven of het een plancontour betreft.
 
 Voor eisen en aanbevelingen met betrekking tot gescande documenten in PDF-formaat, zie de Praktijkrichtlijn Plancontour & PDF (PRPCP2008).
 
-<a name='_Ref298925074'></a><b>Tabel</b> <b>4</b> <b>Onderdelen</b> <b>ruimtelijke plannen conform</b> <b>Plancontour & PDF</b> 
+<a name='_Ref298925074'></a><b>Tabel 4</b> <b>Onderdelen</b> <b>ruimtelijke plannen conform</b> <b>Plancontour & PDF</b> 
 
 <table style='width: 100%;'><caption></caption>
 <colgroup><col id='col1' style='width: 37.71250144558807%;'
@@ -548,9 +548,9 @@ Iedere bronhouder die IMRO2006 plannen beschikbaar wil stellen, stelt hiertoe ee
 <li>Manifest voor IMRO2006 plannen en ‘Plancontour & PDF’ inzake STRI2006.</li>
 </ol>
 
-De inhoud en betekenis van het manifest zijn identiek aan de <a href='https://ro-standaarden.geonovum.nl/2008/1.1/20081224-STRI2008.pdf' target='_blank'>STRI2008</a>, paragraaf <a href='#_Ref300236651'>2.7<a></a> 
+De inhoud en betekenis van het manifest zijn identiek aan de <a href='https://ro-standaarden.geonovum.nl/2008/1.1/20081224-STRI2008.pdf' target='_blank'>STRI2008</a>, paragraaf 2.7. 
 
-Het is conform STRI2006 niet verplicht gebruik te maken van een gestructureerde geleideformulier. Wanneer wel gebruik wordt gemaakt van een geleideformulier kan dit of in PDF of XML formaat worden meegeleverd. Indien er geleideformulieren (XML of PDF) zijn opgesteld bij het IMRO2006 plan kunnen deze worden gepubliceerd. Een voorbeeld van een geleideformulier en het exacte Manifest XML is gegeven in Bijlage 1 Schema manifest en geleideformulier.
+Het is conform STRI2006 niet verplicht gebruik te maken van een gestructureerde geleideformulier. Wanneer wel gebruik wordt gemaakt van een geleideformulier kan dit of in PDF of XML formaat worden meegeleverd. Indien er geleideformulieren (XML of PDF) zijn opgesteld bij het IMRO2006 plan kunnen deze worden gepubliceerd. Een voorbeeld van een geleideformulier en het exacte Manifest XML is gegeven in [Bijlage 1](#bijlage-1) Schema manifest en geleideformulier.
 
 ### <a name='_Ref300236651'></a>Authenticiteitskenmerken en beveiliging
 
@@ -560,5 +560,5 @@ Een bronhouder kan er optioneel in voorzien zijn weblocatie met HTTPS (SSL) te b
 
 ### Digitale verbeelding
 
-Bij het beschikbaar stellen van de IMRO2006 plannen worden geen nadere eisen gesteld aan de digitale verbeelding (raadpleegomgeving) hiervan. Wel wordt er vanuit gegaan dat voor bestemmingsplannen de Standaard voor Vergelijkbaarheid 2006 (SVBP2006) gehanteerd wordt of dat er aangesloten wordt bij de Standaard voor Vergelijkbaarheid 2008/2012 (SVBP2008/SVBP 2012). Deze laatsten maakt duidelijk onderscheid tussen analoge en digitale verbeelding. Gebleken is dat in een digitale raadpleegomgeving het lastig voldaan kan worden aan de eisen van de ‘analoge’ SVBP2006. [Ruimtelijkeplannen.nl](www.ruimtelijkeplannen.nl)  sluit dan ook zoveel mogelijk aan bij de SVBP2008/2012 voor de verbeelding van IMRO2006 plannen.
+Bij het beschikbaar stellen van de IMRO2006 plannen worden geen nadere eisen gesteld aan de digitale verbeelding (raadpleegomgeving) hiervan. Wel wordt er vanuit gegaan dat voor bestemmingsplannen de Standaard voor Vergelijkbaarheid 2006 (SVBP2006) gehanteerd wordt of dat er aangesloten wordt bij de Standaard voor Vergelijkbaarheid 2008/2012 (SVBP2008/SVBP 2012). Deze laatsten maakt duidelijk onderscheid tussen analoge en digitale verbeelding. Gebleken is dat in een digitale raadpleegomgeving het lastig voldaan kan worden aan de eisen van de ‘analoge’ SVBP2006. [Ruimtelijkeplannen.nl](https://www.ruimtelijkeplannen.nl/)  sluit dan ook zoveel mogelijk aan bij de SVBP2008/2012 voor de verbeelding van IMRO2006 plannen.
 
