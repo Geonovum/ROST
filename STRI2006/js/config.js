@@ -5,7 +5,7 @@ var respecConfig =
   specStatus: "GN-DEF",
   specType: "PR",
   license: "cc-by-nd",
-  publishDate: "2022-11-15",
+  publishDate: "2022-12-15",
   //previousPublishDate: "2012-11-15",
   previousMaturity: "GN-DEF",
   authors: [
