@@ -164,13 +164,13 @@ bevatten.
 
 De opbouw van deze praktijkrichtlijn is anders dan de andere praktijkrichtlijnen
 onder de RO Standaarden. In deze praktijkrichtlijn is de toelichting op de norm
-IMRO gegeven in Hoofdstuk 5. In dit hoofdstuk is aangegeven welke informatie
+IMRO gegeven in [Hoofdstuk 5](#H05). In dit [hoofdstuk 1](#H01) is aangegeven welke informatie
 verplicht is op te nemen in de digitale structuurvisie.  
 Verder kent deze praktijkrichtlijn de opbouw die maken van een structuurvisie
-volgt. In Hoofdstuk 2 wordt de structuur van objecten toegelicht en wordt
+volgt. In [Hoofdstuk 2](#H02) wordt de structuur van objecten toegelicht en wordt
 ingegaan op de eigenschappen en mogelijkheden van de objecten. Vervolgens is het
-maken van de plantekst in Hoofdstuk 3 toegelicht en Hoofdstuk 4 gewijd aan het
-maken van de kaarten. De technische toelichting op de norm is in Hoofdstuk 5
+maken van de plantekst in [Hoofdstuk 3](#H03) toegelicht en [Hoofdstuk 4](#H04) gewijd aan het
+maken van de kaarten. De technische toelichting op de norm is in [Hoofdstuk 5](#H05)
 opgenomen.  
 Er is een vijftal bijlagen opgenomen bij deze praktijkrichtlijn:  
 -   In [Bijlage 1](#B01) zijn een aantal veel gestelde vragen rondom deze praktijk en
