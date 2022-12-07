@@ -84,7 +84,7 @@ gebiedsgerichte besluiten (o.a. de beheersverordening) op gemeentelijk niveau
 (zie Figuur 2). Ook voor deze planologische besluiten zijn Praktijkrichtlijnen
 opgesteld. Bij het opstellen van deze Praktijkrichtlijn Provinciale Verordening
 is geprobeerd waar mogelijk aan te sluiten bij de Praktijkrichtlijnen voor
-AMvB’s (PRAMvB2012) en voor gebiedsgerichte besluiten (PRGB2012).
+AMvB’s ([PRAMvB2012](https://docs.geostandaarden.nl/ro/amvb2012/)) en voor gebiedsgerichte besluiten ([PRGB2012](https://docs.geostandaarden.nl/ro/gb2012/)).
 
 ![](media\ddfedb79a97a91612a53100c8d345966.jpg)
 
@@ -94,7 +94,7 @@ Vaak zal een Provinciale Verordening gebaseerd zijn op beleid dat is verwoord in
 een Provinciale Structuurvisie. Ook voor dit planologisch besluit is een
 praktijkrichtlijn opgesteld. Bij het opstellen van deze Praktijkrichtlijn
 Provinciale Verordening is geprobeerd waar mogelijk aan te sluiten bij de
-Praktijkrichtlijn Structuurvisies 2012 (PRSV2012).
+Praktijkrichtlijn Structuurvisies 2012 ([PRSV2012](https://docs.geostandaarden.nl/ro/sv2012/)).
 
 ![](media\42ea13b272bd2375308ff05ac57ae70d.jpg)
 
@@ -154,7 +154,7 @@ ruimtelijk plan binnen een interactieve raadpleegomgeving.
 
 Voor toelichting op het gebruik van de standaard voor planteksten (IMROPT2012)
 wordt verwezen naar de toelichting Praktijkrichtlijn voor Planteksten
-(PRPT2012).
+([PRPT2012](https://docs.geostandaarden.nl/ro/pt2012/)).
 
 Metadata
 --------
@@ -167,8 +167,8 @@ met betrekking tot deze bestanden.
 In het GML bestand is ook bepaalde informatie over de verordening opgenomen. Ook
 in het geleideformulier en manifest is bepaalde informatie over de verordening
 opgenomen. Gegevens over gegevens wordt metadata genoemd. In IMRO2012 zijn bij
-de klasse *Metadata­IMRO­­­bestand* regels opgenomen over de in het GML bestand
-op te nemen metadata. In Tabel 1 wordt klasse *Metadata­IMRO­­­bestand*
+de klasse *MetadataIMRObestand* regels opgenomen over de in het GML bestand
+op te nemen metadata. In Tabel 1 wordt klasse *MetadataIMRObestand*
 toegelicht.
 
 ![](media\PRPV2012Tabel1KlasseMetadataIMRObestand.png)
@@ -182,4 +182,4 @@ geometrisch zijn bepaald op basis van het Rijksdriehoekstelsel (RD-coördinaten)
 Daarvoor is de schaal in principe niet van belang. Bij de digitale en analoge
 verbeelding is de schaal waarop (gedeelten van) de verordening zinvol kunnen
 worden weergegeven wel van belang. Daarom wordt in de metadata van de dataset de
-maximale schaal meegegeven waarop het plan zinvol ver­beeld mag worden.
+maximale schaal meegegeven waarop het plan zinvol verbeeld mag worden.
