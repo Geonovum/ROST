@@ -4,7 +4,7 @@ var respecConfig =
   specStatus: "GN-DEF",
   specType: "WA",
   license: "cc-by-nd",
- //publishDate: "2022-12-07",
+  publishDate: "2022-12-07",
   authors: [
     {
       name: "Beheerder RO Standaarden",
