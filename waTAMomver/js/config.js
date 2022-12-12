@@ -24,7 +24,7 @@ var respecConfig =
   github: "https://github.com/Geonovum/ROST",
   issueBase: "https://github.com/Geonovum/ROST/issues",
   edDraftURI: "https://Geonovum.github.io/ROST",
-  generatedSubtitle: "Definitieve versie 7 december 2022"
+  generatedSubtitle: "Definitieve versie 7 december 2022",
   previousPublishDate: "2022-11-14",  	    
   previousMaturity: "GN-CV",  
 }
