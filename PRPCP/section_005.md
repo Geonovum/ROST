@@ -20,9 +20,8 @@ De planonderdelen van dat ruimtelijk plan, visie of besluit worden als PDF ‘to
 Voor de vereisten van beschikbaarstelling van een plancontour & PDF wordt verwezen naar STRI2006.
 
 In <a href='#_Ref300579421'>Tabel 1<a></a> worden de attributen behorend bij de plancontour benoemd, de waarden aangegeven die deze attributen moeten bevatten en wordt aangegeven of het gebruik van attribuut verplicht is en of het attribuut meerdere malen mag worden gebruikt. Na de tabel wordt per attribuut een nadere toelichting gegeven. 
-
-<a name='_Ref300579421'></a>**Tabel 1 Plangebied_PCP**
-<img src='media/PRPCP_tabel1.png' alt='media/PRPCP_tabel1.png' style='width: 100%;'></img>
+  
+![Tabel 1 Plangebied_PCP](media/PRPCP_tabel1.png .png) 
 
 Hierna wordt per attribuut een nadere toelichting gegeven. 
 
