@@ -21,7 +21,7 @@ Voor de vereisten van beschikbaarstelling van een plancontour & PDF wordt verwez
 
 In <a href='#_Ref300579421'>Tabel 1<a></a> worden de attributen behorend bij de plancontour benoemd, de waarden aangegeven die deze attributen moeten bevatten en wordt aangegeven of het gebruik van attribuut verplicht is en of het attribuut meerdere malen mag worden gebruikt. Na de tabel wordt per attribuut een nadere toelichting gegeven. 
   
-![Tabel 1 Plangebied_PCP](media/PRPCP_tabel1.png .png) 
+![Tabel 1 Plangebied_PCP](media/PRPCP_tabel1.png) 
 
 Hierna wordt per attribuut een nadere toelichting gegeven. 
 
