@@ -6,11 +6,11 @@
 
 Er gelden de volgende normen voor gescande documenten:
 
-<ul><li>Voor beschikbaarstelling wordt een lage scanresolutie van maximaal 96 ppi gebruikt, dat geschikt is voor beeldgebruik. Immers hoge resoluties betekent grote bestanden die zo groot kunnen zijn, dat gebruik door eindgebruikers over een normale internetverbinding te traag zo niet onmogelijk wordt.</li>
+<ul><li>Voor beschikbaarstelling wordt een lage scanresolutie van maximaal 96 ppi gebruikt, dat geschikt is voor beeldgebruik. Immers hoge resoluties betekent grote bestanden die zo groot kunnen zijn, dat gebruik door eindgebruikers over een normale internetverbinding te traag zo niet onmogelijk wordt;</li>
 <li>Scanning in kleur, bitdiepte maximaal 24 bits of zwart-wit bitdiepte maximaal 16-bits</li>
-<li>In de PDF worden de gescande afbeeldingen gecomprimeerd</li>
-<li>Gamma-instelling 2,2 </li>
-<li>Kleurruimte sRGB</li>
+<li>In de PDF worden de gescande afbeeldingen gecomprimeerd;</li>
+<li>Gamma-instelling 2,2;</li>
+<li>Kleurruimte sRGB.</li>
 </ul>
 
 ### Adviezen met betrekking tot scannen
@@ -26,8 +26,8 @@ Er geldt een aantal adviezen:
 <li>De PDF-plankaart is niet te donker of te licht en details in de donkere en lichte delen van de PDF-plankaart zijn zichtbaar. Bij kleurenscanning is er geen sprake van kleurenzweem of andere kleurafwijkingen;</li>
 <li>De PDF-plankaart is niet vervormd en niet gespiegeld;</li>
 <li>De PDF-plankaart moet recht staan;</li>
-<li>De PDF-plankaart moet vrij zijn van verstoringen (zoals ruis, moiré-effect, Newtonringen, stof, draadjes, krassen, ongelijke uitlichting) en scannerfouten (zoals verspringing, strepen, magnetische velden, kleurmisregistratie, at-random-verstoringen).</li>
-<li>Voor het scannen wordt een lage scanresolutie van 96 ppi aanbevolen. Immers hoge resoluties betekent grote bestanden die zo groot kunnen zijn, dat gebruik door eindgebruikers over een normale internetverbinding te traag zo niet onmogelijk wordt.</li>
+<li>De PDF-plankaart moet vrij zijn van verstoringen (zoals ruis, moiré-effect, Newtonringen, stof, draadjes, krassen, ongelijke uitlichting) en scannerfouten (zoals verspringing, strepen, magnetische velden, kleurmisregistratie, at-random-verstoringen);</li>
+<li>Voor het scannen wordt een lage scanresolutie van 96 ppi aanbevolen. Immers hoge resoluties betekent grote bestanden die zo groot kunnen zijn, dat gebruik door eindgebruikers over een normale internetverbinding te traag zo niet onmogelijk wordt;</li>
 <li>Voor interne archiveringsdoeleinden wordt een scanresolutie van 200dpi aanbevolen.</li>
 </ul>
 
