@@ -20,7 +20,7 @@ Er geldt een aantal adviezen:
 <ul><li>De digitale afbeeldingen van de moederkopie zijn van een zo hoog mogelijke kwaliteit, waarvan ten behoeve van interne of externe beschikbaarstelling kopieën in een ander formaat vervaardigd kunnen worden;</li>
 <li>De moederkopie is een zo getrouw mogelijke kopie van het fysieke origineel;</li>
 <li>Voor negatieven geldt dat de moederkopie een zo goed mogelijk positieve weergave van het originele beeld is;</li>
-<li>Maximale bestandsgrootte: 5 Mb;</li>
+<li>Maximale bestandsgrootte: 5 MB;</li>
 <li>De kaartelementen moeten scherp zijn. Het kleinste betekenisvolle detail is zichtbaar en er is niet teveel verscherpt (geen zichtbare ‘haloing’ rond contrastrijke elementen in de kaart);</li>
 <li>De PDF-plankaart moeten zoveel mogelijk de tonale waarden of kleuren van het origineel representeren;</li>
 <li>De PDF-plankaart is niet te donker of te licht en details in de donkere en lichte delen van de PDF-plankaart zijn zichtbaar. Bij kleurenscanning is er geen sprake van kleurenzweem of andere kleurafwijkingen;</li>
