@@ -6,8 +6,8 @@ var respecConfig =
   specType: "PR",
   license: "cc-by-nd",
   publishDate: "2022-12-15",
-//  previousPublishDate: "2012-11-15",
-  previousMaturity: "GN-DEF",
+//previousPublishDate: "2012-11-15",
+//previousMaturity: "GN-DEF",
   authors: [
     {
       name: "Geonovum",

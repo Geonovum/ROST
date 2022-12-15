@@ -7,7 +7,7 @@ var respecConfig =
   license: "cc-by-nd",
   publishDate: "2022-12-15",
   //previousPublishDate: "2012-11-15",
-  previousMaturity: "GN-DEF",
+  //previousMaturity: "GN-DEF",
   authors: [
     {
       name: "Beheerder RO Standaarden",
@@ -27,6 +27,6 @@ var respecConfig =
   github: "https://github.com/geonovum/ROST",
   issueBase: "https://github.com/geonovum/ROST/issues/",
   edDraftURI: "https://Geonovum.github.io/ROST/",
-  publishISODate: "2022-11-15T00:00:00.000Z",
-  generatedSubtitle: "Vastgestelde versie 15 november 2022"
+  publishISODate: "2022-12-15T00:00:00.000Z",
+  generatedSubtitle: "Vastgestelde versie 15 december 2022"
 }

@@ -32,7 +32,7 @@ var respecConfig =
   format: "markdown",                 // altijd "markdown"     
   //-- publishDate is verplicht -------------------------------------------------------
   //-- NB: in de werkversie uitzetten, want dan pakt Respec de pushdate ---------------
-  publishDate: "2022-11-23",  	    // Format is "YYYY-MM-DD"
+  publishDate: "2022-12-15",  	    // Format is "YYYY-MM-DD"
   //-- de namen van de Editor(s) ------------------------------------------------------
   //-- vul in: per Editor: name:, company:, companyURL: -------------------------------
   //-- de github repository waar je documentn in staat --------------------------------
@@ -127,9 +127,10 @@ var respecConfig =
   },
 
   //-- Voor dit blok geldt: alleen als er eerdere versies zijn en altijd beiden aan/uit! 
-  //previousPublishDate: "2018-09-18",  	    // Format is "YYY-MM-DD"
-  //previousMaturity: "CV",                   // kies 1 van deze 2 regels  	  
-  //previousMaturity: "VV",  	                // kies 1 van deze 2 regels
+    previousPublishDate: "2015-12-14",  	    // Format is "YYY-MM-DD"
+  //previousMaturity: "CV",                   // kies 1 van deze 3 regels  	  
+  //previousMaturity: "VV",  	                // kies 1 van deze 3 regels
+  previousMaturity: "GN-DEF",  	                // kies 1 van deze 3 regels
 
   //-- Optionele parameters:
   //emailComments: "mim@geonovum.nl",         // reactie mailadres, alleen bij CV!
