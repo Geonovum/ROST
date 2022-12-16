@@ -50,8 +50,8 @@ var respecConfig =
   shortName: "PRPCP2008",
   format: "markdown",
   github: "https://github.com/Geonovum/ROST/",
-  //issueBase: "https://github.com/Geonovum/ROST/issues/",
-  //edDraftURI: "https://Geonovum.github.io/ro-PRPCP2008/",
+  issueBase: "https://github.com/Geonovum/ROST/issues/",
+  edDraftURI: "https://Geonovum.github.io/ROST/",
   publishISODate: "2022-12-13T00:00:00.000Z",
   generatedSubtitle: "Vastgestelde versie 13 december 2022"
 }
