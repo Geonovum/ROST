@@ -17,11 +17,11 @@ Het doel voor data op orde is het verbeteren van de gegevenskwaliteit. Dit kunne
 
 **1. Foutherstel**
 Fouten in de planvoorraad kunnen ertoe leiden dat plannen niet, of niet goed ontsloten worden in het DSO. Deze fouten moeten hersteld worden.
-<img src='media/Foutherstel.png' alt='media/Foutherstel.png' style='width: 25%;'></img>
+<img src='media/Foutherstel.png' alt='media/Foutherstel' style='width: 25%;'></img>
 
 **2. Opschonen van de planvoorraad**
 In de loop der jaren is de planvoorraad op Ruimtelijkeplannen.nl enorm uitgebreid. Vaak zijn wel plannen toegevoegd maar zijn er geen vervallen plannen en verouderde versies verwijderd.
-<img src='media/Schoonmaken.png' alt='media/Schoonmaken.png' style='width: 25%;'></img>
+<img src='media/Schoonmaken.png' alt='media/Schoonmaken' style='width: 25%;'></img>
 
 Waarom is de kwaliteit van de planvoorraad zo van belang?
 
