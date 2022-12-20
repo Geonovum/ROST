@@ -16,16 +16,16 @@ De hoofdregel is dat foutherstel niet gaat over de inhoud van een plan of beslui
 	- Foutherstel van de dossierstatus in het manifest
 	- Foutherstel van metadata van de planset zoals, typeplan, datum en status info, overheidscode, identificatienummer, verwijzingen naar externe plannen.
 	- Anonimiseren van documenten naar aanleiding van de AVG
-- Randvoorwaarde is dat een goede verantwoording van uitgevoerd foutherstel gewaarborgd is. Hierdoor kan later altijd gereconstrueerd worden wat de aanleiding van de hersteloperatie was en wie, wanneer, wat en hoe het herstel heeft uitgevoerd. Dat geldt nu binnen de context van de Wro, maar evengoed straks binnen de context van de Omgevingswet/ het DSO-LV.
+- Randvoorwaarde is dat een goede verantwoording van uitgevoerd foutherstel is gewaarborgd bij de bronhouder. Hierdoor kan later door de bronhouder altijd gereconstrueerd worden wat de aanleiding van de hersteloperatie was en wie, wanneer, wat en hoe het herstel heeft uitgevoerd. Dat geldt nu binnen de context van de Wro, maar evengoed straks binnen de context van de Omgevingswet/ het DSO-LV.
 
-Bij gebreken aan de inhoud van het plan of besluit zal het bevoegd gezag een nieuw besluit moeten nemen of een nieuwe procedure moeten volgen.
+Bij gebreken aan de inhoud van het plan of besluit zal het bevoegd gezag een nieuw besluit moeten nemen of een nieuwe procedure moeten volgen. Een nieuwe procedure starten conform Wro en op basis van de RO Standaarden kan tot inwerkingtreden Omgevingswet. 
 
 ### Uitvoeren foutherstel aan plan
 
 De bronhouder verwijdert het ruimtelijke plan of besluit van de weblocatie en uit het manifest. Door het verwijderen van het plan uit het manifest, wordt door de landelijke voorziening Ruimtelijkeplannen.nl het plan ook van Ruimtelijkeplannen.nl gehaald. Het plan is niet meer beschikbaar en raadpleegbaar via Ruimtelijkeplannen.nl.<br/>De bronhouder past de betreffende metadata in dezelfde versie van het plan aan. Het planidentificatienummer van het plan blijft hetzelfde. Het volledige aangepaste plan zet de bronhouder binnen 24 uur weer op de weblocatie en in het manifest. Het plan wordt door de landelijke voorziening geladen en is weer raadpleegbaar via de viewer van Ruimtelijkeplannen.nl.
 
 **Doorlooptijd van foutherstel**  
-De gehele cyclus van foutherstel is mogelijk binnen 24 uur. Dit omdat Ruimtelijkeplannen.nl sinds voorjaar 2018 tweemaal per dag de plannen harvest (plannen ophaalt) bij de bronhouder. Het verwijderen kan ’s ochtends plaatsvinden, het plaatsen van een nieuwe versie ’s middags. De ‘offline’ tijd van een plan blijft zo minimaal.
+De gehele cyclus van foutherstel is mogelijk binnen 24 uur. Dit omdat Ruimtelijkeplannen.nl sinds voorjaar 2018 tweemaal per dag de plannen harvest (planwijzigingen ophaalt) bij de bronhouder. Het verwijderen kan ’s ochtends plaatsvinden, het plaatsen van een nieuwe versie ’s middags. De ‘offline’ tijd van een plan blijft zo minimaal.
 
 ### Relatie met tijdreizen
 
