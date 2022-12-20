@@ -4,9 +4,7 @@ var respecConfig =
   specStatus: "GN-DEF",
   specType: "HR",
   license: "cc-by-nd",
-  publishDate: "2022-12-15",
-  previousPublishDate: "2019-08-14",
-  previousMaturity: "GN-DEF",
+//  publishDate: "2022-12-15",
   authors: [
     {
       name: "Beheerteam DRO",
@@ -27,5 +25,7 @@ var respecConfig =
   issueBase: "https://github.com/geonovum/ROST/issues/",
   edDraftURI: "https://Geonovum.github.io/ROST/",
   publishISODate: "2022-12-15T00:00:00.000Z",
-  generatedSubtitle: "Vastgestelde versie 15 december 2022"
+  generatedSubtitle: "Vastgestelde versie 15 december 2022",
+  previousPublishDate: "2019-08-14",
+  previousMaturity: "GN-DEF",
 }
