@@ -48,8 +48,10 @@ Ook indien er geen juridische consequenties zijn verbonden aan het herstel van d
 
 <ol><li>Een kennelijke verschrijving wordt opgelost met een ambtelijke wijziging. Dit betekent altijd dat de wijziging van de metadata van het plan, hetzij in een nieuwe versie, hetzij in dezelfde versie moet kunnen worden verantwoord. Intern wordt deze ambtelijke wijziging vastgelegd in het zaak/proces/documentbeheer systeem dat wordt gehanteerd door de bronhouder tijdens de planprocedure.</li>
 <li>Het is hierbij aan te bevelen om de gewijzigde versie van het ruimtelijke plan samen met de verantwoording van de wijziging door de bronhouder te archiveren. De oorspronkelijke versie (zonder aanpassingen in de metadata) hoort dan ook in het archief opgenomen te blijven.</li>
-<li>De planvoorraad op de weblocatie, met manifest, moet na afronding van het foutherstel (weer) gelijk zijn aan de planvoorraad bij de landelijke voorziening Ruimtelijkeplannen.nl. Zie ook [paragraaf 2.3](#uitvoeren-foutherstel).</li>
+<li>De planvoorraad op de weblocatie, met manifest, moet na afronding van het foutherstel (weer) gelijk zijn aan de planvoorraad bij de landelijke voorziening Ruimtelijkeplannen.nl. * <li>
 </ol>
+
+*) Zie ook [paragraaf 2.3](#uitvoeren-foutherstel).
 
 In [Hoofdstuk 5](#formulier-foutherstel-ruimtelijke-plannen) is een voorbeeld formulier opgenomen die de bronhouder kan gebruiken voor verantwoording en samen met de nieuwe versie van het ruimtelijke plan, intern archiveert. De handreiking Archiveren ruimtelijke plannen is beschikbaar via de [Geonovum website](https://www.geonovum.nl/geo-standaarden/ro-standaarden-ruimtelijke-ordening) onder het kopje [Handreikingen](https://www.geonovum.nl/geo-standaarden/ro-standaarden-ruimtelijke-ordening#handreikingen)
 
