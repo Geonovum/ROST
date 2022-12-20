@@ -25,7 +25,8 @@ function custGHPG(respecConfig)
 var respecConfig =
 {
   pubDomain: "ro",
-  specStatus: "GN-DEF",
+  specStatus: "GN-WV",
+//  specStatus: "GN-DEF",
   specType: "HR",
   license: "cc-by-nd",
 //  publishDate: "2022-12-15",
