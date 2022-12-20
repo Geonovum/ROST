@@ -128,7 +128,7 @@ Op grond van de Algemene verordening gegevensbescherming (<a href='https://www.r
 <li>Opnieuw waarmerken, valideren en publiceren en een dag later weer aanbieden aan Ruimtelijkeplannen.nl. </li>
 </ul>  
   
-We gaan er vanuit dat alle plannen op Ruimtelijkeplannen.nl voldoen aan de AVG, mocht dit niet zo zijn dan adviseren wij u om dit ruim voor inwerkingtreden Omgevingswet, alsnog aan te passen. Wanneer het toch noodzakelijk is om na in werking treden Omgevingswet foutherstel in het kader van de AVG door te voeren, <u>hou dan rekening met de relatie met tijdreizen (zie paragraaf [2.4](#relatie-met-tijdreizen).</u>  
+We gaan er vanuit dat alle plannen op Ruimtelijkeplannen.nl voldoen aan de AVG, mocht dit niet zo zijn dan adviseren wij u om dit ruim voor inwerkingtreden Omgevingswet, alsnog aan te passen. Wanneer het toch noodzakelijk is om na in werking treden Omgevingswet foutherstel in het kader van de AVG door te voeren, <u>hou dan rekening met de relatie met tijdreizen, zie [paragraaf 2.4](#relatie-met-tijdreizen).</u>  
 
 ***Voorbeeld***:  
 De Omgevingswet is van kracht en tijdreizen in het DSO is mogelijk. U constateert dat er een Wro plan in de planvoorraad staat dat persoonsgegevens bevat. U kunt het plan dan aanpassen en onder hetzelfde versie nummer weer publiceren.  
