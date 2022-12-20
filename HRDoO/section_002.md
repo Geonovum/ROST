@@ -34,8 +34,9 @@ Op dit moment is ‘tijdreizen’ niet mogelijk in Ruimtelijkeplannen.nl. Het is
 We onderscheiden dus de volgende 2 situaties.
 
 <ul><li>Verwijderde plannen voor in werking treden Omgevingswet zijn middels tijdreizen <u>niet</u> raadpleegbaar in het DSO;</li>
-<li>Verwijderde plannen na inwerkingtreden Omgevingswet, hiervan blijft via tijdreizen <u>de laatste versie</u> raadpleegbaar in het DSO. De laatste versie is het laatst geladen plan onder hetzelfde planidentificatienummer, zie ook [paragraaf 2.3](#uitvoeren-foutherstel).</li>
+<li>Verwijderde plannen na inwerkingtreden Omgevingswet, hiervan blijft via tijdreizen <u>de laatste versie</u> raadpleegbaar in het DSO. De laatste versie is het laatst geladen plan onder hetzelfde planidentificatienummer*.</li>
 </ul>
+*) Zie ook [paragraaf 2.3](#uitvoeren-foutherstel)
 
 Zeker bij foutherstel in het kader van de Algemene verordening gegevensbescherming (<a href='https://www.rijksoverheid.nl/onderwerpen/privacy-en-persoonsgegevens' target='_blank'>AVG</a>), moet hier rekening mee gehouden worden, zie [paragraaf AVG-Proof](#avg-proof) in deze handreiking.  
 
