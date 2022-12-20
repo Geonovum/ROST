@@ -39,7 +39,7 @@ In deze handreiking worden de verschillende onderwerpen toegelicht en worden han
 
 In het [hoofdstuk 2 Algemene werkwijze bij foutherstel](#algemene-werkwijze-bij-foutherstel) geven we de kaders voor foutherstel van ruimtelijke plannen, wat mag je wel aan een plan wijzigen en wat niet en wat is de te volgen werkwijze.
 
-In het [hoofdstuk 3 Uitwerking foutherstel in de planvoorraad](#uitwerking-foutherstel-in-de-planvoorraad) gaan we inhoudelijk in op de meest voorkomende fouten in de planvoorraad. Welke fouten zijn dit, wat zijn consequenties hiervan en hoe kunnen deze fouten worden opgelost. 
+In [hoofdstuk 3 Uitwerking foutherstel in de planvoorraad](#uitwerking-foutherstel-in-de-planvoorraad) gaan we inhoudelijk in op de meest voorkomende fouten in de planvoorraad. Welke fouten zijn dit, wat zijn consequenties hiervan en hoe kunnen deze fouten worden opgelost. 
 
-In het [hoofdstuk 4 De planvoorraad opschonen](#de-planvoorraad-opschonen) gaan we dieper in op de planvoorraad en lichten we toe hoe deze zo optimaal mogelijk opgeschoond kan worden.
+In [hoofdstuk 4 De planvoorraad opschonen](#de-planvoorraad-opschonen) gaan we dieper in op de planvoorraad en lichten we toe hoe deze zo optimaal mogelijk opgeschoond kan worden.
 

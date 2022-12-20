@@ -1,6 +1,6 @@
 ## Uitwerking foutherstel in de planvoorraad
 
-**Het is belangrijk dat technische fouten in de planvoorraad door de bronhouder worden aangepast; technische fouten kunnen er toe leiden dat plannen niet of onjuist worden weergegeven in de viewer van het Omgevingsloket.
+**Het is belangrijk dat technische fouten in de planvoorraad door de bronhouder worden aangepast; technische fouten kunnen ertoe leiden dat plannen niet of onjuist worden weergegeven in de viewer van het Omgevingsloket.
 Bronhouders kunnen via <i>‘Het kwaliteitsdashboard’</i> van het Kadaster hun planvoorraad zelf monitoren op de meest voorkomende fouten. Om toegang te krijgen tot het kwaliteitsdashboard dien je eerst in te loggen in het portaal van [Mijn Kadaster](https://mijn.kadaster.nl/security/login?URL=https%3A%2F%2Fmijn.kadaster.nl%2Fdashboard&retry=no). Iedere bronhouder kent een zogenaamde “eerste beheerder” die deze toegang kan regelen.**
 
 ### Consistent gebruik planstatus en dossierstatus
