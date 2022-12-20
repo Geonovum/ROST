@@ -37,7 +37,7 @@ We onderscheiden dus de volgende 2 situaties.
 <li>Verwijderde plannen na inwerkingtreden Omgevingswet, hiervan blijft via tijdreizen <u>de laatste versie</u> raadpleegbaar in het DSO. De laatste versie is het laatst geladen plan onder hetzelfde planidentificatienummer, zie ook [paragraaf 2.3](#uitvoeren-foutherstel-aan-plan).</li>
 </ul>
 
-Zeker bij foutherstel in het kader van de Algemene verordening gegevensbescherming (<a href='https://www.rijksoverheid.nl/onderwerpen/privacy-en-persoonsgegevens' target='_blank'>AVG</a>), moet hier rekening mee gehouden worden, zie paragraaf AVG-Proof in deze handreiking.  
+Zeker bij foutherstel in het kader van de Algemene verordening gegevensbescherming (<a href='https://www.rijksoverheid.nl/onderwerpen/privacy-en-persoonsgegevens' target='_blank'>AVG</a>), moet hier rekening mee gehouden worden, zie [paragraaf AVG-Proof](#avg-proof) in deze handreiking.  
 
 
 <img src='media/Tijdreizen.png' alt='media/Tijdreizen en plannen verwijderen' style='width: 100%;'></img>
