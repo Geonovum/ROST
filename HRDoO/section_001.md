@@ -16,7 +16,7 @@ Zowel voor bronhouders als gebruikers van het DSO is het belangrijk dit zo proce
 Het doel voor data op orde is het verbeteren van de gegevenskwaliteit. Dit kunnen we grofweg verdelen in 2 onderdelen.
 
 **1. Foutherstel**
-Fouten in de planvoorraad kunnen ertoe leiden dat plannen niet, of niet goed ontsloten worden in het DSO. Deze fouten moeten hersteld worden.
+Fouten in de planvoorraad kunnen ertoe leiden dat plannen niet, of niet goed ontsloten worden in het DSO. Deze fouten moeten hersteld worden.  
 
 <img src='media/Foutherstel.png' alt='media/Foutherstel.png' style='width: 25%;'></img>
 
