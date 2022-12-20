@@ -113,7 +113,7 @@ Met het wijzigen van het Besluit Crisis- en herstelwet in mei 2014 (Stb. 2014, n
 </ol>  
   
   
-<b>Tijdelijke Alternatieve Maatregel (TAM)</b>  
+<br><b>Tijdelijke Alternatieve Maatregel (TAM)</b>
 Bij inwerking treden van de Omgevingswet zal het, voor zover nu bekend, nog enige tijd mogelijk zijn om met behulp van de huidige RO Standaarden en de huidige landelijke voorziening (Ruimtelijkplannen.nl) een beperkt aantakl soorten omgevingswetbesluiten op te stellen. Omdat het noodzakelijk is om deze omgevingswetbesluiten te herkennen en te kunnen onderscheiden van de Wro-besluiten, zijn werkafspraken opgesteld. Hierin is onder andere vastgelegd dat de naam van het besluit moet beginnen met **TAM-[type omgevingswetbesluit]**, bijvoorbeeld 'TAM-omgevingsplan'.  
 De overbruggingsfunctie zal van deze naamgeving gebruik maken om het plan op de juiste wijze te ontsluiten in het DSO. Voor de juiste naamgeving per type omgevingswetbesluit zie de Geonovum website onder <a href='https://www.geonovum.nl/geo-standaarden/omgevingswet/tam' target='_blank'>Tijdelijke Alternatieve Maatregelen</a>.
 
