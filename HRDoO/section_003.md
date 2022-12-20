@@ -22,7 +22,8 @@ Bovenstaande figuur maakt duidelijk wat de gevolgen zijn van een onjuiste dossie
 
 De meest voorkomende fouten zijn:  
 <ol><li>Vastgestelde plannen (en/of onherroepelijk plannen IMRO2008) in een dossier dat op ‘in voorbereiding’ staat;</li>
-<li>Vastgestelde plannen waarbij het dossier na de beroepstermijn op ‘vastgesteld’ blijft staan.</li>
+<li>Vastgestelde plannen waarbij het dossier na de beroepstermijn op ‘vastgesteld’ blijft staan;</li>
+<li>Plannen die geen beroep/bezwaartermijn kennen die dossierstatus 'vastgesteld' krijgen, waar dat 'geheel onherroepelijk in werking' moet zijn.</li>
 </ol>  
 
 
@@ -50,7 +51,7 @@ Wanneer, na het publiceren van het plan, de bronhouder het plan verwijdert of ve
 Om er voor te zorgen dat het plan weer raadpleegbaar en beschikbaar is, kunnen twee werkwijzen worden gevolgd.
 
 <ol><li><i>Het plan opnieuw publiceren</i><br/>Hiervoor moet eerst het plan uit het manifest worden verwijderd. Ruimtelijkeplannen.nl zal het plan nu ook verwijderen. Het plan 24 uur later opnieuw waarmerken, valideren en publiceren. Om een plan met hetzelfde planidentificatienummer opnieuw te kunnen publiceren moet het minimaal 1 dag van Ruimtelijkeplannen.nl verwijderd zijn.</li>
-<li><i>Terugplaatsen van de identieke gewaarmerkte versie</i><br/>Hierbij wordt de identieke gewaarmerkte versie van het plan teruggeplaatst naar de locatie zoals deze in het geleideformulier en het manifest is aangegeven.</li>
+<li><i>Terugplaatsen van de identieke gewaarmerkte versie</i><br/>Hierbij wordt de identieke gewaarmerkte versie van het plan, waarvan de overige metadata zoals plandatum niet door de bronhouder wordt gewijzigd, teruggeplaatst naar de locatie zoals deze in het geleideformulier en het manifest is aangegeven.</li>
 </ol>
 
 #### Plan staat wel in het manifest en bij de bronhouder maar niet op Ruimtelijkeplannen.nl
