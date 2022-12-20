@@ -16,7 +16,7 @@ In bijlage 1 van de [Praktijkrichtlijn Toegankelijkheid Ruimtelijke Instrumenten
 Onder meer op basis van de dossierstatus, wordt bepaald of het plan wel of niet op de juiste wijze zichtbaar is in de viewer van het DSO-LV. Bijvoorbeeld: wanneer een ‘vastgesteld’ plan in werkelijkheid ‘geheel onherroepelijk in werking’ is, maar de dossierstatus van dit plan staat nog op ‘in voorbereiding’, dan zal dit plan niet als ‘geldende regelgeving’ in het DSO worden getoond. Het is dus van groot belang dat de dossierstatus goed is. Uit monitoring blijkt echter dat met name dit type fout vaak voorkomt. Belangrijk dus om als bronhouder hier iets aan te doen.
 
 
-<img src='media/Dossierstatus en viewer.png' alt='media/Dossierstatus en viewer.png' style='width: 100%;'></img>
+<img src='media/Dossierstatus en viewer.png' alt='media/Dossierstatus en viewer regels op de kaart' style='width: 100%;'></img>
 
 Bovenstaande figuur maakt duidelijk wat de gevolgen zijn van een onjuiste dossierstatus/ planstatus is wanneer de gebruiker op Ruimtelijkeplannen.nl zoekt op adres, perceel of een geselecteerd gebied in de viewer.  
 

@@ -40,7 +40,7 @@ We onderscheiden dus de volgende 2 situaties.
 Zeker bij foutherstel in het kader van de Algemene verordening gegevensbescherming (<a href='https://www.rijksoverheid.nl/onderwerpen/privacy-en-persoonsgegevens' target='_blank'>AVG</a>), moet hier rekening mee gehouden worden, zie paragraaf AVG-Proof in deze handreiking.  
 
 
-<img src='media/Tijdreizen.png' alt='media/Tijdreizen.png' style='width: 100%;'></img>
+<img src='media/Tijdreizen.png' alt='media/Tijdreizen en plannen verwijderen' style='width: 100%;'></img>
 
 ### Verantwoording bij aanpassingen
 

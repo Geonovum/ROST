@@ -8,7 +8,7 @@ Ieder ruimtelijk instrument is opgebouwd uit een samenhangende set bronbestanden
 In dit hoofdstuk lichten we toe hoe de Wro planvoorraad zo optimaal mogelijk opgeschoond kan worden. Zodat deze zo goed mogelijk ontsloten kan worden in het DSO.  
 Let wel, het is een separate wettelijke verplichting van de bronhouder om alle versies van een plan te archiveren en beschikbaar te hebben in een digitaal archief van de bronhouder, de landelijke voorziening voorziet hier niet in. 
 
-<img src='media/Opbouw_Planvoorraad.png' alt='media/Opbouw_Planvoorraad.png' style='width: 100%;'></img>  
+<img src='media/Opbouw_Planvoorraad.png' alt='media/Opbouw van planvoorraad op Ruimtelijkeplannen.nl' style='width: 100%;'></img>  
 
 ### Opschonen planversies na onherroepelijk worden van een plan
 
