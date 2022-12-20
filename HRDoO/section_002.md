@@ -29,12 +29,12 @@ De gehele cyclus van foutherstel is mogelijk binnen 24 uur. Dit omdat Ruimtelijk
 
 ### Relatie met tijdreizen
 
-Op dit moment is ‘tijdreizen’ niet mogelijk in Ruimtelijkeplannen.nl. Het is dus niet mogelijk om te kijken naar een situatie uit het verleden. Vanaf het moment dat de Omgevingswet in werking treedt is tijdreizen wel mogelijk. Het is belangrijk dat u zich dit realiseert bij het verwerken van fouten en/of opschonen van de planvoorraad. 
+Op dit moment is ‘tijdreizen’ niet mogelijk in Ruimtelijkeplannen.nl. Het is dus niet mogelijk om te kijken naar een situatie uit het verleden. Vanaf het moment dat de Omgevingswet in werking treedt is tijdreizen alleen mogelijk met het Omgevingsloket (of met de bijbehorende DSO-LV API's) en niet met Ruimtelijkeplannen.nl. Tijdreizen is dan alleen mogelijk naar een versie van het plan dat als laatste is gepubliceerd. 
 
 We onderscheiden dus de volgende 2 situaties.
 
-<ul><li>Verwijderde plannen voor in werking treden Omgevingswet zijn middels tijdreizen <u>niet</u> raadpleegbaa<u>r</u> in het DSO</li>
-<li>Verwijderde plannen na inwerking treden Omgevingswet, hiervan blijft  via tijdreizen <u>de laatste versie</u> raadpleegbaar in het DSO</li>
+<ul><li>Verwijderde plannen voor in werking treden Omgevingswet zijn middels tijdreizen <u>niet</u> raadpleegbaar in het DSO;</li>
+<li>Verwijderde plannen na inwerkingtreden Omgevingswet, hiervan blijft via tijdreizen <u>de laatste versie</u> raadpleegbaar in het DSO. De laatste versie is het laatst geladen plan onder hetzelfde planidentificatienummer ((zie ook paragraaf [2.3](#uitvoeren-foutherstel-aan-plan) </li>
 </ul>
 
 Zeker bij foutherstel in het kader van de Algemene verordening gegevensbescherming (<a href='https://www.rijksoverheid.nl/onderwerpen/privacy-en-persoonsgegevens' target='_blank'>AVG</a>), moet hier rekening mee gehouden worden, zie paragraaf AVG-Proof in deze handreiking.  
@@ -44,7 +44,7 @@ Zeker bij foutherstel in het kader van de Algemene verordening gegevensbeschermi
 
 ### Verantwoording bij aanpassingen
 
-Ook indien er geen juridische consequenties zijn verbonden aan het herstel van de metadata, vragen aanpassingen van het plan wel om verantwoording: de aanpassingen moeten gerechtvaardigd zijn en in ieder geval intern expliciet verantwoord kunnen worden. Een duidelijke werkwijze helpt hierbij. De aanbeveling is hierbij de volgende spelregels in acht te nemen:
+Ook indien er geen juridische consequenties zijn verbonden aan het herstel van de metadata, vragen aanpassingen van het plan wel om verantwoording: de aanpassingen moeten gerechtvaardigd zijn en in ieder geval intern bij de verantwoordelijke bronhouder expliciet verantwoord kunnen worden. Een duidelijke werkwijze helpt hierbij. De aanbeveling is hierbij de volgende spelregels in acht te nemen:
 
 <ol><li>Een kennelijke verschrijving wordt opgelost met een ambtelijke wijziging. Dit betekent altijd dat de wijziging van de metadata van het plan, hetzij in een nieuwe versie, hetzij in dezelfde versie moet kunnen worden verantwoord. Intern wordt deze ambtelijke wijziging vastgelegd in het zaak/proces/documentbeheer systeem dat wordt gehanteerd door de bronhouder tijdens de planprocedure.</li>
 <li>Het is hierbij aan te bevelen om de gewijzigde versie van het ruimtelijke plan samen met de verantwoording van de wijziging door de bronhouder te archiveren. De oorspronkelijke versie (zonder aanpassingen in de metadata) hoort dan ook in het archief opgenomen te blijven.</li>
