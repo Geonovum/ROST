@@ -77,7 +77,7 @@ Wettelijk is vastgelegd welke plantypes welk bevoegd gezag kan en mag publiceren
 <ol><li>Verwijder het betreffende plan uit het manifest;</li>
 <li>Controleer altijd, voordat een plan opnieuw wordt gepubliceerd, of het verwijderde plan ook daadwerkelijk van Ruimtelijkeplannen.nl verwijderd is;</li>
 <li>Plantype aanpassen;</li>
-<li>Opnieuw waarmerken, valideren en publiceren en een dag later weer aanbieden aan Ruimtelijkeplannen.nl (zie paragraaf [2.3](#uitvoeren-foutherstel-aan-plan).</li>
+<li>Opnieuw waarmerken, valideren en publiceren en een dag later weer aanbieden aan Ruimtelijkeplannen.nl, zie [paragraaf 2.3](#uitvoeren-foutherstel).</li>
 </ol>
 
 ### Relaties: Verwijzen naar extern plan
@@ -92,7 +92,7 @@ In hoofdstuk 5 van de <a href='https://docs.geostandaarden.nl/ro/gb2012/' target
 <ol><li>Verwijder het betreffende plan uit het manifest;</li>
 <li>Controleer altijd, voordat een plan opnieuw wordt gepubliceerd, of het verwijderde plan ook daadwerkelijk van Ruimtelijkeplannen.nl verwijderd is;</li>
 <li>Pas het attribuut ‘verwijzingNaarExternPlanInfo’ aan;</li>
-<li> <li>Opnieuw waarmerken, valideren en publiceren en een dag later weer aanbieden aan Ruimtelijkeplannen.nl.</li>
+<li>Opnieuw waarmerken, valideren en publiceren en een dag later weer aanbieden aan Ruimtelijkeplannen.nl.</li>
 </ol>
  
 
