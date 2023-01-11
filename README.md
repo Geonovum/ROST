@@ -6,7 +6,11 @@ De normatieve onderdelen van de RO Standaarden zijn te raadplegen via de [Geonov
 
 | Document                                                                                                                       |  
 |--------------------------------------------------------------------------------------------------------------------------------|  
-| [Werkafspraak TAM Omgevingsplan](https://geonovum.github.io/ROST/waTAMomplan/)                                                 |
+| [Werkafspraak TAM omgevingsplan](https://geonovum.github.io/ROST/waTAMomplan/)                                                 |
+| [Werkafspraak TAM omgevingsverordening](https://geonovum.github.io/ROST/waTAMomver/)                                           |
+| [Werkafspraak TAM voorbereidingsbesluit ](https://geonovum.github.io/ROST/waTAMvbbesluit/)                                     |
+| [Werkafspraak TAM projectbesluit](https://geonovum.github.io/ROST/waTAMpbesluit/)                                              |
+| [Werkafspraak TAM reactieve interventie](https://geonovum.github.io/ROST/waTAMreaint/)                                         |
 | [Werkafspraak Chw bestemmingsplan digitaal beschikbaar stellen](https://geonovum.github.io/ROST/waCHWbp/)                      |  
 | [Werkafspraak Wijzigen reeds eerder gepubliceerde plannen (STRI/IMRO)](https://geonovum.github.io/ROST/waSTRIIMRO/)            |  
 | [Werkafspraak Beveiligingseisen beschikbaar stellen ruimtelijke instrumenten](https://geonovum.github.io/ROST/waBEVRP/)        |
