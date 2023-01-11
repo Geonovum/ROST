@@ -6,13 +6,13 @@ De normatieve onderdelen van de RO Standaarden zijn te raadplegen via de [Geonov
 
 | Document                                                                                                                       |  
 |--------------------------------------------------------------------------------------------------------------------------------|  
-| [Werkafspraak TAM Omgevingsplan](https://geonovum.github.io/ROST/waTAMomplan/)                         |
+| [Werkafspraak TAM Omgevingsplan](https://geonovum.github.io/ROST/waTAMomplan/)                                                 |
 | [Werkafspraak Chw bestemmingsplan digitaal beschikbaar stellen](https://geonovum.github.io/ROST/waCHWbp/)                      |  
 | [Werkafspraak Wijzigen reeds eerder gepubliceerde plannen (STRI/IMRO)](https://geonovum.github.io/ROST/waSTRIIMRO/)            |  
 | [Werkafspraak Beveiligingseisen beschikbaar stellen ruimtelijke instrumenten](https://geonovum.github.io/ROST/waBEVRP/)        |
 | [Werkafspraak Objectgerichte planteksten; IMROPT2012 toevoegen objecttype (sub)lid](https://geonovum.github.io/ROST/waIMROPT/) |
 | [Werkafspraak discrepantie STRI norm en XML Schema](https://geonovum.github.io/ROST/waSTRIxml/)                                |
-| [Handreiking (technisch) TAM omgevingsplan](https://geonovum.github.io/ROST/HRTAMomplan/)  |
+| [Handreiking (technisch) TAM omgevingsplan](https://geonovum.github.io/ROST/HRTAMomplan/)                                      |
 | [Handreiking Archiveren ruimtelijke plannen](https://geonovum.github.io/ROST/HRARP/)                                           |  
 | [Handreiking Data op Orde](https://geonovum.github.io/ROST/HRDoO/)                                                             |  
 | [Praktijkrichtlijn Analoge Bestemmingsplan Kaart](https://geonovum.github.io/ROST/PRABPK/)                                     |  
