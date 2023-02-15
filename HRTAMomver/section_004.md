@@ -69,9 +69,29 @@ Identificatie: /akn/nl/act/pv28/2022/OOWPVZH8Reg
 <b>Variant met  één artikel</b> 
 Aan dit artikel zijn alle activiteiten gekoppeld met als gebied het hele ambtsgebied.
 
+figuur 1a
+figuur 1b
 
 
 #### Noord-Brabant
 Naam: Omgevingsverordening van de provincie Noord-Brabant TAM-IMRO Template
 Identificatie: /akn/nl/act/pv30/2022/omgevingsverordeningGK
+
+<b>Variant met volledige tekststructuur omgevingsverordening</b>
+Niet geannoteerde onderdelen staan op [gereserveerd], geannoteerde artikelen zijn volledig opgenomen.
+
+figuur 2
+
+<b>Annotatie activiteit en gebied bij elk artikel waar dit relevant is</b>
+Hierdoor mogelijk: specifieke activiteitregelkwalificatie, bijvoorbeeld een verbod bij het verbodsartikel.
+
+figuur 3
+
+<b>Alternatief: globalere annotatie</b> 
+Bij toepassingsbereik en aanwijzing milieubelastende activiteiten waardoor activiteitregelkwalificatie beperkt is tot “anders geduid”.
+
+figuur 4
+figuur 5
+figuur 6
+
 
