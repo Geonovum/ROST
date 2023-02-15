@@ -63,35 +63,55 @@ NB
 ### Voorbeelden 
 
 #### Zuid-Holland
-Naam: Zuid-Hollandse Omgevingsverordening
-Identificatie: /akn/nl/act/pv28/2022/OOWPVZH8Reg
+<u>Naam</u>: Zuid-Hollandse Omgevingsverordening
+<u>Identificatie</u>: /akn/nl/act/pv28/2022/OOWPVZH8Reg
 
 <b>Variant met  één artikel</b> 
 Aan dit artikel zijn alle activiteiten gekoppeld met als gebied het hele ambtsgebied.
 
-figuur 1a
-figuur 1b
+<figure> 
+<img src='media/ZH_ph_vb_1a.png' alt='Activiteiten gekoppeld met als gebied het hele ambtsgebied' style='width: 100%;'></img>
+<figcaption>Activiteiten gekoppeld met als gebied het hele ambtsgebied</figcaption>
+</figure>
+
+<figure> 
+<img src='media/ZH_ph_vb_1b.png' alt='xx' style='width: 100%;'></img>
+<figcaption>Activiteiten gekoppeld met als gebied het hele ambtsgebied van provincie Zuid-Holland</figcaption>
+</figure>
 
 
 #### Noord-Brabant
-Naam: Omgevingsverordening van de provincie Noord-Brabant TAM-IMRO Template
-Identificatie: /akn/nl/act/pv30/2022/omgevingsverordeningGK
+<u>Naam</u>: Omgevingsverordening van de provincie Noord-Brabant TAM-IMRO Template
+<u>Identificatie</u>: /akn/nl/act/pv30/2022/omgevingsverordeningGK
 
 <b>Variant met volledige tekststructuur omgevingsverordening</b>
-Niet geannoteerde onderdelen staan op [gereserveerd], geannoteerde artikelen zijn volledig opgenomen.
 
-figuur 2
+<figure> 
+<img src='media/NB_ph_vb_2.png' alt='Niet-geannoteerde onderdelen staan op gereserveerd, geannoteerde artikelen zijn volledig opgenomen' style='width: 100%;'></img>
+<figcaption>Niet-geannoteerde onderdelen staan op 'gereserveerd', geannoteerde artikelen zijn volledig opgenomen</figcaption>
+</figure>
 
 <b>Annotatie activiteit en gebied bij elk artikel waar dit relevant is</b>
-Hierdoor mogelijk: specifieke activiteitregelkwalificatie, bijvoorbeeld een verbod bij het verbodsartikel.
 
-figuur 3
+<figure> 
+<img src='media/NB_ph_vb_3.png' alt='Specifieke activiteitregelkwalificatie, bijvoorbeeld een verbod bij het verbodsartikel' style='width: 100%;'></img>
+<figcaption>Specifieke activiteitregelkwalificatie, bijvoorbeeld een verbod bij het verbodsartikel</figcaption>
+</figure>
 
 <b>Alternatief: globalere annotatie</b> 
 Bij toepassingsbereik en aanwijzing milieubelastende activiteiten waardoor activiteitregelkwalificatie beperkt is tot “anders geduid”.
 
-figuur 4
-figuur 5
-figuur 6
+<figure> 
+<img src='media/NB_ph_vb_4.png' alt='Globale annotatie in beeld' style='width: 100%;'></img>
+<figcaption>Globale annotatie in beeld</figcaption>
+</figure>
 
+<figure> 
+<img src='media/NB_ph_vb_5.png' alt='Globale annotatie in tekst' style='width: 100%;'></img>
+<figcaption>Globale annotatie in tekst</figcaption>
+</figure>
 
+<figure> 
+<img src='media/NB_ph_vb_6.png' alt='Globale annotatie in beeld en tekst' style='width: 100%;'></img>
+<figcaption>Globale annotatie in beeld en tekst</figcaption>
+</figure>
