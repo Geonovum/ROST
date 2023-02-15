@@ -64,6 +64,7 @@ NB
 
 #### Zuid-Holland
 <u>Naam</u>: Zuid-Hollandse Omgevingsverordening
+
 <u>Identificatie</u>: /akn/nl/act/pv28/2022/OOWPVZH8Reg
 
 <b>Variant met  één artikel</b> 
@@ -82,6 +83,7 @@ Aan dit artikel zijn alle activiteiten gekoppeld met als gebied het hele ambtsge
 
 #### Noord-Brabant
 <u>Naam</u>: Omgevingsverordening van de provincie Noord-Brabant TAM-IMRO Template
+
 <u>Identificatie</u>: /akn/nl/act/pv30/2022/omgevingsverordeningGK
 
 <b>Variant met volledige tekststructuur omgevingsverordening</b>
