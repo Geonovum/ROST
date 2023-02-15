@@ -36,17 +36,42 @@ De gebruiker in de viewer 'Regels op de Kaart'kan makkelijker de relatie leggen 
 
 #### Detailniveau annoteren
 
+Bij het hanteren van de structuur van de regels in de omgevingsverordening in het placeholder document kan er bij het annoteren ook nog een keuze gemaakt worden voor een wat globalere aanpak of een die meer de inhoudelijke artikelen volgt:
+
+<b>Globale structuur</b>
+De annotaties kunnen globaler gehouden worden, bijvoorbeeld gekoppeld aan de artikelen ‘toepassingsbereik’ en ‘aanwijzing van de activiteiten’. Dan is de activiteitregelkwalificatie ‘anders geduid’. 
+In het voorbeeld placeholder Noord-Brabant is dit toegepast in de afdeling over het stiltegebied.
+
+<b>Structuur confom inhoude artikelen</b> 
+De annotaties van de activiteiten kunnen aan alle desbetreffende artikelen worden gekoppeld zoals dat in de STOP/TPOD versie van de verordening zou gebeuren. Hierbij kan daardoor de bijbehorende activiteitregelkwalificatie worden toegevoegd, bijvoorbeeld een verbod bij het verbodsartikel. Dit is toegepast in het voorbeeld placeholder Noord-Brabant, behalve in de Afdeling Stiltegebied.
 
 #### Functionele structuur 
 
+De inhoudelijke keuzes bij de opbouw van de functionele structuur zijn niet anders dan bij de reguliere verordening. De functionele structuur volgt aan de ene kant de opbouw van de juridische regels maar moet aan de andere kant rekening houden met de gewenste effecten bij de toepasbare regels.
 
 #### Tekst van de artikelen 
 
+Net als bij de artikelstructuur zijn er voor de tekst meerdere varianten mogelijk. Bij de eenvoudige versie zonder de structuur van de verordening zijn de varianten als volgt:
+- Alleen een beschrijving van de status van de template, bij voorkeur met een verwijzing naar naam en identificatie van de TAM-omgevingsverordening;
+- Een verwijzing naar de TAM-omgevingsverordening met enkel de benoeming van de activiteit en de locatie;
+- Een verwijzing naar de TAM-omgevingsverordening met de hele artikeltekst waarin de activiteit en de locatie aan de orde komen om zo meer duiding te kunnen geven aan de activiteit.
+
+
 ### Aanleveren placeholder document
-Wat, bij wie?
+NB
 
 ### Voorbeelden 
 
 #### Zuid-Holland
+Naam: Zuid-Hollandse Omgevingsverordening
+Identificatie: /akn/nl/act/pv28/2022/OOWPVZH8Reg
+
+<b>Variant met  één artikel</b> 
+Aan dit artikel zijn alle activiteiten gekoppeld met als gebied het hele ambtsgebied.
+
+
 
 #### Noord-Brabant
+Naam: Omgevingsverordening van de provincie Noord-Brabant TAM-IMRO Template
+Identificatie: /akn/nl/act/pv30/2022/omgevingsverordeningGK
+
