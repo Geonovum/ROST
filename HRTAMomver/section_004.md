@@ -76,7 +76,7 @@ Aan dit artikel zijn alle activiteiten gekoppeld met als gebied het hele ambtsge
 </figure>
 
 <figure> 
-<img src='media/ZH_ph_vb_1b.png' alt='xx' style='width: 100%;'></img>
+<img src='media/ZH_ph_vb_1b.png' alt='Activiteiten gekoppeld met als gebied het hele ambtsgebied van provincie Zuid-Holland' style='width: 100%;'></img>
 <figcaption>Activiteiten gekoppeld met als gebied het hele ambtsgebied van provincie Zuid-Holland</figcaption>
 </figure>
 
