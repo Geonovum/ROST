@@ -7,7 +7,7 @@ De onderdelen van het projectsluit zoals beschreven in het [Toepassingsprofiel (
 
 Deze onderdelen van het Omgevingswet instrument worden technisch met behulp van de RO Standaarden opgesteld.  
 
-In die hoofstuk achtereenvolgens aan de orde de technische uitgangspunten, gebruik van objecten conform IMRO en tot slot de regeling en het vrijetekstdeel van het projectbesluit.  
+In dit hoofstuk achtereenvolgens aan de orde de technische uitgangspunten, gebruik van objecten conform IMRO en tot slot de regeling en het vrijetekstdeel van het projectbesluit.  
 
 ### Technische uitgangspunten
 
@@ -64,7 +64,7 @@ De eigen benaming na de hoofdgroep en het koppelteken begint altijd met een hoof
 <li>Water – Oppervlaktewater.</li>
 </ul>
 
-Het gebruik van een hoofdgroep is verplicht en kan gebruikt worden om de kaartweergave te sturen. In de omgevingsloket viewer Regels op de Kaart zal het TAM-projectbesluit in dezelfde kleuren worden getoond als een inpassingsplan. In de bovenstaande voorbeelden; groen voor Gelders natuurnetwerk, donkergrijs voor Stroomgebied en blauw voor Oppervlaktewater.
+Het gebruik van een hoofdgroep is verplicht en kan gebruikt worden om de kaartweergave te sturen. In de omgevingsloket viewer 'Regels op de Kaart' zal het TAM-projectbesluit in dezelfde kleuren worden getoond als een inpassingsplan. In de bovenstaande voorbeelden; groen voor Gelders natuurnetwerk, donkergrijs voor Stroomgebied en blauw voor Oppervlaktewater.
 Omdat het noodzakelijk is de naam van de hoofdgroep op te nemen in de naam van de functie, ligt het voor de hand inhoudelijke logische hoofdgroepen te kiezen, waardoor dan ook de kleur wordt bepaald. Als die logica er niet is dan kan gebruik worden gemaakt van de hoofdgroep ‘Overig’. Dat biedt alle ruimte voor eigen toevoegingen. Alle functies die met ‘Overig zijn gemodelleerd, worden dan wel in dezelfde lichtgrijze kleur getoond. Voor de hoofdgroep ‘Overig’ geldt dat de naam van de hoofdgroep niet hoeft te worden opgenomen in de nieuwe benaming, conform de SVBP2012:
 
 <i>Specificatie van de bestemming</i>
@@ -92,11 +92,12 @@ Let op het gebruik van kleine letter in plaats van hoofdletter! Voorbeelden:
 <li>vrijwaringszone – spoorgebied.</li>
 </ul>
 
+
 <b><i>Activiteiten</i></b>
 
 Onder de Omgevingswet staat het regelen van activiteiten centraal. Dat geldt daarmee dan ook voor een TAM-projectbesluit. Activiteiten zijn typisch objecten die we niet expliciet terugvinden in de RO Standaarden. In de basis gaat het over een regeltekst met een activiteit, die daarmee verplicht moet worden voorzien van een locatie (werkingsgebied). Omdat activiteiten wellicht moeilijk aan een hoofdgroep te koppelen zijn kan hiervoor de gebiedsaanduiding met de hoofdgroep ‘overige zone’ worden gebruikt. Er is in IMRO2012 geen beperking aan het aantal gebiedsaanduidingen dat kan worden toegevoegd. Bij het gebruik van de hoofdgroep ‘overige zone’ moet de hoofdgroep worden opgenomen in de benaming van de eigen gebiedsaanduiding, in dit geval activiteit voor het TAM-projectbesluit, voldoet de naamgeving aan de SVBP2012:
 
-<i>Overige zone[spatie] [-] [spatie] specificatie van de aanduiding/i>
+<i>Overige zone[spatie] [-] [spatie] specificatie van de aanduiding</i>
 
 Let op het gebruik van kleine letters in plaats van hoofdletters! Het is bij gebiedsaanduidingen niet toegestaan om ‘overige zone’ weg te laten vóór de eigen gekozen benaming. Bijvoorbeeld:
 
@@ -109,11 +110,16 @@ Op deze wijze kunnen alle gewenste activiteiten voor een TAM-projectbesluit met 
 In paragraaf [TAM-projectbesluit](#TAM-projectbesluit) is aangegeven hoe de kaartobjecten voor een TAM-projectbesluit kunnen worden gesimuleerd met behulp van IMRO2012 middels het planfiguur ‘inpassingsplan’. Daarbij moeten ook de regeling en het vrije tekstdeel van het projectbesluit worden meegeleverd in de publicatie. Voor het vrije tekstdeel kan gebruik gemaakt worden van het IMRO object toelichting.
 Voor het publiceren van planteksten op basis van de RO Standaarden zijn twee opties beschikbaar, het publiceren van de planteksten in HTML-formaat of, middels de standaard IMROPT2012 xml-formaat. 
 Voor het maken en aanleveren van het TAM-projectbesluit adviseren wij gebruik te maken van de uitvoer in HTML-formaat. In de praktijk is namelijk gebleken dat er bij gebruik van de planteksten in IMROPT2012 xml-formaat, tekstobjecten weg kunnen vallen bij het publiceren. Dit gebeurt met name als de tekststructuur (hoofdstuk-indeling, tekstobject-benoeming) niet exact voldoet aan de SVBP2012. Juist voor omgevingswetbesluiten zal vaker van de SVBP structuur worden afgeweken.
+
 Voor de validatie moeten in ieder geval de volgende tekst onderdelen aan het plangebied gekoppeld zijn:
-•	Vrijetekstdeel projectbesluit (IMRO object ‘toelichting’);
-•	Regeltekst (IMRO object ‘regels’);
-•	Besluit (IMRO object ‘vaststellingsbesluit’ alleen togestaan en verplicht voor planstatus ‘vastgesteld’).
+
+<ul><li>Vrijetekstdeel projectbesluit (IMRO object ‘toelichting’);</li>
+<li>Regeltekst (IMRO object ‘regels’);</li>
+<li>esluit (IMRO object ‘vaststellingsbesluit’ alleen togestaan en verplicht voor planstatus ‘vastgesteld’).</li>
+</ul>
+
 Van de opbouw van de regeltekst zoals beschreven in hoofdstuk 6 van de [SVBP2012](https://ro-standaarden.geonovum.nl/2012/SVBP/1.3/SVBP2012-v1.3.1.pdf) mag worden afgeweken.
+
 
 #### Tijdelijk regelingdeel
 Wanneer een projectbesluit betrekking heeft op het grondgebied van meerdere gemeenten, wordt op basis van STOP/TPOD voor het omgevingsplan van iedere gemeente een afzonderlijk tijdelijk regelingdeel aangeleverd.
