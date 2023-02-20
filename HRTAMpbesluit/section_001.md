@@ -32,7 +32,5 @@ Deze handreiking gaat niet in op de inhoud van het instrument projectbesluit. Vo
 
 ### Leeswijzer
 
-NB
-
-In [hoofdstuk 2](#wijzigingsbesluit-projectbesluit) komt het gebruik van de RO Standaarden aan de orde voor de toekomstkoming van het projectbesluit. In [hoofdtuk 3](#publiceren) gaan we in op de beschikbaarstelling van het projectbesluit via de Wro planketen aan Ruimtelijkeplannen.nl en de ontsluiting in de viewer van het DSO-LV. Tot slot nog enkele aandachtspunten in [hoofdstuk 4](#aandachtspunten). 
+In [hoofdstuk 2](#opstellen-tam-projectbesluit) komt het gebruik van de RO Standaarden aan de orde voor de toekomstkoming van het projectbesluit. In [hoofdtuk 3](#publiceren) gaan we in op de beschikbaarstelling van het projectbesluit via de Wro planketen aan Ruimtelijkeplannen.nl en de ontsluiting in de viewer van het DSO-LV. Tot slot nog enkele aandachtspunten in [hoofdstuk 4](#aandachtspunten). 
 
