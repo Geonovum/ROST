@@ -1,6 +1,6 @@
 ## Opstellen TAM-projectbesluit
 
-De onderdelen van het projectsluit zoals beschreven in het [Toepassingsprofiel (TPOD) projectbesluit](https://geonovum.github.io/TPOD/TPOD%20Projectbesluit/TPOD_Projectbesluit_v3.0.0.pdf) zijn:
+De onderdelen van het projectsluit zoals beschreven in het <a href='https://geonovum.github.io/TPOD/TPOD%20Projectbesluit/TPOD_Projectbesluit_v3.0.0.pdf' target='_blank'>Toepassingsprofiel (TPOD) projectbesluit</a> zijn:
 - besluitdeel;
 - regeling voor het vrijetekstdeel;
 - regeling met artikelstructuur. 
@@ -92,7 +92,6 @@ Let op het gebruik van kleine letter in plaats van hoofdletter! Voorbeelden:
 <li>vrijwaringszone – spoorgebied.</li>
 </ul>
 
-
 <b><i>Activiteiten</i></b>
 
 Onder de Omgevingswet staat het regelen van activiteiten centraal. Dat geldt daarmee dan ook voor een TAM-projectbesluit. Activiteiten zijn typisch objecten die we niet expliciet terugvinden in de RO Standaarden. In de basis gaat het over een regeltekst met een activiteit, die daarmee verplicht moet worden voorzien van een locatie (werkingsgebied). Omdat activiteiten wellicht moeilijk aan een hoofdgroep te koppelen zijn kan hiervoor de gebiedsaanduiding met de hoofdgroep ‘overige zone’ worden gebruikt. Er is in IMRO2012 geen beperking aan het aantal gebiedsaanduidingen dat kan worden toegevoegd. Bij het gebruik van de hoofdgroep ‘overige zone’ moet de hoofdgroep worden opgenomen in de benaming van de eigen gebiedsaanduiding, in dit geval activiteit voor het TAM-projectbesluit, voldoet de naamgeving aan de SVBP2012:
@@ -118,7 +117,7 @@ Voor de validatie moeten in ieder geval de volgende tekst onderdelen aan het pla
 <li>esluit (IMRO object ‘vaststellingsbesluit’ alleen togestaan en verplicht voor planstatus ‘vastgesteld’).</li>
 </ul>
 
-Van de opbouw van de regeltekst zoals beschreven in hoofdstuk 6 van de [SVBP2012](https://ro-standaarden.geonovum.nl/2012/SVBP/1.3/SVBP2012-v1.3.1.pdf) mag worden afgeweken.
+Van de opbouw van de regeltekst zoals beschreven in hoofdstuk 6 van de <a href='https://ro-standaarden.geonovum.nl/2012/SVBP/1.3/SVBP2012-v1.3.1.pdf' target='_blank'>SVBP2012</a> mag worden afgeweken.
 
 
 #### Tijdelijk regelingdeel
