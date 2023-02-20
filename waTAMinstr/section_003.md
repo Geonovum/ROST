@@ -1,0 +1,62 @@
+## Werkwijze
+
+Technisch gezien maakt de gemeente, provincie of het Rijk het voorbereidingsbesluit conform de RO Standaarden 2012, met toepassing van: 
+- het IMRO2012 typePlan voorbereidingsbesluit;
+- het STRI2012 manifest beschikbaarstelling op de weblocatie van de bronhouder ten behoeve van de ontsluiting via Ruimtelijkeplannen.nl.
+
+Voorbereidingsbesluiten vallen onder IMRO2012 in de categorie ‘Gebiedsgerichte Besluiten’: feitelijk niet meer dan het plangebied met daarbinnen één of enkele gebieden (vlakken) waarvoor regels kunnen gelden. Aan het voorbereidingsbesluit is de besluittekst gekoppeld als vaststellingsbesluit en besluittekst. Het Omgevingswet voorbereidingsbesluit als TAM-voorbereidingsbesluit kan op dezelfde wijze worden gemaakt als het Wro voorbereidingsbesluit. Zie daarvoor de <a href='https://docs.geostandaarden.nl/ro/def-pr-gb2012-20181023/#voorbereidingsbesluit' target='_blank'>Praktijkrichtlijn Gebiedsgerichte Besluiten</a>, paragraaf 5.3.3.
+
+Om een Omgevingswet voorbereidingsbesluit dat gemaakt is met behulp van TAM te kunnen onderscheiden van Wro voorbereidingsbesluit, is het noodzakelijk dat de naam van het plan begint met ‘TAM-voorbereidingsbesluit‘, gevolgd door de naam van het besluit. 
+
+<b>Tabel</b> <b>1</b> <b>Specifieke waarden ‘Besluitgebied’ bij een TAM-voorbereidingsbesluit</b>
+
+<table style='width: 100%;'><caption></caption>
+<colgroup><col id='col1' style='width: 18.27882960413081%;'
+<col id='col2' style='width: 81.7211703958692%;'
+</colgroup>
+<thead valign='top'><tr><th align='left' style='border-top: 0.75pt solid #000000; border-left: 0.75pt solid #000000; border-bottom: 0.75pt solid #000000; border-right: 0.75pt solid #000000; background-color: #000000;'><b>attribuut</b>
+
+</th>
+<th align='left' style='border-top: 0.75pt solid #000000; border-left: 0.75pt solid #000000; border-bottom: 0.75pt solid #000000; border-right: 0.75pt solid #000000; background-color: #000000;'><b>waarde</b>
+
+</th>
+</tr>
+</thead>
+<tbody valign='top'><tr><td align='left' style='border-top: 0.75pt solid #000000; border-left: 0.75pt solid #000000; border-bottom: 0.75pt solid #000000; border-right: 0.75pt solid #000000; background-color: #FFFFFF;'>typePlan
+
+</td>
+<td align='left' style='border-top: 0.75pt solid #000000; border-left: 0.75pt solid #000000; border-bottom: 0.75pt solid #000000; border-right: 0.75pt solid #000000; background-color: #FFFFFF;'>voorbereidingsbesluit
+
+</td>
+</tr>
+<tr><td align='left' style='border-top: 0.75pt solid #000000; border-left: 0.75pt solid #000000; border-bottom: 0.75pt solid #000000; border-right: 0.75pt solid #000000; background-color: #FFFFFF;'>naam
+
+</td>
+<td align='left' style='border-top: 0.75pt solid #000000; border-left: 0.75pt solid #000000; border-bottom: 0.75pt solid #000000; border-right: 0.75pt solid #000000; background-color: #FFFFFF;'>TAM-voorbereidingsbesluit[spatie][plannaam]
+
+</td>
+</tr>
+
+<tr><td align='left' style='border-top: 0.75pt solid #000000; border-left: 0.75pt solid #000000; border-bottom: 0.75pt solid #000000; border-right: 0.75pt solid #000000; background-color: #FFFFFF;'>planstatus
+
+</td>
+<td align='left' style='border-top: 0.75pt solid #000000; border-left: 0.75pt solid #000000; border-bottom: 0.75pt solid #000000; border-right: 0.75pt solid #000000; background-color: #FFFFFF;'>vastgesteld  
+
+</td>
+</tr>
+
+<tr><td align='left' style='border-top: 0.75pt solid #000000; border-left: 0.75pt solid #000000; border-bottom: 0.75pt solid #000000; border-right: 0.75pt solid #000000; background-color: #FFFFFF;'>dossierstatus (in manifest)
+
+</td>
+<td align='left' style='border-top: 0.75pt solid #000000; border-left: 0.75pt solid #000000; border-bottom: 0.75pt solid #000000; border-right: 0.75pt solid #000000; background-color: #FFFFFF;'>geheel onherroepelijk in werking  
+
+</td>
+</tr>
+  
+  
+</tbody>
+</table>
+
+NB
+
+
