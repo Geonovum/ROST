@@ -7,7 +7,7 @@ Het projectbesluit is het Omgevingswet-instrument voor het uitvoeren van een pro
 -	Het projectplan op grond van de Waterwet, voor waterschap en Rijk;
 -	Het tracébesluit op grond van de Tracéwet, voor het Rijk.
 
-Het toepassen van de TAM-projectbesluit valt onder het overgangsrecht en daarmee transitieperiode van de Omgevingswet. NB
+Het toepassen van de TAM-projectbesluit valt onder het overgangsrecht en daarmee transitieperiode van de Omgevingswet. Gedurende de overgangsfase (de periode die de gemeente heeft om het eigen omgevingsplan op te bouwen) hoeft het projectbesluit het omgevingsplan niet te wijzigen, in dat geval geldt het projectbesluit (van rechtswege) als omgevingsvergunning voor de buitenplanse omgevingsplanactiviteit (bopa) voor zover het in strijd is met het omgevingsplan. In de overgangsfase maakt het projectbesluitvaststellende bestuursorgaan een keuze tussen het omgevingsplan wijzigen met het projectbesluit, of gebruik maken van het overgangsrecht en het projectbesluit laten gelden als omgevingsvergunning bopa.
 
 Deze tijdelijk alternatieve maatregel voor het projectbesluit is voor de provincies en het Rijk. Onder de Omgevingswet hebben ook de waterschappen de bevoegdheid een projectbesluit vast te stellen. Deze TAM-projectbesluit is echter niet voor de waterschappen bedoeld, omdat zij onder het het huidig recht geen instrumenten opstellen waarop de RO Standaarden van toepassing zijn.
 
