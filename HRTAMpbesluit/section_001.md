@@ -16,18 +16,18 @@ Deze tijdelijk alternatieve maatregel voor het projectbesluit is voor de provinc
 Met de werkafspraak TAM-projectbesluit wordt provincies en het Rijk de mogelijkheid geboden om juridisch een Omgevingswet-projectbesluit oop basis van de techniek van de Wro (namelijk RO Standaarden 2012), en te publiceren via Ruimtelijkeplannen.nl en de overbruggingsfunctie van het Informatiehuis Ruimte naar het Digitaal Stelsel Omgevingswet. Het TAM-projectbesluit maakt juridisch onderdeel uit van de Omgevingswet maar wordt technische in de  landelijke voorziening Ruimtelijkeplannen.nl geplaatst. Rekening houdende met de wettelijke vereisten van de Omgevingswet is het TAM-projectbesluit een omgevingswetbesluit.
 
 De onderdelen van de TAM-projectbesluit voor provincies en het Rijk zijn: 
-- de [werkafspraak TAM-projectbesluit](https://docs.geostandaarden.nl/ro/waTAMpbesluit/);
-- validatieregels, geimplementeerd in de [validator van Ruimtelijkeplannen.nl](https://www.ruimtelijkeplannen.nl/validator/);
+- de <a href='https://docs.geostandaarden.nl/ro/waTAMpbesluit/' target='_blank'>werkafspraak TAM-projectbesluit</a>;
+- validatieregels, geimplementeerd in de <a href='https://www.ruimtelijkeplannen.nl/validator/' target='_blank'>validator van Ruimtelijkeplannen.nl</a>;
 - deze technische handreiking.
 
-Deze handreiking vult de werkafspraak aan, ter ondersteuning van de provincies en het rijk voor de technische toepassing van de werkafspraak in de praktijk. Deze handreiking is ter ondersteuning van de provincies voor de technische toepassing van de werkafspraak TAM-projectbesluit in de praktijk. In het [Toepassingsprofiel (TPOD) projectbesluit](https://geonovum.github.io/TPOD/TPOD%20Projectbesluit/TPOD_Projectbesluit_v3.0.0.pdf) zijn de inhoudelijke aspecten van de omgevingsverordening beschreven. 
+Deze handreiking vult de werkafspraak aan, ter ondersteuning van de provincies en het rijk voor de technische toepassing van de werkafspraak in de praktijk. Deze handreiking is ter ondersteuning van de provincies voor de technische toepassing van de werkafspraak TAM-projectbesluit in de praktijk. In het <a href='https://geonovum.github.io/TPOD/TPOD%20Projectbesluit/TPOD_Projectbesluit_v3.0.0.pdf' target='_blank'>Toepassingsprofiel (TPOD) projectbesluit</a> zijn de inhoudelijke aspecten van de omgevingsverordening beschreven. 
 
 
 ### Doel van de handreiking
 
 De handreiking geeft de werkwijze en keuzemogelijkheden weer voor het Omgevingswet-instrument projectbesluit, dat door de provincie technisch wordt gerealiseerd met de RO Standaarden 2012, en door gebruik van de Wro plan keten het projectbesluit te ontsluiten via Ruimtelijkeplannen.nl naar het Digitaal Stelsel Omgevingswet.  
 
-Deze handreiking gaat niet in op de inhoud van het instrument projectbesluit. Voor de juridische context van het intrument verwijzen we naar de Omgevingswet- en regelgeving. De procedurestappen van de projectprocedure komen in deze handreiking ook niet in aan de orde. Voor meer informatie over het projectbesluit, raadpleeg de TPOD projectbesluit via de [Geonovum website](https://www.geonovum.nl/geo-standaarden/omgevingswet/STOPTPOD) en de website [Informatiepunt Leefomgeving](https://iplo.nl/regelgeving/instrumenten/projectbesluit/). 
+Deze handreiking gaat niet in op de inhoud van het instrument projectbesluit. Voor de juridische context van het intrument verwijzen we naar de Omgevingswet- en regelgeving. De procedurestappen van de projectprocedure komen in deze handreiking ook niet in aan de orde. Voor meer informatie over het projectbesluit, raadpleeg de TPOD projectbesluit via de <a href='https://www.geonovum.nl/geo-standaarden/omgevingswet/STOPTPOD' target='_blank'>Geonovum website</a> en de website <a href='https://iplo.nl/regelgeving/instrumenten/projectbesluit/' target='_blank'>Informatiepunt Leefomgeving</a>. 
 
 
 ### Leeswijzer
