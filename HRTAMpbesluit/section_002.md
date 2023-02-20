@@ -106,7 +106,7 @@ Op deze wijze kunnen alle gewenste activiteiten voor een TAM-projectbesluit met 
 
 ### Regeling en vrijetekstdeel projectbesluit
 
-In paragraaf [TAM-projectbesluit](#TAM-projectbesluit) is aangegeven hoe de kaartobjecten voor een TAM-projectbesluit kunnen worden gesimuleerd met behulp van IMRO2012 middels het planfiguur ‘inpassingsplan’. Daarbij moeten ook de regeling en het vrije tekstdeel van het projectbesluit worden meegeleverd in de publicatie. Voor het vrije tekstdeel kan gebruik gemaakt worden van het IMRO object toelichting.
+In paragraaf [TAM-projectbesluit](#tam-projectbesluit) is aangegeven hoe de kaartobjecten voor een TAM-projectbesluit kunnen worden gesimuleerd met behulp van IMRO2012 middels het planfiguur ‘inpassingsplan’. Daarbij moeten ook de regeling en het vrije tekstdeel van het projectbesluit worden meegeleverd in de publicatie. Voor het vrije tekstdeel kan gebruik gemaakt worden van het IMRO object toelichting.
 Voor het publiceren van planteksten op basis van de RO Standaarden zijn twee opties beschikbaar, het publiceren van de planteksten in HTML-formaat of, middels de standaard IMROPT2012 xml-formaat. 
 Voor het maken en aanleveren van het TAM-projectbesluit adviseren wij gebruik te maken van de uitvoer in HTML-formaat. In de praktijk is namelijk gebleken dat er bij gebruik van de planteksten in IMROPT2012 xml-formaat, tekstobjecten weg kunnen vallen bij het publiceren. Dit gebeurt met name als de tekststructuur (hoofdstuk-indeling, tekstobject-benoeming) niet exact voldoet aan de SVBP2012. Juist voor omgevingswetbesluiten zal vaker van de SVBP structuur worden afgeweken.
 
