@@ -8,8 +8,8 @@ Het placeholder document is een via de Landelijke voorziening bekendmaken en bes
 
 ### Keuzes
 
-voor het maken van een placeholder document kan de provincie kiezen uit twee mogelijkheden: 
+Voor het maken van een placeholder document kan de provincie kiezen uit twee mogelijkheden: 
 1. De provincie maakt het placeholder document <i>niet</i> zelf. De provincie vraagt ondersteuning bij het maken van het placeholder document bij het Informatiepunt Leefomgeving (IPLO) door contact op te nemen met de <a href='https://iplo.nl/contact/' target=_blank'>IPLO helpdesk</a>. De aanvraag voor het laten maken van een placeholder document kan uitelijk 30 november 2023 bij de IPLO helpdesk worden ingediend. 
-2. De provincie maakt het placeholder document <i>wel</i> zelf. De provincie bepaalt wellke gegevens minimaal worden opgenomen en maakt zelf het placeholder document met de beshcikbare software conform de STOP/ TPOD standaarden. 
+2. De provincie maakt het placeholder document <i>wel</i> zelf. De provincie bepaalt wellke gegevens minimaal worden opgenomen en maakt zelf het placeholder document met de beshcikbare software conform de STOP/ TPOD standaarden. In de [bijlage van deze handreiking](#bijlage-placeholder) is dit verder toegelicht en zijn er voorbeelden opgenomen.   
 
 
