@@ -2,7 +2,7 @@
 
 De juridisch geldende versie van de omgevingsverordening is een op basis van de RO Standaarden gemaakte en gepubliceerde provinciale verordening. De omgevingsverordening wordt ook getoond in de viewer 'Regels op de Kaart' (het omgevingsloket). Omdat het IMRO niet dezelfde manier van annoteren kent zoals in de STOP/ TPOD standaarden, kunnen alleen de tekst en locaties getoond worden in de viewer. Voor het kunnen doen van meldingen en vergunningaanvragen via het DSO omgevingsloket is dit niet voldoende. Daarom moet er naast de omgevingsverordening conform TAM, door de provincie separaat ook een STOP/ TPOD document met geannoteerde activiteiten in het DSO worden geladen: het placeholder document. 
 
-Bij het maken van een placeholder kunnen op een aantal vlakken keuzes worden gemaakt die kunnen leiden tot een heel simpele variant, of juist een versie met wat meer informatie en betere dienstverlening. Visuele voorbeelden van van testen van de placeholders van Zuid-Holland en Noord-Brabant die dit illustreren zijn toegevoegd in paragraaf voorbeelden (#voorbeelden).
+Bij het maken van een placeholder kunnen op een aantal vlakken keuzes worden gemaakt die kunnen leiden tot een heel simpele variant, of juist een versie met wat meer informatie en betere dienstverlening. Visuele voorbeelden van van testen van de placeholders van Zuid-Holland en Noord-Brabant die dit illustreren zijn toegevoegd in paragraaf [voorbeelden](#voorbeelden).
 
 #### Reikwijdte 
 
