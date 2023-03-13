@@ -1,10 +1,10 @@
 var respecConfig =
 {
   pubDomain: "ro",
-  specStatus: "GN-WV",
+  specStatus: "GN-VV",
   specType: "HR",
   license: "cc-by-nd",
- // publishDate: "2022-09-20",
+  publishDate: "2023-03-13",
   authors: [
     {
       name: "Beheerder RO Standaarden",
@@ -22,11 +22,11 @@ var respecConfig =
   shortName: "HRTAMomver",
   format: "markdown",
   github: "https://github.com/Geonovum/ROST/",
-  issueBase: "https://github.com/Geonovum/ROST/issues/",
+  issueBase: "https://www.geonovum.nl/geo-standaarden/ro-standaarden-ruimtelijke-ordening",
   edDraftURI: "https://Geonovum.github.io/ROST/",
- // publishISODate: "2022-09-07T00:00:00.000Z",
- // generatedSubtitle: "Vastgestelde versie 7 september 2022"
+ // publishISODate: "2023-03-13T00:00:00.000Z",
+  generatedSubtitle: "Vastgestelde versie 13 maart 2023"
  //previousPublishDate: "2022-09-07",
- // previousStatus: "GN-DEF", 
+ // previousStatus: "GN-WV", 
   
 }
