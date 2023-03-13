@@ -1,7 +1,7 @@
 var respecConfig =
 {
   pubDomain: "ro",
-  specStatus: "GN-VV",
+  specStatus: "GN-DEF",
   specType: "HR",
   license: "cc-by-nd",
   publishDate: "2023-03-13",
