@@ -19,12 +19,12 @@ var respecConfig =
       companyURL: "https://www.geonovum.nl/"
     }
   ],
-  shortName: "waTAMinstr",
+  shortName: "waTAMvbbesluit",
   format: "markdown",
   github: "https://github.com/Geonovum/ROST",
   issueBase: "https://github.com/Geonovum/ROST/issues",
   edDraftURI: "https://Geonovum.github.io/ROST",
  // generatedSubtitle: "Definitieve versie 7 december 2022",
- // previousPublishDate: "2022-12-12",  	    
- //  previousMaturity: "GN-DEF",   
+ previousPublishDate: "2022-12-12",  	    
+  previousMaturity: "GN-DEF",   
 }
