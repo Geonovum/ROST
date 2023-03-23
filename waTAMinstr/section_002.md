@@ -10,11 +10,11 @@ Deze TAM geldt voor provincies en het Rijk. Voor provincies geldt dat zij in de 
 Voor het Rijk geldt dat zij in de volgende situaties kunnen besluiten tot het nemen van een instructie:
 - een instructie gericht op het omgevingsplan; 
 - een instructie gericht op de omgevingsverordening;
-- een instructie gericht op de projectbesluit.
+- een instructie gericht op het projectbesluit.
 
 In het geval een provincie of het Rijk geen instructie kan opstellen en publiceren conform de het Toepassingsprofiel (TPOD) instructie, dan maakt zij gebruik van deze werkafspraak TAM-instructie. 
 
-In het geval een provincie of het Rijk na inwerkingtreding van de Omgevingswet besluit tot een instructie bij een lopende bestemmingsplanprocedure, dan is dit geen instructie conform de Omgevingswet maar een aanwijzigingsbesluit conform de Wro. In dit geval moet de Wro worden toegepast inclusief het gebruik van de RO Standaarden en Ruimtelijkeplannen.nl. 
+In het geval een provincie of het Rijk na inwerkingtreding van de Omgevingswet besluit tot een instructie bij een lopende bestemmingsplanprocedure, dan is dit geen instructie conform de Omgevingswet maar een aanwijzigingsbesluit conform de Wro. De Wro moet worden toegepast inclusief het gebruik van de RO Standaarden en Ruimtelijkeplannen.nl. Bij het gebruik van het aanwijzigingsbesluit wordt géén gebruik gebruik gemaakt van deze werkafspraak: in de naam van het besluit wordt niet 'TAM-instructie' opgenomen. 
 
 Deze werkafspraak gaat niet in op de inhoud van het omgevingsdocument instructie. Voor de juridische context van het omgevingsdocument verwijzen we naar de Omgevingswet- en onderliggende regelgeving. In het <a href='https://geonovum.github.io/TPOD/TPOD%20Instructie/TPOD_instructie_v2.0.1.pdf' target='_blank'>Toepassingsprofiel (TPOD) instructie</a> zijn de inhoudelijke aspecten van de instructie beschreven. 
 
