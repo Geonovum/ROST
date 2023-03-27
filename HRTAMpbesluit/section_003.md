@@ -18,7 +18,7 @@ Het is voor inwerkingtreden Omgevingswet slechts beperkt en alleen in samenwerki
 
 ### Weergave DSO
 
-Bij inwerkingtreding van de Omgevingswet zal de viewer van Ruimtelijkeplannen.nl niet meer de volledige actuele situatie weergeven. Raadplegen van ruimtelijke plannen kan vanaf dat moment in samenhang met de omgevingswetbesluiten op basis van STOP/TPOD uitsluitend via de viewer ‘Regels op de Kaart’ van het omgevingsloket. 
+Bij inwerkingtreding van de Omgevingswet zal de viewer van Ruimtelijkeplannen.nl niet meer de volledige actuele situatie weergeven. Raadplegen van ruimtelijke plannen kan vanaf dat moment in samenhang met de omgevingsdocumenten op basis van STOP/TPOD uitsluitend via de viewer ‘Regels op de Kaart’ van het omgevingsloket. 
 
 De viewer ‘Regels op de Kaart’ van het omgevingsloket geeft de Wro plannen zoveel mogelijk weer als nu gebruikelijk is op Ruimtelijkeplannen.nl. De weergave van het inpassingsplannen, en dus ook de TAM-projectbesluit, kan dus gestuurd worden door de keuze van de hoofdgroep bij het definiëren van objecten voor een TAM-projectbesluit in de Wro plansoftware. Als de provincie, dan wel het Rijk, kiest voor een TAM-projectbesluit dat dicht bij de opbouw van het huidige inpassingsplan ligt, dan zal de weergave daarvan ook veel lijken op wat we gewend zijn bij de inpassingsplannen van de Wro. Als juist wordt gekozen voor veel afwijkende projectbesluit-objecten waarvoor veel de hoofdgroep ‘overig’ of ‘overige zone’ wordt gebruikt, dan zal de weergave minder ‘mooi’ zijn omdat overig wordt getoond als grijs vlak, of alleen als zwarte omlijning. 
 
