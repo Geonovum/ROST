@@ -4,10 +4,11 @@ De kern van het gebruik van TAM-instructie is, dat vanaf inwerkingtreding van de
 
 Om een omgevingswetbesluit te kunnen nemen met behulp van TAM-instructie wordt uitsluitend gebruik gemaakt van de Wro planfiguur ‘aanwijzingsbesluit’. De validator van Ruimtelijkeplannen.nl en het Omgevingsloket moeten een TAM-instructie kunnen herkennen ná inwerkingtreding van de Omgevingswet. Daarom is met deze werkafspraak de plannaam bepalend: de plannaam begint met “TAM-instructie”, gevolgd door de naam van het besluit. Hiermee wordt het onderscheid gemaakt tussen een Wro aanwijzingsbesluit en een instructie onder de Omgevingswet.
 
-Deze TAM geldt voor provincies en het Rijk. Voor provincies geldt dat zij in de volgende situatie kunnen besluiten tot het nemen van een instructie:
+Deze TAM geldt voor provincies en het Rijk. 
+De provincie kan een instructie geven aan de gemeenteraad of het waterschapsbestuur: 
 - een instructie gericht op het omgevingsplan. 
 
-Voor het Rijk geldt dat zij in de volgende situaties kunnen besluiten tot het nemen van een instructie:
+Het Rijk kan een instructie geven aan het bestuur van een gemeente, een waterschap of een provincie:
 - een instructie gericht op het omgevingsplan; 
 - een instructie gericht op de omgevingsverordening;
 - een instructie gericht op het projectbesluit.
