@@ -4,14 +4,19 @@ De kern van het gebruik van TAM-instructie is, dat vanaf inwerkingtreding van de
 
 Om een omgevingswetbesluit te kunnen nemen met behulp van TAM-instructie wordt uitsluitend gebruik gemaakt van de Wro planfiguur ‘aanwijzingsbesluit’. De validator van Ruimtelijkeplannen.nl en het Omgevingsloket moeten een TAM-instructie kunnen herkennen ná inwerkingtreding van de Omgevingswet. Daarom is met deze werkafspraak de plannaam bepalend: de plannaam begint met “TAM-instructie”, gevolgd door de naam van het besluit. Hiermee wordt het onderscheid gemaakt tussen een Wro aanwijzingsbesluit en een instructie onder de Omgevingswet.
 
-Deze TAM geldt voor provincies en het Rijk. 
-De provincie kan een instructie geven aan de gemeenteraad of het waterschapsbestuur: 
-- een instructie gericht op het omgevingsplan. 
+Deze TAM geldt voor provincies en het Rijk. Voor provincies geldt dat zij in de volgende situatie kunnen besluiten tot het nemen van een instructie: 
+- een instructie gericht op het omgevingsplan;
+- een instructie gericht op het projectbesluit; 
+- een instructie gericht op uitvoering van een programma van Gedeputeerde Staten; 
+- een instructie over de uitoefening van een taak of een bevoegdheid.
+Achtergrondinformatie over instructie vindt u op de website van Informatiepunt Leefomgeving (<a href='https://iplo.nl/regelgeving/instrumenten/instructie/instructie/' target=_blank'>instructie</a> en <a href='https://iplo.nl/regelgeving/instrumenten/instructie/inzet-instructie-provincie/' target=_blank'>inzet instructie door provincie</a>). 
 
-Het Rijk kan een instructie geven aan het bestuur van een gemeente, een waterschap of een provincie:
-- een instructie gericht op het omgevingsplan; 
+Voor het Rijk geldt dat zij in de volgende situaties kunnen besluiten tot het nemen van een instructie:
+- een instructie gericht op het omgevingsplan;
 - een instructie gericht op de omgevingsverordening;
-- een instructie gericht op het projectbesluit.
+- een instructie gericht op het projectbesluit;
+- een instructie gericht op uitvoering van een programma van Onze Minister;
+- een instructie over de uitoefening van een taak of een bevoegdheid.
 
 In het geval een provincie of het Rijk geen instructie kan opstellen en publiceren conform de het Toepassingsprofiel (TPOD) instructie, dan maakt zij gebruik van deze werkafspraak TAM-instructie. 
 
