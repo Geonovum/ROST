@@ -9,6 +9,7 @@ Deze TAM geldt voor provincies en het Rijk. Voor provincies geldt dat zij in de 
 - een instructie gericht op het projectbesluit; 
 - een instructie gericht op uitvoering van een programma van Gedeputeerde Staten; 
 - een instructie over de uitoefening van een taak of een bevoegdheid.
+
 Achtergrondinformatie over instructie vindt u op de website van Informatiepunt Leefomgeving (<a href='https://iplo.nl/regelgeving/instrumenten/instructie/instructie/' target=_blank'>instructie</a> en <a href='https://iplo.nl/regelgeving/instrumenten/instructie/inzet-instructie-provincie/' target=_blank'>inzet instructie door provincie</a>). 
 
 Voor het Rijk geldt dat zij in de volgende situaties kunnen besluiten tot het nemen van een instructie:
