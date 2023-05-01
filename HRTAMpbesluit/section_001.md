@@ -2,7 +2,7 @@
 
 Tijdelijke Alternatieve Maatregelen (TAM) zijn er voor het geval overheden niet op tijd kunnen aansluiten op het DSO of wanneer het DSO bijvoorbeeld op een onderdeel niet op tijd klaar is. De minister wil voorkomen dat hierdoor bij gemeenten, provincies en het Rijk eventuele woningbouwontwikkelingen of ontwikkelingen zoals op het gebied van de energietransitie vertraging oplopen. 
 
-Het projectbesluit is het Omgevingswet-instrument voor het uitvoeren van een project en het in werking hebben of in stand houden daarvan. Het projectbesluit bevat een beschrijving van het project (de te treffen maatregelen en de toestemmingen) en de regels waarmee het projectbesluit het omgevingsplan wijzigt. Doorgaans zal het om omvangrijke projecten met grote belangen gaan. Projectbesluiten worden vastgesteld door waterschap, provincie en het Rijk. Het projectbesluit is de opvolger van:
+Het omgevingsdocument projectbesluit is het Omgevingswet-instrument voor het uitvoeren van een project en het in werking hebben of in stand houden daarvan. Het projectbesluit bevat een beschrijving van het project (de te treffen maatregelen en de toestemmingen) en de regels waarmee het projectbesluit het omgevingsplan wijzigt. Doorgaans zal het om omvangrijke projecten met grote belangen gaan. Projectbesluiten worden vastgesteld door waterschap, provincie en het Rijk. Het projectbesluit is de opvolger van:
 -	Het inpassingsplan op grond van de Wro, voor provincie en Rijk; 
 -	Het projectplan op grond van de Waterwet, voor waterschap en Rijk;
 -	Het tracébesluit op grond van de Tracéwet, voor het Rijk.
@@ -26,9 +26,9 @@ Deze handreiking is een aanvulling op de werkafspraak, ter ondersteuning van de 
 
 ### Doel van de handreiking
 
-De handreiking geeft de werkwijze en keuzemogelijkheden weer voor het Omgevingswet-instrument projectbesluit. Het projectbesluit wordt door de provincie technisch gerealiseerd met de RO Standaarden 2012 en daarna, door gebruik te maken van de Wro plan keten via Ruimtelijkeplannen.nl, naar het Digitaal Stelsel Omgevingswet te ontsluiten.  
+De handreiking geeft de werkwijze en keuzemogelijkheden weer voor het omgevingsdocument projectbesluit. Het projectbesluit wordt door de provincie technisch gerealiseerd met de RO Standaarden 2012 en daarna, door gebruik te maken van de Wro plan keten via Ruimtelijkeplannen.nl, naar het Digitaal Stelsel Omgevingswet te ontsluiten.  
 
-Deze handreiking gaat niet in op de inhoud van het instrument projectbesluit. Voor de juridische context van het instrument verwijzen we naar de Omgevingswet- en regelgeving. De procedurestappen van de projectprocedure komen in deze handreiking ook niet in aan de orde. Voor meer informatie over het projectbesluit, raadpleeg de TPOD projectbesluit via de <a href='https://www.geonovum.nl/geo-standaarden/omgevingswet/STOPTPOD' target='_blank'>Geonovum website</a> en de website <a href='https://iplo.nl/regelgeving/instrumenten/projectbesluit/' target='_blank'>Informatiepunt Leefomgeving</a>. 
+Deze handreiking gaat niet in op de inhoud van het omgevingsdocument projectbesluit. Voor de juridische context van dit omgevingsdocument verwijzen we naar de Omgevingswet- en regelgeving. De procedurestappen van de projectprocedure komen in deze handreiking ook niet in aan de orde. Voor meer informatie over het projectbesluit, raadpleeg de TPOD projectbesluit via de <a href='https://www.geonovum.nl/geo-standaarden/omgevingswet/STOPTPOD' target='_blank'>Geonovum website</a> en de website <a href='https://iplo.nl/regelgeving/instrumenten/projectbesluit/' target='_blank'>Informatiepunt Leefomgeving</a>. 
 
 
 ### Leeswijzer
