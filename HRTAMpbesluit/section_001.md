@@ -13,7 +13,7 @@ Deze tijdelijk alternatieve maatregel voor het projectbesluit is voor de provinc
 
 ### Werkafspraak en handreiking
 
-Met de werkafspraak TAM-projectbesluit wordt provincies en het Rijk de mogelijkheid geboden om juridisch een Omgevingswet-projectbesluit op basis van de techniek van de Wro (namelijk RO Standaarden 2012), en te publiceren via Ruimtelijkeplannen.nl en de overbruggingsfunctie van het Informatiehuis Ruimte naar het Digitaal Stelsel Omgevingswet. Het TAM-projectbesluit maakt juridisch onderdeel uit van de Omgevingswet maar wordt technische in de  landelijke voorziening Ruimtelijkeplannen.nl geplaatst. Rekening houdende met de wettelijke vereisten van de Omgevingswet is het TAM-projectbesluit een omgevingsdocument.
+Met de werkafspraak TAM-projectbesluit wordt provincies en het Rijk de mogelijkheid geboden om juridisch een Omgevingswet-projectbesluit op basis van de techniek van de Wro (namelijk RO Standaarden 2012) te maken en te publiceren via Ruimtelijkeplannen.nl en de overbruggingsfunctie van het Informatiehuis Ruimte naar het Digitaal Stelsel Omgevingswet. Het TAM-projectbesluit maakt juridisch onderdeel uit van de Omgevingswet maar wordt technische in de  landelijke voorziening Ruimtelijkeplannen.nl geplaatst. Rekening houdende met de wettelijke vereisten van de Omgevingswet is het TAM-projectbesluit een omgevingsdocument.
 
 De onderdelen van de TAM-projectbesluit voor provincies en het Rijk zijn: 
 - de <a href='https://docs.geostandaarden.nl/ro/waTAMpbesluit/' target='_blank'>werkafspraak TAM-projectbesluit</a>;

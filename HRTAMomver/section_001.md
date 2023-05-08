@@ -5,7 +5,7 @@ De provincie moet voor inwerkingtreding van de Omgevingswet conform Awb artikel 
 
 ### Werkafspraak en handreiking
 
-Met de werkafspraak TAM-omgevingsverordening wordt provincies de mogelijkheid geboden om een omgevingsverordening onder de Omgevingswet op te stellen op basis van de RO Standaarden 2012, en te publiceren via Ruimtelijkeplannen.nl en de overbruggingsfunctie van het Informatiehuis Ruimte naar het Digitaal Stelsel Omgevingswet. De omgevingsverordening conform TAM maakt juridisch onderdeel uit van de Omgevingswet maar wordt technisch in de huidige landelijke voorziening geplaatst. Rekening houdend met de wettelijke vereisten van de Omgevingswet is de TAM omgevingsverordening een omgevingsdocument. 
+Met de werkafspraak TAM-omgevingsverordening wordt provincies de mogelijkheid geboden om een omgevingsverordening onder de Omgevingswet op te stellen op basis van de RO Standaarden 2012 te maken en te publiceren via Ruimtelijkeplannen.nl en de overbruggingsfunctie van het Informatiehuis Ruimte naar het Digitaal Stelsel Omgevingswet. De omgevingsverordening conform TAM maakt juridisch onderdeel uit van de Omgevingswet maar wordt technisch in de huidige landelijke voorziening geplaatst. Rekening houdend met de wettelijke vereisten van de Omgevingswet is de TAM omgevingsverordening een omgevingsdocument. 
 
 De onderdelen van de TAM-omgevingsverordening voor provincies zijn: 
 - de werkafspraak TAM-omgevingsverordening;
