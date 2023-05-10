@@ -1,7 +1,7 @@
 var respecConfig =
 {
   pubDomain: "ro",
-  specStatus: "GN-DEF",
+  specStatus: "GN-WV",
   specType: "WA",
   license: "cc-by-nd",
  // publishDate: "",
@@ -25,6 +25,6 @@ var respecConfig =
   issueBase: "https://github.com/Geonovum/ROST/issues",
   edDraftURI: "https://Geonovum.github.io/ROST",
  // generatedSubtitle: "",
- // previousPublishDate: "2023-02-20",  	    
- // previousMaturity: "GN-WA",   
+  previousPublishDate: "2023-05-10",  	    
+  previousMaturity: "GN-DEF",   
 }
