@@ -2,15 +2,15 @@
 
 ### Technische uitgangspunten
 
-De kern van het gebruik van TAM-omgevingsplan is, dat vanaf inwerkingtreding van de Omgevingswet, de bestaande Wro planketen gebruikt kan worden voor het opstellen en publiceren van een wijziging van het omgevingsplan. De RO Standaarden 2012 worden niet aangepast. Ook wordt op geen enkele manier iets aangepast aan de Wro plansoftware die wordt gebruikt voor digitale ruimtelijke plannen. Ook aan de manier van publiceren naar Ruimtelijkeplannen.nl verandert niets. Wel wordt de validator voor Ruimtelijkeplannen.nl aangevuld en enigszins aangepast om het overgangsrecht van Wro naar Omgevingswet te faciliteren, en de TAM-omgevingsplan mogelijk te maken.
+De kern van het gebruik van de TAM-omgevingsplan is, dat vanaf inwerkingtreding van de Omgevingswet, de bestaande Wro planketen gebruikt kan worden voor het beschibaarstellen van een wijziging van het omgevingsplan. De RO Standaarden 2012 worden niet aangepast. Ook wordt op geen enkele manier iets aangepast aan de Wro plansoftware die wordt gebruikt voor digitale ruimtelijke plannen. Ook aan de manier van publiceren naar Ruimtelijkeplannen.nl verandert niets. Wel wordt de validator voor Ruimtelijkeplannen.nl aangevuld en enigszins aangepast om het overgangsrecht van Wro naar Omgevingswet te faciliteren, en de TAM-omgevingsplan mogelijk te maken.
 
-Het gebruik van TAM-omgevingsplan ligt technisch in het verlengde van het overgangsrecht. Een Wro bestemmingsplan dat in ontwerp is gepubliceerd vóór inwerkingtreding van de Omgevingswet kan onder het oude recht en de oude standaarden worden afgerond onder de Omgevingswet. Dat betekent dat na inwerkingtreding een bestemmingsplan met planstatus vastgesteld gepubliceerd kan worden via Ruimtelijkplannen.nl en onderdeel wordt van het tijdelijk deel omgevingsplan. Een bestemmingsplan met planstatus ontwerp wordt na inwerkingtreding geweigerd. 
+Het gebruik van de TAM-omgevingsplan ligt technisch in het verlengde van het overgangsrecht. Een Wro bestemmingsplan dat in ontwerp is gepubliceerd vóór inwerkingtreding van de Omgevingswet kan onder het oude recht en de oude standaarden worden afgerond onder de Omgevingswet. Dat betekent dat na inwerkingtreding een bestemmingsplan met planstatus vastgesteld gepubliceerd kan worden via Ruimtelijkplannen.nl en onderdeel wordt van het tijdelijk deel omgevingsplan. Een bestemmingsplan met planstatus ontwerp wordt na inwerkingtreding geweigerd. 
 
-De validator moet een TAM-omgevingsplan kunnen herkennen om een ontwerpversie wel door te laten ná inwerkingtreding. Daarom is in de werkafspraak bepaald dat de plannaam begint met “TAM-omgevingsplan”, gevolgd door de naam van het plan. Hiermee wordt het onderscheid gemaakt tussen een Wro bestemmingsplan onder het overgangsrecht, en een nieuw omgevingswetbesluit op basis van TAM-omgevingsplan.
+De validator moet een TAM-omgevingsplan kunnen herkennen om een ontwerpversie wel door te laten ná inwerkingtreding. Daarom is in de werkafspraak bepaald dat de plannaam begint met “TAM-omgevingsplan”, gevolgd door de naam van het plan. Hiermee wordt het onderscheid gemaakt tussen een Wro bestemmingsplan onder het overgangsrecht, en een nieuw omgevingsdocument op basis van TAM-omgevingsplan.
 
-Om een omgevingswetbesluit te kunnen nemen met behulp van TAM-omgevingsplan wordt uitsluitend gebruik gemaakt van de planfiguur ‘bestemmingsplan’. Overige Wro planfiguren zullen geweigerd worden tenzij ze vallen onder het overgangsrecht.
+Om een omgevingsdocument te kunnen opstellen met behulp van de TAM-omgevingsplan wordt uitsluitend gebruik gemaakt van de Wro planfiguur ‘bestemmingsplan’. Overige Wro planfiguren zullen geweigerd worden tenzij ze vallen onder het overgangsrecht.
 
-Een TAM-omgevingsplan komt technisch terecht in het tijdelijk deel van het omgevingsplan, waar zich ook de digitale bestemmingsplannen bevinden die van rechtswege omgevingsplan zijn geworden na inwerkingtreding. Juridisch is een TAM-omgevingsplan een echt omgevingswetbesluit, want het besluit is genomen onder de Omgevingswet. Dat betekent dat het TAM-omgevingsplan uiteindelijk door de gemeente omgezet zal moeten worden naar STOP/TPOD, om ook technisch onderdeel te kunnen worden van het omgevingsplan. Het gebruik van TAM-omgevingsplan houdt dus altijd extra werk in de toekomst in. Dit gegeven moet mee worden genomen bij de afweging over het al dan niet gebruiken van TAM-omgevingsplan.
+Een TAM-omgevingsplan komt technisch terecht in het tijdelijk deel van het omgevingsplan, waar zich ook de digitale bestemmingsplannen bevinden die van rechtswege omgevingsplan zijn geworden na inwerkingtreding. Juridisch is een TAM-omgevingsplan een echt omgevingsdocument, want het besluit is genomen onder de Omgevingswet. Dat betekent dat de TAM-omgevingsplan uiteindelijk door de gemeente omgezet zal moeten worden naar STOP/TPOD, om ook technisch onderdeel te kunnen worden van het omgevingsplan. Het gebruik van TAM-omgevingsplan houdt dus altijd extra werk in de toekomst in. Dit gegeven moet mee worden genomen bij de afweging over het al dan niet gebruiken van de werkafspraak TAM-omgevingsplan.
 
 ### Gebruik IMRO objecten
 
@@ -32,7 +32,7 @@ In principe is een omgevingsplan vormvrij. De gemeente bepaalt binnen zekere gre
 
 Voor het object ‘omgevingsnorm’ uit STOP/TPOD kan gebruik worden gemaakt van het IMRO-object ‘maatvoering’. Deze heeft weliswaar geen koppeling met de tekst maar lijkt het meest op de omgevingsnorm. Let er op dat maatvoeringen maar beperkt kunnen worden uitgebreid.
 
-#### TAM omgevingsplan
+#### TAM-omgevingsplan
 
 In principe is het mogelijk een omgevingsplan zoveel mogelijk na te bootsen met behulp van IMRO2012. Het is uiteraard aan de gemeente om daar inhoudelijk vorm aan te geven. We doen hier een aantal suggesties hoe een TAM-omgevingsplan gemaakt zou kunnen worden met behulp van de bestemmingsplan-objecten uit het IMRO. We willen hier uitdrukkelijk aangeven dat het om <u>voorbeelden</u> gaat en dat het eenieder vrij staat om binnen de mogelijkheden van het IMRO hier op eigen wijze invulling aan te geven.
 
@@ -42,7 +42,7 @@ De meeste Wro plansoftware werkt met een <a href='https://ro-standaarden.geonovu
 
 <b><i>Plangebied</i></b>
 
-Een omgevingswetbesluit kent geen object ‘plangebied’. Voor de validatie is het wel noodzakelijk om een plangebied op te nemen. De onderdelen van de wijziging van het omgevingsplan worden dan gekoppeld aan dit plangebied. Voor de motivering van het wijzigingsbesluit kan gebruik gemaakt worden van het object ‘toelichting’. De toelichting, regels en eventuele bijlagen worden gekoppeld aan het plangebied. Hiermee kan voldaan worden aan de noodzakelijk onderdelen van de wijziging van het omgevingsplan en tevens aan de randvoorwaarden ten behoeve van de validatie door Ruimtelijkeplannen.nl.
+Een omgevingsdocument kent geen object ‘plangebied’. Voor de validatie is het wel noodzakelijk om een plangebied op te nemen. De onderdelen van de wijziging van het omgevingsplan worden dan gekoppeld aan dit plangebied. Voor de motivering van het wijzigingsbesluit kan gebruik gemaakt worden van het object ‘toelichting’. De toelichting, regels en eventuele bijlagen worden gekoppeld aan het plangebied. Hiermee kan voldaan worden aan de noodzakelijk onderdelen van de wijziging van het omgevingsplan en tevens aan de randvoorwaarden ten behoeve van de validatie door Ruimtelijkeplannen.nl.
 
 <b><i>Gebiedsaanwijzing van het type Functie</i></b>
 
@@ -59,7 +59,7 @@ De benaming na het koppelteken is vrij te kiezen en zou ook het woord ‘Functie
 
 Het gebruik van een hoofdgroep is verplicht en kan gebruikt worden om de kaartweergave te sturen. In de omgevingsloket viewer Regels op de Kaart zal het TAM-omgevingsplan in dezelfde kleuren worden getoond als een bestemmingsplan. In de bovenstaande voorbeelden; donkerroze voor Kernwinkelgebied, donkergrijs voor Stroomgebied en blauw voor Oppervlaktewater.
 
-Omdat het noodzakelijk is de naam van de hoofdgroep op te nemen in de naam van de functie, ligt het voor de hand inhoudelijke logische hoofdgroepen te kiezen, waardoor dan ook de kleur wordt bepaald. Als die logica er niet is (en dat zal voor een omgevingsplan vaak voorkomen) dan kan gebruik worden gemaakt van de hoofdgroep ‘Overig’. Dat biedt alle ruimte voor eigen toevoegingen. Alle functies die met ‘Overig zijn gemodelleerd, worden dan wel in dezelfde lichtgrijze kleur getoond. Voor de hoofdgroep ‘Overig’ geldt dat de naam van de hoofdgroep niet hoeft te worden opgenomen in de nieuwe benaming, conform de SVBP2012:
+Omdat het noodzakelijk is de naam van de hoofdgroep op te nemen in de naam van de functie, ligt het voor de hand inhoudelijke logische hoofdgroepen te kiezen, waardoor dan ook de kleur wordt bepaald. Als die logica er niet is (en dat zal voor een omgevingsplan vaak voorkomen) dan kan gebruik worden gemaakt van de hoofdgroep ‘Overig’. Dat biedt alle ruimte voor eigen toevoegingen. Alle functies die met ‘Overig' zijn gemodelleerd, worden dan wel in dezelfde lichtgrijze kleur getoond. Voor de hoofdgroep ‘Overig’ geldt dat de naam van de hoofdgroep niet hoeft te worden opgenomen in de nieuwe benaming, conform de SVBP2012:
 
 <i>Specificatie van de bestemming</i>
 
@@ -118,7 +118,7 @@ In paragraaf [2.2.2](#tam-omgevingsplan) is aangegeven hoe de kaartobjecten voor
 
 Bij het meeleveren van planteksten zijn twee opties beschikbaar voor het publiceren van de planteksten; HTML-formaat of, middels de standaard IMROPT2012 xml-formaat. De standaard voor objectgerichte planteksten (IMROPT2012) is facultatief voor bestemmingsplannen en werd daardoor niet door alle gemeenten gebruikt. 
 
-Voor het maken en aanleveren van TAM-omgeving adviseren wij gebruik te maken van de uitvoer in HTML-formaat. In de praktijk is namelijk gebleken dat er bij gebruik van de planteksten in IMROPT2012 xml-formaat tekstobjecten weg kunnen vallen bij het exporteren uit de Wro plansoftware. Dit gebeurt met name als de tekststructuur (hoofdstuk-indeling, tekstobject-benoeming) niet exact voldoet aan de SVBP2012. Juist voor omgevingswetbesluiten zal vaker van de SVBP structuur worden afgeweken. 
+Voor het maken en aanleveren van een TAM-omgevingsplan adviseren wij gebruik te maken van de uitvoer in HTML-formaat. In de praktijk is namelijk gebleken dat er bij gebruik van de planteksten in IMROPT2012 xml-formaat tekstobjecten weg kunnen vallen bij het exporteren uit de Wro plansoftware. Dit gebeurt met name als de tekststructuur (hoofdstuk-indeling, tekstobject-benoeming) niet exact voldoet aan de SVBP2012. Juist voor omgevingsdocumenten zal vaker van de SVBP structuur worden afgeweken. 
 
 Het risico bestaat dat de planteksten in IMROPT2012 xml-formaat niet gevalideerd kunnen worden, of dat er ongemerkt onderdelen niet worden meegenomen in de export naar .xml-formaat. In dat geval is het besluit niet compleet. In deze handreiking adviseren we daarom gebruik te maken van de HTML-export mogelijkheid van de Wro plansoftware/ tekstsoftware voor bestemmingsplannen. 
 
