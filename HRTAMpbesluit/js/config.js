@@ -26,7 +26,7 @@ var respecConfig =
   edDraftURI: "https://Geonovum.github.io/ROST/",
  // publishISODate: "2022-09-07T00:00:00.000Z",
  // generatedSubtitle: "Vastgestelde versie 7 september 2022"
- //previousPublishDate: "2022-09-07",
- // previousStatus: "GN-DEF", 
+ previousPublishDate: "2023-05-10",
+ previousStatus: "GN-DEF", 
   
 }
