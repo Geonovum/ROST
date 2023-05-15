@@ -1,3 +1,3 @@
 ## Aandachtspunt
 
-De TAM-omgevingsverordening maakt juridisch onderdeel uit van de Omgevingswet, maar wordt technisch in de landelijke voorziening Ruimtelijkeplannen.nl geplaatst. Rekening houdende met de wettelijke vereisten van de Omgevingswet is de TAM-omgevingsverordening een omgevingswetbesluit. 
+Een TAM-omgevingsverordening is in juridische zin een omgevingsverordening op basis van  de Omgevingswet, maar is in technische zin een Omgevingsverordening op basis van de RO standaarden 2012 die wordt gepubliceerd op de landelijke voorziening Ruimtelijkeplannen.nl. Rekening houdende met de wettelijke vereisten van de Omgevingswet is een TAM-omgevingsverordening een omgevingswetbesluit.
