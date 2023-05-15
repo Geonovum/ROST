@@ -3,7 +3,7 @@
 Technisch dient de wijziging van het omgevingsplan te voldoen aan de RO Standaarden 2012 om geaccepteerd te worden door de validator van Ruimtelijkeplannen.nl. In technische opbouw lijkt het instrument ‘bestemmingsplan’ uit de Wro het meest op het omgevingsplan onder de Omgevingswet. Daarmee sluit het gebruik van het instrument bestemmingsplan goed aan op de al bekende werkwijze bij de gemeentelijke overheid. De inhoudelijke verplichtingen voor het toepassen van de <a href='https://ro-standaarden.geonovum.nl/2012/SVBP/1.3/SVBP2012-v1.3.1.pdf' target='_blank'>Standaard Vergelijkbare Bestemmingsplannen</a> (SVBP2012) vervallen onder de Omgevingswet. Dat biedt de noodzakelijke uitbreidingsruimte voor het opstellen van een wijziging van het omgevingsplan. 
 Voor de motivering van het wijzigingsbesluit kan gebruik gemaakt worden van het object ‘toelichting’. De toelichting, regels en eventuele bijlagen worden gekoppeld aan het plangebied. Hiermee kan voldaan worden aan de noodzakelijk onderdelen van de wijziging van het omgevingsplan en tevens aan de randvoorwaarden ten behoeve van de validatie.
 
-Een wijziging van het omgevingsplan opgesteld op basis van deze TAM, moet herkenbaar zijn, Dit is belangrijk voor een goede validatie en ten behoeve van de overbruggingsfunctie naar het DSO. Daarom leggen we in deze werkafspraak de naamgeving vast: 
+Een wijziging van het omgevingsplan opgesteld op basis van deze TAM, moet herkenbaar zijn. Dit is belangrijk voor een goede validatie en ten behoeve van de overbruggingsfunctie naar het DSO. Daarom leggen we in deze werkafspraak de naamgeving vast: 
 
 Werkafspraak: de naam van het plan is ‘TAM-omgevingsplan[spatie][plannaam]’
 
