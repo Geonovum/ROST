@@ -45,4 +45,4 @@ De werkafspraak is samengevat in Tabel 1.
 
 Het publiceren van een reactieve interventie met behulp van TAM-reactieve interventie gaat op dezelfde wijze als de Wro reactieve aanwijzing: met de RO Standaarden 2012. Vooraf kan met de validator van pilot.Ruimtelijkeplannen.nl worden gecontroleerd of het besluit valide is, van belang is de naamgeving conform deze werkafspraak.
 
-TAM-reactieve interventies worden weergegeven in de viewer Regels op de Kaart (omgevingsloket) Er is geen sturing op de weergave met de RO Standaarden mogelijk, en daarmee ook niet op TAM-reactieve interventies.
+TAM-reactieve interventies worden weergegeven in de viewer Regels op de Kaart (omgevingsloket). Er is geen sturing op de weergave met de RO Standaarden mogelijk, en daarmee ook niet op TAM-reactieve interventies.
