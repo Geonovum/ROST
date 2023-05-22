@@ -2,7 +2,7 @@
 Repository voor beheer van de verschillende (niet normatieve) onderdelen van de RO Standaarden.
 Een overzicht van de verschillende documenten vindt u hieronder.
 
-De normatieve onderdelen van de RO Standaarden zijn te raadplegen via de <a href='https://www.geonovum.nl/geo-standaarden/ro-standaarden-ruimtelijke-ordening#ROStandaarden' target=_blank'>Geonovum website</a>, op de URL zoals IMRO2012, STRI2012, SVBP2012 en IMROP2012 zijn opgenomen in de ministeriële <a href='http://wetten.overheid.nl/BWBR0031829' target=_blank'>Regeling standaarden ruimtelijke ordening 2012</a>.
+De normatieve onderdelen van de RO Standaarden zijn te raadplegen via de [Geonovum website](https://www.geonovum.nl/geo-standaarden/ro-standaarden-ruimtelijke-ordening#ROStandaarden), op de URL zoals IMRO2012, STRI2012, SVBP2012 en IMROP2012 zijn opgenomen in de ministeriële [Regeling standaarden ruimtelijke ordening 2012](http://wetten.overheid.nl/BWBR0031829).
 
 | Document                                                                                                                       |  
 |--------------------------------------------------------------------------------------------------------------------------------|  
