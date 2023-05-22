@@ -1,7 +1,7 @@
 ## Inleiding
 
-Er is niet voorzien in overgangsrecht voor de omgevingsverordening. Op het moment van van inwerkingtreding van de Omgevingswet moeten de provincies hun omgevingsverordeningen hebben vastgesteld en bekendgemaakt.
-De provincie moet voor inwerkingtreding van de Omgevingswet conform Awb artikel 3.4 een ontwerp-omgevingsverordening en een definitieve omgevingsverordening publiceren. Daarna volgen wijzigingsbesluiten, of volgt een gehele intrekking van de omgevingsverordening waarna een geheel nieuwe omgevingsverordening wordt vastgesteld. Zowel de initiële omgevingsverordening als de wijzigingsbesluiten kunnen worden gemaakt met behulp van de werkafspraak TAM-omgevingsverordening. Juridisch gezien is de met behulp van de TAM opgestelde, vastgestelde en gepubliceerde omgevingsverordening een volwaardige omgevingsverordening onder de Omgevingswet. Inhoudelijk moet deze (wijziging van de) omgevingsverordening voldoen aan de eisen vanuit de Omgevingswet. De met de RO Standaarden opgestelde omgevingsverordening moet door de provincie uiteindelijk worden inhoudelijk verwerkt en technisch omgezet in de omgevingsverordening op basis van de STOP/TPOD standaard. 
+Er is niet voorzien in overgangsrecht voor de omgevingsverordening. Op het moment van inwerkingtreding van de Omgevingswet moeten de provincies hun omgevingsverordeningen hebben vastgesteld en bekendgemaakt.
+De provincie moet voor inwerkingtreding van de Omgevingswet conform Awb artikel 3.4 een ontwerp-omgevingsverordening en een definitieve omgevingsverordening, op basis van de Omgevingswet, publiceren. Daarna volgen wijzigingsbesluiten, of volgt een gehele intrekking van de omgevingsverordening waarna een geheel nieuwe omgevingsverordening wordt vastgesteld. Zowel de initiële omgevingsverordening als de wijzigingsbesluiten kunnen worden gemaakt met behulp van de werkafspraak TAM-omgevingsverordening. Juridisch gezien is de met behulp van de TAM opgestelde, vastgestelde en gepubliceerde omgevingsverordening een volwaardige omgevingsverordening onder de Omgevingswet. Inhoudelijk moet deze (wijziging van de) omgevingsverordening voldoen aan de eisen vanuit de Omgevingswet. De met de RO Standaarden opgestelde omgevingsverordening moet door de provincie uiteindelijk worden inhoudelijk verwerkt en technisch omgezet in de omgevingsverordening op basis van de STOP/TPOD standaard. 
 
 ### Werkafspraak en handreiking
 
@@ -13,14 +13,14 @@ De onderdelen van de TAM-omgevingsverordening voor provincies zijn:
 - de verwerking door de overbruggingsfunctie van het Informatiehuis Ruimte naar het Digitaal Stelsel Omgevingswet;
 - deze technische handreiking.
 
-Deze  handreiking vult de werkafspraak aan, ter ondersteuning van de provincies voor de technische toepassing van de werkafspraak in de praktijk. 
+Deze  handreiking is een aanvulling op de werkafspraak, ter ondersteuning van de provincies voor de technische toepassing van de werkafspraak in de praktijk. 
 In het <a href='https://geonovum.github.io/TPOD/TPOD%20Omgevingsverordening/TPOD_omgevingsverordening_v2.0.1.pdf' target='_blank'>Toepassingsprofiel (TPOD) omgevingsverordening</a> zijn de inhoudelijke aspecten van de omgevingsverordening beschreven. 
 
 ### Doel van de handreiking
 
-De handreiking geeft de werkwijze en keuzemogelijkheden weer voor het Omgevingswet-instrument omgevingsverordening. Deze omgevingsverordening wordt door de provincie technisch gerealiseerd met de RO Standaarden 2012 en daarna, door gebruik te maken van de Wro plan keten via Ruimtelijkeplannen.nl, naar het Digitaal Stelsel Omgevingswet te ontsluiten.  
+De handreiking geeft de werkwijze en keuzemogelijkheden weer voor het Omgevingswet-instrument omgevingsverordening. Deze omgevingsverordening wordt door de provincie technisch gerealiseerd met de RO Standaarden 2012 en daarna, door gebruik te maken van de Wro planketen via Ruimtelijkeplannen.nl, naar het Digitaal Stelsel Omgevingswet te ontsluiten.  
 
-Deze handreiking gaat niet in op de inhoud van het instrument omgevingsverordening. Voor de juridische context van het instrument verwijzen we naar de Omgevingswet- en onderliggende regelgeving. Voor meer informatie over de omgevingsverordening, raadpleeg de TPOD omgevingsverordening via de <a href='https://www.geonovum.nl/geo-standaarden/omgevingswet/STOPTPOD' target='_blank'>Geonovum website</a> en de website 
+Deze handreiking gaat niet in op de inhoud van het instrument omgevingsverordening. Voor de juridische context van het instrument verwijzen we naar de Omgevingswet en onderliggende regelgeving. Voor meer informatie over de omgevingsverordening, raadpleeg de TPOD omgevingsverordening via de <a href='https://www.geonovum.nl/geo-standaarden/omgevingswet/STOPTPOD' target='_blank'>Geonovum website</a> en de website 
 <a href='https://iplo.nl/regelgeving/instrumenten/omgevingsverordening' target='_blank'>Informatiepunt Leefomgeving</a>. 
 
 ### Leeswijzer
