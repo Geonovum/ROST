@@ -1,10 +1,10 @@
 var respecConfig =
 {
   pubDomain: "ro",
-  specStatus: "GN-WV",
+  specStatus: "GN-DEF",
   specType: "WA",
   license: "cc-by-nd",
- // publishDate: "2022-09-07",
+  publishDate: "2022-05-30",
   authors: [
     {
       name: "Beheerder RO Standaarden",
@@ -27,7 +27,7 @@ var respecConfig =
  // publishISODate: "2022-09-07T00:00:00.000Z",
  // generatedSubtitle: "Vastgestelde versie 7 september 2022"
   previousPublishDate: "2022-09-07",
-  previousStatus: "DEF",
+  previousStatus: "GN-DEF",
   
   
 }
