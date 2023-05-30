@@ -8,9 +8,10 @@ De normatieve onderdelen van de RO Standaarden zijn te raadplegen via de [Geonov
 |--------------------------------------------------------------------------------------------------------------------------------|  
 | [Werkafspraak TAM omgevingsplan](https://geonovum.github.io/ROST/waTAMomplan/)                                                 |
 | [Werkafspraak TAM omgevingsverordening](https://geonovum.github.io/ROST/waTAMomver/)                                           |
-| [Werkafspraak TAM voorbereidingsbesluit](https://geonovum.github.io/ROST/waTAMvbbesluit/)                                     |
+| [Werkafspraak TAM voorbereidingsbesluit](https://geonovum.github.io/ROST/waTAMvbbesluit/)                                      |
 | [Werkafspraak TAM projectbesluit](https://geonovum.github.io/ROST/waTAMpbesluit/)                                              |
 | [Werkafspraak TAM reactieve interventie](https://geonovum.github.io/ROST/waTAMreaint/)                                         |
+| [Werkafspraak TAM instructie](https://geonovum.github.io/ROST/waTAMinstr/)                                                     |
 | [Werkafspraak Chw bestemmingsplan digitaal beschikbaar stellen](https://geonovum.github.io/ROST/waCHWbp/)                      |  
 | [Werkafspraak Wijzigen reeds eerder gepubliceerde plannen (STRI/IMRO)](https://geonovum.github.io/ROST/waSTRIIMRO/)            |  
 | [Werkafspraak Beveiligingseisen beschikbaar stellen ruimtelijke instrumenten](https://geonovum.github.io/ROST/waBEVRP/)        |
@@ -18,6 +19,7 @@ De normatieve onderdelen van de RO Standaarden zijn te raadplegen via de [Geonov
 | [Werkafspraak discrepantie STRI norm en XML Schema](https://geonovum.github.io/ROST/waSTRIxml/)                                |
 | [Handreiking (technisch) TAM omgevingsplan](https://geonovum.github.io/ROST/HRTAMomplan/)                                      |
 | [Handreiking (technisch) TAM omgevingsverordening](https://geonovum.github.io/ROST/HRTAMomver/)                                |
+| [Handreiking (technisch) TAM projectbesluit](https://geonovum.github.io/ROST/HRTAMpbesluit/)                                   |
 | [Handreiking Archiveren ruimtelijke plannen](https://geonovum.github.io/ROST/HRARP/)                                           |  
 | [Handreiking Data op Orde](https://geonovum.github.io/ROST/HRDoO/)                                                             |  
 | [Praktijkrichtlijn Analoge Bestemmingsplan Kaart](https://geonovum.github.io/ROST/PRABPK/)                                     |  

@@ -1,5 +1,5 @@
 ## Aandachtspunten
-De beschikbaarstelling van het voorbereidingsbesluit geschiedt conform deze werkafspraak via Ruimtelijkeplannen.nl. De kennisgevings van dit voorbereidingsbesluit geschiedt via DROP zoals dit ook in de Wro is gedaan. 
+De beschikbaarstelling van het voorbereidingsbesluit geschiedt conform deze werkafspraak via Ruimtelijkeplannen.nl. De kennisgeving van dit voorbereidingsbesluit geschiedt via DROP zoals dit ook in de Wro is gedaan. 
 
 TAM-voorbereidingsbesluiten worden weergegeven in de viewer Regels op de Kaart (omgevingsloket) op dezelfde wijze als de Wro voorbereidingsbesluiten. Er is geen sturing op de weergave mogelijk met de RO Standaarden, en daarmee ook niet op TAM-voorbereidingsbesluiten.
 
