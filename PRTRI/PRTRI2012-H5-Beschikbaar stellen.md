@@ -88,6 +88,42 @@ Een ruimtelijk instrument kan in de totstandkoming diverse statussen doorlopen.
 Voor een aantal formele versies is het beschikbaar stellen wettelijk vereist.
 Voor alle overige versies is beschikbaar stellen mogelijk, maar niet verplicht.
 
+## Wijzigen reeds eerder gepubliceerde plannen
+Ambtelijk foutherstel in een ruimtelijke plan of besluit door de bronhouder, zonder voorafgaand besluit, is het herstellen van de metadata c.q. de technische kenmerken van het ruimtelijk plan of besluit of het opheffen van inconsistenties in de planvoorraad tussen bronhouder en Ruimtelijkeplannen.nl. Het naderhand door de bronhouder aanpassen van reeds eerder gepubliceerde plannen kan en mag, indien het gaat om:
+- een (beperkte) set van metadata die van cruciaal belang is voor (blijvende) begrijpelijkheid, raadpleegbaarheid en bruikbaarheid van plannen, niet alleen in de huidige LV, maar ook in het DSO.
+- het ervoor zorgen dat, op grond van de bestaande verplichting daartoe in het Besluit ruimtelijke ordening (Bro), de lokaal aanwezige planvoorraad consistent is met de landelijke voorziening Ruimtelijkeplannen.nl.
+
+Bij gebreken aan de inhoud van het plan of besluit zal het bevoegd gezag een nieuw besluit moeten nemen of een nieuwe procedure moeten volgen.
+
+De hoofdregel is dat foutherstel niet gaat over de inhoud van een plan of besluit, maar om vorm- of technische aspecten die van belang zijn voor blijvende raadpleegbaarheid, bruikbaarheid en toegankelijkheid van het plan. Foutherstel is alleen mogelijk:
+
+<ol><li>Indien het gebrek niet gaat over de inhoud van het besluit, maar om bepaalde metadata of inconsistentie tussen bronhouder en RP.nl kan worden volstaan met een ambtelijk herstel zonder besluit.</li>
+<li>Indien een goede verantwoording van uitgevoerd foutherstel gewaarborgd is, in ieder geval intern binnen de organisatie. Hierdoor kan later altijd gereconstrueerd worden wat de aanleiding van de hersteloperatie was en wie, wanneer, wat en hoe het herstel heeft uitgevoerd. </li>
+</ol>
+
+Bij foutherstel zijn er in beginsel geen juridische consequenties aan verbonden. De inhoud van het plan of besluit mag daarbij niet worden aangepast, ook niet de bijbehorende geometrie. Het herstel van een plan kan voor de volgende kenmerken van het plan of besluit (attributen met waarden): 
+
+<ul><li>Manifest<ul><li>Dossierstatus</li>
+</ul>
+
+</li>
+<li>Dataset<ul><li>Planidentificatienummer</li>
+<li>Type plan</li>
+<li>Naam van het plan</li>
+<li>Planstatus info (datum en status)</li>
+<li>Overheidscode / naam overheid</li>
+<li>Verwijzingen naar externe plannen</li>
+<li>Bijlage(n)</li>
+<li><a name='_Hlk522006912'></a>HTML planteksten naar XML planteksten </li>
+</ul>
+
+</li>
+</ul>
+
+De digitale waarmerken in geleideformulier/manifest ter borging van de authenticiteit, onveranderlijkheid en volledigheid van de dataset, zullen door de bronhouder ook opnieuw gedaan moet worden bij publicatie van een nieuwe of gewijzigde versie van een plan. De RO-software zorgt hier normaliter voor.
+
+Het aanpassen van de verschillende onderdelen door de bronhouder is stapsgewijs toegelicht in de [handreiking ‘Data op orde voor de Omgevingswet’](https://docs.geostandaarden.nl/ro/doo/). 
+
 ## Beschikbaar stellen van opmaakbestanden
 De opmaak van planteksten wordt voor een belangrijk deel niet in de plantekst
 zelf geregeld maar in een apart opmaakbestand. Voor niet-objectgerichte
