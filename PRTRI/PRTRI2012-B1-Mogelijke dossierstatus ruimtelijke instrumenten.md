@@ -130,9 +130,9 @@ Een provinciale verordening bevat algemeen verbindende voorschriften.
     bezwaarschrift worden ingediend.  
 
 Doordat er een voorbereidingsprocedure geldt en de provinciale verordening
-direct na het vaststellen ervan onherroepelijk wordt, kent het uitsluitend de
-dossierstatussen 'in voorbereiding', ‘vastgesteld’, 'geheel onherroepelijk in
-werking', 'vervallen' en 'geconsolideerd'.
+direct na het vaststellen ervan onherroepelijk wordt, kent de verordening uitsluitend de
+dossierstatussen 'in voorbereiding' of uitsluitend de dossierstatussen 'geheel onherroepelijk in
+werking', 'vervallen', 'geconsolideerd'.
 
 **AMvB**  
 Een Algemene Maatregel van Bestuur (AMvB) is een besluit van de regering. Hierin
