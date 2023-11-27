@@ -131,7 +131,7 @@ Een provinciale verordening bevat algemeen verbindende voorschriften.
 
 Doordat er een voorbereidingsprocedure geldt en de provinciale verordening
 direct na het vaststellen ervan onherroepelijk wordt, kent de verordening uitsluitend de
-dossierstatussen 'in voorbereiding' of uitsluitend de dossierstatussen 'geheel onherroepelijk in
+dossierstatussen 'in voorbereiding' of 'geheel onherroepelijk in
 werking', 'vervallen', 'geconsolideerd'.
 
 **AMvB**  
