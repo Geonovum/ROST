@@ -56,7 +56,7 @@ voor de bronhouder/ bestuursorgaan uitgewerkt:
 
 ## Gebiedsgericht besluit: gerechtelijke uitspraak
 In hoofdstuk 5 van de Prakrijkrichtlijn Gebiedsgerichte Besluiten
-[PRGB2012](https://www.geonovum.nl/geo-standaarden/ro-standaarden-ruimtelijke-ordening/praktijkrichtlijn-bestemmingsplannen-prbp2012)
+[PRGB2012](https://docs.geostandaarden.nl/ro/gb2012/)
 is een nadere toelichting gegeven: welke informatie moet conform
 de RO Standaarden worden meegenomen bij het maken van dit gebiedsgerichte
 besluit. De informatie in de PRGB2012 is beknopt en daarom in deze werkwijze
