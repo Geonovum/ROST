@@ -29,7 +29,7 @@ var respecConfig =
 //  specStatus: "GN-DEF",
   specType: "HR",
   license: "cc-by-nd",
-//  publishDate: "2022-12-15",
+ publishDate: "2022-12-16",
   authors: [
     {
       name: "Beheerteam DRO",
