@@ -30,9 +30,9 @@ var respecConfig =
 //  specStatus: "GN-DEF",
   specType: "PR",
   license: "cc-by-nd",
-  publishDate: "2022-12-15",
-//previousPublishDate: "2012-11-15",
-//previousMaturity: "GN-DEF",
+  publishDate: "2023-12-20",
+  previousPublishDate: "2022-12-15",
+  previousMaturity: "GN-DEF",
   authors: [
     {
       name: "Geonovum",
@@ -53,6 +53,6 @@ var respecConfig =
   github: "https://github.com/Geonovum/ROST/",
   issueBase: "https://github.com/Geonovum/ROST/issues/",
   edDraftURI: "https://Geonovum.github.io/ROST/",
-  publishISODate: "2022-12-13T00:00:00.000Z",
-  generatedSubtitle: "Vastgestelde versie 13 december 2022"
+  publishISODate: "2023-12-20T00:00:00.000Z",
+  generatedSubtitle: "Vastgestelde versie 20 december 2023"
 }
