@@ -20,6 +20,7 @@ Voorwaarde voor het scannen is het op orde hebben van de analoge dossiers. Indie
 
 Deze facultatieve standaard kent geen wettelijke verankering. Het toepassen van deze standaard vindt plaats op basis van het creëren van meerwaarde voor de eigen organisatie, en zorgt tevens voor een betere dienstverlening door het bevoegd gezag.
 Het beheer van deze facultatieve standaard is onderdeel van het reguliere beheerproces van de RO Standaarden bij Geonovum. Daarmee wordt een blijvende samenhang beoogd tussen deze facultatieve standaard en de overige RO Standaarden.
+
 Met invoering van de Omgevingswet vervalt het gebruik van de PRPCP2008. Deze facultatieve standaard valt niet onder overgangsrecht van Wro naar Omgevingswet. Het ontsluiten van plancour en PDF plannen via Ruimtelijkeplannen.nl is vanaf 1 januari 2024 niet meer mogelijk. 
 
 
