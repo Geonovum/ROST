@@ -1,10 +1,13 @@
 var respecConfig =
 {
   pubDomain: "ro",
-  specStatus: "GN-DEF",
+   specStatus: "GN-WV",
+ // specStatus: "GN-DEF",
   specType: "WA",
   license: "cc-by-nd",
-  publishDate: "2016-03-24",
+  publishDate: "2023-12-20",
+  previousPublishDate: "2016-03-24",
+  previousMaturity: "GN-DEF",
   authors: [
     {
       name: "Beheerder RO Standaarden",
@@ -24,6 +27,7 @@ var respecConfig =
   github: "https://github.com/geonovum/ROST/",
   issueBase: "https://github.com/geonovum/ROST/issues/",
   edDraftURI: "https://Geonovum.github.io/ROST/",
-  publishISODate: "2016-03-24T00:00:00.000Z",
-  generatedSubtitle: "Vastgestelde versie 24 maart 2016"
+  publishDate: "2023-12-20T00:00:00.000Z",
+  generatedSubtitle: "Vastgestelde versie 20 december 2023"
+  
 }
