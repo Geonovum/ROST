@@ -35,14 +35,14 @@ var respecConfig =
   previousMaturity: "GN-DEF",
   authors: [
     {
-      name: "Beheerder RO Standaarden",
+      name: "Beheerteam DRO",
       company: "Geonovum",
       companyURL: "https://www.geonovum.nl/"
     }
   ],
   editors: [
     {
-      name: "Beheerteam DRO",
+      name: "Beheerder RO Standaarden",
       company: "Geonovum",
       companyURL: "https://www.geonovum.nl/"
     }

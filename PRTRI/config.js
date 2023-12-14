@@ -64,7 +64,7 @@ var respecConfig =
   editors: 
  [
   {
-      name:       "Beheerteam DRO",
+      name:       "Beheerder RO Standaarden",
       company:    "Geonovum",
       companyURL: "https://www.geonovum.nl/geo-standaarden/ro-standaarden-ruimtelijke-ordening"
     }, 
@@ -79,7 +79,7 @@ var respecConfig =
   authors: 
   [
     {
-      name:       "Beheerder RO Standaarden",
+      name:       "Beheerteam DRO",
       company:    "Geonovum",
       companyURL: "https://www.geonovum.nl"
     }, 
