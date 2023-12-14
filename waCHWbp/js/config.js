@@ -17,7 +17,7 @@ var respecConfig =
   ],
   editors: [
     {
-      name: "Beheerder RO Standaarden",
+      name: "Beheerteam DRO",
       company: "Geonovum",
       companyURL: "https://www.geonovum.nl/"
     }
