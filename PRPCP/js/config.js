@@ -26,8 +26,8 @@ var respecConfig =
 {
 //  subtitle: "PRPCP2008",
   pubDomain: "ro",
-  specStatus: "GN-WV",
-//  specStatus: "GN-DEF",
+  //specStatus: "GN-WV",
+  specStatus: "GN-DEF",
   specType: "PR",
   license: "cc-by-nd",
   publishDate: "2023-12-20",
