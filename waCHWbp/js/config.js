@@ -1,12 +1,12 @@
 var respecConfig =
 {
   pubDomain: "ro",
-   //specStatus: "GN-WV",
-  specStatus: "GN-DEF",
+  specStatus: "GN-WV",
+  //specStatus: "GN-DEF",
   specType: "WA",
   license: "cc-by-nd",
-  publishDate: "2023-12-20",
-  previousPublishDate: "2016-03-24",
+  //publishDate: "2023-12-20",
+  previousPublishDate: "2023-12-20",
   previousMaturity: "GN-DEF",
   authors: [
     {
