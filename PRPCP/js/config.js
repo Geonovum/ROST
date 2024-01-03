@@ -27,11 +27,11 @@ var respecConfig =
 //  subtitle: "PRPCP2008",
   pubDomain: "ro",
   specStatus: "GN-WV",
-//  specStatus: "GN-DEF",
+  //specStatus: "GN-DEF",
   specType: "PR",
   license: "cc-by-nd",
-  publishDate: "2023-12-20",
-  previousPublishDate: "2022-12-15",
+  //publishDate: "2023-12-20",
+  previousPublishDate: "2023-12-20",
   previousMaturity: "GN-DEF",
   authors: [
     {
@@ -53,6 +53,6 @@ var respecConfig =
   github: "https://github.com/Geonovum/ROST/",
   issueBase: "https://github.com/Geonovum/ROST/issues/",
   edDraftURI: "https://Geonovum.github.io/ROST/",
-  publishISODate: "2023-12-20T00:00:00.000Z",
-  generatedSubtitle: "Vastgestelde versie 20 december 2023"
+  //publishISODate: "2023-12-20T00:00:00.000Z",
+  //generatedSubtitle: "Vastgestelde versie 20 december 2023"
 }
