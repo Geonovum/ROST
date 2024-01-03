@@ -47,16 +47,10 @@ De werkafspraak is samengevat in Tabel 1.
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.75pt solid #000000; border-left: 0.75pt solid #000000; border-bottom: 0.75pt solid #000000; border-right: 0.75pt solid #000000; background-color: #FFFFFF;'>dossierstatus (in manifest)
-
-</td>
-<td align='left' style='border-top: 0.75pt solid #000000; border-left: 0.75pt solid #000000; border-bottom: 0.75pt solid #000000; border-right: 0.75pt solid #000000; background-color: #FFFFFF;'>door het ontbreken van een voorbereidingsprocedure en doordat het mogelijk is tegen een reactieve interventie beroep in te stellen, kent het typePlan reactieve aanwijzing alle dossierstatussen met uitzondering van de status 'in voorbereiding'.
-
-</td>
-</tr>
 </tbody>
 </table>
 
-Het publiceren van een reactieve interventie met behulp van TAM-reactieve interventie gaat op dezelfde wijze als de Wro reactieve aanwijzing: met de RO Standaarden 2012. Vooraf kan met de validator van pilot.Ruimtelijkeplannen.nl worden gecontroleerd of het besluit valide is, van belang is de naamgeving conform deze werkafspraak.
+Het publiceren van een reactieve interventie met behulp van TAM-reactieve interventie gaat op dezelfde wijze als de Wro reactieve aanwijzing: met de RO Standaarden 2012. 
+Vooraf kan met de validator van pilot.Ruimtelijkeplannen.nl worden gecontroleerd of het besluit valide is. Van belang is de naamgeving conform deze werkafspraak en het juist gebruik van de planstatus en de dossierstatus. Door het ontbreken van een voorbereidingsprocedure en doordat het mogelijk is tegen een reactieve interventie beroep in te stellen, kent het typePlan reactieve aanwijzing alle dossierstatussen met uitzondering van de status 'in voorbereiding'.
 
-TAM-reactieve interventies worden weergegeven in de viewer Regels op de Kaart (omgevingsloket). Er is geen sturing op de weergave met de RO Standaarden mogelijk, en daarmee ook niet op TAM-reactieve interventies.
+TAM-reactieve interventies worden weergegeven in de <a href='https://omgevingswet.overheid.nl/regels-op-de-kaart/' target='_blank'>viewer Regels op de Kaart</a> van het Omgevingsloket. Er is geen sturing op de weergave met de RO Standaarden mogelijk, en daarmee ook niet op TAM-reactieve interventies.
