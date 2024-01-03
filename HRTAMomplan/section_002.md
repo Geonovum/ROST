@@ -37,7 +37,7 @@ In principe is het mogelijk een omgevingsplan zoveel mogelijk na te bootsen met 
 
 Aangeraden wordt om alleen IMRO-objecten met een directe koppeling met plantekst te gebruiken. Dat zorgt voor een directe relatie tussen juridische regel straks in het omgevingsplan, en het bijbehorende werkingsgebied op de kaart. 
 
-De meeste Wro plansoftware werkt met een <a href='https://ro-standaarden.geonovum.nl/2012/IMRO/1.2/IMRO2012-v1.2.pdf' target='_blank'>IMRO2012</a> bibliotheek waarin standaard de <a href='https://ro-standaarden.geonovum.nl/2012/SVBP/1.3/SVBP2012-v1.3.1.pdf' target='_blank'>SVBP2012</a> is geïmplementeerd. Aangeraden wordt om deze bibliotheek te kopiëren, en in de kopie de wijzigingen aan te brengen waarmee een TAM-omgevingsplan gemaakt gaat worden. Dit omdat er nog enige tijd gewerkt moet kunnen worden aan Wro bestemmingsplannen, en mogelijk tegelijkertijd aan een TAM-omgevingsplan. 
+De meeste Wro plansoftware werkt met een <a href='https://docs.geostandaarden.nl/ro/imro/' target='_blank'>IMRO2012</a> bibliotheek waarin standaard de <a href='https://docs.geostandaarden.nl/ro/svbp/' target='_blank'>SVBP2012</a> is geïmplementeerd. Aangeraden wordt om deze bibliotheek te kopiëren, en in de kopie de wijzigingen aan te brengen waarmee een TAM-omgevingsplan gemaakt gaat worden. Dit omdat er nog enige tijd gewerkt moet kunnen worden aan Wro bestemmingsplannen, en mogelijk tegelijkertijd aan een TAM-omgevingsplan. 
 
 <b><i>Plangebied</i></b>
 
@@ -129,5 +129,5 @@ Voor de validatie moeten in ieder geval de volgende tekst onderdelen aan het pla
 <li>Besluit (IMRO object ‘vaststellingsbesluit’ alleen togestaan en verplicht voor planstatus ‘vastgesteld’).</li>
 </ul>
 
-Van de opbouw van de regeltekst zoals beschreven in hoofdstuk 6 van de <a href='https://ro-standaarden.geonovum.nl/2012/SVBP/1.3/SVBP2012-v1.3.1.pdf' target='_blank'>SVBP2012</a> mag worden afgeweken. 
+Van de opbouw van de regeltekst zoals beschreven in hoofdstuk 6 van de <a href='https://docs.geostandaarden.nl/ro/svbp/' target='_blank'>SVBP2012</a> mag worden afgeweken. 
 
