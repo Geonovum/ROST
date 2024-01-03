@@ -54,6 +54,6 @@ De werkafspraak is samengevat in Tabel 1.
 </tbody>
 </table>
 
-Het publiceren van een Omgevingswet omgevingsverordening met behulp van de TAM-omgevingsverordening gaat op dezelfde wijze als het Wro provinciale verordening: met de RO Standaarden 2012. Vooraf kan met de validator van pilot.Ruimtelijkeplannen.nl worden geoefend en gecontroleerd of het besluit valide is, van belang is de naamgeving conform deze werkafspraak. 
+Het publiceren van een Omgevingswet omgevingsverordening met behulp van de TAM-omgevingsverordening gaat op dezelfde wijze als het Wro provinciale verordening: met de RO Standaarden 2012. Vooraf kan met de validator van pilot.Ruimtelijkeplannen.nl worden geoefend en gecontroleerd of het besluit valide is. Van belang is de naamgeving conform deze werkafspraak en het juist gebruik van de planstatus en de dossierstatus. 
 
-Aanvullend op deze werkafspraak is een <a href='https://docs.geostandaarden.nl/ro/HRTAMomver/' target=_blank'>technische handreiking</a> beschikbaar. In deze handreiking wordt deze werkafspraak nader toegelicht en wordt aangeven op welke wijze de RO Standaarden wel of niet kunnen/moeten worden toegepast. De handreiking is te raadplegen via de [Geonovum website](https://www.geonovum.nl/geo-standaarden/ro-standaarden-ruimtelijke-ordening#Werkafspraken).
+Aanvullend op deze werkafspraak is een <a href='https://docs.geostandaarden.nl/ro/HRTAMomver/' target=_blank'>technische handreiking</a> beschikbaar. In deze handreiking wordt deze werkafspraak nader toegelicht en wordt aangeven op welke wijze de RO Standaarden wel of niet kunnen/moeten worden toegepast. 
