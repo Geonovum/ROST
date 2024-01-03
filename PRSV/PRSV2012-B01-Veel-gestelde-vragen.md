@@ -26,9 +26,7 @@ het opstellen van een digitale structuurvisie.
      ondertekende vaststellingsbesluit in HTML-, XHTML of PDF-formaat worden
      meegenomen. Deze moet niet als bijlage bij de tekst worden opgenomen, maar
      als los bestand met als verplichte naamgeving:  
-     vb_IDN.pdf (of .xhtml of .html). Voor meer informatie zie de STRI2012[^11].
-
-[^11] (https://ro-standaarden.geonovum.nl/2012/STRI/2.0/STRI2012-v2.0.pdf)
+     vb_IDN.pdf (of .xhtml of .html). Voor meer informatie zie de <a href='https://docs.geostandaarden.nl/ro/stri' target='_blank'>STRI2012</a>.
 
 4.  *Hoe ga ik om met herzieningen?*  
 Dit is nader toegelicht in [Bijlage 3](#B03).

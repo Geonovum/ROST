@@ -235,17 +235,12 @@ Tevens moet een verwijzing worden opgenomen naar de gebruikte versie van de
 praktijkrichtlijn. In het geval objectgerichte planteksten (XML) onderdeel zijn
 van de Rijksstructuurvisie, dan wordt ook de verwijzing naar de standaard voor
 planteksten opgenomen.  
-Het attribuut *verwijzingNorm* dient minimaal twee keer te wor­den opgeno­men
+Het attribuut *verwijzingNorm* dient minimaal twee keer te worden opgenomen
 met de verwijzing naar de betreffende versies in het waardeveld: IMRO2012 en
 PRrSV2012 voor rijksstructuurvisies, PRpSV voor provinciale structuurvisies of
 PRgSV voor het gemeentelijke structuurvisies[^9].
 
-[^9]: Dit terwijl de huidige praktijkrichtlijn de toelichting op IMRO2012 bevat
-voor het maken van structuurvisies op alle overheidslagen. IMRO is bij het maken
-van deze praktijkrichtlijn niet aangepast. Hiervoor is een melding opgenomen in
-de meldingen lijst van de RO Standaarden:
-https://www.geonovum.nl/documents/meldingenrospdf,
-melding 4498.
+[^9]: Dit is aangepast in IMRO2012 versie 1.2.1 van 29 november 2023. 
 
 Bij het gebruik van objectgerichte planteksten in dit ruimtelijk plan moet ook
 worden opgenomen: IMROPT2012.

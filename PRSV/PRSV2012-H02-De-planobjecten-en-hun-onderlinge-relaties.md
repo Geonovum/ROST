@@ -379,14 +379,13 @@ drie onderdelen:
     geordend door een legenda per kaart);
 -   de zelfstandige onderdelen van de objectgerichte structuurvisie, geordend in
     een objectenstructuur die dit alles bij elkaar houdt.
-Volgens de Standaard Toegankelijkheid Ruimtelijke Instrumenten [(STRI2012)](https://www.geonovum.nl/geo-standaarden/ro-standaarden-ruimtelijke-ordening/standaard-toegankelijkheid-ruimtelijke)
+Volgens de <a href='https://docs.geostandaarden.nl/ro/stri' target='_blank'>Standaard Toegankelijkheid Ruimtelijke Instrumenten (STRI2012)</a>
 dient de geometrie en de objectenstructuur samen in één bestand in gml-formaat
 ter beschikking te worden gesteld. Voor het beschikbaar stellen van de teksten
 biedt de STRI2012 de volgende twee opties toegestaan:
 
 *Mogelijkheid 1: xml-formaat*  
-In deze optie wordt de tekst beschikbaar gesteld conform het Informatiemodel
-Ruimtelijke Ordening voor Planteksten [(IMROPT2012)](https://www.geonovum.nl/geo-standaarden/ro-standaarden-ruimtelijke-ordening/praktijkrichtlijn-planteksten-prpt2012). Dit betekent dat in
+In deze optie wordt de tekst beschikbaar gesteld conform het <li><a href='https://docs.geostandaarden.nl/ro/imropt/' target='_blank'>Informatiemodel Ruimtelijke Ordening Planteksten 2012 (IMROPT2012)</a>. Dit betekent dat in
 ieder geval de regels, de toelichting en/of het beleids-/besluitdocument
 beschikbaar worden gesteld in XML formaat. Bijlagen kunnen ofwel in dit zelfde
 XML formaat beschikbaar worden gesteld, ofwel in separate bronbestanden in

@@ -13,8 +13,8 @@ ruimtelijke instrument ‘Structuurvisie’ beschreven. Hiermee wordt zowel de
 gemeentelijke, provinciale als Rijksstructuurvisie bedoeld.  
 Deze praktijkrichtlijn is net als de andere praktijkrichtlijnen onder de RO
 Standaarden een toelichting op de verplicht te gebruiken normen Informatiemodel
-Ruimtelijke Ordening [(IMRO2012)](https://docs.geostandaarden.nl/ro/imro/) en Standaard Toegankelijkheid Ruimtelijke
-Instrumenten [(STRI2012)](https://docs.geostandaarden.nl/ro/stri/).
+Ruimtelijke Ordening <li><a href='https://docs.geostandaarden.nl/ro/imro' target='_blank'>IMRO2012</a> en Standaard Toegankelijkheid Ruimtelijke
+Instrumenten <a href='https://docs.geostandaarden.nl/ro/svbp' target='_blank'>SVBP2012</a>.
 
 Het verschil met de andere praktijkrichtlijnen is dat deze praktijkrichtlijn de
 maker van de structuurvisie meer bij de hand neemt daar waar de andere
@@ -24,10 +24,10 @@ werken met een structuurvisie. Deze werkwijze kan zorgen voor een verhoogde
 leesbaarheid en bruikbaarheid van de structuurvisie.
 
 *Wettelijk kader*  
-Sinds 1 januari 2010 kent de Wet ruimtelijke ordening (Wro) voor structuurvisies
-de digitaliseringsverplichting. In het Besluit ruimtelijke ordening [(Bro)](http://wetten.overheid.nl/BWBR0023798)
-zijn de uitgangspunten van digitalisering nader uitgewerkt. Via de Regeling
-standaarden ruimtelijke ordening [(Rsro)](http://wetten.overheid.nl/BWBR0031829) wordt bepaald dat bij de
+Sinds 1 januari 2010 kent de <a href='http://wetten.overheid.nl/BWBR0020449' target='_blank'>Wet ruimtelijke ordening</a> (Wro) voor structuurvisies
+de digitaliseringsverplichting. In het <a href='http://wetten.overheid.nl/BWBR0023798' target='_blank'>Besluit ruimtelijke ordening</a> (Bro)
+zijn de uitgangspunten van digitalisering nader uitgewerkt. Via de <a href='http://wetten.overheid.nl/BWBR0031829' target='_blank'>Regeling
+standaarden ruimtelijke ordening</a> wordt bepaald dat bij de
 digitalisering van ruimtelijke instrumenten zoals de structuurvisie gebruik moet
 worden gemaakt van IMRO2012. Dit informatiemodel is de standaard voor de
 beschrijving en codering van ruimtelijke instrumenten.
