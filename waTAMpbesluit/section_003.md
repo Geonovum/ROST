@@ -64,7 +64,7 @@ De werkafspraak is samengevat in Tabel 1.
 </tbody>
 </table>
 
-Het publiceren van een Omgevingswet-projectbesluit met behulp van TAM-projectbesluit gaat op dezelfde wijze als het Wro inpassingsplan: met de RO Standaarden 2012. Vooraf kan met de validator van Ruimtelijkeplannen.nl worden gecontroleerd of het besluit valide is, van belang is de naamgeving conform deze werkafspraak.
+Het publiceren van een Omgevingswet-projectbesluit met behulp van TAM-projectbesluit gaat op dezelfde wijze als het Wro inpassingsplan: met de RO Standaarden 2012. Vooraf kan met de validator van Ruimtelijkeplannen.nl worden gecontroleerd of het besluit valide is. Van belang is de naamgeving conform deze werkafspraak en het juist gebruik van de planstatus en de dossierstatus.
 
 Aanvullend op deze werkafspraak is de <a href='https://docs.geostandaarden.nl/ro/HRTAMpbesluit/' target='_blank'>technische handreiking TAM projectbesluit</a> beschikbaar. In deze handreiking wordt deze werkafspraak nader toegelicht en wordt aangeven op welke wijze de RO Standaarden wel of niet kunnen/moeten worden toegepast. 
 
