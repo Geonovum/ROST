@@ -40,6 +40,20 @@ De werkafspraak is samengevat in Tabel 1.
 
 </td>
 </tr>
+<tr><td align='left' style='border-top: 0.75pt solid #000000; border-left: 0.75pt solid #000000; border-bottom: 0.75pt solid #000000; border-right: 0.75pt solid #000000; background-color: #FFFFFF;'>planstatus
+
+</td>
+<td align='left' style='border-top: 0.75pt solid #000000; border-left: 0.75pt solid #000000; border-bottom: 0.75pt solid #000000; border-right: 0.75pt solid #000000; background-color: #FFFFFF;'>vastgesteld
+
+</td>
+</tr>
+<tr><td align='left' style='border-top: 0.75pt solid #000000; border-left: 0.75pt solid #000000; border-bottom: 0.75pt solid #000000; border-right: 0.75pt solid #000000; background-color: #FFFFFF;'>dossierstatus (in manifest)
+
+</td>
+<td align='left' style='border-top: 0.75pt solid #000000; border-left: 0.75pt solid #000000; border-bottom: 0.75pt solid #000000; border-right: 0.75pt solid #000000; background-color: #FFFFFF;'>door het ontbreken van een voorbereidingsprocedure en doordat het mogelijk is tegen een reactieve interventie beroep in te stellen, kent het typePlan reactieve aanwijzing alle dossierstatussen met uitzondering van de status 'in voorbereiding'.
+
+</td>
+</tr>
 </tbody>
 </table>
 
