@@ -17,11 +17,11 @@ Met de werkafspraak TAM-projectbesluit wordt provincies en het Rijk de mogelijkh
 
 De onderdelen van de TAM-projectbesluit voor provincies en het Rijk zijn: 
 - de <a href='https://docs.geostandaarden.nl/ro/waTAMpbesluit/' target='_blank'>werkafspraak TAM-projectbesluit</a>;
-- validatieregels, geïmplementeerd in de <a href='https://www.ruimtelijkeplannen.nl/validator/' target='_blank'>validator van Ruimtelijkeplannen.nl</a>;
+- validatieregels, geïmplementeerd in de <a href='https://www.ruimtelijkeplannen.nl/validateplan' target='_blank'>validator van Ruimtelijkeplannen.nl</a>;
 - de verwerking door de overbruggingsfunctie van het Informatiehuis Ruimte naar het Digitaal Stelsel Omgevingswet;
 - deze technische handreiking.
 
-Deze handreiking is een aanvulling op de werkafspraak, ter ondersteuning van de provincies en het rijk voor de technische toepassing van de werkafspraak in de praktijk. In het <a href='https://geonovum.github.io/TPOD/TPOD%20Projectbesluit/TPOD_Projectbesluit_v3.0.0.pdf' target='_blank'>Toepassingsprofiel (TPOD) projectbesluit</a> zijn de inhoudelijke aspecten van de projectbesluit beschreven. 
+Deze handreiking is een aanvulling op de werkafspraak, ter ondersteuning van de provincies en het rijk voor de technische toepassing van de werkafspraak in de praktijk. In het <a href='https://docs.geostandaarden.nl/tpod/def-st-TPOD-PB-20231215/' target='_blank'>Toepassingsprofiel (TPOD) projectbesluit</a> zijn de inhoudelijke aspecten van de projectbesluit beschreven. 
 
 
 ### Doel van de handreiking
