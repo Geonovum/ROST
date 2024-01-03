@@ -24,7 +24,7 @@ In het geval een provincie of het Rijk geen instructie kan opstellen en publicer
 In het geval een provincie of het Rijk na inwerkingtreding van de Omgevingswet besluit tot een instructie bij een lopende bestemmingsplanprocedure, dan is dit geen instructie conform de Omgevingswet maar een aanwijzigingsbesluit
  conform de Wro. De Wro moet worden toegepast inclusief het gebruik van de RO Standaarden en Ruimtelijkeplannen.nl. Bij het gebruik van het aanwijzigingsbesluit wordt <i>géén</i> gebruik gebruik gemaakt van deze werkafspraak: in de naam van het besluit wordt daarom <i>niet</i> 'TAM-instructie' opgenomen. Meer informatie over het gebruik van het aanwijzigingsbesluit is opgenomen in paragraaf 5.2.1 van de <a href='https://docs.geostandaarden.nl/ro/gb2012/' target=_blank'>Praktijkrichtlijn Gebiedsgerichte Besluiten (PRGB2012)</a>.  
 
-Deze werkafspraak gaat niet in op de inhoud van het omgevingsdocument instructie. Voor de juridische context van het omgevingsdocument verwijzen we naar de Omgevingswet- en onderliggende regelgeving. In het <a href='https://geonovum.github.io/TPOD/TPOD%20Instructie/TPOD_instructie_v2.0.1.pdf' target='_blank'>Toepassingsprofiel (TPOD) instructie</a> zijn de inhoudelijke aspecten van de instructie beschreven. 
+Deze werkafspraak gaat niet in op de inhoud van het omgevingsdocument instructie. Voor de juridische context van het omgevingsdocument verwijzen we naar de Omgevingswet- en onderliggende regelgeving. In het <a href='https://docs.geostandaarden.nl/tpod/def-st-TPOD-IN-20231215/' target='_blank'>Toepassingsprofiel (TPOD) instructie</a> zijn de inhoudelijke aspecten van de instructie beschreven. 
 
 
 
