@@ -39,7 +39,6 @@ Om de instructie gemaakt met behulp van TAM te kunnen onderscheiden van het Wro 
 </tbody>
 </table>
 
-Het publiceren van een omgevingsdocument instructie als TAM-instructie gaat op dezelfde wijze als het Wro aanwijzingsbesluit: met de RO Standaarden 2012. 
-Tot inwerkingstreden van de Omgevingswet kan geoefend worden met behulp van de pilot omgeving van Ruimtelijkeplannen.nl, inclusief <a href='https://pilot.ruimtelijkeplannen.nl/validateplan' target='_blank'>validator</a>. Vanaf inwerkingstreden van de Omgevingswet gebruikt u voor de TAM-instructie het vanaf dan oude Wro beschikbaarstellingsspoor en de productieomgeving van Ruimtelijkeplannen.nl. 
+Het publiceren van een omgevingsdocument instructie als TAM-instructie gaat op dezelfde wijze als het Wro aanwijzingsbesluit: met de RO Standaarden 2012. Vooraf kan met de <a href='https://pilot.ruimtelijkeplannen.nl/validateplan' target='_blank'>validator</a>. van pilot.Ruimtelijkeplannen.nl worden gecontroleerd of het besluit valide is. Van belang is de naamgeving conform deze werkafspraak en het juist gebruik van de planstatus en de dossierstatus. 
 
 
