@@ -13,8 +13,8 @@ ruimtelijke instrument ‘Structuurvisie’ beschreven. Hiermee wordt zowel de
 gemeentelijke, provinciale als Rijksstructuurvisie bedoeld.  
 Deze praktijkrichtlijn is net als de andere praktijkrichtlijnen onder de RO
 Standaarden een toelichting op de verplicht te gebruiken normen Informatiemodel
-Ruimtelijke Ordening [(IMRO2012)](https://www.geonovum.nl/geo-standaarden/ro-standaarden-ruimtelijke-ordening/informatiemodel-ruimtelijke-ordening-imro2012) en Standaard Toegankelijkheid Ruimtelijke
-Instrumenten [(STRI2012)](https://www.geonovum.nl/geo-standaarden/ro-standaarden-ruimtelijke-ordening/standaard-toegankelijkheid-ruimtelijke).
+Ruimtelijke Ordening [(IMRO2012)](https://docs.geostandaarden.nl/ro/imro/) en Standaard Toegankelijkheid Ruimtelijke
+Instrumenten [(STRI2012)](https://docs.geostandaarden.nl/ro/stri/).
 
 Het verschil met de andere praktijkrichtlijnen is dat deze praktijkrichtlijn de
 maker van de structuurvisie meer bij de hand neemt daar waar de andere
