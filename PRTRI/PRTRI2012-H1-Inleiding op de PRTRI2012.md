@@ -8,7 +8,8 @@ onderliggende ministeriële regelingen digitaal vervaardigd en op elektronische
 wijze beschikbaar gesteld moeten worden. Daarnaast is ook in de Wet algemene
 bepalingen omgevingsrecht (Wabo) een verplichte elektronische
 beschikbaarstelling opgenomen voor sommige gevallen. Om dit
-mogelijk te maken zijn de RO standaarden ontwikkeld en vastgelegd met de met de [ministeriële Regeling standaarden ruimtelijke ordening](http://wetten.overheid.nl/BWBR0031829). De Standaard
+mogelijk te maken zijn de RO standaarden ontwikkeld en vastgelegd met de met de <a href='http://wetten.overheid.nl/BWBR0031829' target='_blank'>Regeling
+standaarden ruimtelijke ordening</a>. De Standaard
 Toegankelijkheid Ruimtelijke Instrumenten (STRI2012) is één van de standaarden
 uit dit samenhangende pakket. Het voorliggende document vormt een toelichting op
 de STRI2012.
