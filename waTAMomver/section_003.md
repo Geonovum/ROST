@@ -44,6 +44,13 @@ De werkafspraak is samengevat in Tabel 1.
 
 </td>
 </tr>
+<tr><td align='left' style='border-top: 0.75pt solid #000000; border-left: 0.75pt solid #000000; border-bottom: 0.75pt solid #000000; border-right: 0.75pt solid #000000; background-color: #FFFFFF;'>dossierstatus (in manifest)
+
+</td>
+<td align='left' style='border-top: 0.75pt solid #000000; border-left: 0.75pt solid #000000; border-bottom: 0.75pt solid #000000; border-right: 0.75pt solid #000000; background-color: #FFFFFF;'> voorafgaand aan de vaststelling van een omgevingsverordening dient een voorbereidingsprocedure doorlopen te worden. Er is geen rechtstreeks beroep mogelijk tegen de vaststelling van een omgevingsverordening waardoor deze direct na het vaststellen ervan onherroepelijk in werking treed. Om deze reden kent het typePlan provinciale verordening uitsluitend de dossierstatussen 'in voorbereiding', 'geheel onherroepelijk in werking', 'vervallen' of 'geconsolideerd'.
+
+</td>
+</tr>
 </tbody>
 </table>
 
