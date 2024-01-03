@@ -1,6 +1,6 @@
 ## Projectbesluit
 
-De onderdelen van het projectbesluit zoals beschreven in het <a href='https://geonovum.github.io/TPOD/TPOD%20Projectbesluit/TPOD_Projectbesluit_v3.0.0.pdf' target='_blank'>Toepassingsprofiel (TPOD) projectbesluit</a> zijn:
+De onderdelen van het projectbesluit zoals beschreven in het <a href='https://docs.geostandaarden.nl/tpod/def-st-TPOD-PB-20231215/' target='_blank'>Toepassingsprofiel (TPOD) projectbesluit</a> zijn:
 - besluitdeel;
 - het vrijetekstdeel van het projectbesluit;
 - de Regeling van het projectbesluit. 
@@ -44,7 +44,7 @@ Voor het object ‘omgevingsnorm’ uit STOP/TPOD kan gebruik worden gemaakt van
 
 In principe is het mogelijk een projectbesluit zoveel mogelijk na te bootsen met behulp van IMRO2012. Het is uiteraard aan de provincie, dan wel het Rijk, om daar inhoudelijk vorm aan te geven. We doen hier een aantal suggesties hoe een projectbesluit gemaakt zou kunnen worden met behulp van de inpassingsplan-objecten uit het IMRO. We willen hier uitdrukkelijk aangeven dat het om voorbeelden gaat en dat het eenieder vrij staat om binnen de mogelijkheden van het IMRO hier op eigen wijze invulling aan te geven.
 Aangeraden wordt om alleen IMRO-objecten met een directe koppeling met plantekst te gebruiken. Dat zorgt voor een directe relatie tussen juridische regel straks in het projectbesluit, en het bijbehorende werkingsgebied op de kaart.
-De meeste Wro plansoftware werkt met een <a href='https://ro-standaarden.geonovum.nl/2012/IMRO/1.2/IMRO2012-v1.2.pdf' target='_blank'>IMRO2012</a> bibliotheek waarin standaard de <a href='https://ro-standaarden.geonovum.nl/2012/SVBP/1.3/SVBP2012-v1.3.1.pdf' target='_blank'>SVBP2012</a> is geïmplementeerd. Aangeraden wordt om deze bibliotheek te kopiëren, en in de kopie de wijzigingen aan te brengen waarmee een TAM-projectbesluit gemaakt gaat worden. Dit omdat er ook nog enige tijd gewerkt moet kunnen worden aan Wro bestemmingsplannen en inpassingsplannen, en mogelijk tegelijkertijd aan een TAM-projectbesluit.
+De meeste Wro plansoftware werkt met een <a href='https://docs.geostandaarden.nl/ro/imro/' target='_blank'>IMRO2012</a> bibliotheek waarin standaard de <a href='https://docs.geostandaarden.nl/ro/svbp/' target='_blank'>SVBP2012</a> is geïmplementeerd. Aangeraden wordt om deze bibliotheek te kopiëren, en in de kopie de wijzigingen aan te brengen waarmee een TAM-projectbesluit gemaakt gaat worden. Dit omdat er ook nog enige tijd gewerkt moet kunnen worden aan Wro bestemmingsplannen en inpassingsplannen, en mogelijk tegelijkertijd aan een TAM-projectbesluit.
 
 <b><i>Plangebied</i></b>
 
@@ -119,7 +119,7 @@ Voor de validatie moeten in ieder geval de volgende tekst onderdelen aan het pla
 
 </ul>
 
-Van de opbouw van de regeltekst zoals beschreven in hoofdstuk 6 van de <a href='https://ro-standaarden.geonovum.nl/2012/SVBP/1.3/SVBP2012-v1.3.1.pdf' target='_blank'>SVBP2012</a> mag worden afgeweken.
+Van de opbouw van de regeltekst zoals beschreven in hoofdstuk 6 van de <a href='https://docs.geostandaarden.nl/ro/svbp/' target='_blank'>SVBP2012</a> mag worden afgeweken.
 
 
 #### Tijdelijk regelingdeel
