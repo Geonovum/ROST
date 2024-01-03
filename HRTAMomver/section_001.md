@@ -14,7 +14,7 @@ De onderdelen van de TAM-omgevingsverordening voor provincies zijn:
 - deze technische handreiking.
 
 Deze  handreiking is een aanvulling op de werkafspraak, ter ondersteuning van de provincies voor de technische toepassing van de werkafspraak in de praktijk. 
-In het <a href='https://geonovum.github.io/TPOD/TPOD%20Omgevingsverordening/TPOD_omgevingsverordening_v2.0.1.pdf' target='_blank'>Toepassingsprofiel (TPOD) omgevingsverordening</a> zijn de inhoudelijke aspecten van de omgevingsverordening beschreven. 
+In het <a href='https://docs.geostandaarden.nl/tpod/def-st-TPOD-OV-20231215/' target='_blank'>Toepassingsprofiel (TPOD) omgevingsverordening</a> zijn de inhoudelijke aspecten van de omgevingsverordening beschreven. 
 
 ### Doel van de handreiking
 

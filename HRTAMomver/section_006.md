@@ -39,7 +39,7 @@ De annotaties kunnen globaler gehouden worden, bijvoorbeeld gekoppeld aan de art
 In het voorbeeld placeholder Noord-Brabant is dit toegepast in de afdeling over het stiltegebied.
 
 <b>Structuur conform inhoudelijke artikelen</b> 
-Volg hiervoor de werkwijze zoals deze is beschreven in de <a href='https://geonovum.github.io/TPOD/TPOD%20Omgevingsverordening/TPOD_omgevingsverordening_v2.0.1.pdf' target='_blank'>Toepassingsprofiel (TPOD) omgevingsverordening</a>. 
+Volg hiervoor de werkwijze zoals deze is beschreven in de <a href='https://docs.geostandaarden.nl/tpod/def-st-TPOD-OV-20231215/' target='_blank'>Toepassingsprofiel (TPOD) omgevingsverordening</a>. 
 
 ### Functionele structuur 
 
