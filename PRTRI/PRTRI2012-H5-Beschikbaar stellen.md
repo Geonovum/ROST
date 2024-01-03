@@ -447,4 +447,3 @@ toegepast.
 
 ![](media/17305306831adf5a89cc74909b5de833.png)  
 **Figuur 3 Ruimtelijke instrumenten met mogelijke en dossierstatussen**
-

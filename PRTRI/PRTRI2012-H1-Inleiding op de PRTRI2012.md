@@ -2,7 +2,7 @@
 **In dit inleidende hoofdstuk is het kader gegeven waarbinnen de Standaard
 Toegankelijkheid Ruimtelijk Instrumenten gebruikt wordt.**
 
-In de Wet ruimtelijke ordening ([Wro](http://wetten.overheid.nl/BWBR0020449)) en het Besluit ruimtelijke ordening ([Bro](http://wetten.overheid.nl/BWBR0023798)) is vastgelegd dat planologische visies,
+In de <a href='http://wetten.overheid.nl/BWBR0020449' target='_blank'>Wet ruimtelijke ordening</a> (Wro) en het <a href='http://wetten.overheid.nl/BWBR0023798' target='_blank'>Besluit ruimtelijke ordening</a> (Bro) is vastgelegd dat planologische visies,
 plannen, besluiten, verordeningen, algemene maatregelen van bestuur en
 onderliggende ministeriële regelingen digitaal vervaardigd en op elektronische
 wijze beschikbaar gesteld moeten worden. Daarnaast is ook in de Wet algemene
