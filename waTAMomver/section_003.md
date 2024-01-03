@@ -44,16 +44,10 @@ De werkafspraak is samengevat in Tabel 1.
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.75pt solid #000000; border-left: 0.75pt solid #000000; border-bottom: 0.75pt solid #000000; border-right: 0.75pt solid #000000; background-color: #FFFFFF;'>dossierstatus (in manifest)
-
-</td>
-<td align='left' style='border-top: 0.75pt solid #000000; border-left: 0.75pt solid #000000; border-bottom: 0.75pt solid #000000; border-right: 0.75pt solid #000000; background-color: #FFFFFF;'> voorafgaand aan de vaststelling van een omgevingsverordening dient een voorbereidingsprocedure doorlopen te worden. Er is geen rechtstreeks beroep mogelijk tegen de vaststelling van een omgevingsverordening waardoor deze direct na het vaststellen ervan onherroepelijk in werking treed. Om deze reden kent het typePlan provinciale verordening uitsluitend de dossierstatussen 'in voorbereiding', 'geheel onherroepelijk in werking', 'vervallen' of 'geconsolideerd'.
-
-</td>
-</tr>
 </tbody>
 </table>
 
 Het publiceren van een Omgevingswet omgevingsverordening met behulp van de TAM-omgevingsverordening gaat op dezelfde wijze als het Wro provinciale verordening: met de RO Standaarden 2012. Vooraf kan met de validator van pilot.Ruimtelijkeplannen.nl worden gecontroleerd of het besluit valide is. Van belang is de naamgeving conform deze werkafspraak en het juist gebruik van de planstatus en de dossierstatus. 
+Voorafgaand aan de vaststelling van een omgevingsverordening dient een voorbereidingsprocedure doorlopen te worden. Er is geen rechtstreeks beroep mogelijk tegen de vaststelling van een omgevingsverordening waardoor deze direct na het vaststellen ervan onherroepelijk in werking treed. Het typePlan provinciale verordening kent uitsluitend de dossierstatussen 'in voorbereiding', 'geheel onherroepelijk in werking', 'vervallen' of 'geconsolideerd'.
 
 Aanvullend op deze werkafspraak is een <a href='https://docs.geostandaarden.nl/ro/HRTAMomver/' target=_blank'>technische handreiking</a> beschikbaar. In deze handreiking wordt deze werkafspraak nader toegelicht en wordt aangeven op welke wijze de RO Standaarden wel of niet kunnen/moeten worden toegepast. 
