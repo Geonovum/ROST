@@ -24,7 +24,7 @@ De normatieve onderdelen van de RO Standaarden zijn te raadplegen via de [Geonov
 | [Handreiking Data op Orde](https://geonovum.github.io/ROST/HRDoO/)                                                             |  
 | [Praktijkrichtlijn Analoge Bestemmingsplan Kaart](https://geonovum.github.io/ROST/PRABPK/)                                     |  
 | [Praktijkrichtlijn Algemene Maatregel van Bestuur](https://geonovum.github.io/ROST/PRAMvB/)                                    |  
-| [Praktijkrichtlijn Bestemmingsplannen](https://geonovum.github.io/ROST/PRAMvB/)                                                |  
+| [Praktijkrichtlijn Bestemmingsplannen](https://geonovum.github.io/ROST/PRBP/)                                                |  
 | [Praktijkrichtlijn Gebiedsgerichte Besluiten](https://geonovum.github.io/ROST/PRGB/)                                           |  
 | [Praktijkrichtlijn voor Planteksten](https://geonovum.github.io/ROST/PRPT/)                                                    |  
 | [Praktijkrichtlijn Provinciale Verordening](https://geonovum.github.io/ROST/PRPV/)                                             |  
