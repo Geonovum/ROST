@@ -7,35 +7,44 @@ strekking van de standaard.**
 
 ## Aanleiding
 
-In de Wet ruimtelijke ordening (Wro) en het Besluit ruimtelijke ordening (Bro)
+In <a href='http://wetten.overheid.nl/BWBR0020449' target='_blank'>Wet ruimtelijke ordening</a> (Wro) en het <a href='http://wetten.overheid.nl/BWBR0023798' target='_blank'>Besluit ruimtelijke ordening</a> (Bro)
 is vastgelegd dat planologische visies, plannen, besluiten, verordeningen en
 algemene maatregelen van bestuur en onderliggende ministeriële regelingen
 digitaal vervaardigd en op elektronische wijze beschikbaar gesteld moeten
-worden. Om dit mogelijk te maken zijn de RO standaarden ontwikkeld. Deze
-verplichte RO Standaarden zijn:  
--   Informatiemodel Ruimtelijke Ordening (IMRO2012);  
--   Standaard voor Toegankelijkheid Ruimtelijke Instrumenten (STRI2012);  
--   Standaard Vergelijkbare Bestemmingsplannen (SVBP2012).  
--   Informatiemodel Ruimtelijke Ordening voor Planteksten(IMROPT2012).
+worden. Om dit mogelijk te maken zijn de RO standaarden ontwikkeld. Deze verplichte RO Standaarden, vastgelegd met de <a href='http://wetten.overheid.nl/BWBR0031829' target='_blank'>Regeling
+standaarden ruimtelijke ordening</a>, zijn:  
 
-De standaard voor planteksten (IMROPT2012) is onder voorwaarde verplicht.
-Toepassing van IMROPT2012 is verplicht wanneer de bronhouder ervoor kiest de
-planteksten in objectgerichte vorm (XML) beschikbaar te stellen.
+<ul><li><a href='https://docs.geostandaarden.nl/ro/imro' target='_blank'> Informatiemodel Ruimtelijke Ordening Planteksten (IMRO2012)</a> 
+<li><a href='https://docs.geostandaarden.nl/ro/stri' target='_blank'>Standaard Toegankelijkheid Ruimtelijke Instrumenten (STRI2012)</a> 
+<li><a href='https://docs.geostandaarden.nl/ro/svbp' target='_blank'>Standaard Vergelijkbare Bestemmingsplannen (SVBP2012)</a>
+<li><a href='https://docs.geostandaarden.nl/ro/imropt' target='_blank'> Informatiemodel Ruimtelijke Ordening Planteksten (IMROPT2012)</a> .</li>
+</ul>
+<br/>
+
 IMRO2012 is normstellend voor de codering van ruimtelijke instrumenten. IMRO2012
 is van belang voor applicatiebouwers en als referentie voor andere IMRO2012
 gerelateerde documenten. IMRO2012 wordt beschreven zonder in te gaan op de
 praktische toepassing van het model voor het coderen van digitale ruimtelijke
 instrumenten. Alle voor dit toepassingsdoel benodigde informatie is opgenomen in
 toelichtingen, de zogenoemde praktijkrichtlijnen:  
--   Praktijkrichtlijn Bestemmingsplannen (PRBP2012);  
--   Praktijkrichtlijn Structuurvisies (PRSV2012);  
--   Praktijkrichtlijn Gebiedsgerichte Besluiten (PRGB2012);  
--   Praktijkrichtlijn Provinciale Verordening (PRPV2012);  
--   Praktijkrichtlijn Algemene Maatregel van Bestuur (PRAMvB2012);  
--   Praktijkrichtlijn voor Planteksten (PRPT2012).
 
-De STRI2012 is ook in praktijkrichtlijn nader toegelicht:   
--   Praktijkrichtlijn Toegankelijkheid Ruimtelijke Instrumenten (PRTRI2012).
+<ul><li><a href='https://docs.geostandaarden.nl/ro/bp2012/' target='_blank'>Praktijkrichtlijn Bestemmingsplannen (PRBP2012)</a>;</li>
+<ul><a href='https://docs.geostandaarden.nl/ro/abpk2012/' target='_blank'>Praktijkrichtlijn Analoge Bestemmingsplan Kaart (PRABPK2012)</a>;</li>
+<li><a href='https://docs.geostandaarden.nl/ro/sv2012/' target='_blank'>Praktijkrichtlijn Structuurvisies (PRSV2012)</a>;</li>
+<li><a href='https://docs.geostandaarden.nl/ro/gb2012/' target='_blank'>Praktijkrichtlijn Gebiedsgerichte Besluiten (PRGB2012)</a>;</li>
+<li><a href='https://docs.geostandaarden.nl/ro/pv2012/' target='_blank'>Praktijkrichtlijn Provinciale Verordening (PRPV2012)</a>;</li>
+<li><a href='https://docs.geostandaarden.nl/ro/amvb2012/' target='_blank'>Praktijkrichtlijn Algemene Maatregel van Bestuur (PRAMvB2012)</a>;</li>
+</ul><br/>
+
+De STRI2012 is ook in praktijkrichtlijn nader toegelicht:
+<ul><a href='https://docs.geostandaarden.nl/ro/tri2012' target='_blank'>Praktijkrichtlijn Toegankelijkheid Ruimtelijke Instrumenten (PRTRI2012)</a>.
+</ul><br/>
+
+De standaard voor planteksten (IMROPT2012) is onder voorwaarde verplicht.
+Toepassing van IMROPT2012 is verplicht wanneer de bronhouder ervoor kiest de
+planteksten in objectgerichte vorm (XML) beschikbaar te stellen. Dit is nader toegelicht in de:  
+<ul><a href='https://docs.geostandaarden.nl/ro/pt2012/' target='_blank'>Praktijkrichtlijn voor Planteksten (PRPT2012)</a>.</li>
+</ul><br/>
 
 Dit document betreft de Praktijkrichtlijn Algemene Maatregel van
 Bestuur (PRAMvB2012). Als uitgangspunt voor deze praktijkrichtlijn worden alle
@@ -92,10 +101,10 @@ instrumenten. Dit zijn de RO standaarden 2012.
 In de Rsro is bepaald dat bij de digitalisering van ruimtelijke instrumenten
 gebruik moet worden gemaakt van IMRO2012. Dit informatiemodel is de standaard
 voor de beschrijving en codering van ruimtelijke instrumenten. IMRO2012 is
-gebaseerd op het Basis­model Geo-Informatie (NEN3610: 2011, en herziening 2022). Dit Basismodel
+gebaseerd op het Basismodel Geo-Informatie (NEN3610: 2011, en herziening 2022). Dit Basismodel
 kent een aantal objectklassen en attributen waarmee aan het aardoppervlak
-gerelateerde ruimtelijke objecten kunnen worden ge­codeerd. IMRO2012 gebruikt
-slechts één van deze objectklassen, namelijk PlanologischGe­bied.
+gerelateerde ruimtelijke objecten kunnen worden gecodeerd. IMRO2012 gebruikt
+slechts één van deze objectklassen, namelijk PlanologischGebied.
 Met IMRO wordt de inhoud (representatie van de werkelijkheid) digitaal
 vastgelegd. De gebruiker van het bestand bouwt zelf de door hem gewenste
 verbeelding op. Deze verbeelding kan dus een andere presentatie zijn van
@@ -150,8 +159,8 @@ regeling is dit deze Praktijkrichtlijn Algemene Maatregel van Bestuur
 De amvb is een instrument waarmee door de minister van BZK of door de minister
 verantwoordelijk voor het desbetreffende beleidsterrein in overeenstemming met
 de minister van BZK regels kunnen worden gegeven omtrent de inhoud van
-bestemmingsplannen en provin­ciale inpassingsplannen, daaraan voorafgaande
-projectbesluiten en van beheersverordenin­gen, al dan niet voor een daarbij
+bestemmingsplannen en provinciale inpassingsplannen, daaraan voorafgaande
+projectbesluiten en van beheersverordeningen, al dan niet voor een daarbij
 aangegeven gedeelte van het land.  
 
 **de ministeriele regeling**  

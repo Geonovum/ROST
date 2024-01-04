@@ -89,7 +89,7 @@ Hiervoor kan ook een geconsolideerd besluit gemaakt worden. Het is aan de
 bronhouder te bepalen welke ruimtelijke plannen in de versie “geconsolideerde”
 worden geïntegreerd.
 
-Om de raadpleger van [Ruimtelijkeplannen.nl](https://www.ruimtelijkeplannen.nl/)) meer duidelijkheid te kunnen bieden
+Om de raadpleger van <a href='https://www.ruimtelijkeplannen.nl/' target='_blank'>Ruimtelijkeplannen.nl</a> meer duidelijkheid te kunnen bieden
 over de exacte status en werkingssfeer van de besluiten en het actuele
 planologische regime ter plaatse kan het gebruik van een versie “geconsolideerd”
 de oplossing zijn. Op die manier is in één oogopslag duidelijk wat de juridische
