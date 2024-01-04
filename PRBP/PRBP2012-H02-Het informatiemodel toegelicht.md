@@ -78,7 +78,7 @@ Hieronder wordt verder ingegaan op de onderscheiden objecten.
 
 Voor een verdere beschrijving van de specifieke mogelijkheden die zijn
 toegestaan om nadere invulling te geven aan de verschillende objecten wordt
-verwezen naar de [Standaard Vergelijkbare Bestemmingsplannen (SVBP2012)](https://www.geonovum.nl/geo-standaarden/ro-standaarden-ruimtelijke-ordening).
+verwezen naar de <a href='https://docs.geostandaarden.nl/ro/svbp' target='_blank'>Standaard Vergelijkbare Bestemmingsplannen (SVBP2012)</a>.
 
 ## Gemeente- en provinciegrensoverschrijdende bestemmingsplannen
 
@@ -116,8 +116,8 @@ raadpleegomgeving.
 
 In [Hoofdstuk 3](#H03) van deze praktijkrichtlijn worden de attributen voor planteksten
 benoemd. Voor toelichting op het gebruik van de standaard voor planteksten
-(IMROPT2012) wordt verwezen naar de toelichting [Praktijkrichtlijn voor
-Planteksten (PRPT2012)](https://www.geonovum.nl/geo-standaarden/ro-standaarden-ruimtelijke-ordening).
+wordt verwezen naar de toelichting in de <a href='https://docs.geostandaarden.nl/ro/pt2012' target='_blank'>Praktijkrichtlijn voor
+Planteksten (PRPT2012)</a>.
 
 ## Digitaal vs. analoog
 
@@ -136,8 +136,8 @@ analoge bestemmingsplankaart worden de planregels en plantoelichting ook in
 analoge vorm opgeleverd. Van het bestemmingsplan bestaan dus 2 productvormen:
 digitaal en analoog. Voor de wijze waarop de analoge bestemmingsplankaart wordt
 opgesteld, is binnen de RO Standaarden 2012 een aparte, facultatief te
-gebruiken, richtlijn opgesteld: de [Praktijkrichtlijn Analoge Bestemmingsplan
-Kaart (PRABPK2012)](https://www.geonovum.nl/geo-standaarden/ro-standaarden-ruimtelijke-ordening).
+gebruiken; de <a href='https://docs.geostandaarden.nl/ro/abpk2012' target='_blank'>Praktijkrichtlijn Analoge Bestemmingsplan
+Kaart (PRABPK2012)</a>.
 
 ## Metadata
 

@@ -84,7 +84,7 @@ lengte 4 posities bedraagt. Voor het Rijk wordt het nummer "0000" gebruikt.
 In het waardeveld van het attribuut *naam* dient de volledig naam van het
 bestemmingsplan te worden opgenomen zoals deze in de Slotregel in de planregels
 is opgenomen. De volledige naam is gelijk aan de aanhaaltitel in de planregels,
-conform SVBP2012.
+conform <a href='https://docs.geostandaarden.nl/ro/svbp' target='_blank'>SVBP2012</a>.
 
 **locatieNaam** (indien gewenst / voorwaardelijk verplicht):  
 Het kan gewenst zijn om de geografische naam van de locatie waarbinnen het
@@ -176,8 +176,9 @@ Er zijn meerdere waarden mogelijk.
 	-	basisregistratie kadaster (BRK)  
 Indien geen gebruik is gemaakt van een ondergrond uit het domein
 Ondergronden, dan wordt de naam van het bestand van de gebruikte
-ondergrond(en) als vrije tekst opgegeven. In de [PRTRI2012](https://www.geonovum.nl/geo-standaarden/ro-standaarden-ruimtelijke-ordening), hoofdstuk 7, is
-toegelicht welke bestandformaten voor de ondergrond kunnen worden gebruikt.  
+ondergrond(en) als vrije tekst opgegeven. In hoofdstuk 7 van de <a href='https://docs.geostandaarden.nl/ro/tri2012' target='_blank'>PRTRI2012</a> is
+toegelicht welke bestandformaten voor de ondergrond kunnen worden gebruikt. 
+ 
 - **ondergronddatum** (verplicht)  
 De datum van de gebruikte ondergrond.
 
@@ -244,7 +245,7 @@ Het bestemmingsvlak is het belangrijkste object (klasse) binnen het
 bestemmingsplangebied. De eigenschappen van dit object worden bepaald door een
 aantal attributen dat aan dat object wordt gekoppeld.
 
-In Tabel 4 zijn de attributen benoemd, waarbij per attribuut is aangege­ven
+In Tabel 4 zijn de attributen benoemd, waarbij per attribuut is aangegeven
 welke waarde gewenst is, welke dit moet zijn, of het gebruik van het attribuut
 verplicht is, of het attribuut meerdere keren mag voorkomen en hoe de waarde,
 al dan niet automatisch, wordt ingevoerd. Het object Bestemmingsvlak is niet
@@ -314,7 +315,7 @@ varianten mogelijk:
 3.  Bestemming splitsen. *Voorbeeld : Gemengd - 1*  
 4.  Bestemming onder de hoofdgroep Overig. *Voorbeeld: Enclave*
 
-De systematiek van hoofdgroepen van bestemmingen in de SVBP2012 laat het toe een
+De systematiek van hoofdgroepen van bestemmingen in de <a href='https://docs.geostandaarden.nl/ro/svbp' target='_blank'>SVBP2012</a> laat het toe een
 bestemming te specificeren en slechts één of enkele functies van een hoofdgroep
 binnen een bestemming mogelijk te maken.
 Indien een functie niet in de lijst van de SVBP2012 voorkomt, dan dient
@@ -340,23 +341,23 @@ Een (dubbel)bestemming geeft aan waarvoor de gronden mogen worden gebruikt. Het
 zijn zaken die men aan kan raken, in de grond aanwezig zijn of zichtbaar zijn.
 
 **bestemmingshoofdgroep** (verplicht):  
-Bij de SVBP2012 is een functielijst opgenomen. Bij de functies zijn hoofdgroepen
-vermeld waarmee functies worden ge­kop­peld aan een hoofdgroep waaronder deze
-bestemming moet worden gerangschikt. Daarbij wordt on­derscheid gemaakt in
+Bij de <a href='https://docs.geostandaarden.nl/ro/svbp' target='_blank'>SVBP2012</a> is een functielijst opgenomen. Bij de functies zijn hoofdgroepen
+vermeld waarmee functies worden gekoppeld aan een hoofdgroep waaronder deze
+bestemming moet worden gerangschikt. Daarbij wordt onderscheid gemaakt in
 (enkel)bestemmingen en dubbelbestemmingen. Deze lijsten zijn tevens in het
-IMRO2012 opgenomen als do­meinlijsten.
+IMRO2012 opgenomen als domeinlijsten.
 Het attribuut *bestemmingshoofdgroep* is bedoeld om de gebruikte bestemming te
 relateren aan de betreffende hoofdgroep. Dit geschiedt door in het waardeveld de
-naam van de betref­fende hoofd­groep op te nemen. Het domein *Bestemmingshoofdgroep_E* geeft de mogelijke waar­den weer voor
-(enkel)bestemmingen waaruit moet worden gekozen. Het domein *Bestemmingshoofdgroep_D* geeft de mogelijke waar­den weer voor
+naam van de betreffende hoofdgroep op te nemen. Het domein *Bestemmingshoofdgroep_E* geeft de mogelijke waarden weer voor
+(enkel)bestemmingen waaruit moet worden gekozen. Het domein *Bestemmingshoofdgroep_D* geeft de mogelijke waarden weer voor
 dubbelbestemmingen waaruit moet worden gekozen. In het attribuut *typePlanobject* is opgenomen of het een enkelbestemming dan wel een
 dubbelbestemming betreft.
 Voor het geval de bestemming een voorlopige bestemming betreft, wordt alleen de
 voorlopige bestemming gebruikt om de bijbehorende hoofdgroep te bepalen.
 
 **artikelnummer** (verplicht):  
-Het artikelnum­mer wordt als waarde bij het attri­buut *artikelnummer*
-meegege­ven. Het format van het arti­kelnummer is voorgeschreven in de SVBP2012.
+Het artikelnummer wordt als waarde bij het attribuut *artikelnummer*
+meegegeven. Het format van het artikelnummer is voorgeschreven in de SVBP2012.
 
 ***verwijzingNaarTekstInfo*** (verplicht):  
 Het attribuut is bedoeld voor het verwijzen naar het specifieke artikel dat
@@ -364,32 +365,32 @@ behoort bij het betreffende object *Bestemmingsvlak*. Het attribuut verwijst
 naar het samengestelde attribuut *TekstReferentie_BP*, bestaande uit de
 attributen *verwijzingNaarTekst* en *typeTekst*.
 De bronhouder kiest voor dezelfde vorm van planteksten als bij het object *Bestemmingsplangebied*: objectgericht in XML of niet-objectgericht in HTML
-formaat. Het format dient overeen­komstig de afspraak over de
+formaat. Het format dient overeenkomstig de afspraak over de
 bestandsnaamconventies conform de STRI2012 te zijn. De keuze van de bronhouder
 wordt vastgelegd in de *verwijzingNorm* bij dit bestemmingsplan.  
 - **verwijzingNaarTekst** (verplicht)  
 Dit attribuut is bedoeld om (hyper)links te kunnen opnemen. Hier dient een
-(hy­per)­link naar het soort document dat is aangegeven bij het attribuut*typeTekst* te worden opgeno­men.
+(hyper)link naar het soort document dat is aangegeven bij het attribuut*typeTekst* te worden opgenomen.
 Voor de waarde van het attribuut *verwijzingNaarTekst* geldt dat geen
-elementen van een directory­structuur/pad mogen worden opgenomen. Wel moet
+elementen van een directorystructuur/pad mogen worden opgenomen. Wel moet
 een nadere precisering naar de plaats binnen een document te worden
 opgenomen met behulp van een fragmentidentifier. Het fragment in de
 hyperlink is de locatie in de plantekst (XML of HTML) waar het van
 toepassing zijnde attribuut *typeTekst* betrekking op heeft. Een hyperlink
-krijgt dan de vorm: <u>bestandsnaam.xml­\#fragment</u> of <u>bestandsnaam.htm­\#fragment</u>.  
+krijgt dan de vorm: <u>bestandsnaam.xml\#fragment</u> of <u>bestandsnaam.htm\#fragment</u>.  
 - **typeTekst** (verplicht)  
 Hiermee wordt met de vaste waarde *regels* volgens het domein *Teksttype_BP*
 aangegeven dat de tekst waarnaar verwezen wordt een regel betreft.
 
 ***labelInfo*** (facultatief):  
 Dit attribuut, dat uitsluitend bedoeld is voor de analoge bestemmingsplankaart,
-verwijst naar het samengestelde attri­buut *Label*, bestaande uit de attributen *tekst* en het samengestelde attribuut *positie.*  
+verwijst naar het samengestelde attribuut *Label*, bestaande uit de attributen *tekst* en het samengestelde attribuut *positie.*  
 - **tekst** (verplicht)  
 In het waardeveld van dit attribuut wordt de lettercode
 (letter-/tekencombinaties) van de gebruikte bestemmingsnaam opgenomen.
 In de Praktijkrichtlijn Analoge Bestemmingsplan Kaart (PRABPK2012) is
 aangegeven welke lettercodes in de waarde van dit attribuut worden opgenomen
-die (de hoofd­groep van) de bestem­ming aangege­ven. Deze lettercode is een
+die (de hoofdgroep van) de bestemming aangegeven. Deze lettercode is een
 verbeeldingsmiddel ten behoeve van de leesbaarheid van de analoge
 bestemmingsplankaart. De lettercode bestaat uit hoofdletters. Bij de
 digitale verbeelding worden deze lettercodes niet getoond, maar de waarde
@@ -397,14 +398,14 @@ van het attribuut *naam* wordt getoond na interactie met de digitale
 verbeelding.  
 - **positie** (verplicht, zo vaak als gewenst):  
 Soms bestaat er aanleiding de letter-/tekencombinatie van het attribuut *tekst* meerdere keren binnen één bestemming op de analoge
-bestemmingsplan­kaart te laten voorkomen. In dat geval worden meerdere
+bestemmingsplankaart te laten voorkomen. In dat geval worden meerdere
 attributen *positie* meegegeven. Het attribuut *positie* verwijst naar het
-samen­gestelde attri­buut *Labelpositie*, bestaande uit de attributen *plaatsingspunt, aanpijlingspunt* en *hoek*.  
+samengestelde attribuut *Labelpositie*, bestaande uit de attributen *plaatsingspunt, aanpijlingspunt* en *hoek*.  
 - **plaatsingspunt** (verplicht)  
 Het is nodig dat een plaatsingspunt voor de lettercode wordt opgenomen. Het
 plaatsingspunt van het label staat links beneden ten opzichte van de
 labeltekst.
-In het geval het bij de analoge bestemmingsplankaart ge­wenst is meerdere
+In het geval het bij de analoge bestemmingsplankaart gewenst is meerdere
 dezelfde letter-/tekencombinaties binnen één bestemmingsvlak te plaatsen,
 dan worden meerdere plaatsingspunten opgenomen.  
 - **aanpijlingspunt** (indien gewenst)  
@@ -427,10 +428,10 @@ attribuut kent daarom coördinaten in een vastgesteld format (GML).
 
 ### Algemeen  
 Naast bestemmingsvlakken komen aanduidingen voor waarnaar de regels verwijzen.
-De SVBP2012 geeft een zestal te onderscheiden typen aanduidingen aan. Deze
-aanduidingen worden gerepre­sen­teerd onder de Klasse *Aanduiding* in zes
+De <a href='https://docs.geostandaarden.nl/ro/svbp' target='_blank'>SVBP2012</a> geeft een zestal te onderscheiden typen aanduidingen aan. Deze
+aanduidingen worden gerepresenteerd onder de Klasse *Aanduiding* in zes
 (sub)klassen:  
--   *Bouw­vlak;*  
+-   *Bouwvlak;*  
 -   *Functieaanduiding;*  
 -   *Bouwaanduiding;*  
 -   *Maatvoering;*  
@@ -438,21 +439,21 @@ aanduidingen worden gerepre­sen­teerd onder de Klasse *Aanduiding* in zes
 -   *Gebiedsaanduiding.*
 
 De objecten uit de zes (sub)klassen *Aanduiding* hebben alle een relatie met een
-object *Bestemmingsplangebied*. Aanduidingen kunnen daarnaast ook een rela­tie
-hebben met een ob­ject *Bestemmingsvlak* of met andere aanduidingen. Voor een
+object *Bestemmingsplangebied*. Aanduidingen kunnen daarnaast ook een relatie
+hebben met een object *Bestemmingsvlak* of met andere aanduidingen. Voor een
 eenvoudig hanteerbaar model, maar ook om een begrijpelijk toepasbaar model te
-hebben, zijn niet alle relaties zinvol. Uitge­sloten zijn daarom verwij­zingen
-naar andere aanduidingen van hetzelfde type en naar aandui­dingen die zelf geen
-gebied re­presenteren. Daarnaast geldt dat de klasse *Bouwvlak* alleen een
-rela­tie heeft met het object *Bestem­mingsvlak* en de klasse *Gebiedsaanduiding* een relatie kan hebben met het object *Bestem­mingsvlak.*
+hebben, zijn niet alle relaties zinvol. Uitgesloten zijn daarom verwijzingen
+naar andere aanduidingen van hetzelfde type en naar aanduidingen die zelf geen
+gebied representeren. Daarnaast geldt dat de klasse *Bouwvlak* alleen een
+relatie heeft met het object *Bestemmingsvlak* en de klasse *Gebiedsaanduiding* een relatie kan hebben met het object *Bestemmingsvlak.*
 Daardoor resteren uiteindelijk alleen de relaties die in Figuur 5 in groen zijn
-aange­geven. Het attribuut *aanduiding* bij de klassen *Functieaandui­ding,
-Bouwaanduiding, Maatvoering* en *Figuur* geeft deze mogelijke re­laties van het
-betreffende ob­ject aan. In de volgende subparagrafen wordt hier nader op
+aangegeven. Het attribuut *aanduiding* bij de klassen *Functieaanduiding,
+Bouwaanduiding, Maatvoering* en *Figuur* geeft deze mogelijke relaties van het
+betreffende object aan. In de volgende subparagrafen wordt hier nader op
 ingegaan.
 
 Voor het coderen dient eerst de vraag gesteld te worden welke van de zes
-(sub)klas­sen het be­treft. In dat geval is het overzicht in Figuur 5 van
+(sub)klassen het betreft. In dat geval is het overzicht in Figuur 5 van
 toepassing. Hierin wordt nader ingegaan op de onderscheiden (sub)klassen. De
 (sub)klassen zelf worden ook object genoemd.
 
@@ -510,9 +511,9 @@ Een aanduiding is te beschouwen als een object waarvoor het domein
 *bouwvlak* die als vaste waarde (au­tomatisch) wordt ingevuld.
 
 **plangebied** (verplicht):  
-Binnen elk object *Bouwvlak* is een verwijzing noodzakelijk naar het object *Bestem­mings­plan­gebied* waar dit object deel van uitmaakt. Dit attribuut
-krijgt daartoe de waarde van het attri­buut *identificatie* van het bijbehorende
-object *Bestemmingsplan­gebied*.
+Binnen elk object *Bouwvlak* is een verwijzing noodzakelijk naar het object *Bestemmingsplangebied* waar dit object deel van uitmaakt. Dit attribuut
+krijgt daartoe de waarde van het attribuut *identificatie* van het bijbehorende
+object *Bestemmingsplangebied*.
 
 **bestemmingsvlak** (onder voorwaarde verplicht):    
 Een bouwvlak heeft altijd een relatie met een bestemmingsvlak, behoudens enkele
@@ -536,34 +537,34 @@ Het object *Bouwvlak* kent uitsluitend de geometrie van een vlak of multivlak.
 Dit attribuut kent daarom coördinaten in een vastgesteld format (GML).
 
 ### Klasse Functieaanduiding  
-De SVBP2012 geeft aan dat een functie­aan­duiding wordt gebruikt om de
-gebruiksmogelijkheden binnen een bestemming of een ge­deelte daarvan nader te
+De <a href='https://docs.geostandaarden.nl/ro/svbp' target='_blank'>SVBP2012</a> geeft aan dat een functieaanduiding wordt gebruikt om de
+gebruiksmogelijkheden binnen een bestemming of een gedeelte daarvan nader te
 specificeren. De SVBP2012 geeft tevens aan welke aanduidingen mogen worden
-gebruikt en hoe daarmee in relatie tot de planregels moet worden omge­gaan.
+gebruikt en hoe daarmee in relatie tot de planregels moet worden omgegaan.
 
 De functieaanduiding slaat of op het gehele bestemmingsvlak of op een gedeelte
-daar­van. De functieaanduiding wordt daarom gere­presenteerd door het gebied
-waarop deze van toepas­sing is. Dit gebied heeft een eigen geometrie als vlak en
-wordt daarmee beschouwd als het object *Functieaan­duiding*. Het is mogelijk
+daarvan. De functieaanduiding wordt daarom gerepresenteerd door het gebied
+waarop deze van toepassing is. Dit gebied heeft een eigen geometrie als vlak en
+wordt daarmee beschouwd als het object *Functieaanduiding*. Het is mogelijk
 meerdere objecten *Functieaanduiding* binnen het bestemmingsplan toe te passen.
 
 Het object *Functieaanduiding* heeft altijd een relatie met een onderliggend
 object. Dit kan zijn een *Bestemmingsvlak* of een *Gebiedsaanduiding*.
 Indien het object *Functieaanduiding* behoort bij een bestemmingsvlak, wordt met
-het attribuut *bestemmingsvlak* naar de identificatie (idn) van het ob­ject *Bestemmingsvlak,* waarbij het be­hoort, verwezen.
+het attribuut *bestemmingsvlak* naar de identificatie (idn) van het object *Bestemmingsvlak,* waarbij het behoort, verwezen.
 
 Indien het object *Functieaanduiding* behoort bij een gebiedsaanduiding wordt
-met het attribuut *aan­duiding* naar de idn van het object *Gebiedsaanduiding,*
+met het attribuut *aanduiding* naar de idn van het object *Gebiedsaanduiding,*
 waarbij het behoort, verwezen.
 Het object *Functieaanduiding* verwijst met het attribuut *plangebied* altijd
-naar de idn van het ob­ject *Bestemmingsplangebied*.
+naar de idn van het object *Bestemmingsplangebied*.
 
-Het kan ook voorko­men dat meerdere, verschillende functieaanduidingen binnen
-één be­stemming noodzakelijk zijn omdat de regels dat vereisen. In dat geval
+Het kan ook voorkomen dat meerdere, verschillende functieaanduidingen binnen
+één bestemming noodzakelijk zijn omdat de regels dat vereisen. In dat geval
 komt het object *Functieaanduiding* meerdere keren voor.
 
 In Tabel 6 zijn de attributen benoemd, de waarden aangegeven die deze
-attri­buten moeten bevatten en is aangegeven of het gebruik van het attribuut
+attributen moeten bevatten en is aangegeven of het gebruik van het attribuut
 verplicht is en of het attribuut meerdere malen mag worden gebruikt. Ook is
 aangegeven of attributen gekoppeld worden, dat wil zeggen altijd in samenhang
 moeten worden gebruikt. Na de tabel is per attribuut een nadere toe­lichting
@@ -708,12 +709,12 @@ Het object *Functieaanduiding* kent uitsluitend de geometrie van een vlak. Dit
 attribuut kent daarom coördinaten in een vastgesteld format (GML).
 
 ### Klasse Bouwaanduiding  
-De SVBP2012 geeft aan dat een bouwaan­duiding wordt gebruikt als aanduiding met
+De <a href='https://docs.geostandaarden.nl/ro/svbp' target='_blank'>SVBP2012</a> geeft aan dat een bouwaanduiding wordt gebruikt als aanduiding met
 betrekking tot de wijze van bouwen, dan wel de verschijningsvorm van bouwwerken.
-De SVBP2012 geeft tevens aan welke aanduidingen mo­gen worden gebruikt en hoe
+De SVBP2012 geeft tevens aan welke aanduidingen mogen worden gebruikt en hoe
 daarmee in relatie tot de regels moet worden omgegaan.
 De bouwaanduiding slaat of op het gehele bestemmingsvlak of op een gedeelte
-daar­van. De bouwaanduiding wordt daarom gere­presenteerd door het gebied waarop
+daarvan. De bouwaanduiding wordt daarom gerepresenteerd door het gebied waarop
 deze van toepassing is. Dit gebied heeft een eigen geometrie als vlak en wordt
 daarmee beschouwd als het object *Bouwaanduiding*.
 
@@ -722,21 +723,21 @@ object. Dit kan zijn een *Bestemmingsvlak*, *Bouwvlak* of een
 *Gebiedsaanduiding* (zie Figuur 5 en Tabel 7).
 
 Indien het object *Bouwaanduiding* behoort bij een bestemmingsvlak, wordt met
-het attribuut *bestemmingsvlak* naar de identificatie (idn) van het ob­ject
-*Bestemmingsvlak,* waarbij het be­hoort, verwezen.
+het attribuut *bestemmingsvlak* naar de identificatie (idn) van het object
+*Bestemmingsvlak,* waarbij het behoort, verwezen.
 Indien het object *Bouwaanduiding* behoort bij een gebiedsaanduiding wordt met
-het attribuut *aandui­ding* naar de idn van het object *Gebiedsaanduiding,*
+het attribuut *aanduiding* naar de idn van het object *Gebiedsaanduiding,*
 waarbij het behoort, verwezen.
 Het object *Bouwaanduiding* verwijst met het attribuut *plangebied* altijd naar
-de idn van het ob­ject *Bestemmingsplangebied*. Het is mogelijk meerdere
+de idn van het object *Bestemmingsplangebied*. Het is mogelijk meerdere
 objecten *Bouwaanduiding* binnen het bestemmingsplan toe te passen.
 
-Het kan ook voorko­men dat meerdere, verschillende bouwaanduidingen binnen één
-be­stem­ming noodzakelijk zijn omdat de regels dat vereisen. In dat geval komt
+Het kan ook voorkomen dat meerdere, verschillende bouwaanduidingen binnen één
+bestemming noodzakelijk zijn omdat de regels dat vereisen. In dat geval komt
 het object *Bouwaanduiding* meerdere keren voor. In het geval het voor de
 leesbaarheid van de analoge bestemmingsplankaart gewenst is dezelfde lettercode
-voor de bouw­aanduiding binnen één bestemmingsvlak, bouwvlak of
-gebiedsaandui­ding een of meerdere keren te herhalen, dan dient dit te
+voor de bouwaanduiding binnen één bestemmingsvlak, bouwvlak of
+gebiedsaanduiding een of meerdere keren te herhalen, dan dient dit te
 geschieden door meerdere plaatsingspunten aan te geven.
 
 In Tabel 7 zijn de attributen benoemd, de waarden aangegeven die deze
@@ -884,16 +885,16 @@ Het object *Bouwaanduiding* kent uitsluitend de geometrie van een vlak. Dit
 attribuut kent daarom coördinaten in een vastgesteld format (GML).
 
 ### Klasse Maatvoering  
-De SVBP2012 geeft aan dat alle aandui­din­gen die betrekking hebben op de
+De <a href='https://docs.geostandaarden.nl/ro/svbp' target='_blank'>SVBP2012</a> geeft aan dat alle aanduidingen die betrekking hebben op de
 afmetingen, percentages, oppervlakten, hellingshoeken en aantallen ten aanzien
 van het bouwen en het gebruik maatvoeringsaanduidingen zijn. De SVBP2012 geeft
-tevens aan welke aanduidingen mo­gen worden gebruikt en hoe daarmee in relatie
+tevens aan welke aanduidingen mogen worden gebruikt en hoe daarmee in relatie
 tot de regels moet worden omgegaan.
 
 Het object *Maatvoering* heeft altijd een relatie met een onderliggend object.
 Dit kan zijn een *Bestemmingsvlak*, een *Bouwvlak* of een *Gebiedsaanduiding*.
 Indien het object *Maatvoering* behoort bij een bestemmingsvlak, wordt met het
-attribuut *be­stem­mingsvlak* naar de identificatie (idn) van het ob­ject
+attribuut *bestemmingsvlak* naar de identificatie (idn) van het object
 *Bestemmingsvlak,* waarbij het behoort, verwezen.
 Indien het object *Maatvoering* behoort bij een bouwvlak of bij een
 gebiedsaanduiding wordt met het attribuut *aanduiding* naar respectievelijk de
@@ -901,17 +902,17 @@ idn van het object *Bouwvlak* of van het object *Gebiedsaanduiding,* waarbij het
 behoort, verwezen.
 
 Het object *Maatvoering* verwijst met het attribuut *plangebied* altijd naar de
-idn van het ob­ject *Bestemmingsplangebied*.
+idn van het object *Bestemmingsplangebied*.
 
-Het object *Maatvoering* wordt gere­presenteerd door het gebied waarop deze van
+Het object *Maatvoering* wordt gerepresenteerd door het gebied waarop deze van
 toepassing is. Dit gebied heeft een eigen geometrie als vlak en wordt daarmee
 beschouwd als het object *Maatvoering*.
 Binnen het object *Maatvoering* kunnen meerdere waarden voorkomen die op de
 analoge bestemmingsplankaart in de vorm van een maatvoeringsymbool (ook wel
 matrix of matrixsymbool genoemd)worden weergegeven. Dit maatvoeringsymbool bevat
 een of meerdere waarden waarnaar vanuit de regels wordt verwezen. Het kan ook
-voorko­men dat meerdere, verschillende maatvoeringen binnen één be­stemming
-nood­zakelijk zijn omdat de regels dat vereisen. In dat geval komt het object
+voorkomen dat meerdere, verschillende maatvoeringen binnen één bestemming
+noodzakelijk zijn omdat de regels dat vereisen. In dat geval komt het object
 *Maatvoering* meerdere keren voor.
 
 In Tabel 8 zijn de attributen benoemd, de waarden aangegeven die deze attributen
@@ -1103,45 +1104,45 @@ opgenomen met behulp van een fragmentidentifier. Het fragment in de
 hyperlink is de locatie in de plantekst (XML of HTML) waar het van
 toepassing zijnde attribuut *typeTekst* betrekking op heeft. Een hyperlink
 krijgt dan de vorm: <u>bestandsnaam.xml­\#fragment</u> of
-<u>bestandsnaam.htm­\#fragment</u>.  
+<u>bestandsnaam.htm\#fragment</u>.  
 - **typeTekst** (verplicht)  
 Hiermee wordt met de vaste waarde *regels* volgens het domein *Teksttype_BP*
 aangegeven dat de tekst waarnaar verwezen wordt een regel betreft.
 
 **geometrie** (verplicht):  
 Het object *Maatvoering* kent uitsluitend de geometrie van een vlak. Dit
-attribuut kent daarom coördi­naten in een vastgesteld format (GML).
+attribuut kent daarom coördinaten in een vastgesteld format (GML).
 
 ### Klasse Figuur  
-De SVBP2012 geeft aan dat in de praktijk aandui­dingen worden gebruikt welke
+De <a href='https://docs.geostandaarden.nl/ro/svbp' target='_blank'>SVBP2012</a> geeft aan dat in de praktijk aanduidingen worden gebruikt welke
 niet zijn aan te merken als de overige voorkomende aanduidingen, welke toch
 nodig zijn voor een goede planologische regeling. Dit zijn figuren. Hiervoor is
 in de SVBP2012 een limitatieve lijst opgenomen.
 
 Het object *Figuur* betreft zelfstandig getekende elementen met een eigen
-geometrie als sa­menstel van vlakken, lijnen en punten. Deze aanduidingen in de
-vorm van losse figuren staan op een speci­fieke plek op het kaartbeeld,
-ge­relateerd aan de bestem­ming(en), doch niet noodzakelijkerwijs al­tijd
-ge­rela­teerd aan één bestem­mingsvlak. De aanduidingen zijn es­sentieel om de
-regels te kun­nen hanteren en dienen daarom als object digitaal te worden
+geometrie als samenstel van vlakken, lijnen en punten. Deze aanduidingen in de
+vorm van losse figuren staan op een specifieke plek op het kaartbeeld,
+gerelateerd aan de bestemming(en), doch niet noodzakelijkerwijs altijd
+gerelateerd aan één bestemmingsvlak. De aanduidingen zijn essentieel om de
+regels te kunnen hanteren en dienen daarom als object digitaal te worden
 vastgelegd. Teneinde aan te geven welke figuren uit de lijst het betreft is het
 attribuut *naam* opgenomen.
 
 Het object *Figuur* heeft altijd een relatie met een onderliggend object. Dit
-kan zijn een *Be­stemmings­vlak*, een *Bouwvlak* of een *Gebiedsaanduiding*.
+kan zijn een *Bestemmingsvlak*, een *Bouwvlak* of een *Gebiedsaanduiding*.
 Indien het object *Figuur* behoort bij een bestemmingsvlak, wordt met het
-attribuut *bestem­mingsvlak* naar de identificatie (idn) van het ob­ject
+attribuut *bestemmingsvlak* naar de identificatie (idn) van het object
 *Bestemmingsvlak,* waarbij het behoort, verwezen.
 Indien het object *Figuur* behoort bij een bouwvlak of bij een gebiedsaanduiding
 wordt met het attribuut *aanduiding* naar respectievelijk de idn van het object
-*Bouwvlak* of van het object *Ge­biedsaanduiding,* waarbij het behoort,
+*Bouwvlak* of van het object *Gebiedsaanduiding,* waarbij het behoort,
 verwezen.
 Het object *Figuur* verwijst met het attribuut *plangebied* altijd naar de idn
-van het ob­ject *Be­stemmings­plan­gebied*. Het is mogelijk meerdere objecten
+van het object *Bestemmingsplangebied*. Het is mogelijk meerdere objecten
 *Figuur* binnen het bestemmingsplan toe te passen.
 
 In Tabel 9 zijn de attributen benoemd, de waarden aangegeven die deze
-attri­buten moeten bevatten en wordt aangegeven of het gebruik van het attribuut
+attributen moeten bevatten en wordt aangegeven of het gebruik van het attribuut
 verplicht is en of het attribuut meerdere malen mag worden gebruikt. Ook is
 aangegeven of attributen ge­koppeld worden, dat wil zeggen altijd in samenhang
 moeten worden gebruikt. Na de tabel is per attribuut een nadere toe­lichting
@@ -1320,7 +1321,7 @@ voor de omgevingsvergunning voor het uitvoeren van een werk, geen bouwwerk
 zijnde, of van werkzaamheden, en de omgevingsvergunning voor het slopen van een
 bouwwerk- en wijzigingsbevoegdheden opgenomen.*
 
-In de SVBP2012 zijn de gebiedsaanduidinggroepen in een bindende lijst benoemd,
+In de <a href='https://docs.geostandaarden.nl/ro/svbp' target='_blank'>SVBP2012</a> zijn de gebiedsaanduidinggroepen in een bindende lijst benoemd,
 die kunnen worden gespecificeerd. In de hoofdgroepen van gebiedsaanduidingen is
 wetgevingzone opgenomen. Alle zones die in een bestemmingsplan moeten worden
 opgenomen die gerelateerd zijn aan wetgeving worden met behulp van deze
@@ -1334,9 +1335,9 @@ gebiedsaanduiding overige zone.
 *Voorbeeld:*  
 *overige zone - ecologische verbindingszone*
 
-De gebiedsaan­duiding overlapt meestal meerdere bestemmingen. Het object
-*Gebiedsaandui­ding* is meestal gerelateerd aan een gedeelte van het
-plange­bied, soms uitsluitend aan een gedeelte binnen een bestemmingsvlak.
+De gebiedsaanduiding overlapt meestal meerdere bestemmingen. Het object
+*Gebiedsaanduiding* is meestal gerelateerd aan een gedeelte van het
+plangebied, soms uitsluitend aan een gedeelte binnen een bestemmingsvlak.
 Daarom heeft het object *Gebiedsaanduiding* altijd een relatie met een
 onderliggend object. Dit kan zijn het *Bestemmingsplangebied* of een
 *Bestemmingsvlak*. Het is mogelijk meerdere objecten *Gebiedsaanduiding* binnen
