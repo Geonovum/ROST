@@ -378,10 +378,10 @@ het ruimtelijk plan zelf:
 Conform de Standaard Toegankelijkheid Ruimtelijke Instrumenten kan de
 samenstelling van de set bronbestanden per type ruimtelijk plan, maar ook per
 fase van het plan, verschillen. Welke bestandsformaten moeten worden gebruikt is
-tevens aangegeven in paragraaf 4.2 van de [Standaard Toegankelijkheid Ruimtelijke Instrumenten (STRI2012)](https://www.geonovum.nl/geo-standaarden/ro-standaarden-ruimtelijke-ordening/standaard-toegankelijkheid-ruimtelijke). De ondergrond maakt geen deel uit van
+tevens aangegeven in paragraaf 4.2 van de <a href='https://docs.geostandaarden.nl/ro/stri' target='_blank'>STRI2012</a>. De ondergrond maakt geen deel uit van
 de set van bronbestanden die het ruimtelijke instrument vormen. Om die reden
 bevat de STRI2012 geen voorschrift over de toegelaten bestandsformaten voor de
-ondergrond. De [Praktijkrichtlijn Toegankelijkheid Ruimtelijke Instrumenten (PRTRI)](https://www.geonovum.nl/geo-standaarden/ro-standaarden-ruimtelijke-ordening/praktijkrichtlijn-toegankelijkheid-ruimtelijke) geeft advies over het gebruik van het formaat.
+ondergrond. De <a href='https://docs.geostandaarden.nl/ro/tri2012' target='_blank'>Praktijkrichtlijn Toegankelijkheid Ruimtelijke Instrumenten (PRTRI2012) geeft advies over het gebruik van het formaat.
 
 -   *Type*
 Met type en daaraan gekoppeld vorm, wordt concreet aangegeven welke

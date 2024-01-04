@@ -12,12 +12,12 @@ Wat betreft wetgeving hebben we primair te maken met de Wet ruimtelijke ordening
 en de Archiefwet. Deze worden achtereenvolgens behandeld in deze paragraaf.
 
 ### Wet ruimtelijke ordening  
-De [Wet ruimtelijke ordening (Wro)](http://wetten.overheid.nl/BWBR0020449) is op 1 juli 2008 in werking getreden. De
+De <a href='http://wetten.overheid.nl/BWBR0020449' target='_blank'>Wet ruimtelijke ordening</a> (Wro) is op 1 juli 2008 in werking getreden. De
 basis voor digitale ruimtelijke plannen is gelegd door voor verschillende
 planprocedures aan te geven dat de betrokken overheid het betreffende plan,
 visie of besluit tevens langs elektronische weg bekend maakt.
 
-De uitwerking vindt plaats in het [Besluit ruimtelijke ordening (Bro)](http://wetten.overheid.nl/BWBR0023798) waar met
+De uitwerking vindt plaats in het <a href='http://wetten.overheid.nl/BWBR0023798' target='_blank'>Besluit ruimtelijke ordening</a> (Bro) waar met
 artikel 1.2.1 is bepaald welke instrumenten uit de Wro de betrokken
 bestuursorganen aan eenieder elektronisch beschikbaar moeten stellen. De
 betrokken bestuursorganen zijn gemeenten, provincies en het Rijk. Vervolgens
@@ -26,7 +26,8 @@ visies, plannen en besluiten raadpleegbaar zijn. Verder is in de artikelen 1.2.3
 en 1.2.4 Bro bepaald dat een ondergrond samen met de visie, het besluit of plan
 digitaal wordt vastgesteld. 
 Met de artikelen 1.2.5 en 1.2.6 Bro wordt de
-ministeriële [Regeling standaarden ruimtelijke ordening](http://wetten.overheid.nl/BWBR0031829) geïntroduceerd waarin
+ministeriële <a href='http://wetten.overheid.nl/BWBR0031829' target='_blank'>Regeling
+standaarden ruimtelijke ordening</a> geïntroduceerd waarin
 nadere regels zijn opgenomen betreffende de geometrische plaatsbepaling en
 elektronische beschikbaarstelling, vindbaarheid en toegankelijkheid van de
 ruimtelijke plannen, visies en besluiten. De Regeling standaarden ruimtelijke
@@ -42,7 +43,7 @@ In de vorige paragraaf is met artikel 1.2.1 Bro aangegeven welke ruimtelijke
 plannen digitaal door de bevoegde gezagen conform de RO Standaarden beschikbaar
 worden gesteld en vindbaar en toegankelijk worden gemaakt. Deze paragraaf geeft
 een concreet overzicht. Dit is inclusief de omgevingsvergunning om af te wijken
-van het bestemmingsplan op basis van de [Wabo](http://wetten.overheid.nl/BWBR0024779) en het [Besluit Omgevingsrecht (Bor)](https://wetten.overheid.nl/BWBR0027464). 
+van het bestemmingsplan op basis van de <a href='http://wetten.overheid.nl/BWBR0024779' target='_blank'Wabo</a> en het <a href='https://wetten.overheid.nl/BWBR0027464' target='_blank'>Besluit Omgevingsrecht (Bor)</a>. 
 
 De wet- en regelgeving verplicht het bestuursorgaan om de mededeling
 (kennisgeving in de Staatscourant) van een met artikel 2.12, eerste lid,
@@ -118,7 +119,7 @@ Bij het beschikbaar en toegankelijk maken van ruimtelijke plannen moet de
 Standaard Toegankelijkheid Ruimtelijke Instrumenten verplicht worden
 toegepast. In de STRI worden eisen gesteld aan de bestandsextensies,
 formaten, bestandsnamen, te gebruiken identificatienummer, het digitaal
-waarmerken (zie [STRI2012](https://www.geonovum.nl/geo-standaarden/ro-standaarden-ruimtelijke-ordening/standaard-toegankelijkheid-ruimtelijke)) en de beschikbaarstelling zelf. 
+waarmerken (zie <a href='https://docs.geostandaarden.nl/ro/stri' target='_blank'>STRI2012</a>) en de beschikbaarstelling zelf. 
 
 3.  **SVBP**: Standaard Vergelijkbare Bestemmingsplannen  
 In de Standaard Vergelijkbare Bestemmingsplannen is voor bestemmingsplannen,
@@ -139,7 +140,7 @@ IMROPT is in dit geval dan niet van toepassing.
 In deze standaarden is bepaald dat ieder ruimtelijk plan, visie of besluit is
 opgebouwd uit een samenhangende set bronbestanden (dataset genoemd). Voor
 verschillende typen instrumenten is dit een andere set; welke planonderdelen bij welk instrument van toepassing zijn, is
-aangegeven in hoofdstuk 2 van de [STRI2012](https://www.geonovum.nl/geo-standaarden/ro-standaarden-ruimtelijke-ordening/standaard-toegankelijkheid-ruimtelijke)
+aangegeven in hoofdstuk 2 van de <a href='https://docs.geostandaarden.nl/ro/stri' target='_blank'>STRI2012</a>.
 
 De dataset omvat de verschillende onderdelen van het ruimtelijk plan:  
 -   Plankaart;  
@@ -216,8 +217,8 @@ In de RO Standaarden is bepaald dat het ruimtelijk plan van een digitaal
 waarmerk moet worden voorzien. De dataset van het ruimtelijk plan wordt met
 behulp van een PKI-Overheid certificaat van een waarmerk voorzien. Op deze wijze
 wordt de authenticiteit van het plan gewaarborgd; dit wordt voorgeschreven vanuit de RO Standaarden, onderdeel Standaard
-Toegankelijkheid Ruimtelijke Instrumenten, zie [hoofdstuk 6 van de
-STRI2012](https://www.geonovum.nl/geo-standaarden/ro-standaarden-ruimtelijke-ordening/standaard-toegankelijkheid-ruimtelijke).. 
+Toegankelijkheid Ruimtelijke Instrumenten, zie hoofdstuk 6 van de
+<a href='https://docs.geostandaarden.nl/ro/stri' target='_blank'>STRI2012</a>. 
 
 Pas wanneer dit waarmerk aan het plan is toegevoegd, is dit het digitale authentieke plan conform de RO
 Standaarden dat beschikbaar, toegankelijk en vindbaar moet zijn. Artikel 24 van de Archiefregeling schrijft voor dat, wanneer er gebruik is
@@ -234,10 +235,10 @@ certificaat van de digitale handtekening. De handtekening zelf hoeft volgens de
 -   Besluit ruimtelijke ordening  
 -   Regeling standaarden ruimtelijke ordening  
     -   RO Standaarden  
-        -   [IMRO](https://ro-standaarden.geonovum.nl/2012/IMRO/1.2/IMRO2012-v1.2.pdf): Informatie Model Ruimtelijke Ordening;  
-        -   [STRI](https://ro-standaarden.geonovum.nl/2012/STRI/1.1/STRI2012-v1.1.pdf): Standaard Toegankelijkheid Ruimtelijke Instrumenten;  
-        -   [SVBP](https://ro-standaarden.geonovum.nl/2012/SVBP/1.2/SVBP2012-v1.2.pdf): Standaard Vergelijkbare Bestemmingsplannen;  
-        -   [IMROPT](https://ro-standaarden.geonovum.nl/2012/IMROPT/1.1/IMROPT2012-v1.1.pdf): Informatie Model Ruimtelijke Ordening Planteksten.  
+        -   <a href='https://docs.geostandaarden.nl/ro/imro' target='_blank'> Informatiemodel Ruimtelijke Ordening Planteksten (IMRO2012);  
+        -   <a href='https://docs.geostandaarden.nl/ro/stri' target='_blank'>Standaard Toegankelijkheid Ruimtelijke Instrumenten (STRI2012);  
+        -   <a href='https://docs.geostandaarden.nl/ro/svbp' target='_blank'>Standaard Vergelijkbare Bestemmingsplannen (SVBP2012);  
+        -   <a href='https://docs.geostandaarden.nl/ro/imropt' target='_blank'> Informatiemodel Ruimtelijke Ordening Planteksten (IMROPT2012).  
 -   **Archiefwet**  
 -   Archiefbesluit  
 -   Archiefregeling  

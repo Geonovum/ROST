@@ -76,8 +76,7 @@ behouden.
 Hier wordt aangegeven waar dit subdossier onderdeel van uit maakt.  
 	-   *Aanwezigheid kopieversies*  
 Het bestuursorgaan stelt het betreffende ruimtelijke plan ook voor eenieder
-beschikbaar via de weblocatie die is gemeld aan de
-[Index](https://www.ruimtelijkeplannen.nl/web-roi/index/) van de landelijke voorziening Ruimtelijkeplannen.nl. De
+beschikbaar via de weblocatie die is gemeld aan de <a href='https://www.ruimtelijkeplannen.nl/index' target='_blank'>index</a> van de landelijke voorziening Ruimtelijkeplannen.nl. De
 publicatie datum van beschikbaarstelling wordt vastgelegd bij het archiveren
 van de samenhangende set van bronbestanden.  
 -   **NORA** (de Nederlandse Overheid Referentie Architectuur)  
