@@ -9,7 +9,7 @@ Via het manifest van de bronhouder wordt de planvoorraad van het bevoegd gezag b
 
 De dossierstatus moet passend zijn met de status van het plan in het dossier. Voorbeeld: bevat een dossier uitsluitend een plan met de planstatus ‘concept’, ‘voorontwerp’ of ‘ontwerp’ dan is de dossierstatus ‘in voorbereiding’. Wijzigt de status van het plan in ‘vastgesteld’ dan zal door de bronhouder ook de status van het dossier moeten worden aangepast, eerst in ‘vastgesteld’, maar afhankelijk van het verloop van de procedure naar een volgende status. 
 
-In bijlage 1 van de [Praktijkrichtlijn Toegankelijkheid Ruimtelijke Instrumenten (PRTRI)](https://docs.geostandaarden.nl/ro/tri2012) zijn de mogelijke dossierstatussen van ruimtelijke instrumenten beschreven. De verschillende dossierstatussen zijn omschreven in [paragraaf 5.7](https://docs.geostandaarden.nl/ro/tri2012/#beschrijving-dossierstatussen-met-overgangen) van de PRTRI2012, en de planstatussen in [paragraaf 5.6](https://docs.geostandaarden.nl/ro/tri2012/#beschrijving-planstatussen) van de PRTRI2012.
+In bijlage 1 van de [Praktijkrichtlijn Toegankelijkheid Ruimtelijke Instrumenten (PRTRI)](https://docs.geostandaarden.nl/ro/tri2012) zijn de mogelijke dossierstatussen van ruimtelijke instrumenten beschreven. De verschillende dossierstatussen zijn omschreven in [paragraaf 5.8](https://docs.geostandaarden.nl/ro/tri2012/#beschrijving-dossierstatussen-met-overgangen) van de PRTRI2012, en de planstatussen in [paragraaf 5.7](https://docs.geostandaarden.nl/ro/tri2012/#beschrijving-planstatussen) van de PRTRI2012.
 
 
 **Gevolgen in Viewer regels op de kaart van het DSO-LV**  
@@ -43,7 +43,7 @@ De planvoorraad op de weblocatie bij de bronhouder moet exact overeenkomen met d
 </ol>
 
 #### Plan staat wel op Ruimtelijkeplannen.nl, maar is niet (of deels niet) beschikbaar bij de bronhouder
-In het manifest van de bronhouder staan de locaties van alle door de bronhouder gepubliceerde plannen, in het geleideformulier bij het plan staan alle afzonderlijke planonderdelen. Ruimtelijkeplannen.nl maakt van dit manifest en deze geleideformulieren gebruik. Wanneer de bronhouder een plan publiceert, haalt Ruimtelijkeplannen.nl op deze locatie het plan op en plaatst het in de landelijke voorziening Ruimtelijkeplannen.nl en wordt het raadpleegbaar gemaakt via de viewer van de landelijke voorziening Ruimtelijkeplannen.nl. Met de <a href='https://www.ruimtelijkeplannen.nl/web-roi/index' target='_blank'>index</a> wordt de URL naar de bronhouderlocatie beschikbaar gesteld. Eenieder kan nu via de index over het plan beschikken. De bronhouder voldoet zo aan de wettelijke eisen.
+In het manifest van de bronhouder staan de locaties van alle door de bronhouder gepubliceerde plannen, in het geleideformulier bij het plan staan alle afzonderlijke planonderdelen. Ruimtelijkeplannen.nl maakt van dit manifest en deze geleideformulieren gebruik. Wanneer de bronhouder een plan publiceert, haalt Ruimtelijkeplannen.nl op deze locatie het plan op en plaatst het in de landelijke voorziening Ruimtelijkeplannen.nl en wordt het raadpleegbaar gemaakt via de viewer van de landelijke voorziening Ruimtelijkeplannen.nl. Met de <a href='https://www.ruimtelijkeplannen.nl/index' target='_blank'>index</a> wordt de URL naar de bronhouderlocatie beschikbaar gesteld. Eenieder kan nu via de index over het plan beschikken. De bronhouder voldoet zo aan de wettelijke eisen.
 
 Wanneer, na het publiceren van het plan, de bronhouder het plan verwijdert of verplaatst, verandert de URL naar de locatie van het plan. Wanneer dit niet in het geleideformulier en het manifest wordt aangepast, blijft het plan wel raadpleegbaar via Ruimtelijkeplannen.nl, maar is het niet meer via de index beschikbaar. Hierdoor voldoet de bronhouder niet meer aan zijn verplichting van raadpleegbaarheid en beschikbaarheid. 
 
@@ -58,7 +58,7 @@ Om er voor te zorgen dat het plan weer raadpleegbaar en beschikbaar is, kunnen t
 
 Dit komt voor wanneer Ruimtelijkeplannen.nl het plan niet correct kan ophalen. De bronhouder ontvangt dan een bericht op het mailadres dat de bronhouder heeft opgegeven bij de index van Ruimtelijkeplannen.nl. Het betreft hier vaak een validatie probleem.
 
-<b>Wat te doen?</b><br/>Naar aanleiding van het bericht van Ruimtelijkeplannen.nl kan de bronhouder achterhalen wat de fout in het plan is. De bronhouder moet het plan aanpassen en opnieuw waarmerken, valideren en publiceren. Dit soort problemen kan ondervangen worden door het plan zelf eerst handmatig te valideren met de <a href='https://www.ruimtelijkeplannen.nl/validator' target='_blank'>validator van Ruimtelijkeplannen.nl</a>, en eventueel te publiceren in de pilot omgeving van Ruimtelijkeplannen.nl. 
+<b>Wat te doen?</b><br/>Naar aanleiding van het bericht van Ruimtelijkeplannen.nl kan de bronhouder achterhalen wat de fout in het plan is. De bronhouder moet het plan aanpassen en opnieuw waarmerken, valideren en publiceren. Dit soort problemen kan ondervangen worden door het plan zelf eerst handmatig te valideren met de <a href='https://www.ruimtelijkeplannen.nl/validateplan' target='_blank'>validator van Ruimtelijkeplannen.nl</a>, en eventueel te publiceren in de pilot omgeving van Ruimtelijkeplannen.nl. 
 
 Alle meldingen van Ruimtelijkeplannen.nl worden verstuurd naar het mailadres dat de bronhouder via de index heeft aangemeld bij het Kadaster. Het is belangrijk dat er regelmatig gecheckt wordt of dit mailadres nog actueel is en regelmatig gelezen wordt. Eventuele wijzigingen van contactpersonen bij de bronhouder, kunnen worden doorgegeven aan het Kadaster via het <a href='https://www.ruimtelijkeplannen.nl/web-roo/docs/bronhouders/Aanvraag_wijziging_Index.pdf' target='_blank'>wijzigingsformulier op de website van Ruimtelijkeplannen.nl.</a>
 
@@ -77,16 +77,14 @@ Wettelijk is vastgelegd welke plantypes welk bevoegd gezag kan en mag publiceren
 <ol><li>Verwijder het betreffende plan uit het manifest;</li>
 <li>Controleer altijd, voordat een plan opnieuw wordt gepubliceerd, of het verwijderde plan ook daadwerkelijk van Ruimtelijkeplannen.nl verwijderd is;</li>
 <li>Plantype aanpassen;</li>
-<li>Opnieuw waarmerken, valideren en publiceren en een dag later weer aanbieden aan Ruimtelijkeplannen.nl. *</li>
+<li>Opnieuw waarmerken, valideren en publiceren en een dag later weer aanbieden aan Ruimtelijkeplannen.nl, zie ook: [paragraaf 2.3](#uitvoeren-foutherstel).</li>
 </ol>
-
-*) zie ook: [paragraaf 2.3](#uitvoeren-foutherstel)
 
 ### Relaties: Verwijzen naar extern plan
 
 Relaties tussen plannen en relaties binnen plannen kunnen worden vastgelegd om zo beter inzicht te krijgen in de geldende regels op een locatie. Soms heeft dit een wettelijke grondslag, soms een praktische reden. Het helpt de planmaker maar ook de raadpleger van het plan om zo meer grip te krijgen op een geldige situatie op een locatie. Ook in de viewer van het DSO wordt gebruik gemaakt van deze relatie tussen plannen.
 
-In de praktijk blijkt vaak dat er onvolledig een relatie wordt gelegd tussen plannen terwijl dit wel wordt voorgeschreven in het Informatiemodel Ruimtelijke Ordening (IMRO2012). In hoofdstuk 4 van de <a href='https://docs.geostandaarden.nl/ro/bp2012/' target='_blank'>Praktijkrichtlijn Bestemmingsplannen 2012</a> (PRBP2012) is toegelicht hoe om te gaan met de verwijzing naar extern plan van uitwerkingsplan, wijzigingsplan, gedeeltelijke herziening van 1 bestemmingsplan en gedeeltelijke herziening van meerdere bestemmingsplannen (parapluherziening).  
+In de praktijk blijkt vaak dat er onvolledig een relatie wordt gelegd tussen plannen terwijl dit wel wordt voorgeschreven in het <a href='https://docs.geostandaarden.nl/ro/imro' target='_blank'> Informatiemodel Ruimtelijke Ordening Planteksten (IMRO2012). In hoofdstuk 4 van de <a href='https://docs.geostandaarden.nl/ro/bp2012/' target='_blank'>Praktijkrichtlijn Bestemmingsplannen 2012</a> (PRBP2012) is toegelicht hoe om te gaan met de verwijzing naar extern plan van uitwerkingsplan, wijzigingsplan, gedeeltelijke herziening van 1 bestemmingsplan en gedeeltelijke herziening van meerdere bestemmingsplannen (parapluherziening).  
 In hoofdstuk 5 van de <a href='https://docs.geostandaarden.nl/ro/gb2012/' target='_blank'>PRGB2012</a> is omschreven hoe om te gaan met de verwijzing naar extern plan van aanwijzing, beheersverordening, exploitatieplan, gerechtelijke uitspraak en omgevingsvergunning. 
 
 <b>Wat te doen?</b>
