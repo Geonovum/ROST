@@ -7,22 +7,18 @@ evenals de strekking van de standaard.**
 
 ## Aanleiding
 
-In de Wet ruimtelijke ordening ([Wro](http://wetten.overheid.nl/BWBR0020449)) en het Besluit ruimtelijke ordening ([Bro](http://wetten.overheid.nl/BWBR0023798)) is vastgelegd dat planologische visies, plannen, besluiten, verordeningen en
+In de <a href='http://wetten.overheid.nl/BWBR0020449' target='_blank'>Wet ruimtelijke ordening</a> (Wro) en het <a href='http://wetten.overheid.nl/BWBR0023798' target='_blank'>Besluit ruimtelijke ordening</a> (Bro) is vastgelegd dat planologische visies, plannen, besluiten, verordeningen en
 algemene maatregelen van bestuur digitaal vervaardigd en op elektronische wijze
 beschikbaar gesteld moeten worden. Om dit mogelijk te maken zijn de RO
-standaarden ontwikkeld. Deze verplichte RO Standaarden, vastgelegd met de [ministeriële Regeling standaarden ruimtelijke ordening](http://wetten.overheid.nl/BWBR0031829), zijn:
+standaarden ontwikkeld. Deze verplichte RO Standaarden, vastgelegd met de <a href='http://wetten.overheid.nl/BWBR0031829' target='_blank'>Regeling
+standaarden ruimtelijke ordening</a>, zijn:
 
--   Informatiemodel Ruimtelijke Ordening (IMRO2012);
-
--   Standaard voor Toegankelijkheid Ruimtelijke Instrumenten (STRI2012);
-
--   Standaard Vergelijkbare Bestemmingsplannen (SVBP2012).
-
--   Informatiemodel Ruimtelijke Ordening voor Planteksten(IMROPT2012).
-
-De standaard voor planteksten (IMROPT2012) is onder voorwaarde verplicht.
-Toepassing van IMROPT2012 is verplicht wanneer de bronhouder ervoor kiest de
-planteksten in objectgerichte vorm (XML) beschikbaar te stellen.
+<ul><li><a href='https://docs.geostandaarden.nl/ro/imro' target='_blank'> Informatiemodel Ruimtelijke Ordening Planteksten (IMRO2012)</a> 
+<li><a href='https://docs.geostandaarden.nl/ro/stri' target='_blank'>Standaard Toegankelijkheid Ruimtelijke Instrumenten (STRI2012)</a> 
+<li><a href='https://docs.geostandaarden.nl/ro/svbp' target='_blank'>Standaard Vergelijkbare Bestemmingsplannen (SVBP2012)</a>
+<li><a href='https://docs.geostandaarden.nl/ro/imropt' target='_blank'> Informatiemodel Ruimtelijke Ordening Planteksten (IMROPT2012)</a> .</li>
+</ul>
+<br/>
 
 IMRO2012 is normstellend voor de codering van ruimtelijke instrumenten. IMRO2012
 is van belang voor applicatiebouwers en als referentie voor andere IMRO2012
@@ -31,24 +27,25 @@ praktische toepassing van het model voor het coderen van digitale ruimtelijke
 instrumenten. Alle voor dit toepassingsdoel benodigde informatie is opgenomen in
 toelichtingen, de zogenoemde praktijkrichtlijnen:
 
--   Praktijkrichtlijn Bestemmingsplannen (PRBP2012);
-
--   Praktijkrichtlijn Structuurvisies (PRSV2012);
-
--   Praktijkrichtlijn Gebiedsgerichte Besluiten (PRGB2012);
-
--   Praktijkrichtlijn Provinciale Verordening (PRPV2012);
-
--   Praktijkrichtlijn Algemene Maatregel van Bestuur (PRAMvB2012);
-
--   Praktijkrichtlijn voor Planteksten (PRPT2012).
+<ul><li><a href='https://docs.geostandaarden.nl/ro/bp2012/' target='_blank'>Praktijkrichtlijn Bestemmingsplannen (PRBP2012)</a>;</li>
+<ul><a href='https://docs.geostandaarden.nl/ro/abpk2012/' target='_blank'>Praktijkrichtlijn Analoge Bestemmingsplan Kaart (PRABPK2012)</a>;</li>
+<li><a href='https://docs.geostandaarden.nl/ro/sv2012/' target='_blank'>Praktijkrichtlijn Structuurvisies (PRSV2012)</a>;</li>
+<li><a href='https://docs.geostandaarden.nl/ro/gb2012/' target='_blank'>Praktijkrichtlijn Gebiedsgerichte Besluiten (PRGB2012)</a>;</li>
+<li><a href='https://docs.geostandaarden.nl/ro/pv2012/' target='_blank'>Praktijkrichtlijn Provinciale Verordening (PRPV2012)</a>;</li>
+<li><a href='https://docs.geostandaarden.nl/ro/amvb2012/' target='_blank'>Praktijkrichtlijn Algemene Maatregel van Bestuur (PRAMvB2012)</a>;</li>
+</ul><br/>
 
 De STRI2012 is ook in praktijkrichtlijn nader toegelicht:
+<ul><a href='https://docs.geostandaarden.nl/ro/tri2012' target='_blank'>Praktijkrichtlijn Toegankelijkheid Ruimtelijke Instrumenten (PRTRI2012)</a>.
+</ul><br/>
 
--   Praktijkrichtlijn Toegankelijkheid Ruimtelijke Instrumenten (PRTRI2012).
+De standaard voor planteksten (IMROPT2012) is onder voorwaarde verplicht.
+Toepassing van IMROPT2012 is verplicht wanneer de bronhouder ervoor kiest de
+planteksten in objectgerichte vorm (XML) beschikbaar te stellen. Dit is nader toegelicht in de:  
+<ul><a href='https://docs.geostandaarden.nl/ro/pt2012/' target='_blank'>Praktijkrichtlijn voor Planteksten (PRPT2012)</a>.</li>
+</ul><br/>
 
-Het voorliggende rapport betreft de Praktijkrichtlijn Provinciale Verordening
-(PRPV2012). Als uitgangspunt voor deze praktijkrichtlijn worden alle gegevens
+Als uitgangspunt voor deze Praktijkrichtlijn Provinciale Verordening worden alle gegevens
 beschouwd die in de vorm van een provinciale verordening worden vastgesteld. Op
 basis van deze praktijkrichtlijn kan te allen tijde vanuit de gegevensset de
 inhoud van de oorspronkelijke provinciale verordening worden geraadpleegd.
@@ -146,9 +143,8 @@ Praktijkrichtlijn Provinciale Verordening (PRPV2012).
 Betreft een door de provincie op te stellen instrument, zijnde een verordening
 waarin re­gels worden gesteld omtrent de inhoud van bestemmingsplannen,
 beheersverordeningen en van omgevingsvergunningen waarbij met toepassing van
-[artikel 2.12, eerste lid, onderdeel a, onder 3<sup>0</sup>, van de Wet algemene bepalingen
-omgevingsrecht](http://wetten.overheid.nl/BWBR0024779/geldigheidsdatum_22-11-2011#Hoofdstuk2_23_Artikel212)
-(Wabo) van het bestemmingsplan of de beheersverordening wordt afgeweken, al
+artikel 2.12, eerste lid, onderdeel a, onder 3<sup>0</sup>, van de <a href='http://wetten.overheid.nl/BWBR0024779' target='_blank'>Wet algemene bepalingen omgevingsrecht</a>
+ (Wabo) van het bestemmingsplan of de beheersverordening wordt afgeweken, al
 dan niet voor een daarbij aangegeven gedeelte van het grondgebied van de
 provincie.
 

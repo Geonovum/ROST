@@ -70,7 +70,7 @@ wordt hierna onder 4.2 nader ingegaan.
 
 ## Geldende situatie: de versie “geconsolideerd”
 
-Om de raadpleger van [ruimtelijkeplannen.nl](http://www.ruimtelijkeplannen.nl/)
+Om de raadpleger van <a href='https://www.ruimtelijkeplannen.nl' target='_blank'>Ruimtelijkeplannen.nl</a>
 meer duidelijkheid te kunnen bieden over de exacte status en werkingssfeer van
 wijzigingen in de provinciale verordening en het actuele planologische regime
 ter plaatse kan het gebruik van een versie “geconsolideerd” de oplossing zijn.

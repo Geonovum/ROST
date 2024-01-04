@@ -13,8 +13,8 @@ bestemmingsplannen, projectbesluiten en beheersverordeningen. In principe moet
 dat binnen 1 jaar, tenzij in de verordening een andere termijn is gegeven.
 
 Het gaat om regels voor de inhoud van bestemmingsplannen, maar ook van
-omgevingsvergunningen waarbij met toepassing van artikel 2.12, eerste lid,
-onderdeel a, onder 30, van de [Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/BWBR0024779/2018-07-28#Hoofdstuk2_Paragraaf2.3_Artikel2.12) van het
+omgevingsvergunningen waarbij met toepassing van artikel 2.12, eerste lid, onderdeel a, onder 3<sup>0</sup>, van de <a href='http://wetten.overheid.nl/BWBR0024779' target='_blank'>Wet algemene bepalingen omgevingsrecht</a>
+ (Wabo) van het
 bestemmingsplan of de beheersverordening wordt afgeweken en
 beheersverordeningen. Om te voorkomen dat gronden minder geschikt worden voor de
 beoogde bestemmingen, kan de provincie in de verordening ook regelen dat, zolang
