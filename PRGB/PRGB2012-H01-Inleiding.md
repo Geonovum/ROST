@@ -23,10 +23,6 @@ standaarden ruimtelijke ordening</a>:
 </ul>
 <br/>
 
-De standaard voor planteksten (IMROPT2012) is onder voorwaarde verplicht.
-Toepassing van IMROPT2012 is verplicht wanneer de bronhouder ervoor kiest de
-planteksten in objectgerichte vorm (XML) beschikbaar te stellen.
-
 IMRO2012 is normstellend voor de codering van ruimtelijke instrumenten. IMRO2012
 is van belang voor applicatiebouwers en als referentie voor andere IMRO2012
 gerelateerde documenten. IMRO2012 wordt beschreven zonder in te gaan over de
