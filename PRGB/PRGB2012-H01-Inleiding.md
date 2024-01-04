@@ -6,18 +6,22 @@ de praktijkrichtlijn gegeven evenals de strekking van de standaard.**
 
 ## Aanleiding
 
-In de Wet ruimtelijke ordening ([Wro](http://wetten.overheid.nl/BWBR0020449)) en het Besluit ruimtelijke ordening ([Bro](http://wetten.overheid.nl/BWBR0023798)) is vastgelegd dat planologische visies, plannen, besluiten, verordeningen en
+In de <a href='http://wetten.overheid.nl/BWBR0020449' target='_blank'>Wet ruimtelijke ordening</a> (Wro) en het <a href='http://wetten.overheid.nl/BWBR0023798' target='_blank'>Besluit ruimtelijke ordening</a> (Bro) is vastgelegd dat planologische visies, plannen, besluiten, verordeningen en
 algemene maatregelen van bestuur digitaal vervaardigd en op elektronische wijze
 beschikbaar gesteld moeten worden. De digitale visie, plan, besluit verordening,
 maatregel is conform artikel 1.2.1 van het Bro het juridisch authentieke stuk.
 Daarnaast is ook in de Wet algemene bepalingen omgevingsrecht (Wabo) een
 verplichte elektronische beschikbaarstelling opgenomen voor sommige gevallen. Om
 dit mogelijk te maken zijn de RO standaarden ontwikkeld. Deze verplichte RO
-Standaarden zijn, vastgelegd met de [ministeriële Regeling standaarden ruimtelijke ordening](http://wetten.overheid.nl/BWBR0031829),:  
--   Informatiemodel Ruimtelijke Ordening (IMRO2012); 
--   Standaard voor Toegankelijkheid Ruimtelijke Instrumenten (STRI2012);
--   Standaard Vergelijkbare Bestemmingsplannen (SVBP2012).
--   Informatiemodel Ruimtelijke Ordening voor Planteksten(IMROPT2012).
+Standaarden zijn, vastgelegd met de <a href='http://wetten.overheid.nl/BWBR0031829' target='_blank'>Regeling
+standaarden ruimtelijke ordening</a>:  
+
+<ul><li><a href='https://docs.geostandaarden.nl/ro/imro' target='_blank'> Informatiemodel Ruimtelijke Ordening Planteksten (IMRO2012)</a> 
+<li><a href='https://docs.geostandaarden.nl/ro/stri' target='_blank'>Standaard Toegankelijkheid Ruimtelijke Instrumenten (STRI2012)</a> 
+<li><a href='https://docs.geostandaarden.nl/ro/svbp' target='_blank'>Standaard Vergelijkbare Bestemmingsplannen (SVBP2012)</a>
+<li><a href='https://docs.geostandaarden.nl/ro/imropt' target='_blank'> Informatiemodel Ruimtelijke Ordening Planteksten (IMROPT2012)</a> .</li>
+</ul>
+<br/>
 
 De standaard voor planteksten (IMROPT2012) is onder voorwaarde verplicht.
 Toepassing van IMROPT2012 is verplicht wanneer de bronhouder ervoor kiest de
@@ -29,18 +33,26 @@ gerelateerde documenten. IMRO2012 wordt beschreven zonder in te gaan over de
 praktische toepassing van het model voor het coderen van digitale ruimtelijke
 instrumenten. Alle voor dit toepassingsdoel benodigde informatie is opgenomen in
 zogenoemde praktijkrichtlijnen: 
--   Praktijkrichtlijn Bestemmingsplannen (PRBP2012);
--   Praktijkrichtlijn Structuurvisies (PRSV2012);
--   Praktijkrichtlijn Gebiedsgerichte Besluiten (PRGB2012);
--   Praktijkrichtlijn Provinciale Verordening (PRPV2012);
--   Praktijkrichtlijn Algemene Maatregel van Bestuur (PRAMvB2012);
--   Praktijkrichtlijn voor Planteksten (PRPT2012).
 
-De STRI2012 is ook in praktijkrichtlijn nader toegelicht: 
--   Praktijkrichtlijn Toegankelijkheid Ruimtelijke Instrumenten (PRTRI2012).
+<ul><li><a href='https://docs.geostandaarden.nl/ro/bp2012/' target='_blank'>Praktijkrichtlijn Bestemmingsplannen (PRBP2012)</a>;</li>
+<ul><a href='https://docs.geostandaarden.nl/ro/abpk2012/' target='_blank'>Praktijkrichtlijn Analoge Bestemmingsplan Kaart (PRABPK2012)</a>;</li>
+<li><a href='https://docs.geostandaarden.nl/ro/sv2012/' target='_blank'>Praktijkrichtlijn Structuurvisies (PRSV2012)</a>;</li>
+<li><a href='https://docs.geostandaarden.nl/ro/gb2012/' target='_blank'>Praktijkrichtlijn Gebiedsgerichte Besluiten (PRGB2012)</a>;</li>
+<li><a href='https://docs.geostandaarden.nl/ro/pv2012/' target='_blank'>Praktijkrichtlijn Provinciale Verordening (PRPV2012)</a>;</li>
+<li><a href='https://docs.geostandaarden.nl/ro/amvb2012/' target='_blank'>Praktijkrichtlijn Algemene Maatregel van Bestuur (PRAMvB2012)</a>;</li>
+</ul><br/>
 
-Het voorliggende rapport betreft de Praktijkrichtlijn Gebiedsgerichte Besluiten
-(PRGB2012). Als uitgangspunt voor deze praktijkrichtlijn worden alle gegevens
+De STRI2012 is ook in praktijkrichtlijn nader toegelicht:
+<ul><a href='https://docs.geostandaarden.nl/ro/tri2012' target='_blank'>Praktijkrichtlijn Toegankelijkheid Ruimtelijke Instrumenten (PRTRI2012)</a>.
+</ul><br/>
+
+De standaard voor planteksten (IMROPT2012) is onder voorwaarde verplicht.
+Toepassing van IMROPT2012 is verplicht wanneer de bronhouder ervoor kiest de
+planteksten in objectgerichte vorm (XML) beschikbaar te stellen. Dit is nader toegelicht in de:  
+<ul><a href='https://docs.geostandaarden.nl/ro/pt2012/' target='_blank'>Praktijkrichtlijn voor Planteksten (PRPT2012)</a>.</li>
+</ul><br/>
+
+Als uitgangspunt voor deze Praktijkrichtlijn Gebiedsgerichte Besluiten worden alle gegevens
 beschouwd die in de vorm van een gebiedsgericht besluit worden vastgesteld. Op
 basis van deze praktijkrichtlijn kan te allen tijde vanuit de gegevensset de
 inhoud van het oorspronkelijke gebiedsgerichte besluit worden geraadpleegd.
@@ -134,9 +146,9 @@ De gebiedsgerichte besluiten worden hieronder opgesomd en van een korte
 verklarende beschrijving voorzien.
 
 **de beheersverordening: artikel 3.38 Wro**  
-De beheersverordening is een instrument dat in plaats van een bestemmings­plan
-door gemeenten kan worden ingezet. Het kan worden gezien als een conserve­rende
-ge­bruiksregeling voor gebieden waar zich geen nieuwe ontwikkelingen voordoen.
+De beheersverordening is een instrument dat in plaats van een bestemmingsplan
+door gemeenten kan worden ingezet. Het kan worden gezien als een conserverende
+gebruiksregeling voor gebieden waar zich geen nieuwe ontwikkelingen voordoen.
 
 **het voorbereidingsbesluit: artikel 3.7, 3.26, 3.28, 4.1, 4.2, 4.3, 4.4 en 10.3
 Wro**  
@@ -159,13 +171,13 @@ verordening, respectievelijk AMvB.
 Dit is een door gedeputeerde staten of door de minister van Infrastructuur en
 Milieu (IenM) of door de minister verantwoordelijk voor het desbetreffende
 beleidsterrein in overeenstemming met de minister van IenM te geven aanwijzing
-voor het opstellen van een bestemmingsplan aan de gemeente­raad, provinciale
+voor het opstellen van een bestemmingsplan aan de gemeenteraad, provinciale
 staten of gedeputeerde staten.
 
 **de reactieve aanwijzing: artikel 3.8, lid 6 Wro**  
 Met een reactieve aanwijzing kan de provincie onderdelen van een bestemmingsplan
 niet inwerking laten treden. Voor de onderdelen van het bestemmingsplan waar een
-reactieve aanwijzing op is gegeven blijven de 'oude' bestemmingsplannen van
+reactieve aanwijzing opis gegeven blijven de 'oude' bestemmingsplannen van
 toepassing.
 
 **het exploitatieplan: artikel 6.12 Wro**  
@@ -175,7 +187,7 @@ kostenverhaal te kunnen realiseren. Het exploitatieplan is meestal onderdeel van
 het bestemmingsplan in dezelfde procedure..
 
 **de omgevingsvergunning: artikel 2.1 lid 1 onder c juncto artikel 2.12 eerste
-lid, onderdeel a, sub 3e Wabo**  
+lid, onderdeel a, sub 3e Wabo**  
 De uitgebreide procedure om af te wijken van een bestemmingsplan ten behoeve van
 gebiedsontwikkeling (vroeger: artikel 19 lid 1 en 2 WRO, vervolgens artikel 3.10
 Wro) is van de Wro naar de Wabo overgebracht. Met een omgevingsvergunning voor

@@ -26,14 +26,12 @@ evenwel van waarden worden voorzien. Dit hoofdstuk voorziet in een richtlijn de
 gebiedsgerichte besluiten met deze attributen op deze wijze te maken (coderen).
 Per gebiedsgericht besluit is aangegeven of de tekst bij dat instrument een
 beleids-/besluitdocument betreft of dat de type tekst voorschriften/regels zijn.
-Dit type tekst is aangeven in dit hoofdstuk voor *Besluitgebied_X*[^1]. Bij de
-besluitvlakken en besluitsubvlakken wordt vervolgens verwezen naar delen van
+Dit type tekst is aangeven in dit hoofdstuk voor *Besluitgebied_X*. De voorwaarden hiervoor zijn opgenomen in hoofdstuk 8 OCL Model
+Contraints van het <li><a href='https://docs.geostandaarden.nl/ro/imro' target='_blank'>IMRO2012</a>. 
+Bij de besluitvlakken en besluitsubvlakken wordt vervolgens verwezen naar delen van
 deze tekst. In het geval regels zijn gekoppeld aan het *Besluitgebied_X,* dan
 worden wordt bij de besluit(sub)vlakken alleen naar delen van deze type tekst
 (regels)verwezen.
-
-[^1]: De voorwaarden hiervoor zijn opgenomen in [IMRO2012](https://ro-standaarden.geonovum.nl/2012/IMRO/1.2/IMRO2012-v1.2.pdf) hoofdstuk 8 OCL Model
-Contraints
 
 ## Gebiedsgerichte besluiten: inhoud
 
@@ -87,7 +85,7 @@ bij een aanwijzing weergegeven.
 ![](media/f5032456451aa7ff21881df7ff770b2e.png)
 
 ### Beheersverordening  
-De beheersverordening is een instrument dat in plaats van een bestemmings­plan
+De beheersverordening is een instrument dat in plaats van een bestemmingsplan
 door gemeenten kan worden ingezet. In tegenstelling tot het bestemmingsplan is
 de verbeelding van beheersverordening vormvrij. Dit betekent dat er geen
 afspraken zijn gemaakt voor de benaming en kleuren van objecten, en de op te
@@ -98,10 +96,8 @@ Er is bij de ontwikkeling van de RO Standaarden 2012 bewust gekozen om de
 beheersverordening vormvrij te houden en geen regels voor verbeelding te
 hanteren.
 De Vereniging Nederlandse Gemeenten (VNG) heeft in 2011 de handreiking
-Beheersverordening Wro geactualiseerd. Voor een inhoudelijke toelichting op de
-beheersverordening verwijzen we naar deze handreiking[^2].
-
-[^2] : Zie: [http://www.vng.nl/Documenten/actueel/beleidsvelden/recht/2011/20110901_Beheersverordening_Wro.pdf](https://vng.nl/files/vng/vng/Documenten/actueel/beleidsvelden/recht/2011/20110901_Beheersverordening_Wro.pdf)
+Beheersverordening Wro <a href='https://vng.nl/artikelen/factsheet-ruimtelijke-ordening
+' target='_blank'>geactualiseerd</a>. 
 
 Attributen en waarden  
 Een van de waarden van *typeTekst* is regels. De regels worden gekoppeld aan het
@@ -113,7 +109,7 @@ kleuren voor de verbeelding. Hierdoor zal de ontvanger zelf moeten bepalen hoe
 de beheersverordening wordt weergegeven. Ruimtelijkeplannen.nl geeft dit
 gebiedsgerichte besluit in grijstinten weer. De bronhouder kan de plankaart als
 PDF koppelen aan het plangebied met behulp van het attribuut
-*verwijzingNaarIllustratieInfo.* Het ‘gekleurde plaatje’ is daardoor alleen te
+*verwijzingNaarIllustratieInfo.* Het‘gekleurde plaatje’ is daardoor alleen te
 bekijken via de gekoppelde PDF en niet interactief zoals een bestemmingsplan. De
 objecten zijn wel raadpleegbaar in de interactieve raadpleegomgeving.
 In het geval een bronhouder in een beheersverordening wel gebruik wil maken van
@@ -131,7 +127,7 @@ bij een beheersverordening weggegeven.
 ![](media/2735375121d0f565af48a2c9d1c5f947.png)
 
 ### Exploitatieplan  
-Het exploitatieplan kent pas sinds de wijziging van het Bro[^3] en RO
+Het exploitatieplan kent pas sinds de wijziging van het Bro (1 oktober 2012) en RO
 Standaarden 2012 een verplichte elektronische beschikbaarstelling. Dit wil
 zeggen dat tot de inwerkingtreding van de RO Standaarden 2012 het
 exploitatieplan niet was opgenomen in de lijst van instrumenten in artikel 1.2.1
@@ -142,17 +138,12 @@ dit dat het exploitatieplan verplicht conform de RO Standaarden 2012 vanaf 1
 juli 2013 beschikbaar moet worden gesteld. Een exploitatieplan kan alleen in een
 2012 manifest beschikbaar gesteld worden door de bronhouder.
 
-[^3]: Wijziging van het Bro per 1 oktober 2012, zie toelichting wettelijke
-bepalingen op de Geonovum website:
-https://www.geonovum.nl/geo-standaarden/ro-standaarden-ruimtelijke-ordening
-
-De Vereniging Nederlandse Gemeenten (VNG) heeft eind 2010 een handleiding voor
-het exploitatieplan opgesteld[^4]. Op basis hiervan zijn de specifieke waarden
+De Vereniging Nederlandse Gemeenten (VNG) heeft eind 2010 een handreiking voor
+het exploitatieplan <a href='https://vng.nl/artikelen/factsheet-ruimtelijke-ordening
+' target='_blank'>opgesteld</a>. Op basis hiervan zijn de specifieke waarden
 voor het besluitgebied in Tabel 9 opgesteld. In deze uitwerking is voor het
 overzicht niet gebruik gemaakt van objectgerichte planteksten, maar dit is
 natuurlijk wel mogelijk.
-
-[^4]: Zie: https://vng.nl/files/vng/vng/Documenten/Extranet/Ruimte/2010/20101122_Handreikingexploitatieplan.pdf
 
 Attributen en waarden  
 Een van de waarden van *typeTekst* is regels. De regels worden gekoppeld aan het
@@ -168,7 +159,7 @@ hoort. Er wordt in dit besluit met behulp van het attribuut
 bestemmingsplan. Ook kan het voorgaande exploitatieplan als verwijzing worden
 opgenomen.
 Het kaartmateriaal (zie attribuut *verwijzingNaarIllustratieInfo*) dat bij dit
-gebiedsgerichte besluit wordt opgenomen is ter illustratie. Het ‘gekleurde
+gebiedsgerichte besluit wordt opgenomen is ter illustratie. Het ‘gekleurde
 plaatje’ is alleen te bekijken via de gekoppelde PDF en niet interactief zoals
 bijvoorbeeld een bestemmingsplan. Hiermee geeft de bronhouder aan hoe het
 besluit met de objecten besluitgebied, besluitvlakken en besluitsubvlakken door
@@ -201,9 +192,7 @@ In de PRTRI is een uitbreide toelichting op de werkwijze van gerechtelijke
 uitspraken opgenomen. In deze paragraaf is toegelicht hoe dit gebiedsgericht
 wordt gemaakt en welke informatie erin wordt opgenomen.
 Met het inwerkingtreden van de wijziging van het Bro en de RO Standaarden
-2012[^5] is de gerechtelijke uitspraak als zelfstandig instrument opgenomen.
-
-[^5]: De basis hiervoor is gelegd in het Bro artikel 1.2.1 lid 3 met de daarbij
+2012 is de gerechtelijke uitspraak als zelfstandig instrument opgenomen. De basis hiervoor is gelegd in het Bro artikel 1.2.1 lid 3 met de daarbij
 behorende toelichting op de pagina 6 en 9 van Nota van Toelichting.
 
 Wanneer zich een van de volgende situaties voordoet, beïnvloedt dit de
@@ -221,11 +210,8 @@ kopie van de authentieke informatie van de rechter) als gebiedsgericht besluit
 beschikbaar. Op deze wijze kan het in samenhang met, maar tegelijk los van, het
 plan worden ontsloten. Het resultaat van de uitspraak zelf is dat het
 betreffende ruimtelijke plan niet, deels of geheel onherroepelijk in werking
-treedt. Deze informatie wordt als dossierstatus in het manifest opgenomen[^6].
-
-[^6]: Zie hiervoor de toelichting in paragraaf 5.7 van de Praktijkrichtlijn
-Toegankelijkheid Ruimtelijke Instrumenten (PRTRI2012), zie
-https://www.geonovum.nl/geo-standaarden/ro-standaarden-ruimtelijke-ordening/praktijkrichtlijn-toegankelijkheid-ruimtelijke.
+treedt. Deze informatie wordt als dossierstatus in het manifest opgenomen, zie de toelichting in paragraaf 5.8 van de <a href='https://docs.geostandaarden.nl/ro/tri2012' target='_blank'>Praktijkrichtlijn
+Toegankelijkheid Ruimtelijke Instrumenten (PRTRI2012)</a>.
 
 Attributen en waarden  
 De *typeTekst* bij een gerechtelijke uitspraak is het besluitdocument. Het
@@ -245,14 +231,15 @@ verwijzingen opgenomen:
 -   Verwijzing naar de uitspraak zelf.
 
 De verwijzing naar de uitspraak kan op verschillende wijzen worden opgenomen.
-Dit kan met behulp van het ECLI (European Case Law Identifier)[^7] dat het AbRS
+Dit kan met behulp van het ECLI (European Case Law Identifier) dat het AbRS
 gebruikt. Wanneer de AbRS uitspraak doet, staat dit dezelfde dag op website van
 AbRS onder vermelding van het nummer.
 
-[^7]: Het ECLI (European Case Law Identifier is per eind juni 2013 de opvolger
+<p class="note">
+Het ECLI (European Case Law Identifier is per eind juni 2013 de opvolger
 van LJN nummer: het nummer waaronder de uitspraak op rechtspraak.nl is
 opgenomen. Per juli 2013 worden geen LJN-nummers meer uitgegeven en alle al
-uitgegeven LJN nummers zijn vanaf dan omgezet naar de ECLI.
+uitgegeven LJN nummers zijn vanaf dan omgezet naar de ECLI.</p>
 
 In Tabel 10 is een samenvatting van de attributen die een bepaalde waarde hebben
 bij een gerechtelijke uitspraak weergegeven.
@@ -274,9 +261,10 @@ elektronisch wordt gedaan en beschikbaar gesteld. Dit betreft de ministeriële
 Regeling standaarden ruimtelijke ordening 2012. In IMRO2012 en STRI2012 is de
 dit type omgevingsvergunning daarom opgenomen. In deze paragraaf van de
 toelichting op de RO Standaarden (deze praktijkrichtlijn) lichten we de
-werkwijze toe[^8].
+werkwijze toe voor de ennisgeving van een omgevingsvergunning
+om af te wijken van het bestemmingsplan.
 
-[^8]: In het Besluit Omgevingsrecht (Bor) artikel 6.14 is aangegeven dat bij
+In het Besluit Omgevingsrecht (Bor) artikel 6.14 is aangegeven dat bij
 ministeriële regeling nadere regels worden gesteld over de wijze waarop de
 mededeling van een met artikel 2.12, eerste lid, onderdeel a, onder 3 van de
 Wabo *verleende* omgevingsvergunning elektronisch wordt gedaan en beschikbaar
@@ -294,25 +282,18 @@ praktijk wordt de ruimtelijke onderbouwing vaak aan de kennisgeving toegevoegd.
 De omgevingsvergunning om af te wijken van een bestemmingsplan wordt als een
 gebiedsgericht besluit beschikbaar gesteld door de bronhouder. Doordat de
 bronhouder de kennisgeving conform de RO Standaarden beschikbaar stelt op haar
-weblocatie, wordt deze opgehaald door de landelijke voorziening[^9] en is te
-raadplegen via https://www.ruimtelijkeplannen.nl/ [^10]. Voor andere onderdelen dan het
+weblocatie, wordt deze opgehaald door de landelijke voorziening Ruimtlijkeplannen.nl en is te
+raadplegen via https://www.ruimtelijkeplannen.nl/. Voor andere onderdelen dan het
 hier genoemde type omgevingsvergunning kent de Wabo geen verplichting tot
 elektronische beschikbaarstelling van een omgevingsvergunning.
 
-[^9]: Landelijke voorziening: Ruimtleijkeplannen.nl. De bronhouder heeft aan de
-index van de landelijke voorziening bekend gemaakt wat de weblocatie is van de
-bronhouder. Op deze weblocatie wordt met behulp van een manifest inzicht gegeven
-in de door de bronhouder beschikbaar gestelde data. RO-Online haalt iedere nacht
-nieuwe en gewijzigde data op. Zo ook de kennisgeving van een omgevingsvergunning
-om af te wijken van het bestemmingsplan. Op ruimtelijkeplannen.nl is vervolgens
-de kennisgeving in combinatie met de contour te raadplegen.
-
-[^10]: Voor inwerking treden van de Wabo was deze vorm van de
+<p class="note">
+Voor inwerking treden van de Wabo was deze vorm van de
 omgevingsvergunning in de Wro opgenomen als projectbesluit. Vanaf 1 oktober 2010
 was het al verplicht de kennisgeving digitaal beschikbaar te stellen conform de
 RO Standaarden 2008. Dit is toegelicht in de werkafspraak *Elektronisch
 publiceren kennisgeving omgevingsvergunning*. Met het in gebruik nemen van de RO
-Standaarden 2012 komt deze werkafspraak te vervallen.
+Standaarden 2012 komt deze werkafspraak te vervallen.</p>
 
 Attributen en waarden  
 De kennisgeving betreft de mededeling dat de omgevingsvergunning is verleend.
