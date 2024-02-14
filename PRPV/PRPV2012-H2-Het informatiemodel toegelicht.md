@@ -86,7 +86,7 @@ opgesteld. Bij het opstellen van deze Praktijkrichtlijn Provinciale Verordening
 is geprobeerd waar mogelijk aan te sluiten bij de Praktijkrichtlijnen voor
 AMvB’s ([PRAMvB2012](https://docs.geostandaarden.nl/ro/amvb2012/)) en voor gebiedsgerichte besluiten ([PRGB2012](https://docs.geostandaarden.nl/ro/gb2012/)).
 
-![](media\ddfedb79a97a91612a53100c8d345966.jpg)
+![](media/ddfedb79a97a91612a53100c8d345966.jpg)
 
 **Figuur 2 Verticale afstemming**
 
@@ -96,7 +96,7 @@ praktijkrichtlijn opgesteld. Bij het opstellen van deze Praktijkrichtlijn
 Provinciale Verordening is geprobeerd waar mogelijk aan te sluiten bij de
 Praktijkrichtlijn Structuurvisies 2012 ([PRSV2012](https://docs.geostandaarden.nl/ro/sv2012/)).
 
-![](media\42ea13b272bd2375308ff05ac57ae70d.jpg)
+![](media/42ea13b272bd2375308ff05ac57ae70d.jpg)
 
 **Figuur 3 Horizontale afstemming**
 
@@ -130,7 +130,7 @@ de verordening weergeven zoals de bronhouder dit bedoeld heeft. In Figuur 4 is
 een detail van de symboolcodelijst voor vormvrije plannen opgenomen die
 onderdeel is van de RO Standaarden 2012.
 
-![](media\3996da701001c9222ae1e68603b121c6.png)
+![](media/3996da701001c9222ae1e68603b121c6.png)
 
 **Figuur 4 Detail van de symboolcodelijst voor vormvrije plannen**
 
@@ -171,7 +171,7 @@ de klasse *MetadataIMRObestand* regels opgenomen over de in het GML bestand
 op te nemen metadata. In Tabel 1 wordt klasse *MetadataIMRObestand*
 toegelicht.
 
-![](media\PRPV2012Tabel1KlasseMetadataIMRObestand.png)
+![](media/PRPV2012Tabel1KlasseMetadataIMRObestand.png)
 
 **Tabel 1 KlasseMetadataIMRObestand 1\***
 
