@@ -56,7 +56,7 @@ var respecConfig =
   format: "markdown",                 // altijd "markdown"     
   //-- publishDate is verplicht -------------------------------------------------------
   //-- NB: in de werkversie uitzetten, want dan pakt Respec de pushdate ---------------
-  publishDate: "2024-02-14",  	    // Format is "YYYY-MM-DD"
+ // publishDate: "2024-02-14",  	    // Format is "YYYY-MM-DD"
   //-- de namen van de Editor(s) ------------------------------------------------------
   //-- vul in: per Editor: name:, company:, companyURL: -------------------------------
   //-- de github repository waar je documentn in staat --------------------------------
