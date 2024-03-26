@@ -28,14 +28,14 @@ archiefstukken zelf.
 </figure>
 
 
-Bron: Sue McKemmish, Glenda Acland and Barbara Reed, Towards a Framework for Standardising Recordkeeping Metagegevens: [The
-Australian Recordkeeping Metagegevens Schema](https://research.monash.edu/en/publications/towards-a-framework-for-standardising-recordkeeping-metadata-the-) en NEN-ISO 23081-1:2017 Metagegevens voor archiefstukken - Principes (paragraaf 9.1).
+Bron: Sue McKemmish, Glenda Acland and Barbara Reed, Towards a Framework for Standardising Recordkeeping Metagegevens: 
+<a href='https://research.monash.edu/en/publications/towards-a-framework-for-standardising-recordkeeping-metadata-the-' target='_blank'>The
+Australian Recordkeeping Metagegevens Schema</a> en NEN-ISO 23081-1:2017 Metagegevens voor archiefstukken - Principes (paragraaf 9.1).
 
 ### Standaard  
 De NEN-ISO 19115 metagegevens standaard voor geo-informatie is bij de meeste
-overheden die met ruimtelijke plannen werken vermoedelijk wel bekend vanwege het
-[toepassingsprofiel voor geo-informatie in Nederland](https://www.geonovum.nl/geo-standaarden/metadata). De [Europese
-richtlichtlijn INSPIRE](https://www.geonovum.nl/geo-standaarden/inspire-europese-leefomgeving) verplicht het gebruik van het toepassingsprofiel.  
+overheden die met ruimtelijke plannen werken vermoedelijk wel bekend vanwege het <a href='https://www.geonovum.nl/geo-standaarden/metadata' target='_blank'>toepassingsprofiel voor geo-informatie in Nederland</a>. De <a href='https://www.geonovum.nl/geo-standaarden/inspire-europese-leefomgeving' target='_blank'>Europese
+richtlichtlijn INSPIRE</a> verplicht het gebruik van het toepassingsprofiel.  
 Er bestaat daarnaast een andere metagegevens standaard, de NEN-ISO 23081, die
 specifiek betrekking heeft op metagegevens voor archiefstukken. Deze standaard
 wordt ook genoemd in de Archiefregeling. Samengevat zegt de Archiefregeling het
@@ -64,7 +64,7 @@ het gebruik en beheer van metagegevens, vooral met betrekking tot:
 -   syntaxis - hoe wordt de inhoud van het element samengesteld, bijvoorbeeld yyyymmdd of ddmmyyyy;  
 -   het verplichtingenregime - welke elementen zijn verplicht en welke optioneel.
 
-Tezamen wordt dit ook wel een elementen set genoemd. [MDTO](https://www.nationaalarchief.nl/archiveren/mdto) is een voorbeeld van
+Tezamen wordt dit ook wel een elementen set genoemd. <a href='https://www.nationaalarchief.nl/archiveren/mdto' target='_blank'>MDTO</a>) is een voorbeeld van
 een elementenset. De elementenset is hier gespecificeerd vanuit het oogpunt
 van duurzame toegankelijkheid en wordt geacht generiek te zijn (dus van
 toepassing op alle soorten informatie). Organisaties kunnen daarnaast andere
@@ -83,7 +83,7 @@ geïnstalleerd, moet dit worden vastgelegd. Dit is een voorbeeld van
 ‘event-history’ zoals in NEN-ISO 23081 en de RMDTO/TMR verder
 wordt toegelicht.
 
-Doordat de ruimtelijke plannen worden gemaakt met de wettelijke open standaarden (zie ook het [Forum Standaardisatie](https://forumstandaardisatie.nl/wat-zijn-standaarden)) is er tot op heden geen aanleiding voor het bewaren van software. Er wordt uitgegaan
+Doordat de ruimtelijke plannen worden gemaakt met de wettelijke open standaarden (zie ook het <a href='https://forumstandaardisatie.nl/wat-zijn-standaarden' target='_blank'>Forum Standaardisatie</a>) is er tot op heden geen aanleiding voor het bewaren van software. Er wordt uitgegaan
 van het principe dat software (viewers) om de plannen weer te geven deze open
 standaard moet kunnen lezen. Om de ruimtelijke plannen vanuit het archief direct
 te kunnen raadplegen is het echter wel van belang dat de zorgdrager over
@@ -93,9 +93,7 @@ geschikte software beschikt.
 
 De Archiefwet schrijft voor dat ieder overheidsorgaan moet beschikken over een
 selectielijst, die door de minister wordt vastgesteld. In de selectielijsten is
-bepaald of, en zo ja wanneer, archiefstukken vernietigd moeten worden. De
-[VNG](https://www.nationaalarchief.nl/archiveren/kennisbank/selectielijst-voor-de-archiefbescheiden-van-gemeentelijke-en) (bij mandaat van alle gemeenten), het [IPO](https://www.nationaalarchief.nl/archiveren/kennisbank/selectielijst-voor-archiefbescheiden-van-de-provinciale-organen-vanaf-1) (bij mandaat van de
-provincies) en het [Rijk](https://www.nationaalarchief.nl/archiveren/kennisbank/selectielijst-van-het-ministerie-van-binnenlandse-zaken-en) hebben ieder aparte selectielijsten opgesteld.
+bepaald of, en zo ja wanneer, archiefstukken vernietigd moeten worden. De <a href='https://www.nationaalarchief.nl/archiveren/kennisbank/selectielijst-voor-de-archiefbescheiden-van-gemeentelijke-en' target='_blank'>VNG</a> (bij mandaat van alle gemeenten), het <a href='https://www.nationaalarchief.nl/archiveren/kennisbank/selectielijst-voor-archiefbescheiden-van-de-provinciale-organen-vanaf-1' target='_blank'>IPO</a> (bij mandaat van de provincies) en het <a href='https://www.nationaalarchief.nl/archiveren/kennisbank/selectielijst-van-het-ministerie-van-binnenlandse-zaken-en' target='_blank'>Rijk</a> hebben ieder aparte selectielijsten opgesteld.
 
 Wanneer archiefstukken voor bewaring worden aangemerkt, moeten ze na maximaal
 20 jaar (korter mag ook, langer niet -uitzonderingen daargelaten-) worden
@@ -168,7 +166,7 @@ ruimtelijke ordening vallen maar onder Economische Zaken, zoals de Dienst
 Landelijk Gebied, kunnen gebruikmaken van handeling ‘Het bijdragen aan de
 totstandkoming van nota's, programma's, plannen en maatregelen betreffende de
 ruimtelijke ordening op provinciaal of regionaal niveau’ (uit het BSD Landinrichting, minister LNV, waardering Bewaren BSD 59: zie de
-[Selectielijst van het ministerie van Binnenlandse zaken en Koninkrijksrelaties](https://www.nationaalarchief.nl/archiveren/kennisbank/selectielijst-van-het-ministerie-van-binnenlandse-zaken-en)
+<a href='https://www.nationaalarchief.nl/archiveren/kennisbank/selectielijst-van-het-ministerie-van-binnenlandse-zaken-en' target='_blank'>Selectielijst van het ministerie van Binnenlandse zaken en Koninkrijksrelaties</a>.
 
 ## Toegestane compressie en bestandsformaten  
 ### Bestandsformaten  
@@ -178,12 +176,10 @@ bestandsformaat. Dat betekent dat informatie over de eigenschappen van dat
 formaat bekend en vrijelijk beschikbaar zijn. Het voorschrift dat een
 bestandsformaat valideerbaar moet zijn, is in de eerste plaats bedoeld om vast
 te kunnen stellen dat het bestandsformaat ook daadwerkelijk is wat het lijkt te
-zijn. Validatie kan bijvoorbeeld via een register van bestandsformaten, zoals
-[PRONOM](http://www.nationalarchives.gov.uk/PRONOM/). In Nederland houdt het Forum Standaardisatie voor de overheid een
+zijn. Validatie kan bijvoorbeeld via een register van bestandsformaten, zoals <a href='http://www.nationalarchives.gov.uk/PRONOM/' target='_blank'>PRONOM</a>. In Nederland houdt het Forum Standaardisatie voor de overheid een
 lijst bij van geadopteerde open standaarden. Het Nationaal Archief heeft mede op
-basis hiervan de [Handreiking
-Voorkeursformaten](https://www.nationaalarchief.nl/archiveren/kennisbank/handreiking-voorkeursformaten-nationaal-archief)
-ontwikkeld. Hiermee worden organisaties handvatten geboden om bij de vorming van
+basis hiervan de <a href='https://www.nationaalarchief.nl/archiveren/kennisbank/handreiking-voorkeursformaten-nationaal-archief' target='_blank'>Handreiking
+Voorkeursformaten</a> ontwikkeld. Hiermee worden organisaties handvatten geboden om bij de vorming van
 digitaal archief rekening te houden met de voorkeur van het Nationaal Archief
 (en in het kielzog daarvan ook andere archiefinstellingen). Let op: de lijst
 voorkeursformaten is niet limitatief, het is niet verboden om bestandsformaten
@@ -248,8 +244,8 @@ de gebruikte hard- en software en de kwaliteitsprocedures. Op grond van artikel
 bewaren archiefstukken opnemen. In de praktijk gebeurt dit door het opstellen
 van een handboek vervanging. Het Nationaal Archief biedt, hoewel zij geen
 formele rol heeft bij het opstellen van een vervangingsbesluit, organisaties een
-handvat in de vorm van de ‘[Handreiking vervanging
-archiefbescheiden](https://www.nationaalarchief.nl/archiveren/kennisbank/handreiking-vervanging-archiefbescheiden)’.
+handvat in de vorm van de <a href='https://www.nationaalarchief.nl/archiveren/kennisbank/handreiking-vervanging-archiefbescheiden)' target='_blank'>Handreiking vervanging
+archiefbescheiden</a>.
 
 ## Archiefsysteem
 
