@@ -82,7 +82,7 @@ var respecConfig =
   authors: 
   [
     {
-      name:       "Gijs Koedam, Monique van Scherpenzeel",
+      name:       "Gijs Koedam, Irina Entrop, Monique van Scherpenzeel",
       company:    "Geonovum",
       companyURL: "https://www.geonovum.nl"
     }, 
