@@ -74,15 +74,14 @@ Inzicht biedt organisaties duidelijkheid over:
 Voor het beschrijven van informatie(objecten), zoals de structuur en betekenis
 daarvan, kan een informatiemodel gemaakt worden of gebruik gemaakt worden van
 sectorspecifieke modellen. IMRO2012 is in dit geval een relevante
-sectorstandaard. Het hebben van een informatiemodel is ook een eis uit
-[DUTO](https://www.nationaalarchief.nl/archiveren/duto), het normenkader
+sectorstandaard. Het hebben van een informatiemodel is ook een eis uit <a href='https://www.nationaalarchief.nl/archiveren/duto' target='_blank'>DUTO</a>, het normenkader
 voor duurzame toegankelijkheid van overheidsinformatie. De DUTO-eisen zijn een
 programma van eisen voor duurzame toegankelijkheid van de informatie in de
 informatiesystemen van overheidsorganisaties. De eisen zijn generiek van aard en
 weerspiegelen de eisen die gebruikers stellen aan de toegankelijkheid van de
 informatie. In dit geval betreft het informatie gerelateerd aan ruimtelijke
 plannen.
-Het Nationaal Archief heeft een overzicht van de [DUTO-eisen](https://www.nationaalarchief.nl/archiveren/kennisbank/overzicht-duto-eisen). Meer hierover in [Bijlage 1](#B01).
+Het Nationaal Archief heeft een overzicht van de <a href='https://www.nationaalarchief.nl/archiveren/kennisbank/overzicht-duto-eisen' target='_blank'>DUTO-eisen</a>. Meer hierover in [Bijlage 1](#B01).
 
 De volgende ruimtelijke plannen worden door de verschillende bevoegde gezagen
 gecreëerd:
@@ -118,9 +117,7 @@ van die informatiesystemen. Deze systemen kunnen specifiek voor archivering
 bedoeld zijn, of vakapplicaties in het primaire proces die bepaalde
 archiveringsfunctionaliteit hebben (zoals functionaliteit voor vernietiging).  
 Een organisatie zal daarin keuzes moeten maken, omdat het gevolgen heeft voor
-werkprocessen en de inrichting van systemen. Systemen zullen, idealiter [by
-design](https://www.nationaalarchief.nl/archiveren/kennisbank/archiveren-by-design),
-in staat moeten zijn om informatie duurzaam toegankelijk te kunnen houden voor
+werkprocessen en de inrichting van systemen. Systemen zullen, idealiter <a href='https://www.nationaalarchief.nl/archiveren/kennisbank/archiveren-by-design' target='_blank'>by design</a>, in staat moeten zijn om informatie duurzaam toegankelijk te kunnen houden voor
 zolang als nodig.  
 Kaders voor de inrichting van systemen worden gegeven vanuit wet- en
 regelgeving, maar ook vanuit normen en standaarden. Een overzicht hiervan is in
@@ -158,7 +155,7 @@ Toelichting provincie: Afhankelijk van het type ruimtelijk plan/ zaaktype is Ged
 dan wel Provinciale Staten aangewezen als zorgdrager van het ruimtelijk plan.  
 
 Voor het vastleggen van en verwijzen naar institutionele informatie over
-bestuursorganen kan gebruik gemaakt worden van het [Actorenregister](https://actorenregister.nationaalarchief.nl/) van het
+bestuursorganen kan gebruik gemaakt worden van het <a href='https://actorenregister.nationaalarchief.nl/' target='_blank'>Actorenregister</a> van het
 Nationaal Archief. Op deze manier is een verwijzing in de metagegevens voldoende
 en kan worden voorkomen dat deze informatie redundant bij de informatie zelf
 wordt opgeslagen. 
@@ -190,7 +187,7 @@ informatie met betrekking tot de type ruimtelijke plannen *eenmalig* in de
 organisatie vastgelegd. Er kan daarbij gebruik worden gemaakt van een zaaktypecatalogus waarin zaaktypen/ zaakomschrijvingen worden vastgelegd. Dit is niet verplicht; de desbetreffende overheid moet zelf beslissen hoe dit wordt bepaald.
 
 De VNG heeft een GEMMA zaaktypecatalogus (ZTC) ontwikkeld
-voor het ontwerpen, beheren en uitwisselen van zaaktypen. De laatste versie is beschikbaar via het overzicht op [GEMMA online](https://www.gemmaonline.nl/index.php/GEMMA_Zaaktypecatalogus)
+voor het ontwerpen, beheren en uitwisselen van zaaktypen. De laatste versie is beschikbaar via het overzicht op <a href='https://www.gemmaonline.nl/index.php/GEMMA_Zaaktypecatalogus' target='_blank'>GEMMA online</a>. 
 
 Welke ruimtelijke plannen conform de Wro en Wabo (daarmee zaaktypen) per
 bestuursorgaan worden vastgelegd, is in paragraaf [2.2](#stap-1-inzicht-in-organisatie-van-informatie) aangegeven. Er moet
@@ -202,7 +199,7 @@ onderdelen: welke activiteiten vinden er plaats tijdens de procedure van het
 ruimtelijk plan en welke informatie is archiefplichtig. De selectielijst (paragraaf [4.2](#bewaartermijnen)) geeft inzicht in de
 bewaartermijn van het betreffende ruimtelijk plan. Een selectielijst geeft aan
 hoe lang de verschillende archiefstukken bewaard moeten of mogen worden.
-Het [ontwerpen van een selectielijst](https://www.nationaalarchief.nl/archiveren/kennisbank/selectielijst-maken), is verplicht voor
+Het <a href='https://www.nationaalarchief.nl/archiveren/kennisbank/selectielijst-maken' target='_blank'>ontwerpen van een selectielijst</a>, is verplicht voor
 overheidsorganisaties op basis van artikel 5 van de Archiefwet 1995. Nieuwe selectielijsten worden door
 de minister van Onderwijs, Cultuur en Wetenschap vastgesteld door middel van een
 vaststellingsbesluit.
@@ -236,8 +233,7 @@ subdossier dat wordt aangemaakt is die van de fase ontwerp.
 
 ### Dossier
 Dossier is een veelgebruikte naam voor een samenhangende aggregatie
-van archiefstukken met een eigen identiteit. Een standaard als
-[MDTO](https://www.nationaalarchief.nl/archiveren/mdto) schrijft geen aggregatieniveaus voor, maar biedt organisaties ruimte om
+van archiefstukken met een eigen identiteit. Een standaard als <a href='https://www.nationaalarchief.nl/archiveren/mdto' target='_blank'>MDTO</a> schrijft geen aggregatieniveaus voor, maar biedt organisaties ruimte om
 aggregaties (van archiefstukken) een naam te geven die aansluit bij de eigen
 ordening van informatie.
 
@@ -350,14 +346,13 @@ Hier wordt aangegeven waar dit subdossier onderdeel van uit maakt. Er wordt verw
 
 -   *Aanwezigheid kopieversies*  
 Het bestuursorgaan stelt het betreffende ruimtelijke plan ook voor een ieder
-beschikbaar via de weblocatie die is gemeld aan de
-[Index](https://www.ruimtelijkeplannen.nl/web-roi/index/). De
+beschikbaar via de weblocatie die is gemeld aan de <a href='https://www.ruimtelijkeplannen.nl/index' target='_blank'>Index van Ruimtelijkeplannen.nl</a>. De
 publicatie datum van beschikbaarstelling wordt vastgelegd bij het archiveren
 van de samenhangende set van bronbestanden.
 
 Gemeenten, provincies en het Rijk zijn conform het Bro verplicht hun ruimtelijke plannen via
 een vooraf opgegeven locatie aan eenieder beschikbaar, vindbaar en toegankelijk
-te maken. De locatie wordt gemeld aan de index van de landelijk voorziening [Ruimtelijkeplannen.nl](https://www.ruimtelijkeplannen.nl/index).
+te maken. De locatie wordt gemeld aan de index van de landelijk voorziening <a href='https://www.ruimtelijkeplannen.nl' target='_blank'>Ruimtelijkeplannen.nl</a>.
 
 ### Document
 
