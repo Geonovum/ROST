@@ -1,12 +1,6 @@
 ## Algemene Werkwijze bij Foutherstel 
 
-<b>Ambtelijk foutherstel in een ruimtelijke plan of besluit door de bronhouder, zonder voorafgaand besluit, is het herstellen van de metadata c.q. de technische kenmerken van het ruimtelijk plan of besluit of het opheffen van inconsistenties in de planvoorraad tussen bronhouder en Ruimtelijkeplannen.nl.</b>
-
-### Werkafspraak vs. Handreiking
-
-Bij onduidelijkheden, tegenstrijdigheden of fouten in de RO Standaarden kan het werkveld de beheerders van de standaarden vragen hoe je de standaard nu moet gebruiken totdat een officiële wijziging van de standaard de onduidelijkheid recht zet. Deze tussentijdse adviezen over het gebruik van de RO Standaarden heten werkafspraken. 
-
-De werkafspraak ‘<a href='https://docs.geostandaarden.nl/ro/def-wa-waSTRIIMRO-20180901/' target='_blank'>Wijzigen reeds eerder gepubliceerde plannen(STRI/IMRO)</a>’ betreft in dit geval geen wijziging van de Standaard Toegankelijkheid Ruimtelijke Instrumenten/ Informatiemodel Ruimtelijke ordening maar een nadere uitleg en dringend advies over de toepassing van de RO Standaarden bij vastgestelde plannen. De werkafspraak is de basis voor deze handreiking. De hiernavolgende paragrafen zijn aanvullend op deze werkafspraak.
+<b>Ambtelijk foutherstel in een ruimtelijke plan of besluit door de bronhouder, zonder voorafgaand besluit, is het herstellen van de metadata c.q. de technische kenmerken van het ruimtelijk plan of besluit, of het opheffen van inconsistenties in de planvoorraad tussen bronhouder en Ruimtelijkeplannen.nl. Dit hoofdstuk is een uitwerking van en aanvulling op de technisch mogelijkheden in IMRO en de STRI voor foutherstel.</b>
 
 ### Aanpassing van vorm- of technische aspecten
 
