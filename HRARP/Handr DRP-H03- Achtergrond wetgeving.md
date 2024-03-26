@@ -79,8 +79,8 @@ feitelijk bovenstaande plannen, visies en besluiten bedoeld. Digitaal geeft aan:
 conform de RO Standaarden.
 
 ### Archiefwet  
-Nederlandse overheidsorganen vallen onder de [Archiefwet 1995](https://wetten.overheid.nl/BWBR0007376/). Specifieke
-bepalingen uit de *Archiefwet* zijn uitgewerkt in het [Archiefbesluit](https://wetten.overheid.nl/BWBR0007748/). En
+Nederlandse overheidsorganen vallen onder de <a href='https://wetten.overheid.nl/BWBR0007376/' target='_blank'>Archiefwet 1995</a>. Specifieke
+bepalingen uit de *Archiefwet* zijn uitgewerkt in het <a href='https://wetten.overheid.nl/BWBR0007748/' target='_Archiefbesluit</a>. En
 gedetailleerde regels voor de informatiehuishouding en de archieven van de
 overheid zijn geformuleerd in de *Archiefregeling*. Ieder overheidsorgaan moet
 nadere regels vaststellen voor de organisatie van het archiefbeheer,
@@ -103,7 +103,7 @@ In het kader van de Wro zijn de RO Standaarden bepalend voor het uitwisselbaar,
 beschikbaar, vindbaar en toegankelijk maken van de ruimtelijke plannen. De
 Regeling standaarden ruimtelijke ordening 2012 geeft de volgende normen aan: 
 
-1.  **IMRO**: Informatie Model Ruimtelijke Ordening  
+1.  **IMRO**: <a href='https://docs.geostandaarden.nl/ro/imro/' target='_blank'>Informatie Model Ruimtelijke Ordening</a>  
 De plankaart wordt in GML formaat conform het Informatie Model Ruimtelijke
 Ordening opgeleverd. In deze GML is naast inhoudelijke planinformatie, ook
 informatie over het plan opgenomen zoals gegevens over het bestuursorgaan en
@@ -114,14 +114,14 @@ bijvoorbeeld wil naast het plan zelf van een bepaald moment ook over de
 daarbij vastgestelde ondergrond kunnen beschikken. Conform artikel 1.2.4 Bro moet bij het besluit tot vaststelling van het
 ruimtelijk plan worden aangegeven welke ondergrond is gebruikt.
 
-2.  **STRI**: Standaard Toegankelijkheid Ruimtelijke Instrumenten  
+2.  **STRI**: <a href='https://docs.geostandaarden.nl/ro/stri/' target='_blank'>Standaard Toegankelijkheid Ruimtelijke Instrumenten</a>  
 Bij het beschikbaar en toegankelijk maken van ruimtelijke plannen moet de
 Standaard Toegankelijkheid Ruimtelijke Instrumenten verplicht worden
 toegepast. In de STRI worden eisen gesteld aan de bestandsextensies,
 formaten, bestandsnamen, te gebruiken identificatienummer, het digitaal
-waarmerken (zie <a href='https://docs.geostandaarden.nl/ro/stri' target='_blank'>STRI2012</a>) en de beschikbaarstelling zelf. 
+waarmerken en de beschikbaarstelling zelf. 
 
-3.  **SVBP**: Standaard Vergelijkbare Bestemmingsplannen  
+3.  **SVBP**: <a href='https://docs.geostandaarden.nl/ro/svbp/' target='_blank'>Standaard Vergelijkbare Bestemmingsplannen</a>  
 In de Standaard Vergelijkbare Bestemmingsplannen is voor bestemmingsplannen,
 inpassingsplannen, rijksbestemmingsplannen, wijzigings- en
 uitwerkingsplannen aangegeven hoe deze van een verbeelding (weergave) in een
@@ -129,7 +129,7 @@ viewer (software) moeten worden voorzien. Voor andere ruimtelijke plannen
 dan deze plannen geldt dat zij conform de Wro vormvrij zijn: geen
 verbeeldingsafspraken. 
 
-4.  **IMROPT**: Informatie Model Ruimtelijke Ordening Planteksten  
+4.  **IMROPT**: <a href='https://docs.geostandaarden.nl/ro/imropt/' target='_blank'>Informatie Model Ruimtelijke Ordening Planteksten</a>  
 De standaard voor planteksten moet door de bestuursorganen onder voorwaarde
 verplicht worden gebruikt. Toepassing van IMROPT2012 is verplicht wanneer
 het bestuursorgaan ervoor kiest de planteksten in objectgerichte vorm (XML)
@@ -152,8 +152,7 @@ De dataset omvat de verschillende onderdelen van het ruimtelijk plan:
 -   Beleidsdocument;  
 -   Geleideformulier.  
 
-Tot slot maken ook de [praktijkrichtlijnen](https://www.geonovum.nl/geo-standaarden/ro-standaarden-ruimtelijke-ordening#ROstandaarden) onderdeel uit van de RO Standaarden.
-De praktijkrichtlijnen geven toelichting op de normen IMRO, STRI, SVBP en IMROPT
+Tot slot maken ook de <a href='https://www.geonovum.nl/geo-standaarden/ro-standaarden-ruimtelijke-ordening#ROstandaarden' target='_blank'>praktijkrichtlijnen</a> onderdeel uit van de RO Standaarden. De praktijkrichtlijnen geven toelichting op de normen IMRO, STRI, SVBP en IMROPT
 door voor de gebruiker van de standaard per type ruimtelijk plan aan te geven
 hoe het ruimtelijk plan moet en kan worden gemaakt volgens de standaard.
 
@@ -161,27 +160,27 @@ hoe het ruimtelijk plan moet en kan worden gemaakt volgens de standaard.
 Vanuit het oogpunt van archivering is, naast de Archiefwet- en regelgeving, een
 aantal normen en standaarden te benoemen die de duurzame toegankelijkheid van
 informatie ondersteunen:  
-1.  [DUTO](https://www.nationaalarchief.nl/archiveren/duto): Normenkader met
+1.  <a href='https://www.nationaalarchief.nl/archiveren/duto' target='_blank'>DUTO</a>: Normenkader met
     eisen voor duurzame toegankelijkheid van overheidsinformatie in
     informatiesystemen, mede op basis van wet- en regelgeving en standaarden.  
 2.  **NEN-ISO 30301**: Managementsystemen voor archivering.  
 3.  **NEN-ISO 15489-1**: Informatie- en archiefmanagement – Deel 1: Concepten en uitgangspunten: standaard waarin principes en uitgangspunten voor het beheer van archiefstukken worden beschreven.  
 4.  **NEN-ISO 23081**: metagegevens voor archiefstukken. De creatie van een metagegevensschema zoals bedoeld in deze standaard wordt ook voorgeschreven in de Archiefregeling.   
 5.  **NEN-ISO 14721**: Open Archival Information System (OAIS) - standaard (referentiemodel) voor de functionaliteit van een e-depot.  
-6.  **NEN-ISO 16175**: internationale standaard Functionele eisen en bijbehorende richtlijnen voor applicaties voor het beheren van digitale archiefstukken.  7.  **OWMS**: de Overheid.nl Web Metadata Standaard (OWMS) is de metagegevensstandaard voor informatie van de Nederlandse overheid op internet. Deze is/ wordt vervangen door [TOOI](https://tardis.overheid.nl/).   
+6.  **NEN-ISO 16175**: internationale standaard Functionele eisen en bijbehorende richtlijnen voor applicaties voor het beheren van digitale archiefstukken.  7.  **OWMS**: de Overheid.nl Web Metadata Standaard (OWMS) is de metagegevensstandaard voor informatie van de Nederlandse overheid op internet. Deze is/ wordt vervangen door <a href='https://tardis.overheid.nl/' target='_blank'>TOOI</a>.   
 8.  **NEN-ISO 27000**: Management systeem standaard voor informatiebeveiliging, in Nederland uitgewerkt in de Baseline Informatiebeveiliging Overheid (BIO).
-9.  [**ISO 19165-1:2018**](https://www.iso.org/standard/67325.html) Geographic information -- Preservation of digital
+9.  **<a href='https://www.iso.org/standard/67325.html' target='_blank'>ISO 19165-1:2018</a>** Geographic information -- Preservation of digital
     data and metadata -- Part 1: Fundamentals  
-10. [**ISO 19115-1:2014**](https://www.iso.org/standard/53798.html) Geographic information -- Metadata -- Part 1:
+10. **<a href='https://www.iso.org/standard/53798.html' target='_blank'>ISO 19115-1:2014</a>** Geographic information -- Metadata -- Part 1:
     Fundamentals  
-11. **[INSPIRE richtlijnen](https://www.geonovum.nl/geo-standaarden/inspire-europese-leefomgeving) en de [Nederlands metadataprofielen voor datasets en services](https://www.geonovum.nl/geo-standaarden/metadata)**  
-12. **Common Specification for Geospatial data**, onderdeel van [eArchiving building block](https://ec.europa.eu/isa2/library/inspire-common-geospatial-data-standards-more-informed-and-timely-decisions_en/).  
+11. **<a href='https://www.geonovum.nl/geo-standaarden/inspire-europese-leefomgeving' target='_blank'>INSPIRE richtlijnen</a>** en de <a href='https://www.geonovum.nl/geo-standaarden/metadata' target='_blank'>Nederlands metadataprofielen voor datasets en services</a>**  
+12. **Common Specification for Geospatial data**, onderdeel van <a href='https://ec.europa.eu/isa2/library/inspire-common-geospatial-data-standards-more-informed-and-timely-decisions_en/' target='_blank'>eArchiving building block</a>.  
 
  ## Andere kaders
 
 Naast wetgeving en standaarden zijn er een aantal andere kaders die een rol
 spelen bij ruimtelijke plannen. Een belangrijk kader is de [Nederlandse Overheid
-Referentie Architectuur (NORA)](https://www.noraonline.nl/wiki/NORA_online).
+Referentie Architectuur <a href='https://www.noraonline.nl/wiki/NORA_online' target='_blank'>NORA</a>.
 
 NORA bevat principes, beschrijvingen, modellen en standaarden voor het ontwerp
 en de inrichting van de elektronische overheid. Het centrale begrip is
@@ -222,7 +221,7 @@ Toegankelijkheid Ruimtelijke Instrumenten, zie hoofdstuk 6 van de
 
 Pas wanneer dit waarmerk aan het plan is toegevoegd, is dit het digitale authentieke plan conform de RO
 Standaarden dat beschikbaar, toegankelijk en vindbaar moet zijn. Artikel 24 van de Archiefregeling schrijft voor dat, wanneer er gebruik is
-gemaakt van een digitale waarmerk of handtekening conform de [Wet elektronische handtekening](https://www.inspectie-oe.nl/toezichtvelden/overheidsinformatie/wet--en-regelgeving/overige-informatiewetgeving/wet-elektronische-handtekeningen) in de metagegevens wordt
+gemaakt van een digitale waarmerk of handtekening conform de <a href='https://www.inspectie-oe.nl/toezichtvelden/overheidsinformatie/wet--en-regelgeving/overige-informatiewetgeving/wet-elektronische-handtekeningen' target='_blank'>Wet elektronische handtekening</a> in de metagegevens wordt
 vastgelegd wie de houder is van de digitale handtekening, wanneer de
 handtekening is gevalideerd en wat daar het resultaat van was, welke
 functionaris verantwoordelijk was voor de validatie en de identificatie van het
