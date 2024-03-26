@@ -7,14 +7,14 @@ handreiking kunt verwachten.**
 ## Aanleiding
 
 In de praktijk van de ruimtelijke ordening zijn de digitale ruimtelijke plannen
-conform de Wet ruimtelijke ordening (Wro), de authentieke plannen. Dit betekent
+van de <a href='http://wetten.overheid.nl/BWBR0020449' target='_blank'>Wet ruimtelijke ordening</a> (Wro), de authentieke plannen. Dit betekent
 dat een samenhangende set bronbestanden (dataset genoemd) conform de RO
 Standaarden door gemeenten, provincies en het Rijk geproduceerd, beschikbaar
 gesteld, vindbaar en toegankelijk gemaakt worden. 
 <details class='note'>
 Gemeenten, provincies en het rijk zijn bronhouders van de ruimtelijke
 plannen. Deze bestuursorganen maken de ruimtelijke plannen genoemd in artikel
-1.2.1 van het Besluit ruimtelijke ordening (Bro).
+1.2.1 van het <a href='http://wetten.overheid.nl/BWBR0023798' target='_blank'>Besluit ruimtelijke ordening</a> (Bro).
 </details>
 De samenhangende set bronbestanden is naast alle analoge en digitale stukken, zoals de ondergrond,
 één van de onderdelen in de planprocedure. De bestuursorganen zijn tevens
@@ -26,10 +26,9 @@ probleem. Met betrekking tot het archiveren van de samenhangende set
 bronbestanden heerst echter na bijna tien jaar digitalisering nog steeds veel
 onbekendheid. Daarnaast wordt soms ten onrechte verondersteld dat de landelijke
 voorziening Ruimtelijkeplannen.nl een archieffunctie heeft of zou moeten hebben.
-Vragen hierover worden aan Geonovum gesteld.
 
 Dit gaf aanleiding om samen
-met experts van gemeenten, provincies, (destijds) het ministerie van IenM en het Nationaal
+met experts van gemeenten, provincies, (destijds) het ministerie van Infrastructuur en Milieu en het Nationaal
 Archief het digitaal archiveren van ruimtelijke plannen nader te onderzoeken en de resultaten samen te vatten in een praktische
 handreiking. De centrale vraag die daarbij werd gesteld is *“waar moet ik op
 letten wanneer ik een ruimtelijk plan (bv. bestemmingsplan) archiveer c.q.
