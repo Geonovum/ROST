@@ -25,11 +25,11 @@ function custGHPG(respecConfig)
 var respecConfig =
 {
   pubDomain: "ro",
-  //specStatus: "GN-WV",
-  specStatus: "GN-DEF",
+  specStatus: "GN-WV",
+  //specStatus: "GN-DEF",
   specType: "HR",
   license: "cc-by-nd",
- publishDate: "2024-04-16",
+ publishDate: "2024-04-04",
   authors: [
     {
       name: "Beheerteam DRO",
@@ -50,8 +50,8 @@ var respecConfig =
   github: "https://github.com/geonovum/ROST",
   issueBase: "https://github.com/geonovum/ROST/issues/",
   edDraftURI: "https://Geonovum.github.io/ROST/",
-  publishISODate: "2022-12-15T00:00:00.000Z",
-  generatedSubtitle: "Vastgestelde versie 15 december 2022",
-  previousPublishDate: "2022-12-15",
+  publishISODate: "2024-04-03T00:00:00.000Z",
+  generatedSubtitle: "Vastgestelde versie 3 april 2024",
+  previousPublishDate: "2024-04-03",
   previousMaturity: "GN-DEF",
 }
