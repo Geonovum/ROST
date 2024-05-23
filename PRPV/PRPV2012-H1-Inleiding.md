@@ -52,7 +52,7 @@ inhoud van de oorspronkelijke provinciale verordening worden geraadpleegd.
 Daarmee wordt de volledige digitale representatie van een provinciale
 verordening vastgelegd.
 
-Context
+## Context
 
 Naast de voorliggende praktijkrichtlijn is sprake van andere praktijkrichtlijnen
 en standaarden die in samenhang zijn ontwikkeld in de context van de Wro. De
@@ -148,7 +148,7 @@ artikel 2.12, eerste lid, onderdeel a, onder 3<sup>0</sup>, van de <a href='http
 dan niet voor een daarbij aangegeven gedeelte van het grondgebied van de
 provincie.
 
-Leeswijzer
+## Leeswijzer
 
 De voorliggende praktijkrichtlijn gaat in [Hoofdstuk 2](#H02) in op aard en karakter van
 de provinciale verordening in de context van het informatiemodel. [Hoofdstuk 3](#H03)
