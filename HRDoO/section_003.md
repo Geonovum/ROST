@@ -1,7 +1,7 @@
 ## Uitwerking foutherstel in de planvoorraad
 
 **Het is belangrijk dat technische fouten in de planvoorraad door de bronhouder worden aangepast; technische fouten kunnen ertoe leiden dat plannen niet of onjuist worden weergegeven in de viewer van het Omgevingsloket.
-Bronhouders kunnen via <i>‘Het kwaliteitsdashboard’</i> van het Kadaster hun planvoorraad zelf monitoren op de meest voorkomende fouten. Om toegang te krijgen tot het kwaliteitsdashboard dien je eerst in te loggen in het portaal van [Mijn Kadaster](https://mijn.kadaster.nl/security/login?URL=https%3A%2F%2Fmijn.kadaster.nl%2Fdashboard&retry=no). Iedere bronhouder kent een zogenaamde “eerste beheerder” die deze toegang kan regelen.**
+Bronhouders kunnen via <i>‘Het kwaliteitsdashboard’</i> van het Kadaster hun planvoorraad zelf monitoren op de meest voorkomende fouten. Om toegang te krijgen tot het kwaliteitsdashboard dien je eerst in te loggen in het portaal van <a href='https://mijn.kadaster.nl/security/login?URL=https%3A%2F%2Fmijn.kadaster.nl%2Fdashboard&retry=no' target='_blank'>Mijn Kadaster</a>. Iedere bronhouder kent een zogenaamde “eerste beheerder” die deze toegang kan regelen.**
 
 ### Consistent gebruik planstatus en dossierstatus
 
@@ -9,7 +9,7 @@ Via het manifest van de bronhouder wordt de planvoorraad van het bevoegd gezag b
 
 De dossierstatus moet passend zijn met de status van het plan in het dossier. Voorbeeld: bevat een dossier uitsluitend een plan met de planstatus ‘concept’, ‘voorontwerp’ of ‘ontwerp’ dan is de dossierstatus ‘in voorbereiding’. Wijzigt de status van het plan in ‘vastgesteld’ dan zal door de bronhouder ook de status van het dossier moeten worden aangepast, eerst in ‘vastgesteld’, maar afhankelijk van het verloop van de procedure naar een volgende status. 
 
-In bijlage 1 van de [Praktijkrichtlijn Toegankelijkheid Ruimtelijke Instrumenten (PRTRI)](https://docs.geostandaarden.nl/ro/tri2012) zijn de mogelijke dossierstatussen van ruimtelijke instrumenten beschreven. De verschillende dossierstatussen zijn omschreven in [paragraaf 5.8](https://docs.geostandaarden.nl/ro/tri2012/#beschrijving-dossierstatussen-met-overgangen) van de PRTRI2012, en de planstatussen in [paragraaf 5.7](https://docs.geostandaarden.nl/ro/tri2012/#beschrijving-planstatussen) van de PRTRI2012.
+In bijlage 1 van de <a href='https://docs.geostandaarden.nl/ro/tri2012' target='_blank'>Praktijkrichtlijn Toegankelijkheid Ruimtelijke Instrumenten (PRTRI)</a> zijn de mogelijke dossierstatussen van ruimtelijke instrumenten beschreven. De verschillende dossierstatussen zijn omschreven in <a href='https://docs.geostandaarden.nl/ro/tri2012/#beschrijving-dossierstatussen-met-overgangen' target='_blank'>paragraaf 5.8</a> van de PRTRI2012, en de planstatussen in <a href='https://docs.geostandaarden.nl/ro/tri2012/#beschrijving-planstatussen' target='_blank'>paragraaf 5.7</a> van de PRTRI2012.
 
 
 **Gevolgen in Viewer regels op de kaart van het DSO-LV**  
@@ -94,14 +94,14 @@ In hoofdstuk 5 van de <a href='https://docs.geostandaarden.nl/ro/gb2012/' target
 <li>Pas het attribuut ‘verwijzingNaarExternPlanInfo’ aan;</li>
 <li>Opnieuw waarmerken, valideren en publiceren en een dag later weer aanbieden aan Ruimtelijkeplannen.nl.</li>
 </ol>
- 
+<br> 
 
 <img src='media/Relaties_plannen.png' alt='Onderlinge relaties tussen plannen' style='width: 100%;'></img>  
 
 ### Naamgeving plannen (Chw en TAM)
 
 <b>Crisis en herstelwet plannen (Chw)</b>  
-Met het wijzigen van het Besluit Crisis- en herstelwet in mei 2014 (Stb. 2014, nr. 168) is het voor gemeenten mogelijk bestemmingsplannen (met verbrede reikwijdte) te maken waarmee onder andere kan worden afgeweken van een aantal met name genoemde onderdelen van de geldende wet- en regelgeving. Een van de aspecten waar gemeenten onder voorwaarden van af mogen wijken zijn de digitale aspecten met RO Standaarden en Ruimtelijkeplannen.nl. Om ervoor te zorgen dat deze plannen wel herkenbaar zijn is in de <a href='https://docs.geostandaarden.nl/ro/waCHWbp/' target='_blank'>werkafspraak</a> ‘Chw bestemmingsplannen digitaal beschikbaar stellen’ onder andere vastgelegd dat de naamgeving van het plan moet beginnen met: <b>‘</b><b>Chw bestemmingsplan</b><b>’</b>. Wanneer u op dit moment een Chw bestemmingsplan heeft gepubliceerd zonder de juiste naamgeving, kunt u dit alsnog aanpassen. 
+Met het wijzigen van het Besluit Crisis- en herstelwet in mei 2014 (Stb. 2014, nr. 168) is het voor gemeenten mogelijk bestemmingsplannen (met verbrede reikwijdte) te maken waarmee onder andere kan worden afgeweken van een aantal met name genoemde onderdelen van de geldende wet- en regelgeving. Een van de aspecten waar gemeenten onder voorwaarden van af mogen wijken zijn de digitale aspecten met RO Standaarden en Ruimtelijkeplannen.nl. Om ervoor te zorgen dat deze plannen wel herkenbaar zijn is in de <a href='https://docs.geostandaarden.nl/ro/waCHWbp/' target='_blank'>werkafspraak Chw bestemmingsplannen digitaal beschikbaar stellen</a> onder andere vastgelegd dat de naamgeving van het plan moet beginnen met: <b>‘</b><b>Chw bestemmingsplan</b><b>’</b>. Wanneer u op dit moment een Chw bestemmingsplan heeft gepubliceerd zonder de juiste naamgeving, kunt u dit alsnog aanpassen. 
 
 <b>Wat te doen?</b>  
 <ol><li>Verwijder het betreffende plan uit het manifest;</li>
@@ -111,8 +111,21 @@ Met het wijzigen van het Besluit Crisis- en herstelwet in mei 2014 (Stb. 2014, n
 <br>
 
 <b>Tijdelijke Alternatieve Maatregel (TAM)</b>  
-Bij inwerkingtreden van de Omgevingswet zal het, voor zover nu bekend, nog enige tijd mogelijk zijn om met behulp van de huidige RO Standaarden en de huidige landelijke voorziening (Ruimtelijkplannen.nl) een beperkt aantakl soorten omgevingswetbesluiten op te stellen. Omdat het noodzakelijk is om deze omgevingswetbesluiten te herkennen en te kunnen onderscheiden van de Wro-besluiten, zijn werkafspraken opgesteld. Hierin is onder andere vastgelegd dat de naam van het besluit moet beginnen met **TAM-[type omgevingswetbesluit]**, bijvoorbeeld 'TAM-omgevingsplan'.  
-De overbruggingsfunctie zal van deze naamgeving gebruik maken om het plan op de juiste wijze te ontsluiten in het DSO. Voor de juiste naamgeving per type omgevingswetbesluit zie de Geonovum website onder <a href='https://www.geonovum.nl/geo-standaarden/omgevingswet/tam/' target='_blank'>Tijdelijke Alternatieve Maatregelen</a>.
+De tijdelijke alternatieve maatregelen (TAM) zijn sinds het in werking treden van de Omgevingswet een tijdelijk vangnet voor overheden en uitvoeringsorganisaties als zij nog niet via het hoofdspoor met de STOP/TPOD standaarden kunnen werken. De mogelijkheid tot inzet van de TAM zorgt er voor dat dringende trajecten in gebiedsontwikkeling ook na inwerkingtreding van de Omgevingswet kunnen doorgaan. Vaak zal een TAM nadelen of beperkingen hebben. Dat is onvermijdelijk en logisch. De reden om toch te werken met TAM is dat ze uiteindelijk bijdragen aan het werken met de Omgevingswet. 
+
+Geonovum beheert de tijdelijke alternatieve maatregelen die worden aangeduid met TAM-IMRO voor zes type omgevingsdocumenten. Deze TAM's bieden overheden die dit nog niet kunnen doen met behulp van STOP/ TPOD de mogelijkheid om met TAM de omgevingsdocumenten alsnog te kunnen ontsluiten in het DSO. Deze TAM’s zijn voor het opstellen van omgevingsdocumenten op basis van de RO Standaarden 2012 (waar IMRO onder valt).
+
+De volgende werkafspraken en andere documentatie zijn beschikbaar:  
+
+<ul><li><a href='https://docs.geostandaarden.nl/ro/waTAMomplan/' target='_blank'>Werkafspraak TAM-omgevingsplan</a> en <a href='https://docs.geostandaarden.nl/ro/HRTAMomplan/' target='_blank'>bijbehorende technische handreiking</a> en de <a href='https://vng.nl/artikelen/bijsluiter-tam-imro-omgevingsplan-0' target='_blank'>VNG bijsluiter</a>;</li>
+<li><a href='https://docs.geostandaarden.nl/ro/waTAMomver/' target='_blank'>Werkafspraak TAM-omgevingsverordening</a> en <a href='https://docs.geostandaarden.nl/ro/HRTAMomver/' target='_blank'>bijbehorende technische handreiking</a>;</li>
+<li><a href='https://docs.geostandaarden.nl/ro/waTAMvbbesluit/' target='_blank'>Werkafspraak TAM-voorbereidingsbesluit</a> en voor gemeenten de <a href='https://vng.nl/artikelen/bijsluiter-tam-voorbereidingsbesluit' target='_blank'>VNG bijsluiter</a>;</li>
+<li><a href='https://docs.geostandaarden.nl/ro/waTAMpbesluit/' target='_blank'>Werkafspraak TAM-projectbesluit</a> en <a href='https://docs.geostandaarden.nl/ro/HRTAMpbesluit' target='_blank'>bijbehorende technische handreiking</a>;</li>
+<li><a href='https://docs.geostandaarden.nl/ro/waTAMreaint/' target='_blank'>Werkafspraak TAM-reactieve interventie</a>;</li>
+<li><a href='https://docs.geostandaarden.nl/ro/waTAMinstr/' target='_blank'>Werkafspraak TAM-instructie</a>.</li>
+</ul>
+
+Meer informatie over de TAM leest u op de <a href='https://www.geonovum.nl/geo-standaarden/omgevingswet/tam/' target='_blank'>Geonovum website</a> en de <a href='https://aandeslagmetdeomgevingswet.nl/implementatie/digitaal-stelsel/tam/' target='_blank'>weer te geven tekst</a>website Aan de Slag met de Omgevingswet.
 
 ### AVG-Proof
 
@@ -127,7 +140,7 @@ Op grond van de Algemene verordening gegevensbescherming (<a href='https://www.r
 <li>Opnieuw waarmerken, valideren en publiceren en een dag later weer aanbieden aan Ruimtelijkeplannen.nl. </li>
 </ul>  
   
-We gaan er vanuit dat alle plannen op Ruimtelijkeplannen.nl voldoen aan de AVG, mocht dit niet zo zijn dan adviseren wij u om dit ruim voor inwerkingtreden Omgevingswet, alsnog aan te passen. Wanneer het toch noodzakelijk is om na in werking treden Omgevingswet foutherstel in het kader van de AVG door te voeren, <u>hou dan rekening met de relatie met tijdreizen, zie [paragraaf 2.4](#relatie-met-tijdreizen).</u>  
+We gaan er vanuit dat alle plannen op Ruimtelijkeplannen.nl voldoen aan de AVG, mocht dit niet zo zijn dan adviseren wij u om dit ruim voor inwerkingtreden Omgevingswet, alsnog aan te passen. Wanneer het toch noodzakelijk is om na in werking treden Omgevingswet foutherstel in het kader van de AVG door te voeren, houdt dan rekening met de relatie met tijdreizen, zie [paragraaf 2.3](#relatie-met-tijdreizen).  
 
 ***Voorbeeld***:  
 De Omgevingswet is van kracht en tijdreizen in het DSO is mogelijk. U constateert dat er een Wro plan in de planvoorraad staat dat persoonsgegevens bevat. U kunt het plan dan aanpassen en onder hetzelfde versie nummer weer publiceren.  
