@@ -40,10 +40,10 @@ worden opgenomen. Indien gewenst kan de kleur van het planobject per kaart
 verschillen, alhoewel dit verwarrend kan werken voor de gebruiker en om die
 reden beter kan worden vermeden.
 
-![](media/a208028353ea6d16b7621f7d551d79ae.png)
-
 **Tabel 3 Attribuut cartografieInfo bij een planobject dat op twee kaarten
 voorkomt**
+
+<table id="d4e507" style="width: 100%;"><caption>Attribuut cartografieInfo bij een planobject dat op twee kaarten voorkomt</caption><colgroup><col id="col1" style="width: 8.222504914999423%;"></col><col id="col2" style="width: 21.31375043367642%;"></col><col id="col3" style="width: 70.46374465132416%;"></col></colgroup><tbody valign="top"><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0pt none #; border-right: 0.5pt solid #000000; background-color: #auto;" colspan="3"><p id="2CDEA279"><i>Attribuut ‘cartografieInfo’ behorende bij het planobject ‘EHS 2013’</i></p></td></tr><tr><td align="left" style="border-top: 0pt none #; border-left: 0.5pt solid #000000; border-bottom: 0pt none #000000; border-right: 0pt none #; background-color: #auto;" rowspan="2"></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: #auto;"><p id="5126D84E">Kaartnummer</p><p id="2617D703">kaartnaam</p><p id="23C1ADD0">symboolcode</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: #auto;"><p id="4F227C49">2</p><p id="17294FC9">Kaart 2a. Kernkwaliteit Natuur</p><p id="5835DC88">S210</p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: #auto;"><p id="761799BC">Kaartnummer</p><p id="5FFF69EB">kaartnaam</p><p id="33DD32FA">symboolcode</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: #auto;"><p id="6921D01F">10</p><p id="3DB24F7A">Kaart 5. Robuust natuursysteem</p><p id="47F977D0">S211</p></td></tr></tbody></table>
 
 ## Weergave van planobjecten op de kaart  
 In deze paragraaf wordt ingegaan op:  
@@ -191,11 +191,7 @@ symboolcode (zie Tabel 4).
 
 **Tabel 4 cartografieInfo bij een planobject als kopje in de legenda**
 
-| *Attribuut ‘cartografieInfo’ behorende bij het planobject ‘Landschapstypen’* |                                 |                                    |
-|------------------------------------------------------------------------------|---------------------------------|------------------------------------|
-|                                                                              | Kaartnummer                     | 3                                  |
-|                                                                              | kaartnaam                       | Kaart 2b. Kernkwaliteit Landschap  |
-|                                                                              | symboolcode                     |                                    |
+<table id="d4e670" style="width: 100%;"><caption>cartografieInfo bij een planobject als kopje in de legenda</caption><colgroup><col id="col1" style="width: 8.222504914999423%;"></col><col id="col2" style="width: 21.31375043367642%;"></col><col id="col3" style="width: 70.46374465132416%;"></col></colgroup><tbody valign="top"><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0pt none #; border-right: 0.5pt solid #000000; background-color: #auto;" colspan="3"><p id="78E3A2FF"><i>Attribuut ‘cartografieInfo’ behorende bij het planobject ‘Landschapstypen’</i></p></td></tr><tr><td align="left" style="border-top: 0pt none #; border-left: 0.5pt solid #000000; border-bottom: 0pt none #000000; border-right: 0pt none #; background-color: #auto;"></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: #auto;"><p id="33727AC5">Kaartnummer</p><p id="324CA2EE">kaartnaam</p><p id="141B0A76">symboolcode</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: #auto;"><p id="1E2CAC1F">3</p><p id="078BDAAF" class="space-after">Kaart 2b. Kernkwaliteit Landschap</p></td></tr></tbody></table>
 
 Het planobject is dan niet klikbaar via de kaart, maar het is opgenomen als
 kopje in de legenda boven één of meerdere onderliggende planobjecten (zie
