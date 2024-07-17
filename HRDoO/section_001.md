@@ -5,7 +5,7 @@
 ### Aanleiding
 
 <b>De zolder opruimen voor de verbouwing</b>  
-In de loop der jaren zijn er via de landelijke voorziening Ruimtelijkeplannen.nl veel waardevolle gegevens gepubliceerd; en een grote planvoorraad is toegankelijk gemaakt. Maar net zoals een zolder die zo nu en dan opgeruimd moet worden om goed bruikbaar te blijven, geldt dit ook voor de planvoorraad. Zeker als er een grote verbouwing zoals de Omgevingswet op komst is, die per 1 januari 2024 inwerking is getreden. Alle gegevens in Ruimtelijkeplannen.nl gaan mee naar het Omgevingsloket van de Omgevingswet. Zo ook bestemmingsplannen e.d. die onderdeel zijn van het tijdelijk omgevingsplan. Deze plannen blijven geldig totdat zij worden vervangen door een nieuw omgevingsplan conform de nieuwe standaard STOP/TPOD (uiterlijk in 2032).
+In de loop der jaren zijn er via de landelijke voorziening Ruimtelijkeplannen.nl veel waardevolle gegevens gepubliceerd; en een grote planvoorraad is toegankelijk gemaakt. Maar net zoals een zolder die zo nu en dan opgeruimd moet worden om goed bruikbaar te blijven, geldt dit ook voor de planvoorraad. Zeker als er een grote verbouwing zoals de Omgevingswet op komst is, die per 1 januari 2024 inwerking is getreden. Alle gegevens in Ruimtelijkeplannen.nl gaan mee naar het Omgevingsloket van de Omgevingswet. Zo ook bestemmingsplannen e.d. die onderdeel zijn van het tijdelijk deel omgevingsplan. Deze plannen blijven geldig totdat zij worden vervangen door een nieuw omgevingsplan conform de standaard STOP/TPOD (uiterlijk in 2032).
 
 Het Informatiehuis Ruimte (IHR) heeft de overbruggingsfunctie gerealiseerd. Deze overbruggingsfunctie zorgt ervoor, dat de gegevens van Ruimtelijkeplannen.nl in het Digitale Stelsel Omgevingswet (DSO) worden ontsloten en in samenhang met de Omgevingswet instrumenten kunnen worden getoond. Hiervoor hoeft de bronhouder (resp. gemeente, provincie of het Rijk) in principe niets te doen, dit gebeurt automatisch. 
 
@@ -37,7 +37,7 @@ De huidige planvoorraad verschilt per organisatie; het kan gaan om enkele tienta
 
 ### Leeswijzer
 
-In deze handreiking worden de verschillende onderwerpen toegelicht en worden handige tips & tricks gegeven. De normen en praktijkrichtlijnen, alsook de handreiking archiveren, zijn hiervoor altijd de <a href='https://www.geonovum.nl/geo-standaarden/ro-standaarden-ruimtelijke-ordening' target='_blank'>basis</a>.
+In deze handreiking worden de verschillende onderwerpen toegelicht en worden handige tips & tricks gegeven. De normen en praktijkrichtlijnen, alsook de handreiking archiveren van de <a href='https://www.geonovum.nl/geo-standaarden/ro-standaarden-ruimtelijke-ordening' target='_blank'>RO Standaarden</a> zijn hiervoor altijd de basis.
 
 In [hoofdstuk 2 Algemene werkwijze bij foutherstel](#algemene-werkwijze-bij-foutherstel) geven we de kaders voor foutherstel van ruimtelijke plannen, wat mag je wel aan een plan wijzigen en wat niet en wat is de te volgen werkwijze.
 
