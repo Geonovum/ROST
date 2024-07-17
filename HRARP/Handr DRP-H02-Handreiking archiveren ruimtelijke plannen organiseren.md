@@ -376,7 +376,7 @@ fase van het plan, verschillen. Welke bestandsformaten moeten worden gebruikt is
 tevens aangegeven in paragraaf 4.2 van de <a href='https://docs.geostandaarden.nl/ro/stri' target='_blank'>STRI2012</a>. De ondergrond maakt geen deel uit van
 de set van bronbestanden die het ruimtelijke instrument vormen. Om die reden
 bevat de STRI2012 geen voorschrift over de toegelaten bestandsformaten voor de
-ondergrond. De <a href='https://docs.geostandaarden.nl/ro/tri2012' target='_blank'>Praktijkrichtlijn Toegankelijkheid Ruimtelijke Instrumenten (PRTRI2012) geeft advies over het gebruik van het formaat.
+ondergrond. De <a href='https://docs.geostandaarden.nl/ro/tri2012' target='_blank'>Praktijkrichtlijn Toegankelijkheid Ruimtelijke Instrumenten (PRTRI2012)</a> geeft advies over het gebruik van het formaat.
 
 -   *Type*
 Met type en daaraan gekoppeld vorm, wordt concreet aangegeven welke
