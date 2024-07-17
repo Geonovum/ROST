@@ -244,7 +244,7 @@ de gebruikte hard- en software en de kwaliteitsprocedures. Op grond van artikel
 bewaren archiefstukken opnemen. In de praktijk gebeurt dit door het opstellen
 van een handboek vervanging. Het Nationaal Archief biedt, hoewel zij geen
 formele rol heeft bij het opstellen van een vervangingsbesluit, organisaties een
-handvat in de vorm van de <a href='https://www.nationaalarchief.nl/archiveren/kennisbank/handreiking-vervanging-archiefbescheiden)' target='_blank'>Handreiking vervanging
+handvat in de vorm van de <a href='https://www.nationaalarchief.nl/archiveren/kennisbank/handreiking-vervanging-archiefbescheiden' target='_blank'>Handreiking vervanging
 archiefbescheiden</a>.
 
 ## Archiefsysteem
