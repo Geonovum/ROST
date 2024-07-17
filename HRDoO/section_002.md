@@ -28,10 +28,8 @@ Op dit moment is ‘tijdreizen’ niet mogelijk in Ruimtelijkeplannen.nl. Het is
 We onderscheiden dus de volgende 2 situaties.
 
 <ul><li>Verwijderde plannen voor in werking treden Omgevingswet zijn middels tijdreizen <u>niet</u> raadpleegbaar in het DSO;</li>
-<li>Verwijderde plannen na inwerkingtreden Omgevingswet, hiervan blijft via tijdreizen <u>de laatste versie</u> raadpleegbaar in het DSO. De laatste versie is het laatst geladen plan onder hetzelfde planidentificatienummer*.</li>
+<li>Verwijderde plannen na inwerkingtreden Omgevingswet, hiervan blijft via tijdreizen <u>de laatste versie</u> raadpleegbaar in het DSO. De laatste versie is het laatst geladen plan onder hetzelfde planidentificatienummer.</li>
 </ul>
-
-*) Zie ook [paragraaf 2.3](#uitvoeren-foutherstel)
 
 Zeker bij foutherstel in het kader van de Algemene verordening gegevensbescherming (<a href='https://www.rijksoverheid.nl/onderwerpen/privacy-en-persoonsgegevens' target='_blank'>AVG</a>), moet hier rekening mee gehouden worden, zie [paragraaf AVG-Proof](#avg-proof) in deze handreiking.  
 
@@ -44,9 +42,9 @@ Ook indien er geen juridische consequenties zijn verbonden aan het herstel van d
 
 <ol><li>Een kennelijke verschrijving wordt opgelost met een ambtelijke wijziging. Dit betekent altijd dat de wijziging van de metadata van het plan, hetzij in een nieuwe versie, hetzij in dezelfde versie moet kunnen worden verantwoord. Intern wordt deze ambtelijke wijziging vastgelegd in het zaak/proces/documentbeheer systeem dat wordt gehanteerd door de bronhouder tijdens de planprocedure.</li>
 <li>Het is hierbij aan te bevelen om de gewijzigde versie van het ruimtelijke plan samen met de verantwoording van de wijziging door de bronhouder te archiveren. De oorspronkelijke versie (zonder aanpassingen in de metadata) hoort dan ook in het archief opgenomen te blijven.</li>
-<li>De planvoorraad op de weblocatie, met manifest, moet na afronding van het foutherstel (weer) gelijk zijn aan de planvoorraad bij de landelijke voorziening Ruimtelijkeplannen.nl, Zie ook [paragraaf 2.3](#uitvoeren-foutherstel).<li>
+<li>De planvoorraad op de weblocatie, met manifest, moet na afronding van het foutherstel (weer) gelijk zijn aan de planvoorraad bij de landelijke voorziening Ruimtelijkeplannen.nl, Zie ook [paragraaf 2.3](#uitvoeren-foutherstel).</li>
 </ol>
 
-In [Hoofdstuk 5](#formulier-foutherstel-ruimtelijke-plannen) is een voorbeeld formulier opgenomen die de bronhouder kan gebruiken voor verantwoording en samen met de nieuwe versie van het ruimtelijke plan, intern archiveert. De 
+In [deze handreiking](#formulier-foutherstel-ruimtelijke-plannen) is een voorbeeld formulier opgenomen die de bronhouder kan gebruiken voor verantwoording en samen met de nieuwe versie van het ruimtelijke plan, intern archiveert. De 
 <a href='https://docs.geostandaarden.nl/ro/arp/' target='_blank'>handreiking Archiveren ruimtelijke plannen</a> is beschikbaar via de <a href='https://www.geonovum.nl/geo-standaarden/ro-standaarden-ruimtelijke-ordening' target='_blank'>Geonovum website, dossier RO Standaarden</a> onder het kopje Handreikingen. 
 
