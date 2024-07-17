@@ -10,12 +10,9 @@ In de praktijk van de ruimtelijke ordening zijn de digitale ruimtelijke plannen
 van de <a href='http://wetten.overheid.nl/BWBR0020449' target='_blank'>Wet ruimtelijke ordening</a> (Wro), de authentieke plannen. Dit betekent
 dat een samenhangende set bronbestanden (dataset genoemd) conform de RO
 Standaarden door gemeenten, provincies en het Rijk geproduceerd, beschikbaar
-gesteld, vindbaar en toegankelijk gemaakt worden. 
-<details class='note'>
-Gemeenten, provincies en het rijk zijn bronhouders van de ruimtelijke
-plannen. Deze bestuursorganen maken de ruimtelijke plannen genoemd in artikel
+gesteld, vindbaar en toegankelijk gemaakt worden. Dit doen zij voor de ruimtelijke plannen genoemd in artikel
 1.2.1 van het <a href='http://wetten.overheid.nl/BWBR0023798' target='_blank'>Besluit ruimtelijke ordening</a> (Bro).
-</details>
+
 De samenhangende set bronbestanden is naast alle analoge en digitale stukken, zoals de ondergrond,
 één van de onderdelen in de planprocedure. De bestuursorganen zijn tevens
 verplicht conform de Archiefwet de ruimtelijk plannen te archiveren met als doel
