@@ -43,7 +43,7 @@ In de vorige paragraaf is met artikel 1.2.1 Bro aangegeven welke ruimtelijke
 plannen digitaal door de bevoegde gezagen conform de RO Standaarden beschikbaar
 worden gesteld en vindbaar en toegankelijk worden gemaakt. Deze paragraaf geeft
 een concreet overzicht. Dit is inclusief de omgevingsvergunning om af te wijken
-van het bestemmingsplan op basis van de <a href='http://wetten.overheid.nl/BWBR0024779' target='_blank'Wabo</a> en het <a href='https://wetten.overheid.nl/BWBR0027464' target='_blank'>Besluit Omgevingsrecht (Bor)</a>. 
+van het bestemmingsplan op basis van de <a href='http://wetten.overheid.nl/BWBR0024779' target='_blank'>Wabo</a> en het <a href='https://wetten.overheid.nl/BWBR0027464' target='_blank'>Besluit Omgevingsrecht (Bor)</a>. 
 
 De wet- en regelgeving verplicht het bestuursorgaan om de mededeling
 (kennisgeving in de Staatscourant) van een met artikel 2.12, eerste lid,
@@ -51,8 +51,8 @@ onderdeel a, onder 3 van de Wabo verleende omgevingsvergunning met behulp van de
 RO Standaarden beschikbaar te stellen. In het Besluit Omgevingsrecht (Bor)
 artikel 6.14 is aangegeven dat bij ministeriële regeling nadere regels worden
 gesteld over de wijze waarop de mededeling elektronisch wordt gedaan en
-beschikbaar gesteld. Dit betreft de ministeriële Regeling standaarden
-ruimtelijke ordening 2012.  
+beschikbaar gesteld. Dit betreft de ministeriële <a href='http://wetten.overheid.nl/BWBR0031829' target='_blank'>Regeling
+standaarden ruimtelijke ordening 2012</a>.  
 
 Overzicht ruimtelijke plannen die door bevoegde gezagen conform de RO Standaarden beschikbaar
 worden gesteld en vindbaar en toegankelijk worden gemaakt:
@@ -80,7 +80,7 @@ conform de RO Standaarden.
 
 ### Archiefwet  
 Nederlandse overheidsorganen vallen onder de <a href='https://wetten.overheid.nl/BWBR0007376/' target='_blank'>Archiefwet 1995</a>. Specifieke
-bepalingen uit de *Archiefwet* zijn uitgewerkt in het <a href='https://wetten.overheid.nl/BWBR0007748/' target='_Archiefbesluit</a>. En
+bepalingen uit de *Archiefwet* zijn uitgewerkt in het <a href='https://wetten.overheid.nl/BWBR0007748/' target='_blank'>Archiefbesluit</a>. En
 gedetailleerde regels voor de informatiehuishouding en de archieven van de
 overheid zijn geformuleerd in de *Archiefregeling*. Ieder overheidsorgaan moet
 nadere regels vaststellen voor de organisatie van het archiefbeheer,
@@ -152,7 +152,7 @@ De dataset omvat de verschillende onderdelen van het ruimtelijk plan:
 -   Beleidsdocument;  
 -   Geleideformulier.  
 
-Tot slot maken ook de <a href='https://www.geonovum.nl/geo-standaarden/ro-standaarden-ruimtelijke-ordening#ROstandaarden' target='_blank'>praktijkrichtlijnen</a> onderdeel uit van de RO Standaarden. De praktijkrichtlijnen geven toelichting op de normen IMRO, STRI, SVBP en IMROPT
+Tot slot maken ook de <a href='https://www.geonovum.nl/geo-standaarden/ro-standaarden-ruimtelijke-ordening#ROStandaarden' target='_blank'>praktijkrichtlijnen</a> onderdeel uit van de RO Standaarden. De praktijkrichtlijnen geven toelichting op de normen IMRO, STRI, SVBP en IMROPT
 door voor de gebruiker van de standaard per type ruimtelijk plan aan te geven
 hoe het ruimtelijk plan moet en kan worden gemaakt volgens de standaard.
 
@@ -167,7 +167,8 @@ informatie ondersteunen:
 3.  **NEN-ISO 15489-1**: Informatie- en archiefmanagement – Deel 1: Concepten en uitgangspunten: standaard waarin principes en uitgangspunten voor het beheer van archiefstukken worden beschreven.  
 4.  **NEN-ISO 23081**: metagegevens voor archiefstukken. De creatie van een metagegevensschema zoals bedoeld in deze standaard wordt ook voorgeschreven in de Archiefregeling.   
 5.  **NEN-ISO 14721**: Open Archival Information System (OAIS) - standaard (referentiemodel) voor de functionaliteit van een e-depot.  
-6.  **NEN-ISO 16175**: internationale standaard Functionele eisen en bijbehorende richtlijnen voor applicaties voor het beheren van digitale archiefstukken.  7.  **OWMS**: de Overheid.nl Web Metadata Standaard (OWMS) is de metagegevensstandaard voor informatie van de Nederlandse overheid op internet. Deze is/ wordt vervangen door <a href='https://tardis.overheid.nl/' target='_blank'>TOOI</a>.   
+6.  **NEN-ISO 16175**: internationale standaard Functionele eisen en bijbehorende richtlijnen voor applicaties voor het beheren van digitale archiefstukken.  
+7.  **OWMS**: de Overheid.nl Web Metadata Standaard (OWMS) is de metagegevensstandaard voor informatie van de Nederlandse overheid op internet. Deze is/ wordt vervangen door <a href='https://standaarden.overheid.nl/tooi' target='_blank'>TOOI</a>.   
 8.  **NEN-ISO 27000**: Management systeem standaard voor informatiebeveiliging, in Nederland uitgewerkt in de Baseline Informatiebeveiliging Overheid (BIO).
 9.  **<a href='https://www.iso.org/standard/67325.html' target='_blank'>ISO 19165-1:2018</a>** Geographic information -- Preservation of digital
     data and metadata -- Part 1: Fundamentals  
@@ -234,18 +235,18 @@ certificaat van de digitale handtekening. De handtekening zelf hoeft volgens de
 -   Besluit ruimtelijke ordening  
 -   Regeling standaarden ruimtelijke ordening  
     -   RO Standaarden  
-        -   <a href='https://docs.geostandaarden.nl/ro/imro' target='_blank'> Informatiemodel Ruimtelijke Ordening Planteksten (IMRO2012);  
-        -   <a href='https://docs.geostandaarden.nl/ro/stri' target='_blank'>Standaard Toegankelijkheid Ruimtelijke Instrumenten (STRI2012);  
-        -   <a href='https://docs.geostandaarden.nl/ro/svbp' target='_blank'>Standaard Vergelijkbare Bestemmingsplannen (SVBP2012);  
-        -   <a href='https://docs.geostandaarden.nl/ro/imropt' target='_blank'> Informatiemodel Ruimtelijke Ordening Planteksten (IMROPT2012).  
+        -   <a href='https://docs.geostandaarden.nl/ro/imro' target='_blank'>Informatiemodel Ruimtelijke Ordening Planteksten (IMRO2012)</a>;  
+        -   <a href='https://docs.geostandaarden.nl/ro/stri' target='_blank'>Standaard Toegankelijkheid Ruimtelijke Instrumenten (STRI2012)</a>;  
+        -   <a href='https://docs.geostandaarden.nl/ro/svbp' target='_blank'>Standaard Vergelijkbare Bestemmingsplannen (SVBP2012)</a>;  
+        -   <a href='https://docs.geostandaarden.nl/ro/imropt' target='_blank'> Informatiemodel Ruimtelijke Ordening Planteksten (IMROPT2012)</a>.  
 -   **Archiefwet**  
 -   Archiefbesluit  
 -   Archiefregeling  
-    -   NEN-ISO 23081: Metagegevens voor archiefstukken, zie: https://www.nen.nl/nen-iso-23081-1-2017-nl-269387, https://www.nen.nl/nen-iso-23081-2-2021-nl-296581 en https://www.nen.nl/npr-iso-tr-23081-3-2011-en-163226 (leidraad voor self-assessment);  
-    -   NEN-ISO 30301]: Managementsysteem standaard voor archivering, zie https://www.nen.nl/nen-iso-30301-2019-en-256359;  
-    -   NEN-ISO 15489-1: Informatie- en archiefmanagement – Deel 1: Concepten en uitgangspunten, zie: https://www.nen.nl/nen-iso-15489-1-2016-en-218754  
-    -   NEN-ISO 16175: Functionele eisen en bijbehorende richtlijnen voor applicaties voor het beheren van digitale archiefstukken, zie: https://www.nen.nl/nen-iso-16175-1-2020-nl-287549
-    -   NEN-ISO 27000: Management systeem standaard voor informatiebeveiliging, zie https://www.nen.nl/nen-en-iso-iec-27000-2020-en-268561.
+    -   NEN-ISO 23081: Metagegevens voor archiefstukken, zie: <a href='https://www.nen.nl/nen-iso-23081-1-2017-nl-269387' target='_blank'>NEN-ISO 23081-1:2017</a>, <a href='https://www.nen.nl/nen-iso-23081-2-2021-nl-296581' target='_blank'>NEN-ISO 23081-2:2021</a> en <a href='https://www.nen.nl/npr-iso-tr-23081-3-2011-en-163226' target='_blank'>NPR-ISO/TR 23081-3:2011</a> (leidraad voor self-assessment);  
+    -   NEN-ISO 30301]: Managementsysteem standaard voor archivering, zie <a href='https://www.nen.nl/nen-iso-30301-2019-en-256359' target='_blank'>NEN-ISO 30301:2019</a>;  
+    -   NEN-ISO 15489-1: Informatie- en archiefmanagement – Deel 1: Concepten en uitgangspunten, zie <a href='https://www.nen.nl/nen-iso-15489-1-2016-en-218754' target='_blank'>NEN-ISO 15489-1:2016</a>;  
+    -   NEN-ISO 16175: Functionele eisen en bijbehorende richtlijnen voor applicaties voor het beheren van digitale archiefstukken, zie <a href='https://www.nen.nl/nen-iso-16175-1-2020-nl-287549' target='_blank'>NEN-ISO 16175-1:2020</a> 
+    -   NEN-ISO 27000: Management systeem standaard voor informatiebeveiliging, zie <a href='https://www.nen.nl/nen-en-iso-iec-27000-2020-en-268561' target='_blank'>NEN-EN-ISO/IEC 27000:2020</a>.
 -   **Model Archiefverordening 2017**
 -   Model Aanwijzings- en benoemingsbesluiten informatiebeheer  
 -   Model Beheerregeling informatiebeheer  
