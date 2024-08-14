@@ -1,8 +1,10 @@
-# https://github.com/Geonovum/ROST
-Repository voor beheer van de verschillende (niet normatieve) onderdelen van de RO Standaarden.
-Een overzicht van de verschillende documenten vindt u hieronder.
+# RO Standaarden - ontwikkeling
 
-De normatieve onderdelen van de RO Standaarden zijn te raadplegen via de [Geonovum website](https://www.geonovum.nl/geo-standaarden/ro-standaarden-ruimtelijke-ordening#ROStandaarden), op de URL zoals IMRO2012, STRI2012, SVBP2012 en IMROP2012 zijn opgenomen in de ministeriële [Regeling standaarden ruimtelijke ordening 2012](http://wetten.overheid.nl/BWBR0031829).
+Dit is de werkomgeving voor het beheer van de verschillende niet-normatieve onderdelen van de RO Standaarden. Een overzicht van de verschillende documenten vindt u hieronder.
+
+De in het kader van de Wro verplicht toe te passen RO Standaarden IMRO2012, STRI2012, SVBP2012 en IMROP2012 zijn opgenomen in de ministeriële [Regeling standaarden ruimtelijke ordening 2012](http://wetten.overheid.nl/BWBR0031829). De werkomgeving van de normatieve RO Standaarden vindt u ook op de [Geonovum GitHub](https://github.com/Geonovum/). 
+
+De definitieve versies van zowel de normatieve als niet-normatieve onderdelen van de RO Standaarden zijn te raadplegen via de [Geonovum website](https://www.geonovum.nl/geo-standaarden/ro-standaarden-ruimtelijke-ordening#ROStandaarden). 
 
 | Document                                                                                                                       |  
 |--------------------------------------------------------------------------------------------------------------------------------|  
