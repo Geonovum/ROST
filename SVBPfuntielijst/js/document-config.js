@@ -3,8 +3,8 @@ var documentConfig =
   title: "SVBP2012 Functielijst",
   shortName: "SVBPfunctielijst",
   pubDomain: "ro",
-  specStatus: "basis",
-  specType: "bd",
+  specStatus: "wv",
+  specType: "bp",
   license: "cc-by-nd",
   latestVersion: [
     "https://docs.geostandaarden.nl/ro/SVBPfunctielijst/"
@@ -12,7 +12,7 @@ var documentConfig =
   publishDate: "2024-08-14",
   publishVersion: "1.3.0",
   thisVersion: [
-    "https://docs.geostandaarden.nl/ro/basis-bd-SVBPfunctielijst-20240814/"
+    "https://docs.geostandaarden.nl/ro/wv-bp-SVBPfunctielijst-20240814/"
   ],
   previousPublishDate: "2014-12-09",
   previousPublishVersion: "1.2.1",
