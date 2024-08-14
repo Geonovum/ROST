@@ -3,7 +3,7 @@ var documentConfig =
   title: "SVBP2012 Functielijst",
   shortName: "SVBPfunctielijst",
   pubDomain: "ro",
-  specStatus: "wv",
+  specStatus: "def",
   specType: "bp",
   license: "cc-by-nd",
   latestVersion: [
