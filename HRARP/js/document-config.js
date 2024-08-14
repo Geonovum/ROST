@@ -12,7 +12,7 @@ var documentConfig =
   publishDate: "2024-08-14",
   publishVersion: "2.1.2",
   thisVersion: [
-    "https://geonovum.github.io/ro-arp/"
+    "https://docs.geostandaarden.nl/ro/arp/"
   ],
   previousPublishDate: "2024-04-03",
   previousPublishVersion: "2.1.1",
@@ -20,9 +20,9 @@ var documentConfig =
     "https://docs.geostandaarden.nl/ro/def-hr-arp-20240403/"
   ],
   previousMaturity: "def",
-  github: "https://github.com/geonovum/ro-arp/",
-  issueBase: "https://github.com/geonovum/ro-arp/issues/",
-  edDraftURI: "https://geonovum.github.io/ro-arp/",
+  github: "https://github.com/geonovum/ROST",
+  issueBase: "https://github.com/geonovum/ROST/issues/",
+  edDraftURI: "https://geonovum.github.io/ROST/HRARP/",
   canonicalURI: "https://docs.geostandaarden.nl/ro/arp/",
   authors: [
     {

@@ -64,7 +64,7 @@ het gebruik en beheer van metagegevens, vooral met betrekking tot:
 -   syntaxis - hoe wordt de inhoud van het element samengesteld, bijvoorbeeld yyyymmdd of ddmmyyyy;  
 -   het verplichtingenregime - welke elementen zijn verplicht en welke optioneel.
 
-Tezamen wordt dit ook wel een elementen set genoemd. <a href='https://www.nationaalarchief.nl/archiveren/mdto' target='_blank'>MDTO</a>) is een voorbeeld van
+Tezamen wordt dit ook wel een elementen set genoemd. <a href='https://www.nationaalarchief.nl/archiveren/mdto' target='_blank'>MDTO</a> is een voorbeeld van
 een elementenset. De elementenset is hier gespecificeerd vanuit het oogpunt
 van duurzame toegankelijkheid en wordt geacht generiek te zijn (dus van
 toepassing op alle soorten informatie). Organisaties kunnen daarnaast andere
