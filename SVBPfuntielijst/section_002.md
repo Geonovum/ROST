@@ -1,6 +1,6 @@
 # Functielijst  {#07D785E7}
 In deze lijst is voor een aantal functies een vaste hoofdgroep voorgeschreven. Voor de functies in de functielijst zijn geen definities of voorwaarden met betrekking tot inhoud opgesteld. Als een specifieke bestemmingsbenaming wordt gekozen waarbij de specificatie op de functielijst voorkomt, dan moet de in de functielijst gegeven hoofdgroep worden gebruikt. Komt de specificatie niet voor op de lijst of is er geen hoofdgroep bij de functie gegeven, dan kiest de bronhouder zelf de hoofdgroep die het meest van toepassing is. In afwijking van de hoofdgroep zoals vastgelegd in deze functielijst kunnen in alle gevallen ook de hoofdgroepen Centrum of Gemengd gespecificeerd worden. 
-Een functie kan ook als <a href='https://docs.geostandaarden.nl/ro/svbp/' target='_blank'>functieaanduiding</a> in elke gewenste bestemming worden gebruikt. In de SVBP is aangegeven hoe functie moet worden opgenomen in het bestemmingsplan. 
+Een functie kan ook als <a href='https://docs.geostandaarden.nl/ro/svbp/#45B24E21' target='_blank'>functieaanduiding</a> in elke gewenste bestemming worden gebruikt. In de SVBP is aangegeven hoe functie moet worden opgenomen in het bestemmingsplan. 
 <table style='width: 100%;'><caption>SVBP2012 Functielijst</caption>
 <colgroup><col id='col1' style='width: 60.71138917854246%;'>
 <col id='col2' style='width: 29.56783686710694%;'>
