@@ -26,7 +26,8 @@ De definitieve versies van zowel de normatieve als niet-normatieve onderdelen va
 | [Handreiking Data op Orde](https://geonovum.github.io/ROST/HRDoO/)                                                             |  
 | [Praktijkrichtlijn Analoge Bestemmingsplan Kaart](https://geonovum.github.io/ROST/PRABPK/)                                     |  
 | [Praktijkrichtlijn Algemene Maatregel van Bestuur](https://geonovum.github.io/ROST/PRAMvB/)                                    |  
-| [Praktijkrichtlijn Bestemmingsplannen](https://geonovum.github.io/ROST/PRBP/)                                                |  
+| [Praktijkrichtlijn Bestemmingsplannen](https://geonovum.github.io/ROST/PRBP/)                                                  |  
+| [SVBP2012 Functielijst](https://geonovum.github.io/ROST/SVBPfuntielijst)                                                       |
 | [Praktijkrichtlijn Gebiedsgerichte Besluiten](https://geonovum.github.io/ROST/PRGB/)                                           |  
 | [Praktijkrichtlijn voor Planteksten](https://geonovum.github.io/ROST/PRPT/)                                                    |  
 | [Praktijkrichtlijn Provinciale Verordening](https://geonovum.github.io/ROST/PRPV/)                                             |  
