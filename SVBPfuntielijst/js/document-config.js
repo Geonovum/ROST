@@ -1,45 +1,26 @@
 var documentConfig =
 {
   title: "SVBP2012 Functielijst",
-  shortName: "SVBPfunctielijst",
+  shortName: "SVBP2012",
   pubDomain: "ro",
-  specStatus: "basis",
-  specType: "bd",
+  specStatus: "wv",
+  specType: "hr",
   license: "cc-by-nd",
   latestVersion: [
-    "https://docs.geostandaarden.nl/ro/SVBPfunctielijst/"
+    "https://docs.geostandaarden.nl/ro/SVBP2012/"
   ],
   publishDate: "2024-08-14",
   publishVersion: "1.3.0",
   thisVersion: [
-    "https://docs.geostandaarden.nl/ro/basis-bd-SVBPfunctielijst-20240814/"
+    "https://geonovum.github.io/ro-SVBP2012/"
   ],
-  previousPublishDate: "2014-12-09",
-  previousPublishVersion: "1.2.1",
-  prevVersion: [
-    "https://ro-standaarden.geonovum.nl/2012/SVBP/1.2/SVBP2012-Functielijst-v1.2.1.pdf/"
-  ],
-  previousMaturity: "geen",
-  github: "https://github.com/geonovum/ROST",
-  issueBase: "https://github.com/Geonovum/ROST/issues",
-  edDraftURI: "https://geonovum.github.io/ROST/SVBPfuntielijst/",
+  edDraftURI: "https://geonovum.github.io/ro-SVBP2012/",
   canonicalURI: "https://docs.geostandaarden.nl/ro/SVBP2012/",
   editors: [
     {
-      name: "Beheerteam RO Standaarden",
+      name: "Monique Scherpenzeel",
       company: "Geonovum",
       companyURL: "https://www.geonovum.nl/"
     }
-  ],
-  localBiblio: {
-    "DONL": {
-      title: "data.overheid.nl",
-      href: "https://data.overheid.nl",
-      authors: "",
-      publisher: "Kennis- en exploitatiecentrum voor Officiële Overheidspublicaties",
-      editors: "",
-      date: "",
-      status: ""
-    }
-  }
+  ]
 }
