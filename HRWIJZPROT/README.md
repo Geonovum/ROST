@@ -1,6 +1,3 @@
-Wijzigingsprotocol RO Standaarden v1.3.2
-========================================
+WERKOMGEVING
 
-Wijzigingsprotocol RO Standaarden v1.3.2 van 26-02-2019
-
-Open in Respec: https://geonovum.github.io/ro-wijzigingsprotocol/
+[Wijzigingsprotocol RO Standaarden] (https://geonovum.github.io/ro-wijzigingsprotocol/)
