@@ -12,7 +12,7 @@ var documentConfig =
   publishDate: "2024-08-14",
   publishVersion: "1.3.0",
   thisVersion: [
-    "https://docs.geostandaarden.nl/ro/wv-bp-SVBPfunctielijst-20240814/"
+    "https://docs.geostandaarden.nl/ro/def-bp-SVBPfunctielijst-20240814/"
   ],
   previousPublishDate: "2014-12-09",
   previousPublishVersion: "1.2.1",
