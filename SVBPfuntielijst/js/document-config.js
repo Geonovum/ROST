@@ -30,16 +30,5 @@ var documentConfig =
       company: "Geonovum",
       companyURL: "https://www.geonovum.nl/"
     }
-  ],
-  localBiblio: {
-    "DONL": {
-      title: "data.overheid.nl",
-      href: "https://data.overheid.nl",
-      authors: "",
-      publisher: "Kennis- en exploitatiecentrum voor Officiële Overheidspublicaties",
-      editors: "",
-      date: "",
-      status: ""
-    }
-  }
+  ]
 }
