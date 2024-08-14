@@ -17,7 +17,7 @@ var documentConfig =
   previousPublishDate: "2014-12-09",
   previousPublishVersion: "1.2.1",
   prevVersion: [
-    "https://ro-standaarden.geonovum.nl/2012/svbp/1.2/SVBP2012-Functielijst-v1.2.1.pdf"
+    "https://ro-standaarden.geonovum.nl/2012/SVBP/1.2/SVBP2012-Functielijst-v1.2.1.pdf"
   ],
   previousMaturity: "geen",
   github: "https://github.com/geonovum/ROST",
