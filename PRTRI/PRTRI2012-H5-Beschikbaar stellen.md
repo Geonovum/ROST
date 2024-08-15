@@ -178,7 +178,7 @@ opmaak gebruik maken.
 omgeving voor bronhouders, en via de helpdesk van Ruimtelijkeplannen.nl.*
 
 <sup>[4]</sup>: *Deze standaard XSL en CSS zijn tezamen met de rest van de andere
-onderdelen van de RO Standaarden 2012 beschikbaar via de <a href='Geonovum website' target='_blank'>Geonovum website</a>.
+onderdelen van de RO Standaarden 2012 beschikbaar via de <a href='https://www.geonovum.nl/geo-standaarden/ro-standaarden-ruimtelijke-ordening' target='_blank'>Geonovum website</a>.
 </br></br>
 
 Het is nog steeds mogelijk dat een bronhouder gebruik maakt van een eigen opmaak

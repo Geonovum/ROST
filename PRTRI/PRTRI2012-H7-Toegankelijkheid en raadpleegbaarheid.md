@@ -29,9 +29,7 @@ worden gevonden door afnemers. Er zijn twee soorten afnemers:
 -   Computersystemen. De digitale instrumenten moeten ook vindbaar worden voor
     externe systemen. Hiervoor is het Manifest bedoeld. Om het Manifest van
     iedere bronhouder eenvoudig te kunnen vinden op internet, wordt het webadres
-    van ieder Manifest door de bronhouder aangemeld bij de [Index Internet
-    Publicatie](https://www.ruimtelijkeplannen.nl/web-roi/index/) binnen de landelijke voorziening Ruimtelijkeplannen.nl. De Index beschikt over
-    actuele links naar alle Manifesten van alle bronhouders. Daarmee is ieder
+    van ieder Manifest door de bronhouder aangemeld bij de <a href='https://www.ruimtelijkeplannen.nl/index' target='_blank'>index van Ruimtelijkeplannen.nl</a>. De Index beschikt over actuele links naar alle Manifesten van alle bronhouders. Daarmee is ieder
     ruimtelijk instrument altijd in drie stappen ontsloten voor een extern
     systeem: ten eerste wordt de Index service geraadpleegd voor het juiste
     webadres van het Manifest van de bronhouder, vervolgens wordt in het
@@ -52,7 +50,7 @@ die wordt gegenereerd uit de IMRO-bestanden, en die samen met de overige
 inhoud beschikbaar worden gesteld. Dit wordt de digitale verbeelding van het
 instrument genoemd. Het beschikbaar maken van een digitale verbeelding is nodig
 omdat de IMRO-bestanden zelf voor veel afnemers niet direct bruikbaar
-zullen zijn. De [landelijke voorziening Ruimtelijkeplannen.nl](http://www.ruimtelijkeplannen.nl/) is wettelijk verantwoordelijk
+zullen zijn. De <a href='https://www.ruimtelijkeplannen.nl/' target='_blank'>landelijke voorziening Ruimtelijkeplannen.nl</a> is wettelijk verantwoordelijk
 voor deze raadpleegbaarheid. De bronhouder kan ook zelf een verbeelding
 verzorgen, bijvoorbeeld op de eigen website. Deze digitale verbeelding is een
 interactieve raadpleegomgeving die afgeleid is uit de authentieke informatie. De
