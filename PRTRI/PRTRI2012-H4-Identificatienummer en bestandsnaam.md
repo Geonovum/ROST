@@ -25,9 +25,9 @@ Voorbeelden van geldige (maar wel fictieve) idn's:
 NL.IMRO.1234.A-0001  
 NL.IMRO.5678.centrumgebied-0012  
 NL.IMRO.1111.structuurvisie2012-AD12  
-</br></br>
+
 Het gedeelte van het identificatienummer tot aan het liggend streepje wordt het
-dossiernummer genoemd. Dit wordt van belang in Hoofdstuk 5.
+dossiernummer genoemd. Dit wordt van belang in [Hoofdstuk 5](#H05).
 </br></br>
 Voorbeelden van geldige (maar wel fictieve) dossiernummers:  
 NL.IMRO.1234.A  
