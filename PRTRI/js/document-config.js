@@ -4,25 +4,25 @@ var documentConfig =
   shortName: "tri2012",
   pubDomain: "ro",
   specStatus: "wv",
-  specType: "hr",
+  specType: "pr",
   license: "cc-by-nd",
   latestVersion: [
     "https://docs.geostandaarden.nl/ro/tri2012/"
   ],
   publishDate: "2024-08-15",
-  publishVersion: "1.5.1",
+  publishVersion: "1.5.2",
   thisVersion: [
     "https://geonovum.github.io/ro-tri2012/"
   ],
-  previousPublishDate: "2023-12-20",
-  previousPublishVersion: "1.5.0",
+  previousPublishDate: "2024-02-14",
+  previousPublishVersion: "1.5.1",
   prevVersion: [
-    "https://docs.geostandaarden.nl/ro/def-hr-tri2012-20231220/"
+    "https://docs.geostandaarden.nl/ro/def-pr-tri2012-20240214/"
   ],
   previousMaturity: "def",
-  github: "https://github.com/geonovum/ro-tri2012/",
-  issueBase: "https://github.com/geonovum/ro-tri2012/issues/",
-  edDraftURI: "https://geonovum.github.io/ro-tri2012/",
+  github: "https://github.com/geonovum/ROST",
+  issueBase: "https://github.com/geonovum/ROST/issues/",
+  edDraftURI: "https://geonovum.github.io/ROST/PRTRI//",
   canonicalURI: "https://docs.geostandaarden.nl/ro/tri2012/",
   authors: [
     {
