@@ -18,7 +18,7 @@ functies en relaties worden weergegeven in Figuur 5.
  
 ![](media/22538695c7857efe5940c206e8f211b3.png)  
 **Figuur 5 Relaties tussen bestanden, Manifest en verbeelding**
-
+</br></br>
 Nadat alle bestanden waaruit het ruimtelijk instrument is opgebouwd via het
 internet beschikbaar zijn gemaakt, zullen deze nog niet automatisch kunnen
 worden gevonden door afnemers. Er zijn twee soorten afnemers:  
@@ -30,7 +30,7 @@ worden gevonden door afnemers. Er zijn twee soorten afnemers:
     externe systemen. Hiervoor is het Manifest bedoeld. Om het Manifest van
     iedere bronhouder eenvoudig te kunnen vinden op internet, wordt het webadres
     van ieder Manifest door de bronhouder aangemeld bij de [Index Internet
-    Publicatie](https://www.ruimtelijkeplannen.nl/web-roi/index/) binnen de landelijke voorziening RO. De Index beschikt over
+    Publicatie](https://www.ruimtelijkeplannen.nl/web-roi/index/) binnen de landelijke voorziening Ruimtelijkeplannen.nl. De Index beschikt over
     actuele links naar alle Manifesten van alle bronhouders. Daarmee is ieder
     ruimtelijk instrument altijd in drie stappen ontsloten voor een extern
     systeem: ten eerste wordt de Index service geraadpleegd voor het juiste
@@ -40,18 +40,19 @@ worden gevonden door afnemers. Er zijn twee soorten afnemers:
     ruimtelijke instrumenten.  
 
 
-![](media/d021490674f0f3d3973e42d752c8ea00.png)  
 In Figuur 6 is het zoeken en vinden door beide soorten afnemer schematisch
 weergegeven.  
-
+![](media/d021490674f0f3d3973e42d752c8ea00.png)  
 **Figuur 6 Zoekproces**  
+</br></br>
+
 Een belangrijk aspect van ieder ruimtelijk instrument is de volledige,
 toegankelijke raadpleegbaarheid door middel van een cartografische visualisatie
 die wordt gegenereerd uit de IMRO-bestanden, en die samen met de overige
 inhoud beschikbaar worden gesteld. Dit wordt de digitale verbeelding van het
 instrument genoemd. Het beschikbaar maken van een digitale verbeelding is nodig
 omdat de IMRO-bestanden zelf voor veel afnemers niet direct bruikbaar
-zullen zijn. De [landelijke voorziening RO](http://www.ruimtelijkeplannen.nl/) is wettelijk verantwoordelijk
+zullen zijn. De [landelijke voorziening Ruimtelijkeplannen.nl](http://www.ruimtelijkeplannen.nl/) is wettelijk verantwoordelijk
 voor deze raadpleegbaarheid. De bronhouder kan ook zelf een verbeelding
 verzorgen, bijvoorbeeld op de eigen website. Deze digitale verbeelding is een
 interactieve raadpleegomgeving die afgeleid is uit de authentieke informatie. De
@@ -59,7 +60,7 @@ digitale verbeelding ontsluit de gehele inhoud van het instrument. Voor
 bestemmingsplannen en inpassingsplannen wordt de digitale verbeelding gemaakt
 volgens de Standaard voor Vergelijkbare Bestemmingsplannen SVBP2012.
 
-De landelijke voorziening RO toont de ruimtelijke instrumenten van de bronhouder
+De landelijke voorziening Ruimtelijkeplannen.nl toont de ruimtelijke instrumenten van de bronhouder
 ook in onderlinge samenhang. Dit betekent op zijn minst dat de landelijke
 voorziening RO de volgende vraag moet kunnen beantwoorden: *Welke ruimtelijke
 instrumenten zijn er op moment van bevraging allemaal beschikbaar voor een

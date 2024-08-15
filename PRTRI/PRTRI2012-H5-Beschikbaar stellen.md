@@ -76,7 +76,7 @@ gemaakt, en wordt het Manifest aangepast en vervolgens ook gewaarmerkt. Tot slot
 moet het al op internet beschikbaar gestelde Manifest vervangen worden door het
 gewijzigde Manifest, en wordt ook de digitale verbeelding bijgewerkt. Dit
 laatste gebeurt overigens veelal in geautomatiseerde systemen, zoals bij [de
-landelijke voorziening RO](http://www.ruimtelijkeplannen.nl/). Daarna is het ruimtelijk instrument voor een
+landelijke voorziening Ruimtelijkeplannen.nl](http://www.ruimtelijkeplannen.nl/). Daarna is het ruimtelijk instrument voor een
 ieder beschikbaar, raadpleegbaar en via het Manifest ook vindbaar. De werkwijze
 is weergegeven in Figuur 1.  
 
