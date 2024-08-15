@@ -4,7 +4,7 @@ var documentConfig =
   shortName: "amvb2012",
   pubDomain: "ro",
   specStatus: "wv",
-  specType: "hr",
+  specType: "pr",
   license: "cc-by-nd",
   latestVersion: [
     "https://docs.geostandaarden.nl/ro/amvb2012/"
