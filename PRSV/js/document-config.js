@@ -10,14 +10,14 @@ var documentConfig =
     "https://docs.geostandaarden.nl/ro/sv2012/"
   ],
   publishDate: "2024-08-15",
-  publishVersion: "1.1.6",
+  publishVersion: "1.1.7",
   thisVersion: [
     "https://geonovum.github.io/ro-sv2012/"
   ],
-  previousPublishDate: "2022-12-15",
-  previousPublishVersion: "1.1.5",
+  previousPublishDate: "2024-02-14",
+  previousPublishVersion: "1.1.6",
   prevVersion: [
-    "https://docs.geostandaarden.nl/ro/def-hr-sv2012-20221215/"
+    "https://docs.geostandaarden.nl/ro/def-hr-sv2012-20240214/"
   ],
   previousMaturity: "def",
   github: "https://github.com/geonovum/ROST/",

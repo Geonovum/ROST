@@ -10,14 +10,14 @@ var documentConfig =
     "https://docs.geostandaarden.nl/ro/abpk2012/"
   ],
   publishDate: "2024-08-14",
-  publishVersion: "1.3.2",
+  publishVersion: "1.3.3",
   thisVersion: [
     "https://geonovum.github.io/ro-abpk2012/"
   ],
-  previousPublishDate: "2022-12-15",
-  previousPublishVersion: "1.3.1",
+  previousPublishDate: "2024-02-14",
+  previousPublishVersion: "1.3.2",
   prevVersion: [
-    "https://docs.geostandaarden.nl/ro/def-hr-abpk2012-20221215/"
+    "https://docs.geostandaarden.nl/ro/def-hr-abpk2012-20240214/"
   ],
   previousMaturity: "def",
   github: "https://github.com/geonovum/ROST/",
