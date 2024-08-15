@@ -20,9 +20,9 @@ var documentConfig =
     "https://docs.geostandaarden.nl/ro/def-hr-pt2012-20221215/"
   ],
   previousMaturity: "def",
-  github: "https://github.com/geonovum/ro-pt2012/",
-  issueBase: "https://github.com/geonovum/ro-pt2012/issues/",
-  edDraftURI: "https://geonovum.github.io/ro-pt2012/",
+  github: "https://github.com/geonovum/ROST/",
+  issueBase: "https://github.com/geonovum/ROST/issues/",
+  edDraftURI: "https://geonovum.github.io/PRPT/",
   canonicalURI: "https://docs.geostandaarden.nl/ro/pt2012/",
   authors: [
     {

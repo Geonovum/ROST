@@ -20,9 +20,9 @@ var documentConfig =
     "https://docs.geostandaarden.nl/ro/def-hr-sv2012-20221215/"
   ],
   previousMaturity: "def",
-  github: "https://github.com/geonovum/ro-sv2012/",
-  issueBase: "https://github.com/geonovum/ro-sv2012/issues/",
-  edDraftURI: "https://geonovum.github.io/ro-sv2012/",
+  github: "https://github.com/geonovum/ROST/",
+  issueBase: "https://github.com/geonovum/ROST/issues/",
+  edDraftURI: "https://geonovum.github.io/PRSV/",
   canonicalURI: "https://docs.geostandaarden.nl/ro/sv2012/",
   authors: [
     {

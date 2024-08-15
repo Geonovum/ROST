@@ -20,9 +20,9 @@ var documentConfig =
     "https://docs.geostandaarden.nl/ro/def-hr-abpk2012-20221215/"
   ],
   previousMaturity: "def",
-  github: "https://github.com/geonovum/ro-abpk2012/",
-  issueBase: "https://github.com/geonovum/ro-abpk2012/issues/",
-  edDraftURI: "https://geonovum.github.io/ro-abpk2012/",
+  github: "https://github.com/geonovum/ROST/",
+  issueBase: "https://github.com/geonovum/ROST/issues/",
+  edDraftURI: "https://geonovum.github.io/PRABPK/",
   canonicalURI: "https://docs.geostandaarden.nl/ro/abpk2012/",
   authors: [
     {

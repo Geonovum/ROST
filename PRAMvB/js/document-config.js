@@ -20,9 +20,9 @@ var documentConfig =
     "https://docs.geostandaarden.nl/ro/def-hr-amvb2012-20221215/"
   ],
   previousMaturity: "def",
-  github: "https://github.com/geonovum/ro-amvb2012/",
-  issueBase: "https://github.com/geonovum/ro-amvb2012/issues/",
-  edDraftURI: "https://geonovum.github.io/ro-amvb2012/",
+  github: "https://github.com/geonovum/ROST/",
+  issueBase: "https://github.com/geonovum/ROST/issues/",
+  edDraftURI: "https://geonovum.github.io/PRAMVB/",
   canonicalURI: "https://docs.geostandaarden.nl/ro/amvb2012/",
   authors: [
     {
