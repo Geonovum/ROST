@@ -22,7 +22,7 @@ var documentConfig =
   previousMaturity: "def",
   github: "https://github.com/geonovum/ROST",
   issueBase: "https://github.com/geonovum/ROST/issues/",
-  edDraftURI: "https://geonovum.github.io/ROST/PRTRI//",
+  edDraftURI: "https://geonovum.github.io/ROST/PRTRI/",
   canonicalURI: "https://docs.geostandaarden.nl/ro/tri2012/",
   authors: [
     {
