@@ -15,20 +15,20 @@ versiecode is uniek voor alle versies die extern gepubliceerd zijn. De
 versiecode wordt altijd aangepast indien er sprake is van een nieuwe planstatus,
 bijvoorbeeld van voorontwerp naar ontwerp of van ontwerp naar vastgesteld, maar
 ook als er binnen één planstatus meerdere versies extern worden gepubliceerd.
-
+</br></br>
 De totale lengte van het idn bedraagt maximaal 36 tekens. Voor het geval het
 werkingsgebied bestaat uit meerdere ruimtelijk gescheiden gebieden kent het
 totaal van die gebieden één identificatienummer. De geometrie van het object is
 hierbij een multipolygoon.
-
+</br></br>
 Voorbeelden van geldige (maar wel fictieve) idn's:  
 NL.IMRO.1234.A-0001  
 NL.IMRO.5678.centrumgebied-0012  
 NL.IMRO.1111.structuurvisie2012-AD12  
-
+</br></br>
 Het gedeelte van het identificatienummer tot aan het liggend streepje wordt het
 dossiernummer genoemd. Dit wordt van belang in Hoofdstuk 5.
-
+</br></br>
 Voorbeelden van geldige (maar wel fictieve) dossiernummers:  
 NL.IMRO.1234.A  
 NL.IMRO.5678.centrumgebied  
@@ -48,14 +48,14 @@ bestandsnaam van het bronbestand. De bestandsnaam kent de volgende opbouw:
     door de bronhouder;
 -   Tot slot een punt (.) en de bestandsnaamextensie zoals gegeven in tabel 3
     van de STRI2012.
-
+</br></br>
 De totale maximale lengte bedraagt daarmee 65 karakters. Bijlagen en
 illustraties zijn voorzien van een nadere tekstuele extensie, omdat er bij deze
 onderdelen meerdere bestanden kunnen worden geleverd, conform tabel 1 en tabel 2
 van de STRI2012. Omwille van de eenduidigheid is er voor gekozen om deze
 tekstuele extensie altijd toe te voegen, ook als er slechts één illustratie of
 bijlage beschikbaar wordt gesteld.
-
+</br></br>
 Voorbeelden van geldige (maar wel fictieve) bestandsnamen:  
 NL.IMRO.1234.A-0001.gml  
 vb_NL.IMRO.5678.centrumgebied-0012.html  

@@ -3,7 +3,7 @@
 Ieder onderdeel bestaat uit één of meerdere bronbestanden. In dit hoofdstuk
 worden de eisen aan de mogelijke samenstelling van onderdelen en bronbestanden
 toegelicht.**
-
+</br></br>
 Ieder ruimtelijk instrument bestaat uit een aantal onderdelen. Deze worden
 beschikbaar gesteld als bronbestanden. Het ruimtelijk instrument bestaat
 uiteindelijk dus uit een samenhangende set bronbestanden. In tabel 1 en tabel 2

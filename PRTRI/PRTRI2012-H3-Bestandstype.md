@@ -14,7 +14,7 @@ sector van toepassing is. Met het toepassen van de RO Standaarden volgt dan
 ook de toepassing van deze lijst. Als de lijst met open standaarden wordt
 toegepast op de bestandstypes die voorgeschreven zijn in de STRI2012, dan zijn
 daarmee de bestandsformaten toegestaan zoals benoemd in Tabel 1.
-
+</br></br>
 
 **Tabel 1 Bestandsformaten per bestandstypes**
 
