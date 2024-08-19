@@ -72,7 +72,7 @@ metagegevens vastleggen voor andere doeleinden (zoals het specifiek beschrijven
 van geo-informatie), met behulp andere standaarden of bestaande ontologieën
 (zoals NEN-ISO 19115).
 
-Op dit moment wordt er gewerkt aan een nieuwe Archiefwet, deze zal naar verwachting behalve vernietiging en overbrenging naar een archiefbewaarplaats (van te bewaren materiaal) ook nog een derde keuze bieden. Namelijk “bewaren bij de bron;, hiermee wordt het onder strenge voorwaarden mogelijk dat een archiefvormer/ zorgdrager zelf als archiefbewaarplaats wordt aangewezen voor bepaalde collecties. Dit is van belang voor organisaties die veel eigen dossiers voor langere tijd willen hergebruiken. Denk hier bij o.a. aan het Kadaster. Bewaren bij de bron heeft geen invloed op de bewaartermijnen zelf maar wel op de locatie en de manier van opslag van archiefstukken.
+Er wordt gewerkt aan een nieuwe Archiefwet, deze zal naar verwachting behalve vernietiging en overbrenging naar een archiefbewaarplaats (van te bewaren materiaal) ook nog een derde keuze bieden. Namelijk “bewaren bij de bron;, hiermee wordt het onder strenge voorwaarden mogelijk dat een archiefvormer/ zorgdrager zelf als archiefbewaarplaats wordt aangewezen voor bepaalde collecties. Dit is van belang voor organisaties die veel eigen dossiers voor langere tijd willen hergebruiken. Denk hier bij o.a. aan het Kadaster. Bewaren bij de bron heeft geen invloed op de bewaartermijnen zelf maar wel op de locatie en de manier van opslag van archiefstukken.
 
 Iedere overheidsorganisatie wordt geacht een eigen metagegevensschema vast te stellen. Van belang daarbij is dat in ieder geval elementen zoals gespecificeerd in de elementensets onderdeel zijn van dit schema. Met behulp van dit schema kunnen organisaties nagaan in hoeverre informatiesystemen voldoen aan de regels uit het schema en maatregelen nemen als dit nodig blijkt.
 
@@ -106,8 +106,8 @@ ook daarin samenwerken, zoals bijvoorbeeld Regionale Archiefdiensten. Zolang de
 plannen nog niet zijn overgebracht naar een archiefbewaarplaats is de beheerder
 die is aangewezen door het bestuur, verantwoordelijk voor het in goede,
 geordende en toegankelijke staat te houden van de archiefstukken.
-
-Op dit moment wordt er gewerkt aan een nieuwe Archiefwet, deze zal naar
+</br></br>
+Er wordt gewerkt aan een nieuwe Archiefwet, deze zal naar
 verwachting behalve vernietiging en overbrenging naar een archiefbewaarplaats
 (van te bewaren materiaal) ook nog een derde keuze bieden. Namelijk “bewaren bij
 de bron”, hiermee wordt het onder strenge vooraarden mogelijk dat een
