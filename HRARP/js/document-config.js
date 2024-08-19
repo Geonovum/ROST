@@ -20,7 +20,7 @@ var documentConfig =
     "https://docs.geostandaarden.nl/ro/def-hr-arp-20240403/"
   ],
   previousMaturity: "def",
-  github: "https://github.com/geonovum/ROST",
+  github: "https://github.com/geonovum/ROST/",
   issueBase: "https://github.com/geonovum/ROST/issues/",
   edDraftURI: "https://geonovum.github.io/ROST/HRARP/",
   canonicalURI: "https://docs.geostandaarden.nl/ro/arp/",

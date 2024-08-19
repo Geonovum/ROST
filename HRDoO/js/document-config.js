@@ -14,15 +14,15 @@ var documentConfig =
   thisVersion: [
     "https://geonovum.github.io/ro-doo/"
   ],
-  previousPublishDate: "2024-04-04",
+  previousPublishDate: "2024-04-03",
   previousPublishVersion: "2.0.1",
   prevVersion: [
-    "https://docs.geostandaarden.nl/ro/def-hr-doo-20240404/"
+    "https://docs.geostandaarden.nl/ro/def-hr-doo-20240403/"
   ],
   previousMaturity: "def",
-  github: "https://github.com/geonovum/ro-doo/",
-  issueBase: "https://github.com/geonovum/ro-doo/issues/",
-  edDraftURI: "https://geonovum.github.io/ro-doo/",
+  github: "https://github.com/geonovum/ROST/",
+  issueBase: "https://github.com/geonovum/ROST/issues/",
+  edDraftURI: "https://github.com/geonovum/ROST/HRDoO/",
   canonicalURI: "https://docs.geostandaarden.nl/ro/doo/",
   authors: [
     {
