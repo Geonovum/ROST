@@ -53,7 +53,7 @@ artikel 6.14 is aangegeven dat bij ministeriële regeling nadere regels worden
 gesteld over de wijze waarop de mededeling elektronisch wordt gedaan en
 beschikbaar gesteld. Dit betreft de ministeriële <a href='http://wetten.overheid.nl/BWBR0031829' target='_blank'>Regeling
 standaarden ruimtelijke ordening 2012</a>.  
-
+</br></br>
 Overzicht ruimtelijke plannen die door bevoegde gezagen conform de RO Standaarden beschikbaar
 worden gesteld en vindbaar en toegankelijk worden gemaakt:
 -   Voorbereidingsbesluit  
@@ -141,7 +141,7 @@ In deze standaarden is bepaald dat ieder ruimtelijk plan, visie of besluit is
 opgebouwd uit een samenhangende set bronbestanden (dataset genoemd). Voor
 verschillende typen instrumenten is dit een andere set; welke planonderdelen bij welk instrument van toepassing zijn, is
 aangegeven in hoofdstuk 2 van de <a href='https://docs.geostandaarden.nl/ro/stri' target='_blank'>STRI2012</a>.
-
+</br></br>
 De dataset omvat de verschillende onderdelen van het ruimtelijk plan:  
 -   Plankaart;  
 -   Regels;  
