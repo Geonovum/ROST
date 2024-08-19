@@ -7,7 +7,7 @@
 Ieder ruimtelijk instrument is opgebouwd uit een samenhangende set bronbestanden. Via het manifest van de bronhouder wordt de planvoorraad van het bevoegd gezag beschikbaar gesteld op Ruimtelijkeplannen.nl. De huidige planvoorraad op Ruimtelijkeplannen.nl is niet alleen veel data, het is ook een verzameling aan actuele en vervallen planversies door elkaar. Om deze data zo goed mogelijk te kunnen ontsluiten via het Informatiehuis Ruimte (IHR) met behulp van de overbruggingsfunctie naar het Omgevingsloket van het Digitaal Stelsel Omgevingswet, adviseren wij om de planvoorraad voor inwerkingtreden Omgevingswet op te schonen en alleen de meest actuele planversie te laten staan. Bij inwerkingtreding van de Omgevingswet ontstaat zo een beter beeld van de geldende plannen.  
 In dit hoofdstuk lichten we toe hoe de Wro planvoorraad zo optimaal mogelijk opgeschoond kan worden. Zodat deze zo goed mogelijk ontsloten kan worden in het DSO.  
 Let wel, het is een separate wettelijke verplichting van de bronhouder om alle versies van een plan te archiveren en beschikbaar te hebben in een digitaal archief van de bronhouder, de landelijke voorziening voorziet hier niet in. 
-
+</br></br>
 <img src='media/Opbouw_Planvoorraad.png' alt='media/Opbouw van planvoorraad op Ruimtelijkeplannen.nl' style='width: 100%;'></img>  
 
 ### Opschonen planversies na onherroepelijk worden van een plan
@@ -22,7 +22,7 @@ Voor het verwijderen van plannen en/of volledige dossiers kan het gaan om de vol
 <li>Plancontour & PDF Plannen (PCP) en IMRO2006 plannen die inmiddels zijn vervangen door nieuwere plannen.</li>
 </ol>  
 
-**Wat te doen?**  
+<b>Wat te doen?</b>  
 Bij het verwijderen van een plan, kan deze uit het 2006 manifest worden verwijderd, het betreffende plan zal dan ook verwijderd worden van Ruimtelijkplannen.nl. In het geval door de bronhouder het laatste plan en daarmee het gehele 2006 manifest wil verwijderen, moet dit in samenwerking met het Kadaster worden gedaan. Neem hiervoor contact op met het Kadaster via het <a href='https://www.ruimtelijkeplannen.nl/web-roo/docs/bronhouders/Aanvraag_wijziging_Index.pdf' target='_blank'>wijzigingsformulier op de website van Ruimtelijkeplannen.nl.</a>
 
 Wanneer de bronhouder een dossier wil verwijderen uit de planvoorraad zijn er binnen de RO Standaarden 3 opties.
@@ -32,7 +32,7 @@ Wanneer de bronhouder een dossier wil verwijderen uit de planvoorraad zijn er bi
 <li><b>In het manifest het 2008 plan merkeren als historisch</b></br>Door het plan als historisch te markeren is dit vergelijkbaar met plannen in een 'vervallen’ dossier: het plan is wel opgenomen in de database van Ruimtelijkeplannen.nl maar niet zichtbaar in de viewer van Ruimtelijkeplannen.nl. Al deze plannen worden opgenomen in de planvoorraad van IHR en ontsloten via het Omgevingsloket van het DSO.</li> 
 </ol>
 
-Gelet op de huidige ontwikkelingen, de voorbereiding op de Omgevingswet en de ontsluiting van de plannen via het Informatiehuis Ruimte in het DSO, is het advies om de oude versies, en vervallen plannen daadwerkelijk te <i>verwijderen</i> uit het manifest. Het is onder de Wro nooit de bedoeling geweest om Ruimtelijkeplannen.nl als archief te gebruiken (zie <a href='https://docs.geostandaarden.nl/ro/arp/' target='_blank'>handreiking Archiveren ruimtelijke plannen</a>). Zorg daarbij wel dat officiële planversies digitaal gearchiveerd worden in een gemeentelijk archiefsysteem. Een bronhouder blijft altijd zelf verantwoordelijk voor het archiveren van de data. 
+We adviseren om de oude versies, en vervallen plannen daadwerkelijk te <i>verwijderen</i> uit het manifest. Het is onder de Wro nooit de bedoeling geweest om Ruimtelijkeplannen.nl als archief te gebruiken (zie <a href='https://docs.geostandaarden.nl/ro/arp/' target='_blank'>handreiking Archiveren ruimtelijke plannen</a>). Zorg daarbij wel dat officiële planversies digitaal gearchiveerd worden in een gemeentelijk archiefsysteem. Een bronhouder blijft altijd zelf verantwoordelijk voor het archiveren van de data. 
 
 ### Toepassen van Plancontour & PDF plannen
 
@@ -40,12 +40,13 @@ Sinds 2008 hebben gemeenten gebruik gemaakt van de mogelijkheid de onder de oude
 
 Met invoering van de Omgevingswet vervalt het gebruik van de PRPCP2008. Deze facultatieve standaard valt niet onder overgangsrecht van Wro naar Omgevingswet. Het ontsluiten van plancour en PDF plannen via Ruimtelijkeplannen.nl is vanaf 1 januari 2024 niet meer mogelijk. Het vervolg van deze paragraaf geeft de beschrijft de situatie en werkwijze zoals deze gold onder de Wro tot 1 januari 2024. 
 
-
+</br></br>
 Met het <a href='https://zoek.officielebekendmakingen.nl/kst-34666-2.html?zoekcriteria=%3fzkt%3dUitgebreid%26pst%3dParlementaireDocumenten%26dpr%3dAlle%26spd%3d20170210%26epd%3d20170210%26dosnr%3d34666%26kmr%3dEersteKamerderStatenGeneraal%257cTweedeKamerderStatenGeneraal%257cVerenigdeVergaderingderStatenGeneraal%26sdt%3dKenmerkendeDatum%26par%3dAgenda%257cHandeling%257cKamerstuk%257cAanhangsel%2bvan%2bde%2bHandelingen%257cKamervragen%2bzonder%2bantwoord%257cNiet-dossierstuk%257cBijlage%26dst%3dOnopgemaakt%257cOpgemaakt%257cOpgemaakt%2bna%2bonopgemaakt%26isp%3dtrue%26pnr%3d1%26rpp%3d10&resultIndex=1&sorttype=1&sortorder=4' target='_blank'>wetsvoorstel voor het vervallen van de actualiseringsplicht van bestemmingsplannen, inpassingsplannen en beheersplannen</a> was beoogd om extra ruimte te scheppen voor gemeenten ten behoeve van inwerkingtreding van de Omgevingswet. De wetswijziging van de Wro geldt voor die plannen die ‘elektronisch raadpleegbaar’ zijn via Ruimtelijkeplannen.nl. Voor een plan dat niet op de website staat blijft actualiseringsplicht dus nog van toepassing.  
 In de <a href='https://zoek.officielebekendmakingen.nl/kst-34666-3.html?zoekcriteria=%3fzkt%3dUitgebreid%26pst%3dParlementaireDocumenten%26dpr%3dAlle%26spd%3d20170210%26epd%3d20170210%26dosnr%3d34666%26kmr%3dEersteKamerderStatenGeneraal%257cTweedeKamerderStatenGeneraal%257cVerenigdeVergaderingderStatenGeneraal%26sdt%3dKenmerkendeDatum%26par%3dAgenda%257cHandeling%257cKamerstuk%257cAanhangsel%2bvan%2bde%2bHandelingen%257cKamervragen%2bzonder%2bantwoord%257cNiet-dossierstuk%257cBijlage%26dst%3dOnopgemaakt%257cOpgemaakt%257cOpgemaakt%2bna%2bonopgemaakt%26isp%3dtrue%26pnr%3d1%26rpp%3d10&resultIndex=0&sorttype=1&sortorder=4' target='_blank'>toelichting op het wetsvoorstel</a> is aangegeven dat een papieren (analoog) plan ook digitaal raadpleegbaar kan zijn als het als pdf-bestand op de website wordt gezet. Voor deze plannen geldt wel dat de analoge plannen de juridisch leidende plannen zijn.  
+
 Dit houdt in dat de actualiseringsplicht niet alleen vervalt voor de wettelijke digitale plannen (op basis van IMRO2008 en IMRO2012) maar ook voor plannen op basis van IMRO2006 (facultatieve standaard) en analoge plannen die door middel van een Plancontour & PDF (PRPCP2008) via de landelijke voorziening Ruimtelijkeplannen.nl zijn ontsloten. Het blijft verstandig om te actualiseren en digitaliseren volgens de laatste standaarden om zo de data op orde te blijven brengen richting de Omgevingswet.
-
+</br></br>
 Bij het plaatsen van een Plancontour & PDF plan wordt vaak de contour van het hele analoge plan gepubliceerd op Ruimtelijkeplannen.nl. Dit is niet noodzakelijk. Vaak zijn grote plannen in de loop der jaren gedeeltelijk vervangen door digitaal raadpleegbare plannen op basis van de RO Standaarden 2012. Om de raadpleegbaarheid en leesbaarheid van de plannen zo optimaal mogelijk te laten zijn is het verstandig om als bronhouder te bepalen voor welke locatie een analoog plan nog geldig is. Bovendien geeft het voor de interne organisatie een goed beeld van de plangebieden die nog niet geactualiseerd en gedigitaliseerd zijn. Hou er rekening mee dat niet alleen het vigerend bestemmingsplan gepubliceerd wordt als Plancontour & PDF plan, maar ook alle eventuele wijzigings- en uitwerkingsplannen die op basis van dit plan zijn gemaakt.
-
+</br></br>
 <b>Wat te doen?</b><br/>Bekijk per analoog plan welk gedeelte hiervan nog geldig is. <i>Zorg dat de contour van het te publiceren plan als plancontour alleen dat gedeelte bevat dat geldig is</i>. Dit kunnen meerdere contouren in één plangebied zijn. Zorg hierbij tevens dat op de pdf-plankaart door middel van een duidelijke lijn is aangegeven om welk(e) gebied(en) het gaat. Let bij het publiceren van een ‘oud’ plan dat de datum van dit plan de (oude) vaststellingsdatum is. 
 
