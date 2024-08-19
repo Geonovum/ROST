@@ -13,7 +13,7 @@ Let wel, het is een separate wettelijke verplichting van de bronhouder om alle v
 ### Opschonen planversies na onherroepelijk worden van een plan
 
 De bronbestanden van iedere beschikbaar gestelde versie van een ruimtelijk instrument blijven toegankelijk totdat een instrument onherroepelijk in werking is getreden of is vervallen. Dit is vastgelegd in het <a href='http://wetten.overheid.nl/BWBR0023798' target='_blank'>Besluit ruimtelijke ordening (Bro)</a>. Wanneer het instrument eenmaal onherroepelijk is, mogen de oudere versies, zoals (voor)ontwerp en eventueel eerder vastgestelde versies, verwijderd worden uit het manifest en van Ruimtelijkeplannen.nl. Wanneer het instrument vervallen is, mag het in zijn geheel verwijderd worden. Vanuit de RO Standaarden geldt hiervoor geen verplichting maar om de gegevens straks zo goed mogelijk te kunnen ontsluiten via het Informatiehuis Ruimte, adviseren wij wel om de planvoorraad op te schonen en alleen de onherroepelijke (geldende) versie te laten staan.
-
+</br></br>
 Voor het verwijderen van plannen en/of volledige dossiers kan het gaan om de volgende stukken:
 
 <ol><li>Oudere versies, concepten, voorontwerpen, ontwerpen van plannen waarvan de procedure inmiddels is afgerond of de procedure vroegtijdig is beëindigd;</li>
@@ -21,10 +21,10 @@ Voor het verwijderen van plannen en/of volledige dossiers kan het gaan om de vol
 <li>Vervallen plannen en dossiers, bijvoorbeeld het plan is inmiddels geactualiseerd of vergunningen die inmiddels verwerkt zijn in een bestemmingsplan;</li>
 <li>Plancontour & PDF Plannen (PCP) en IMRO2006 plannen die inmiddels zijn vervangen door nieuwere plannen.</li>
 </ol>  
-
+</br></br>
 <b>Wat te doen?</b>  
 Bij het verwijderen van een plan, kan deze uit het 2006 manifest worden verwijderd, het betreffende plan zal dan ook verwijderd worden van Ruimtelijkplannen.nl. In het geval door de bronhouder het laatste plan en daarmee het gehele 2006 manifest wil verwijderen, moet dit in samenwerking met het Kadaster worden gedaan. Neem hiervoor contact op met het Kadaster via het <a href='https://www.ruimtelijkeplannen.nl/web-roo/docs/bronhouders/Aanvraag_wijziging_Index.pdf' target='_blank'>wijzigingsformulier op de website van Ruimtelijkeplannen.nl.</a>
-
+</br></br>
 Wanneer de bronhouder een dossier wil verwijderen uit de planvoorraad zijn er binnen de RO Standaarden 3 opties.
 
 <ol><li><b>Het Dossier de status ‘vervallen’ geven</b><br/>Door het dossier de status ‘vervallen’ te geven worden de plannen niet echt verwijderd uit de database van Ruimtelijkeplannen.nl. De plannen die zich in dit ‘vervallen’ dossier bevinden zijn alleen niet meer zichtbaar in de viewer van Ruimtelijkeplannen.nl. Wanneer een gebruiker op een andere wijze gebruik maakt van de data van Ruimtelijkeplannen.nl, bijvoorbeeld via de services, dan zijn deze plannen gewoon beschikbaar. Het dossier en de plannen die daarin staan hebben alleen een label ‘historisch’ meegekregen. Aan individuele planversies kan geen planstatus ‘vervallen’ meegegeven worden. <br/>Wanneer een dossier op vervallen wordt gezet blijft het in het manifest aanwezig, inclusief de URL naar de weblocatie van de bronhouder waar het plan beschikbaar is. Het is dan ook van belang dat het plan op de weblocatie van de bronhouder beschikbaar blijft. Dit is een belangrijk verschil met het echt fysiek verwijderen van plannen. Deze plannen worden wel ontsloten in het DSO en zijn vindbaar op naam en op planidentificatienummer. Of dit wenselijk is, is aan de bronhouder.</li>
