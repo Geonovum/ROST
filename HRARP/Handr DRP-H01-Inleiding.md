@@ -30,7 +30,7 @@ Archief het digitaal archiveren van ruimtelijke plannen nader te onderzoeken en 
 handreiking. De centrale vraag die daarbij werd gesteld is *“waar moet ik op
 letten wanneer ik een ruimtelijk plan (bv. bestemmingsplan) archiveer c.q.
 overdraag aan een archiefdienst?*”.
-
+</br></br>
 Het doel van de handreiking is een aanzet te geven voor personen die betrokken
 zijn bij het archiveren van data en voor degenen die betrokken zijn bij de creatie en
 vaststelling van het ruimtelijke plan: ruimtelijke ordenaars,
@@ -47,7 +47,7 @@ Wanneer de handreiking in de praktijk wordt gebruikt, kan blijken dat
 aanscherping en/of uitbreiding van de handreiking wenselijk is. Bijvoorbeeld een
 verdere uitwerking op documentniveau die nog nu nog beperkt is opgenomen.
 Geonovum ontvangt graag deze informatie. U kunt ons dit laten weten via
-ro-standaarden@geonovum.nl.
+onze [helpdesk](mailto:omgevingswet@geonovum.nl).
 
 ## Leeswijzer
 
