@@ -17,7 +17,7 @@ permanent dient te worden bewaard, of er gebruik kan worden gemaakt van ‘zip�
 of dat archiveren alleen in bepaalde systemen is toegestaan. Zonder de
 informatie uit deze hoofdstukken kan het lastig zijn dit hoofdstuk te
 implementeren.
-
+</br></br>
 De focus van deze handreiking is erop gericht om een aanzet te geven het
 werkproces zo in te richten dat ruimtelijke plannen worden gearchiveerd, conform
 de voorgeschreven wet- en regelgeving. De handreiking richt zich op het
@@ -27,7 +27,7 @@ informatie nodig. Bij het digitaal archiveren van ruimtelijke plannen gaat het
 om twee soorten informatie:  
 1.  documentatie tijdens het werkproces;  
 2.  de bronbestanden die samen het ruimtelijke plan vormen.
-
+</br></br>
 Welke bronbestanden samen het ruimtelijke plan vormen is mede bepaald door het
 type ruimtelijke plan en wordt voorgeschreven vanuit de RO Standaarden
 (zie paragraaf [3.1.2](#welke-ruimtelijke-plannen)). De verschillende bestuursorganen maken gebruik van beheer
@@ -42,7 +42,7 @@ zijn de creator, de datum van creatie, de gebruikte taal en het bestandsformaat.
 Metagegevens beschrijven niet alleen de archiefstukken zelf, maar ook de context
 waarbinnen de archiefstukken zijn ontstaan of ontvangen. En wat er vanaf het moment
 van ontstaan of ontvangst met die archiefstukken is gebeurd.
-
+</br></br>
 De handreiking kan tevens worden gebruikt als leidraad bij het archiveren van de
 overige digitale archiefstukken die in het werkproces ontstaan, zoals
 zienswijzen en andere onderdelen dan de samenhangende set bronbestanden van het
@@ -50,7 +50,7 @@ ruimtelijk plan. Het gebruik van een (bepaald) archiefsysteem (paragraaf [4.5](#
 komt niet aan de orde, omdat dit voor iedere organisatie weer anders kan zijn.
 Dit heeft echter geen invloed op de het verzamelen van de informatie die
 gearchiveerd moet worden.
-
+</br></br>
 Om te kunnen gaan archiveren moet dit worden georganiseerd voordat feitelijk
 archiefstukken worden aangeboden. Het organiseren van dit archiveringsproces
 valt uiteen in de volgende stappen:  
@@ -101,7 +101,7 @@ gecreëerd:
 kortweg aangegeven de omgevingsvergunning voor het afwijken van een
 bestemmingsplan: de mededeling van een met artikel 2.12, eerste lid, onderdeel
 a, onder 3 van de Wabo verleende omgevingsvergunning.*
-
+</br></br>
 Naast deze ruimtelijke plannen is de gerechtelijke uitspraak conform de RO
 Standaarden ook een type ruimtelijk plan. De basis voor dit instrument is gelegd in het Bro artikel 1.2.1 lid 3 met
 de daarbij behorende toelichting onderdeel L van de Nota van Toelichting.
@@ -122,7 +122,7 @@ zolang als nodig.
 Kaders voor de inrichting van systemen worden gegeven vanuit wet- en
 regelgeving, maar ook vanuit normen en standaarden. Een overzicht hiervan is in
 [hoofdstuk 3](#H03) te vinden.
-
+</br></br>
 Als duidelijk is welke informatie zich waar bevindt, is het belangrijk om te
 bepalen wie verantwoordelijk is voor de creatie en het beheer van informatie
 gerelateerd aan ruimtelijke plannen (de ‘actor’). De vastlegging hiervan kan
@@ -134,7 +134,7 @@ ruimtelijk plan wordt *eenmalig* in het gebruikte archiefsysteem van de
 organisatie vastgelegd. In het kader van ruimtelijke plannen is onderstaande
 informatie naar verwachting reeds vastgelegd en kan als eventuele controle
 gebruikt worden.
-
+</br></br>
 De volgende metagegevens zijn of worden verzameld:  
 -   *Zorgdrager*  
 Het bestuursorgaan dat conform de Archiefwet de verantwoordelijkheid heeft
@@ -145,28 +145,27 @@ Bij de verschillende bestuursorganen zijn hiervoor aangewezen:
 	- Gemeente: College van Burgemeester en Wethouders;  
 	- Provincie: Gedeputeerde Staten of Provinciale Staten;
 	- Rijk: Betrokken Minister('s).
-
+</br></br>
 Toelichting gemeente: Conform artikel 3.1 van de Wet ruimtelijke ordening stelt de gemeenteraad
 een ruimtelijk plan vast. Vanuit de Archiefwet is echter het college aangewezen
 als zorgdrager. Verantwoordelijke voor het archiveren is daardoor niet
 verantwoordelijke voor het vaststellen.  
-
 Toelichting provincie: Afhankelijk van het type ruimtelijk plan/ zaaktype is Gedeputeerde Staten,
 dan wel Provinciale Staten aangewezen als zorgdrager van het ruimtelijk plan.  
-
+</br></br>
 Voor het vastleggen van en verwijzen naar institutionele informatie over
 bestuursorganen kan gebruik gemaakt worden van het <a href='https://actorenregister.nationaalarchief.nl/' target='_blank'>Actorenregister</a> van het
 Nationaal Archief. Op deze manier is een verwijzing in de metagegevens voldoende
 en kan worden voorkomen dat deze informatie redundant bij de informatie zelf
 wordt opgeslagen. 
-
+</br></br>
 -   *Beheerder*  
 De beheerder van het ruimtelijk plan wordt door het bestuur van de eigen
 organisatie aangewezen. De beheerder legt bijvoorbeeld beheeractiviteiten
 vast en deelt de activiteit in naar type plan en naar fase(n) van dat plan,
 zie stap 2 in paragraaf [2.3.](#stap-2-zaaktypen-per-procedure)
 Bijvoorbeeld: algemeen directeur bij een provincie of gemeente secretaris.  
-
+</br></br>
 -   *Archiefvormer*  
 De archiefvormer is de organisatie of het organisatieonderdeel dat het
 ruimtelijke plan creëert. Dit kan tegelijkertijd ook de zorgdrager zijn. In
@@ -174,7 +173,7 @@ de loop der tijd kan het zorgdragerschap overgaan naar een andere
 organisatie. Door het vastleggen van de archiefvormer is echter wel altijd
 na te gaan wie de stukken oorspronkelijk creëerde of ontving en daar in
 eerste instantie voor verantwoordelijk was.  
-
+</br></br>
 -   *Mandaat*  
 Het mandaat waaronder informatie wordt gevormd of ontvangen. In het
 mandaatbesluit van het betreffende organisatieonderdeel is bepaald welk
@@ -193,7 +192,7 @@ Welke ruimtelijke plannen conform de Wro en Wabo (daarmee zaaktypen) per
 bestuursorgaan worden vastgelegd, is in paragraaf [2.2](#stap-1-inzicht-in-organisatie-van-informatie) aangegeven. Er moet
 daarnaast onder andere gebruik worden gemaakt worden van RO Standaarden en de
 metagegevens standaarden (paragraaf [3.2](#normen-en-standaarden)).
-
+</br></br>
 Het bepalen van het type ruimtelijk plan geeft tevens inzicht in de fasen en
 onderdelen: welke activiteiten vinden er plaats tijdens de procedure van het
 ruimtelijk plan en welke informatie is archiefplichtig. De selectielijst (paragraaf [4.2](#bewaartermijnen)) geeft inzicht in de
@@ -207,7 +206,7 @@ vaststellingsbesluit.
 Per type plan wordt met betrekking tot de RO Standaarden vervolgens bepaald
 welke documenttypen worden gearchiveerd: bijvoorbeeld plankaart, planregels en
 met welke bestandsformaten.
-
+</br></br>
 Het is aan te bevelen om van te voren een begrippenlijst vast te leggen zodat er
 geen verwarring kan ontstaan over bijvoorbeeld procedure, zaak of dossier.
 Een ruimtelijk plan volgt een Wro/ Awb procedure. Bij het archiveren wordt
