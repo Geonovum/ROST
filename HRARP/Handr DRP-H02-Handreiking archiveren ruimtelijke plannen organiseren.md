@@ -27,6 +27,7 @@ informatie nodig. Bij het digitaal archiveren van ruimtelijke plannen gaat het
 om twee soorten informatie:  
 1.  documentatie tijdens het werkproces;  
 2.  de bronbestanden die samen het ruimtelijke plan vormen.
+
 </br></br>
 Welke bronbestanden samen het ruimtelijke plan vormen is mede bepaald door het
 type ruimtelijke plan en wordt voorgeschreven vanuit de RO Standaarden
