@@ -42,5 +42,6 @@ Waarbij geldt:
     Rijksdriehoeksstelsel, ofwel EPSG:2899229.
 
 ## Toelichting
-    ![](media/6e210f0b8ab394cfaeb231dfd2f54166.png)
+
+![](media/6e210f0b8ab394cfaeb231dfd2f54166.png)
 

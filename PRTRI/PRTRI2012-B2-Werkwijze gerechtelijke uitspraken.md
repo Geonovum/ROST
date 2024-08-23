@@ -21,7 +21,8 @@ De hier beschreven werkwijze is een concrete toepassing van de RO Standaarden in
 combinatie met de wet- en regelgeving op dit gebied. In enkele gevallen zijn er
 meerdere oplossingen mogelijk. In deze gevallen geeft deze bijlage dan een
 aanbeveling. Dit is 
->  gemarkeerd 
+
+> gemarkeerd
 
 weergegeven.  
 De meest voorkomende situaties van uitspraken zijn opgenomen en beschreven: moet
@@ -123,10 +124,12 @@ heeft genomen.
 		-   rolExternPlan: ten gevolge van extern plan/besluit
 
 ## Traject voorafgaand aan uitspraak
-    ![](media/750cfba7a85ce9c9b99e07ae1f792eb2.png)
+
+![](media/750cfba7a85ce9c9b99e07ae1f792eb2.png)
 
 ##  Traject na uitspraak
-    ![](media/1355008b41fbb3b1f6c0a93d23fd263a.png)
+
+![](media/1355008b41fbb3b1f6c0a93d23fd263a.png)
 
 Bij afronding van de procedure heeft het bestuursorgaan de keuze om de
 planversies met de planstatus: concept, voorontwerp en ontwerp uit het manifest

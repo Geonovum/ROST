@@ -33,13 +33,13 @@ Beschikbaar stellen van elementen binnen een andere virtuele directory of in een
 subdirectory binnen de virtuele directory is niet toegestaan. Het is dus niet
 toegestaan het GML bestand bijvoorbeeld als volgt beschikbaar te stellen
 (foutieve elementen <u>onderstreept</u> 
-en in <r>rood</r>):  
+en in <span style="color: red;">rood</span>):  
 
-ht<span>tp://ro.durperdam.nl/visie2012/0012/<u><r>IMRO</r></u>/NL.IMRO.1111.visie2012-0012.gml of
+ht<span>tp://ro.durperdam.nl/visie2012/0012/<u><span style="color: red;">IMRO</span></u>/NL.IMRO.1111.visie2012-0012.gml of
 
-ht<span>tp://ro.durperdam.nl/visie2012<u><r>/</r></u>NL.IMRO.1111.visie2012-0012.gml of
+ht<span>tp://ro.durperdam.nl/visie2012<u><span style="color: red;">/</span></u>NL.IMRO.1111.visie2012-0012.gml of
 
-ht<span>tp://<u><r>ww<span>w.roservice.nl</r></u>/visie2012/0012/NL.IMRO.1111.visie2012-0012.gml.
+ht<span>tp://<u><span style="color: red;">www.roservice.nl</span></u>/visie2012/0012/NL.IMRO.1111.visie2012-0012.gml.
 </br></br>
 Overigens is het wel toegestaan om binnen dezelfde virtuele directory bestanden
 toe te voegen, bijvoorbeeld:
