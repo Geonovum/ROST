@@ -15,8 +15,8 @@ gesteld, vindbaar en toegankelijk gemaakt worden. Dit doen zij voor de ruimtelij
 
 De samenhangende set bronbestanden is naast alle analoge en digitale stukken, zoals de ondergrond,
 één van de onderdelen in de planprocedure. De bestuursorganen zijn tevens
-verplicht conform de Archiefwet de ruimtelijk plannen te archiveren met als doel
-de plannen in goede, geordende en toegankelijke staat te brengen en te houden.
+verplicht conform de Archiefwet de ruimtelijke plannen te archiveren met als doel
+de plannen in goede, geordende en toegankelijke staat te brengen en daarmee duurzaam toegankelijk te houden. 
 
 In de dagelijkse praktijk is het archiveren van de analoge stukken geen
 probleem. Met betrekking tot het archiveren van de samenhangende set
@@ -37,10 +37,10 @@ vaststelling van het ruimtelijke plan: ruimtelijke ordenaars,
 informatieverzorgers en archivarissen bij een gemeente, provincie en het rijk.
 Een aanzet om het werkproces zo in te richten dat ruimtelijke plannen worden
 gearchiveerd, conform de voorgeschreven wet- en regelgeving. De handreiking
-richt zich op het archiveren van de samenhangende set bronbestanden. De
+richt zich specifiek op het archiveren van de samenhangende set bronbestanden. De
 handreiking kan een aanvulling zijn op het bestaande informatiebeleid binnen
 deze bestuursorganen. Deze handreiking kan geen aandacht geven aan het
-informatiebeleid, omdat de keuze van onderwerpen en de prioritering daarin, voor
+informatiebeleid zelf, omdat de keuze van onderwerpen en de prioritering daarin, voor
 elke betrokken overheidsorganisatie anders kan zijn.
 
 Wanneer de handreiking in de praktijk wordt gebruikt, kan blijken dat
