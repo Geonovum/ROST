@@ -34,7 +34,7 @@ ruimtelijke plannen, visies en besluiten. De Regeling standaarden ruimtelijke
 ordening geeft dan ook aan welke normen, aangeduid als de *RO Standaarden*, in
 de praktijk moeten worden gebruikt.
 
-Naast de beschikbaarstelling is in het Bro bepaalt met artikel 1.2.3 dat de
+Daarnnaast bepaalt het Bro met artikel 1.2.3 dat de
 digitale vorm van het ruimtelijke plan de authentieke versie is. De papieren
 vorm van de ruimtelijke plannen is daarvan een kopie.
 
@@ -90,11 +90,11 @@ van de wijze waarop de beheerplicht zal worden uitgevoerd).
 
 De Archiefwet en de regels die daaruit voortvloeien hebben betrekking op zowel
 informatie die permanent bewaard moet blijven als op informatie die op termijn
-vernietigd moet worden. De wet- en regelgeving op het gebied van archieven heeft als
-belangrijkste doel de duurzaamheid, authenticiteit, betrouwbaarheid,
-bruikbaarheid en integriteit van overheidsinformatie te borgen. Een belangrijk
-basisconcept daarbij is dat vorm, inhoud en structuur van archiefstukken
-behouden moeten blijven of tenminste reproduceerbaar moeten zijn.
+vernietigd moet worden. De wet- en regelgeving op het gebied van archiveren heeft als
+belangrijkste doel duurzame toegankelijkheid zodat informatie vindbaar, beschikbaar, leesbaar, interpreteerbaar, betrouwbaar en toekomstbestendig is. 
+Een belangrijk basisconcept daarbij is dat vorm, inhoud en structuur van archiefstukken
+behouden moeten blijven of tenminste reproduceerbaar moeten zijn. 
+Module 2 van het <a href='https://www.nationaalarchief.nl/archiveren/kennisbank/duto-raamwerk' target='_blank'>DUTO-raamwerk</a> van het Nationaal Archief geeft hier meer informatie over. 
 
 ## Normen en standaarden
 
@@ -160,22 +160,21 @@ hoe het ruimtelijk plan moet en kan worden gemaakt volgens de standaard.
 Vanuit het oogpunt van archivering is, naast de Archiefwet- en regelgeving, een
 aantal normen en standaarden te benoemen die de duurzame toegankelijkheid van
 informatie ondersteunen:  
-1.  <a href='https://www.nationaalarchief.nl/archiveren/duto' target='_blank'>DUTO</a>: Normenkader met
-    eisen voor duurzame toegankelijkheid van overheidsinformatie in
-    informatiesystemen, mede op basis van wet- en regelgeving en standaarden.  
-2.  **NEN-ISO 30301**: Managementsystemen voor archivering.  
-3.  **NEN-ISO 15489-1**: Informatie- en archiefmanagement – Deel 1: Concepten en uitgangspunten: standaard waarin principes en uitgangspunten voor het beheer van archiefstukken worden beschreven.  
-4.  **NEN-ISO 23081**: metagegevens voor archiefstukken. De creatie van een metagegevensschema zoals bedoeld in deze standaard wordt ook voorgeschreven in de Archiefregeling.   
-5.  **NEN-ISO 14721**: Open Archival Information System (OAIS) - standaard (referentiemodel) voor de functionaliteit van een e-depot.  
-6.  **NEN-ISO 16175**: internationale standaard Functionele eisen en bijbehorende richtlijnen voor applicaties voor het beheren van digitale archiefstukken.  
-7.  **OWMS**: de Overheid.nl Web Metadata Standaard (OWMS) is de metagegevensstandaard voor informatie van de Nederlandse overheid op internet. Deze is/ wordt vervangen door <a href='https://standaarden.overheid.nl/tooi' target='_blank'>TOOI</a>.   
-8.  **NEN-ISO 27000**: Management systeem standaard voor informatiebeveiliging, in Nederland uitgewerkt in de Baseline Informatiebeveiliging Overheid (BIO).
-9.  **<a href='https://www.iso.org/standard/67325.html' target='_blank'>ISO 19165-1:2018</a>** Geographic information -- Preservation of digital
+1.  **<a href='https://www.nationaalarchief.nl/archiveren/kennisbank/duto-raamwerk' target='_blank'>DUTO-raamwerk</a>**: Geen norm of standaard maar een in Nederland breed toegepast praktisch hulpmiddel voor duurzame toegankelijkheid van overheidsinformatie in informatiesystemen, mede op basis van wet- en regelgeving en standaarden.  
+2. 	**<a href='https://www.nationaalarchief.nl/archiveren/kennisbank/norm-voorkeursformaten' target='_blank'>Norm Voorkeursformaten</a>**: Deze norm schrijft voor welke bestandsformaten op dit moment het meest geschikt zijn om digitale overheidsinformatie zo duurzaam toegankelijk mogelijk te bewaren.
+3.  **NEN-ISO 30301**: Managementsystemen voor archivering.  
+4.  **NEN-ISO 15489-1**: Informatie- en archiefmanagement – Deel 1: Concepten en uitgangspunten: standaard waarin principes en uitgangspunten voor het beheer van archiefstukken worden beschreven.  
+5.  **NEN-ISO 23081**: Metagegevens voor archiefstukken. De creatie van een metagegevensschema zoals bedoeld in deze standaard wordt ook voorgeschreven in de Archiefregeling.   
+6.  **NEN-ISO 14721**: Open Archival Information System (OAIS) - standaard (referentiemodel) voor de functionaliteit van een e-depot.  
+7.  **NEN-ISO 16175**: Internationale standaard Functionele eisen en bijbehorende richtlijnen voor applicaties voor het beheren van digitale archiefstukken.  
+8.  **<a href='https://standaarden.overheid.nl/tooi' target='_blank'>TOOI</a>**: Model voor het definiëren van een gemeenschappelijke taal waarmee data en metadata uitgedrukt kunnen worden.   
+9.  **NEN-ISO 27000**: Management systeem standaard voor informatiebeveiliging, in Nederland uitgewerkt in de Baseline Informatiebeveiliging Overheid (BIO).
+10.  **<a href='https://www.iso.org/standard/67325.html' target='_blank'>ISO 19165-1:2018</a>**: Geographic information -- Preservation of digital
     data and metadata -- Part 1: Fundamentals  
-10. **<a href='https://www.iso.org/standard/53798.html' target='_blank'>ISO 19115-1:2014</a>** Geographic information -- Metadata -- Part 1:
+11. **<a href='https://www.iso.org/standard/53798.html' target='_blank'>ISO 19115-1:2014</a>**: Geographic information -- Metadata -- Part 1:
     Fundamentals  
-11. **<a href='https://www.geonovum.nl/geo-standaarden/inspire-europese-leefomgeving' target='_blank'>INSPIRE richtlijnen</a>** en de <a href='https://www.geonovum.nl/geo-standaarden/metadata' target='_blank'>Nederlands metadataprofielen voor datasets en services</a>**  
-12. **Common Specification for Geospatial data**, onderdeel van <a href='https://ec.europa.eu/isa2/library/inspire-common-geospatial-data-standards-more-informed-and-timely-decisions_en/' target='_blank'>eArchiving building block</a>.  
+12. **<a href='https://www.geonovum.nl/geo-standaarden/inspire-europese-leefomgeving' target='_blank'>INSPIRE richtlijnen</a>** en de <a href='https://www.geonovum.nl/geo-standaarden/metadata' target='_blank'>Nederlands metadataprofielen voor datasets en services</a>**  
+
 
  ## Andere kaders
 
@@ -196,7 +195,7 @@ voor beleidskaders voort, zie onderstaande figuur.
     <figcaption>NORA en de relatie met geo-informatie</figcaption>
 </figure>
 
-Het *dossier Geo-informatie* brengt ons waar de Wro ook naar toe leidt: via het Basismodel Geo-informatie (NEN3610) en het domeinmodel voor de ruimtelijke ordening: IMRO. Figuur 2 laat de NEN3610 pyramide zien hoe het basismodel met de onderliggende families van informatiemodellen is ingebed in internationale standaarden.
+Het *dossier Geo-informatie* brengt ons waar de Wro ook naar toe leidt: via het Basismodel Geo-informatie (NEN3610) naar het domeinmodel voor de ruimtelijke ordening: IMRO. Figuur 2 laat de NEN3610 pyramide zien hoe het basismodel met de onderliggende families van informatiemodellen is ingebed in internationale standaarden.
 Op hetzelfde niveau als dat raamwerk voor geo-standaarden past de Baseline
 Informatiehuishouding binnen het dossier Beleidskaders. Voor zowel het rijk als
 gemeenten is er inmiddels een specifieke Baseline vastgesteld. Deze Baseline is
@@ -227,7 +226,7 @@ vastgelegd wie de houder is van de digitale handtekening, wanneer de
 handtekening is gevalideerd en wat daar het resultaat van was, welke
 functionaris verantwoordelijk was voor de validatie en de identificatie van het
 certificaat van de digitale handtekening. De handtekening zelf hoeft volgens de
-*Archiefwet* niet permanent bewaard te worden. De handtekening is slechts belangrijk voor de validatie en dit is bij het gebruik van het PKI-Overheid certificaat voor het waarmerken van de digitale ruimtelijke plannen al geregeld. Voor archivering is alleen belangrijk dát er gevalideerd is en door de juiste persoon.  
+Archiefwet niet permanent bewaard te worden. De handtekening is slechts belangrijk voor de validatie en dit is bij het gebruik van het PKI-Overheid certificaat voor het waarmerken van de digitale ruimtelijke plannen al geregeld. Voor archivering is alleen belangrijk dát er gevalideerd is en door de juiste persoon.  
 
 ## Samenvatting wet- en regelgeving met bijbehorende standaarden
 
@@ -247,7 +246,8 @@ certificaat van de digitale handtekening. De handtekening zelf hoeft volgens de
     -   NEN-ISO 15489-1: Informatie- en archiefmanagement – Deel 1: Concepten en uitgangspunten, zie <a href='https://www.nen.nl/nen-iso-15489-1-2016-en-218754' target='_blank'>NEN-ISO 15489-1:2016</a>;  
     -   NEN-ISO 16175: Functionele eisen en bijbehorende richtlijnen voor applicaties voor het beheren van digitale archiefstukken, zie <a href='https://www.nen.nl/nen-iso-16175-1-2020-nl-287549' target='_blank'>NEN-ISO 16175-1:2020</a> 
     -   NEN-ISO 27000: Management systeem standaard voor informatiebeveiliging, zie <a href='https://www.nen.nl/nen-en-iso-iec-27000-2020-en-268561' target='_blank'>NEN-EN-ISO/IEC 27000:2020</a>.
--   **Model Archiefverordening 2017**
--   Model Aanwijzings- en benoemingsbesluiten informatiebeheer  
--   Model Beheerregeling informatiebeheer  
--   Model Raadsbesluit Archiefverordening 2017 (word 2.0 versie)
+-   VNG: <a href='https://vng.nl/brieven/model-archiefverordening-2017-en-aanhangende-modellen' target='_blank'>Model Archiefverordening 2017 en aanhangende modellen</a>
+	- 	Model Archiefverordening 2017**
+	-   Model Aanwijzings- en benoemingsbesluiten informatiebeheer  
+	-   Model Beheerregeling informatiebeheer  
+	-   Model Raadsbesluit Archiefverordening 2017 (word 2.0 versie)
