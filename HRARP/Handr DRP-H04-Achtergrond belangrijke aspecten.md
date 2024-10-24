@@ -72,15 +72,11 @@ metagegevens vastleggen voor andere doeleinden (zoals het specifiek beschrijven
 van geo-informatie), met behulp andere standaarden of bestaande ontologieën
 (zoals NEN-ISO 19115).
 
-Er wordt gewerkt aan een nieuwe Archiefwet, deze zal naar verwachting behalve vernietiging en overbrenging naar een archiefbewaarplaats (van te bewaren materiaal) ook nog een derde keuze bieden. Namelijk “bewaren bij de bron;, hiermee wordt het onder strenge voorwaarden mogelijk dat een archiefvormer/ zorgdrager zelf als archiefbewaarplaats wordt aangewezen voor bepaalde collecties. Dit is van belang voor organisaties die veel eigen dossiers voor langere tijd willen hergebruiken. Denk hier bij o.a. aan het Kadaster. Bewaren bij de bron heeft geen invloed op de bewaartermijnen zelf maar wel op de locatie en de manier van opslag van archiefstukken.
-
-Iedere overheidsorganisatie wordt geacht een eigen metagegevensschema vast te stellen. Van belang daarbij is dat in ieder geval elementen zoals gespecificeerd in de elementensets onderdeel zijn van dit schema. Met behulp van dit schema kunnen organisaties nagaan in hoeverre informatiesystemen voldoen aan de regels uit het schema en maatregelen nemen als dit nodig blijkt.
-
 ### Software  
 In de metagegevens moet ook worden vastgelegd met welke applicatie de informatie is
 gecreëerd, inclusief versienummer. Ook als er een nieuwe versie wordt
-geïnstalleerd, moet dit worden vastgelegd. Dit is een voorbeeld van
-‘event-history’ zoals in NEN-ISO 23081 en de RMDTO/TMR verder
+gecreëerd, moet dit worden vastgelegd. Dit is een voorbeeld van
+‘event-history’ zoals in NEN-ISO 23081 en MDTO/TMR verder
 wordt toegelicht.
 
 Doordat de ruimtelijke plannen worden gemaakt met de wettelijke open standaarden (zie ook het <a href='https://forumstandaardisatie.nl/wat-zijn-standaarden' target='_blank'>Forum Standaardisatie</a>) is er tot op heden geen aanleiding voor het bewaren van software. Er wordt uitgegaan
@@ -93,29 +89,20 @@ geschikte software beschikt.
 
 De Archiefwet schrijft voor dat ieder overheidsorgaan moet beschikken over een
 selectielijst, die door de minister wordt vastgesteld. In de selectielijsten is
-bepaald of, en zo ja wanneer, archiefstukken vernietigd moeten worden. De <a href='https://www.nationaalarchief.nl/archiveren/kennisbank/selectielijst-voor-de-archiefbescheiden-van-gemeentelijke-en' target='_blank'>VNG</a> (bij mandaat van alle gemeenten), het <a href='https://www.nationaalarchief.nl/archiveren/kennisbank/selectielijst-voor-archiefbescheiden-van-de-provinciale-organen-vanaf-1' target='_blank'>IPO</a> (bij mandaat van de provincies) en het <a href='https://www.nationaalarchief.nl/archiveren/kennisbank/selectielijst-van-het-ministerie-van-binnenlandse-zaken-en' target='_blank'>Rijk</a> hebben ieder aparte selectielijsten opgesteld.
+bepaald of, en zo ja wanneer, archiefstukken vernietigd moeten worden. 
+De <a href='https://www.nationaalarchief.nl/archiveren/kennisbank/selectielijst-voor-de-archiefbescheiden-van-gemeentelijke-en' target='_blank'>VNG</a> en het <a href='https://www.nationaalarchief.nl/archiveren/kennisbank/selectielijst-voor-archiefbescheiden-van-de-provinciale-organen-vanaf-1' target='_blank'>IPO</a> hebben bij mandaat generieke lijsten voor alle gemeenten respectievelijk provincies opgesteld, binnen het Rijk stelt elke zorgdrager een eigen selectielijst op."
 
 Wanneer archiefstukken voor bewaring worden aangemerkt, moeten ze na maximaal
-20 jaar (korter mag ook, langer niet -uitzonderingen daargelaten-) worden
+20 jaar na sluiting van het dossier (korter mag ook, langer niet -uitzonderingen daargelaten-) worden
 overgebracht naar de archiefbewaarplaats die door de zorgdrager is aangewezen.
 Het ministerie van OCW is voornemens om de overbrengingstermijn in de
-nieuwe Archiefwet terug te brengen naar 10 jaar.
+nieuwe Archiefwet terug te brengen naar 10 jaar na creatie van het archiefstuk.
 Voor de rijksoverheid bevindt die bewaarplaats zich bij het Nationaal Archief.
 Gemeenten en provincies kunnen eigen archiefbewaarplaatsen hebben. Zij kunnen
 ook daarin samenwerken, zoals bijvoorbeeld Regionale Archiefdiensten. Zolang de
 plannen nog niet zijn overgebracht naar een archiefbewaarplaats is de beheerder
-die is aangewezen door het bestuur, verantwoordelijk voor het in goede,
-geordende en toegankelijke staat te houden van de archiefstukken.
+die is aangewezen door het bestuur, verantwoordelijk voor het duurzaam toegankelijk houden van de archiefstukken.
 </br></br>
-Er wordt gewerkt aan een nieuwe Archiefwet, deze zal naar
-verwachting behalve vernietiging en overbrenging naar een archiefbewaarplaats
-(van te bewaren materiaal) ook nog een derde keuze bieden. Namelijk “bewaren bij
-de bron”, hiermee wordt het onder strenge vooraarden mogelijk dat een
-archiefvormer/ zorgdrager zelf als archiefbewaarplaats wordt aangewezen voor bepaalde collecties. Dit is
-van belang voor organisaties die veel eigen dossiers voor langere tijd willen
-hergebruiken. Denk hier bij o.a aan het Kadaster. Bewaren bij de bron heeft geen
-invloed op de bewaartermijnen zelf maar wel op de locatie en de manier van
-opslag van archiefstukken.
 
 Ook voor ruimtelijke plannen is bepaald of ze voor bewaring of vernietiging op
 termijn in aanmerking komen. Uit de desbetreffende selectielijsten blijkt dat
@@ -123,13 +110,20 @@ deze plannen doorgaans voor permanente bewaring worden bestemd. Vaak is daarbij
 gespecificeerd dat het de vastgestelde versie van het plan betreft.
 Voorbereidende stukken moeten op termijn vernietigd worden (de
 vernietigingstermijnen variëren tussen de 5 en 20 jaar). De bepalingen in de
-selectielijsten gelden voor alle archiefstukken ongeacht de vorm.
-
-Digitale ruimtelijke plannen vormen daarop geen uitzondering.
+selectielijsten gelden voor alle archiefstukken ongeacht de vorm. Digitale ruimtelijke plannen vormen daarop geen uitzondering.
 
 Het kan zijn dat per selectielijst de bewaarplicht van de verschillende
 documenten, en stadia van documenten, verschillend is vastgesteld. Hieronder
 volgt een korte opsomming.
+
+Er wordt gewerkt aan de nieuwe Archiefwet, deze zal naar
+verwachting behalve vernietiging en overbrenging naar een archiefbewaarplaats
+(van te bewaren materiaal) ook nog een derde keuze bieden. Namelijk “de ontheffing van overbrenging”, hiermee wordt het onder strenge voorwaarden mogelijk dat een
+archiefvormer/ zorgdrager zelf als archiefbewaarplaats wordt aangewezen voor bepaalde gegevensverzamelingen. Dit is
+van belang voor organisaties die veel eigen permanent te bewaren dossiers voor langere tijd willen
+hergebruiken. Denk hier bij o.a aan het Kadaster. Ontheffing van overbrenging heeft geen
+invloed op de bewaartermijnen zelf maar wel op de locatie en de manier van
+opslag van archiefstukken. Bij ‘langere tijd’ moet gedacht worden aan minstens 30 jaar. Als het hergebruik voor een kortere periode zal zijn, wordt het reeds bestaande instrument van ‘opschorting’ aangeraden. Hierbij wordt toestemming gevraagd om dossiers langer te mogen houden dan 10 jaar (de overbrengingstermijn onder de nieuwe Archiefwet). De ontheffing van overbrenging is vooral van toepassing op de centrale overheden. Voor decentrale overheden bestaat ook het instrument van ‘overbrengen zonder verplaatsing’. Hiermee gaat de verantwoordelijkheid voor de dossiers wel over naar de archiefdienst, maar blijven de dossiers op de locatie van de zorgdrager.
 
 ### Gemeenten  
 De stukken die behoren bij de voorbereiding van het ruimtelijke plan, visie of
@@ -178,20 +172,13 @@ bestandsformaat valideerbaar moet zijn, is in de eerste plaats bedoeld om vast
 te kunnen stellen dat het bestandsformaat ook daadwerkelijk is wat het lijkt te
 zijn. Validatie kan bijvoorbeeld via een register van bestandsformaten, zoals <a href='http://www.nationalarchives.gov.uk/PRONOM/' target='_blank'>PRONOM</a>. In Nederland houdt het Forum Standaardisatie voor de overheid een
 lijst bij van geadopteerde open standaarden. Het Nationaal Archief heeft mede op
-basis hiervan de <a href='https://www.nationaalarchief.nl/archiveren/kennisbank/handreiking-voorkeursformaten-nationaal-archief' target='_blank'>Handreiking
-Voorkeursformaten</a> ontwikkeld. Hiermee worden organisaties handvatten geboden om bij de vorming van
-digitaal archief rekening te houden met de voorkeur van het Nationaal Archief
-(en in het kielzog daarvan ook andere archiefinstellingen). Let op: de lijst
-voorkeursformaten is niet limitatief, het is niet verboden om bestandsformaten
-te gebruiken die niet op de lijst staan. Het zijn slechts de formaten waaraan
-het Nationaal Archief de voorkeur geeft. Wanneer een organisatie bestandsformaten gebruikt die
-niet op de lijst staan dan is er altijd ruimte om deze bestandsformaten en de
+basis hiervan de <a href='https://www.nationaalarchief.nl/archiveren/kennisbank/norm-voorkeursformaten' target='_blank'>landelijke Norm Voorkeursformaten</a> ontwikkeld. Hiermee worden organisaties handvatten geboden om te bepalen welke bestandsformaten worden gebruikt om de informatie goed te kunnen archiveren in samenspraak met het Nationaal Archief en andere archiefinstellingen.Wanneer een organisatie bestandsformaten gebruikt die niet op de lijst staan dan is er altijd ruimte om deze bestandsformaten en de
 eventuele voor- en nadelen met het Nationaal Archief te bespreken.
 Archiefinstellingen met een eigen archiefbewaarplaats maken hun eigen keuzes
 omtrent de bestandsformaten die zij accepteren. Over het algemeen gaat de keuze
 voor bestandsformaten uit naar formaten die open source zijn en/of voldoen aan
 open standaarden. Specifieke bestandsformaten die in het geo-informatie werkveld
-worden gebruikt zijn nog niet opgenomen in de lijst met voorkeursformaten.  
+worden gebruikt zijn ook opgenomen in de lijst met voorkeursformaten.  
 
 ### Compressie  
 Compressie is alleen toegestaan als aangetoond wordt, dat geen informatieverlies
@@ -255,6 +242,4 @@ en de voorzieningen die binnen de organisatie aanwezig zijn. Zo kan het
 aanwezige systeem voor de BAG, GBA, het e-depot of RO beheersysteem mogelijk
 geschikt zijn. De zorgdrager is niet verplicht vanuit de wet- en regelgeving
 voor archiveren te kiezen voor een bepaalde applicatie of database. De
-zorgdrager kiest het systeem naar aanleiding van de eerder geschetste
-randvoorwaarden zoals de DUTO eisen (zie [Bijlage 1](#B01)) en richt het systeem en de
-organisatie op basis van die eisen daarvan in.
+zorgdrager kiest het systeem naar eigen zeggen uit en maakt daarbij gebruik van het DUTO-Raamwerk om het systeem zodanig in te richten dat informatie duurzaam toegankelijk is en blijft.
