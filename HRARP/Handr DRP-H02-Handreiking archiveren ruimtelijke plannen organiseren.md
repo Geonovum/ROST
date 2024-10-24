@@ -31,8 +31,7 @@ om twee soorten informatie:
 </br></br>
 Welke bronbestanden samen het ruimtelijke plan vormen is mede bepaald door het
 type ruimtelijke plan en wordt voorgeschreven vanuit de RO Standaarden
-(zie paragraaf [3.1.2](#welke-ruimtelijke-plannen)). De verschillende bestuursorganen maken gebruik van beheer
-software om deze verzameling (dataset) aan te leggen en beschikbaar te stellen.
+(zie paragraaf [3.1.2](#welke-ruimtelijke-plannen)). De verschillende bestuursorganen maken gebruik van beheersoftware om deze verzameling (dataset) aan te leggen en beschikbaar te stellen.
 In deze handreiking gaan we dan ook niet in op de wijze van verzamelen van de
 samenhangende set van bronbestanden zelf, maar richten we ons op de
 documentatie: welke informatie moet er worden gedocumenteerd met betrekking tot
@@ -72,17 +71,15 @@ Inzicht biedt organisaties duidelijkheid over:
 - waar die informatie zich bevindt (systemen);  
 - wie er verantwoordelijk is voor welke informatie.
 
+Het <a href='https://www.nationaalarchief.nl/archiveren/kennisbank/duto-raamwerk' target='_blank'>DUTO-raamwerk</a> van het Nationaal Archief is een instrument voor concrete, passende maatregelen voor het beheer van overheidsinformatie. Wanneer het raamwerk consequent wordt toegepast, is overheidsinformatie vindbaar, beschikbaar, leesbaar, interpreteerbaar, betrouwbaar en toekomstbestendig.
+
+
 Voor het beschrijven van informatie(objecten), zoals de structuur en betekenis
 daarvan, kan een informatiemodel gemaakt worden of gebruik gemaakt worden van
 sectorspecifieke modellen. IMRO2012 is in dit geval een relevante
-sectorstandaard. Het hebben van een informatiemodel is ook een eis uit <a href='https://www.nationaalarchief.nl/archiveren/duto' target='_blank'>DUTO</a>, het normenkader
-voor duurzame toegankelijkheid van overheidsinformatie. De DUTO-eisen zijn een
-programma van eisen voor duurzame toegankelijkheid van de informatie in de
-informatiesystemen van overheidsorganisaties. De eisen zijn generiek van aard en
-weerspiegelen de eisen die gebruikers stellen aan de toegankelijkheid van de
-informatie. In dit geval betreft het informatie gerelateerd aan ruimtelijke
-plannen.
-Het Nationaal Archief heeft een overzicht van de <a href='https://www.nationaalarchief.nl/archiveren/kennisbank/overzicht-duto-eisen' target='_blank'>DUTO-eisen</a>. Meer hierover in [Bijlage 1](#B01).
+sectorstandaard gerelateerd aan ruimtelijke plannen.
+
+
 
 De volgende ruimtelijke plannen worden door de verschillende bevoegde gezagen
 gecreëerd:
@@ -118,8 +115,7 @@ van die informatiesystemen. Deze systemen kunnen specifiek voor archivering
 bedoeld zijn, of vakapplicaties in het primaire proces die bepaalde
 archiveringsfunctionaliteit hebben (zoals functionaliteit voor vernietiging).  
 Een organisatie zal daarin keuzes moeten maken, omdat het gevolgen heeft voor
-werkprocessen en de inrichting van systemen. Systemen zullen, idealiter <a href='https://www.nationaalarchief.nl/archiveren/kennisbank/archiveren-by-design' target='_blank'>by design</a>, in staat moeten zijn om informatie duurzaam toegankelijk te kunnen houden voor
-zolang als nodig.  
+werkprocessen en de inrichting van systemen. Systemen zullen, idealiter <a href='https://www.nationaalarchief.nl/archiveren/kennisbank/archiveren-by-design' target='_blank'>by design</a>, in staat moeten zijn om informatie duurzaam toegankelijk te kunnen houden voor zolang als nodig.  
 Kaders voor de inrichting van systemen worden gegeven vanuit wet- en
 regelgeving, maar ook vanuit normen en standaarden. Een overzicht hiervan is in
 [hoofdstuk 3](#H03) te vinden.
@@ -128,7 +124,7 @@ Als duidelijk is welke informatie zich waar bevindt, is het belangrijk om te
 bepalen wie verantwoordelijk is voor de creatie en het beheer van informatie
 gerelateerd aan ruimtelijke plannen (de ‘actor’). De vastlegging hiervan kan
 door middel van metagegevens. Zeker in het geval van keteninformatisering is het
-belangrijk dat de betrokken organisaties hierover afspraken maken.
+belangrijk dat de betrokken organisaties hierover afspraken maken. Meer informatie hierover vindt u in de <a href='https://www.nationaalarchief.nl/archiveren/kennisbank/handreiking-archiveren-in-de-informatieketen' target='_blank'>Handreiking Archiveren in de informatieketen</a> van het Nationaal Archief.  
 
 Informatie met betrekking tot identificatie van de eigenaar en maker van het
 ruimtelijk plan wordt *eenmalig* in het gebruikte archiefsysteem van de
@@ -165,7 +161,7 @@ De beheerder van het ruimtelijk plan wordt door het bestuur van de eigen
 organisatie aangewezen. De beheerder legt bijvoorbeeld beheeractiviteiten
 vast en deelt de activiteit in naar type plan en naar fase(n) van dat plan,
 zie stap 2 in paragraaf [2.3.](#stap-2-zaaktypen-per-procedure)
-Bijvoorbeeld: algemeen directeur bij een provincie of gemeente secretaris.  
+Bijvoorbeeld: algemeen directeur bij een provincie- of gemeentesecretaris.  
 </br></br>
 -   *Archiefvormer*  
 De archiefvormer is de organisatie of het organisatieonderdeel dat het
@@ -196,16 +192,16 @@ metagegevens standaarden (paragraaf [3.2](#normen-en-standaarden)).
 </br></br>
 Het bepalen van het type ruimtelijk plan geeft tevens inzicht in de fasen en
 onderdelen: welke activiteiten vinden er plaats tijdens de procedure van het
-ruimtelijk plan en welke informatie is archiefplichtig. De selectielijst (paragraaf [4.2](#bewaartermijnen)) geeft inzicht in de
+ruimtelijk plan en welke informatie is blijvend te bewaren. De selectielijst (paragraaf [4.2](#bewaartermijnen)) geeft inzicht in de
 bewaartermijn van het betreffende ruimtelijk plan. Een selectielijst geeft aan
 hoe lang de verschillende archiefstukken bewaard moeten of mogen worden.
 Het <a href='https://www.nationaalarchief.nl/archiveren/kennisbank/selectielijst-maken' target='_blank'>ontwerpen van een selectielijst</a>, is verplicht voor
-overheidsorganisaties op basis van artikel 5 van de Archiefwet 1995. Nieuwe selectielijsten worden door
+overheidsorganisaties op basis van artikel 5 van de Archiefwet 1995. Nieuwe selectielijsten worden voor het Rijk vastgesteld door
 de minister van Onderwijs, Cultuur en Wetenschap vastgesteld door middel van een
-vaststellingsbesluit.
+vaststellingsbesluit.Voor de gemeentes en provincies wordt dit overkoepelend vastgelegd door de VNG en het IPO. 
 
-Per type plan wordt met betrekking tot de RO Standaarden vervolgens bepaald
-welke documenttypen worden gearchiveerd: bijvoorbeeld plankaart, planregels en
+Per type plan wordt met betrekking tot de RO Standaarden is bepaald
+hoe documenttypen worden gearchiveerd, zoals de plankaart, planregels en
 met welke bestandsformaten.
 </br></br>
 Het is aan te bevelen om van te voren een begrippenlijst vast te leggen zodat er
@@ -341,13 +337,13 @@ certificaat opgenomen waarmee de bronbestanden van een waarmerk zijn
 voorzien. De versleuteling daarvan is opgeslagen in het bronbestand
 geleideformulier.  
 
--   *Hogerliggend ordenings-niveau*  
+-   *Hoger liggend ordenings-niveau*  
 Hier wordt aangegeven waar dit subdossier onderdeel van uit maakt. Er wordt verwezen naar het dossier.  
 
 -   *Aanwezigheid kopieversies*  
 Het bestuursorgaan stelt het betreffende ruimtelijke plan ook voor een ieder
 beschikbaar via de weblocatie die is gemeld aan de <a href='https://www.ruimtelijkeplannen.nl/index' target='_blank'>Index van Ruimtelijkeplannen.nl</a>. De
-publicatie datum van beschikbaarstelling wordt vastgelegd bij het archiveren
+publicatiedatum van beschikbaarstelling wordt vastgelegd bij het archiveren
 van de samenhangende set van bronbestanden.
 
 Gemeenten, provincies en het Rijk zijn conform het Bro verplicht hun ruimtelijke plannen via
@@ -356,8 +352,7 @@ te maken. De locatie wordt gemeld aan de index van de landelijk voorziening <a h
 
 ### Document
 
-Binnen het subdossier worden de betreffende bestanden opgeslagen; de betreffende
-documenten. Dit zijn bijvoorbeeld de bronbestanden, maar ook de ondergrond van
+Binnen het subdossier worden de bronbestanden opgeslagen maar ook de ondergrond van
 het ruimtelijk plan zelf:  
 -   IMRO (plankaart)  
 -   Planteksten  
@@ -384,7 +379,7 @@ onderdelen (documenttypen) in dit subdossier vindbaar zijn. Bijvoorbeeld:
 bronbestanden bestemmingsplan onderverdeeld naar kaart en regels met
 toelichting en geleideformulier.
 Binnen het dossier worden naast het ruimtelijk plan in bronbestanden ook
-andere archiefstukken verzameld.
+andere documenten verzameld.
 Bijvoorbeeld: collegevoorstel, startdocument of zienswijzen.  
 
 -   *Bestandsnaam*  
