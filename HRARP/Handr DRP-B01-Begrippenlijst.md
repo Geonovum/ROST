@@ -38,15 +38,11 @@ onder zijn controle kan houden.
 -   **Dossierstatus:**  
 Bronhouders geven met behulp van de dossierstatus aan welke status het
 ruimtelijke plan heeft.  
--   **DUTO**:  
-Een programma van eisen voor duurzame toegankelijkheid van de informatie in de
+-   **DUTO-raamwerk**:  
+Een praktisch hulpmiddel voor duurzame toegankelijkheid van de informatie in de
 informatiesystemen van overheidsorganisaties.  
 -   **Externe relaties**:  
 De relatie met andere zaken in het interne archief systeem of externe zaken.  
--   **Handreiking Voorkeursformaten**  
-Een door het Nationaal Archief opgestelde handreiking om organisaties handvatten
-te bieden om bij de vorming van digitaal archief rekening te houden met de
-voorkeur van het Nationaal Archief.  
 -   **Identificatie** (ID):  
 Identiek aan STRI2012 dossiernummer dat is aangemaakt.  
 -   **INSPIRE**  
@@ -54,6 +50,8 @@ De Europese richtlichtlijn voor het verplicht gebruik van het
 toepassingsprofiel.  
 -   **Mandaat:**  
 Bevoegdheid (op basis van wet- en regelgeving en/of beleidskaders) om bepaalde taken uit te voeren.  
+-	**MDTO:**
+De norm Metagegevens voor duurzaam toegankelijke overheidsinformatie is voor het vastleggen en uitwisselen van eenduidige metagegevens om de duurzame toegankelijkheid van overheidsinformatie mogelijk te maken.
 -   **Metagegevens:** zijn gegevens die de context, inhoud en structuur van
     archiefstukken beschrijven, evenals het beheer van die archiefstukken door de tijd heen.  
 	-   *Identificatie (ID)*  
@@ -85,6 +83,10 @@ inrichting van de elektronische overheid.
 -   **Norm**  
 De Regeling standaarden ruimtelijke ordening geeft dan ook aan welke normen,
 aangeduid als de RO Standaarden, in de praktijk moeten worden gebruikt.  
+-   **Norm Voorkeursformaten**  
+Een door het Nationaal Archief opgestelde handreiking om organisaties handvatten
+te bieden om bij de vorming van digitaal archief rekening te houden met de
+voorkeur van het Nationaal Archief.
 -   **Ondergrond van het ruimtelijk plan**  
 Op grond van artikel 1.2.4 lid 1 Bro moet bij het besluit tot vaststelling van
 het ruimtelijke instrument worden aangegeven welke ondergrond is gebruikt, maar
@@ -114,6 +116,8 @@ De profielen zijn een verbijzondering van de internationale metagegevenstandaard
 van ISO en bevatten eveneens de metagegevens vereisten uit de Europese INSPIRE
 richtlijn. Metagegevens wordt toegankelijk gemaakt door ze op te nemen in een
 register.  
+-	**TOOI:** 
+Model voor het definiëren van een gemeenschappelijke taal waarmee data en metadata uitgedrukt kunnen worden.
 -   **Type**  
 Met type en daaraan gekoppeld vorm, wordt concreet aangegeven welke
 onderdelen (documenttypen) in dit subdossier vindbaar zijn.  
