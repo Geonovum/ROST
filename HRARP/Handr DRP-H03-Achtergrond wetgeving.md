@@ -161,7 +161,7 @@ Vanuit het oogpunt van archivering is, naast de Archiefwet- en regelgeving, een
 aantal normen en standaarden te benoemen die de duurzame toegankelijkheid van
 informatie ondersteunen:  
 1.  **<a href='https://www.nationaalarchief.nl/archiveren/kennisbank/duto-raamwerk' target='_blank'>DUTO-raamwerk</a>**: Geen norm of standaard maar een in Nederland breed toegepast praktisch hulpmiddel voor duurzame toegankelijkheid van overheidsinformatie in informatiesystemen, mede op basis van wet- en regelgeving en standaarden.  
-2. 	**<a href='https://www.nationaalarchief.nl/archiveren/kennisbank/norm-voorkeursformaten' target='_blank'>Norm Voorkeursformaten</a>**: Deze norm schrijft voor welke bestandsformaten op dit moment het meest geschikt zijn om digitale overheidsinformatie zo duurzaam toegankelijk mogelijk te bewaren.
+2.  **<a href='https://www.nationaalarchief.nl/archiveren/kennisbank/norm-voorkeursformaten' target='_blank'>Norm Voorkeursformaten</a>**: Deze norm schrijft voor welke bestandsformaten op dit moment het meest geschikt zijn om digitale overheidsinformatie zo duurzaam toegankelijk mogelijk te bewaren.
 3.  **NEN-ISO 30301**: Managementsystemen voor archivering.  
 4.  **NEN-ISO 15489-1**: Informatie- en archiefmanagement – Deel 1: Concepten en uitgangspunten: standaard waarin principes en uitgangspunten voor het beheer van archiefstukken worden beschreven.  
 5.  **NEN-ISO 23081**: Metagegevens voor archiefstukken. De creatie van een metagegevensschema zoals bedoeld in deze standaard wordt ook voorgeschreven in de Archiefregeling.   
@@ -169,14 +169,13 @@ informatie ondersteunen:
 7.  **NEN-ISO 16175**: Internationale standaard Functionele eisen en bijbehorende richtlijnen voor applicaties voor het beheren van digitale archiefstukken.  
 8.  **<a href='https://standaarden.overheid.nl/tooi' target='_blank'>TOOI</a>**: Model voor het definiëren van een gemeenschappelijke taal waarmee data en metadata uitgedrukt kunnen worden.   
 9.  **NEN-ISO 27000**: Management systeem standaard voor informatiebeveiliging, in Nederland uitgewerkt in de Baseline Informatiebeveiliging Overheid (BIO).
-10.  **<a href='https://www.iso.org/standard/67325.html' target='_blank'>ISO 19165-1:2018</a>**: Geographic information -- Preservation of digital
+10. **<a href='https://www.iso.org/standard/67325.html' target='_blank'>ISO 19165-1:2018</a>**: Geographic information -- Preservation of digital
     data and metadata -- Part 1: Fundamentals  
 11. **<a href='https://www.iso.org/standard/53798.html' target='_blank'>ISO 19115-1:2014</a>**: Geographic information -- Metadata -- Part 1:
     Fundamentals  
 12. **<a href='https://www.geonovum.nl/geo-standaarden/inspire-europese-leefomgeving' target='_blank'>INSPIRE richtlijnen</a>** en de <a href='https://www.geonovum.nl/geo-standaarden/metadata' target='_blank'>Nederlands metadataprofielen voor datasets en services</a>**  
 
-
- ## Andere kaders
+## Andere kaders
 
 Naast wetgeving en standaarden zijn er een aantal andere kaders die een rol
 spelen bij ruimtelijke plannen. Een belangrijk kader is de [Nederlandse Overheid
@@ -205,7 +204,7 @@ de standaarden voor archief- en informatiehuishouding die hierna zullen worden
 toegelicht.
 
 <figure id="NEN3610_2022">
-    <img  id="NEN3610_2022" src="media/Basisprogramma_Infomodel_NEN_3610_stelsel_logo_Groot.png" alt="Basismodel voor geo-informatie met sectorale standaard voor de
+    <img id="NEN3610_2022" src="media/Basisprogramma_Infomodel_NEN_3610_stelsel_logo_Groot.png" alt="Basismodel voor geo-informatie met sectorale standaard voor de
 ruimtelijke ordening">
     <figcaption>Basismodel voor geo-informatie met sectorale standaard voor de ruimtelijke ordening</figcaption>
 </figure>
@@ -247,7 +246,7 @@ Archiefwet niet permanent bewaard te worden. De handtekening is slechts belangri
     -   NEN-ISO 16175: Functionele eisen en bijbehorende richtlijnen voor applicaties voor het beheren van digitale archiefstukken, zie <a href='https://www.nen.nl/nen-iso-16175-1-2020-nl-287549' target='_blank'>NEN-ISO 16175-1:2020</a> 
     -   NEN-ISO 27000: Management systeem standaard voor informatiebeveiliging, zie <a href='https://www.nen.nl/nen-en-iso-iec-27000-2020-en-268561' target='_blank'>NEN-EN-ISO/IEC 27000:2020</a>.
 -   VNG: <a href='https://vng.nl/brieven/model-archiefverordening-2017-en-aanhangende-modellen' target='_blank'>Model Archiefverordening 2017 en aanhangende modellen</a>
-	- 	Model Archiefverordening 2017**
+	-   **Model Archiefverordening 2017**
 	-   Model Aanwijzings- en benoemingsbesluiten informatiebeheer  
 	-   Model Beheerregeling informatiebeheer  
 	-   Model Raadsbesluit Archiefverordening 2017 (word 2.0 versie)
