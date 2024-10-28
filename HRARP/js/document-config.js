@@ -9,8 +9,8 @@ var documentConfig =
   latestVersion: [
     "https://docs.geostandaarden.nl/ro/arp/"
   ],
-  publishDate: "2024-08-14",
-  publishVersion: "2.1.2",
+  publishDate: "2024-10-29",
+  publishVersion: "2.2",
   thisVersion: [
     "https://docs.geostandaarden.nl/ro/arp/"
   ],
