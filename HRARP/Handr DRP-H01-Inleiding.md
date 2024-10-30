@@ -61,11 +61,6 @@ rijk hebben en mogelijk op een bepaalde manier zouden moeten uitvoeren, is de
 context van wet- en regelgeving met daaruit voortvloeiende vereisten samengevat.
 Deze vindt u terug in hoofdstuk 3 en hoofdstuk 4.
 
-In [Bijlage 2](#B02) is door middel van verschillende tabellen een lijst van elementen
-opgenomen. Hierdoor is per niveau door het bestuursorgaan te bepalen welke
-informatie over de samenhangende set bronbestanden van het ruimtelijk plan moet
-worden verzameld om aan de slag te gaan met archiveren.
-
 Zonder de medewerking van een aantal experts op het gebied van archiveren en
 ruimtelijk ordening zou deze handreiking niet tot stand zijn gekomen. Zij worden
-van harte bedankt en genoemd in [Bijlage 3](#B03).
+van harte bedankt en genoemd in [Bijlage 2](#B02).

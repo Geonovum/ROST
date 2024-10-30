@@ -43,7 +43,7 @@ In de vorige paragraaf is met artikel 1.2.1 Bro aangegeven welke ruimtelijke
 plannen digitaal door de bevoegde gezagen conform de RO Standaarden beschikbaar
 worden gesteld en vindbaar en toegankelijk worden gemaakt. Deze paragraaf geeft
 een concreet overzicht. Dit is inclusief de omgevingsvergunning om af te wijken
-van het bestemmingsplan op basis van de <a href='http://wetten.overheid.nl/BWBR0024779' target='_blank'>Wabo</a> en het <a href='https://wetten.overheid.nl/BWBR0027464' target='_blank'>Besluit Omgevingsrecht (Bor)</a>. 
+van het bestemmingsplan op grond van de <a href='http://wetten.overheid.nl/BWBR0024779' target='_blank'>Wabo</a> en het <a href='https://wetten.overheid.nl/BWBR0027464' target='_blank'>Besluit Omgevingsrecht (Bor)</a>. 
 
 De wet- en regelgeving verplicht het bestuursorgaan om de mededeling
 (kennisgeving in de Staatscourant) van een met artikel 2.12, eerste lid,
@@ -173,7 +173,7 @@ informatie ondersteunen:
     data and metadata -- Part 1: Fundamentals  
 11. **<a href='https://www.iso.org/standard/53798.html' target='_blank'>ISO 19115-1:2014</a>**: Geographic information -- Metadata -- Part 1:
     Fundamentals  
-12. **<a href='https://www.geonovum.nl/geo-standaarden/inspire-europese-leefomgeving' target='_blank'>INSPIRE richtlijnen</a>** en de <a href='https://www.geonovum.nl/geo-standaarden/metadata' target='_blank'>Nederlands metadataprofielen voor datasets en services</a>**  
+12. **<a href='https://www.geonovum.nl/geo-standaarden/inspire-europese-leefomgeving' target='_blank'>INSPIRE richtlijnen</a>** en de <a href='https://www.geonovum.nl/geo-standaarden/metadata' target='_blank'>Nederlands metadataprofielen voor datasets en services</a>  
 
 ## Andere kaders
 
@@ -246,7 +246,6 @@ Archiefwet niet permanent bewaard te worden. De handtekening is slechts belangri
     -   NEN-ISO 16175: Functionele eisen en bijbehorende richtlijnen voor applicaties voor het beheren van digitale archiefstukken, zie <a href='https://www.nen.nl/nen-iso-16175-1-2020-nl-287549' target='_blank'>NEN-ISO 16175-1:2020</a> 
     -   NEN-ISO 27000: Management systeem standaard voor informatiebeveiliging, zie <a href='https://www.nen.nl/nen-en-iso-iec-27000-2020-en-268561' target='_blank'>NEN-EN-ISO/IEC 27000:2020</a>.
 -   VNG: <a href='https://vng.nl/brieven/model-archiefverordening-2017-en-aanhangende-modellen' target='_blank'>Model Archiefverordening 2017 en aanhangende modellen</a>
-	-   **Model Archiefverordening 2017**
 	-   Model Aanwijzings- en benoemingsbesluiten informatiebeheer  
 	-   Model Beheerregeling informatiebeheer  
 	-   Model Raadsbesluit Archiefverordening 2017 (word 2.0 versie)

@@ -6,7 +6,7 @@ De vindplaats van de archiefstukken in andere beheeromgevingen.
 Van de zaak door de zorgdrager: wat gebeurt er met de archiefstukken?  
 -   **Archiefvormer**:  
 De organisatie of het organisatieonderdeel dat het ruimtelijke plan creëert.  
--   **Archiefwet**  
+-   **Archiefwet**:  
 Nederlandse overheidsorganen vallen onder de Archiefwet 1995. Specifieke
 bepalingen uit de Archiefwet zijn uitgewerkt in het Archiefbesluit. En
 gedetailleerde regels voor de informatiehuishouding en de archieven van de
@@ -19,9 +19,9 @@ gekocht, gebouwd, aangepast of afgeschaft worden.
 -   **Beheerder**:  
 Door het bestuur van de eigen organisatie aangewezen persoon die
 verantwoordelijk is voor het ruimtelijk plan.  
--   **Benodigde hulpmiddelen**  
+-   **Benodigde hulpmiddelen**:  
 Door middel van welke raadpleegsoftware kunnen de plannen geraadpleegd worden.  
--   **Bestandsnaam**  
+-   **Bestandsnaam**:  
 De unieke bestandsnaam met bestandsformaat die aan ieder onderdeel van de
 bronbestanden is meegegeven conform de RO Standaarden (STRI).  
 -   **Beschrijving**:  
@@ -29,13 +29,13 @@ Van het ruimtelijk plan en de locatie.
 -   **Bronbestanden**  
 De originele bestanden van een ruimtelijk plan in verschillende formaten zoals
 gml, xml, html en pdf.  
--   **Compressie**  
+-   **Compressie**:  
 Het reduceren van de bestandsgrootte.  
 -   **Digitale waarmerk of handtekening**  
 De handtekening moet op unieke wijze aan de ondertekenaar zijn verbonden. Ook
 moet de handtekening zijn gemaakt met middelen die de ondertekenaar helemaal
 onder zijn controle kan houden.  
--   **Dossierstatus:**  
+-   **Dossierstatus**:  
 Bronhouders geven met behulp van de dossierstatus aan welke status het
 ruimtelijke plan heeft.  
 -   **DUTO-raamwerk**:  
@@ -45,14 +45,14 @@ informatiesystemen van overheidsorganisaties.
 De relatie met andere zaken in het interne archief systeem of externe zaken.  
 -   **Identificatie** (ID):  
 Identiek aan STRI2012 dossiernummer dat is aangemaakt.  
--   **INSPIRE**  
+-   **INSPIRE**:  
 De Europese richtlichtlijn voor het verplicht gebruik van het
 toepassingsprofiel.  
--   **Mandaat:**  
+-   **Mandaat**:  
 Bevoegdheid (op basis van wet- en regelgeving en/of beleidskaders) om bepaalde taken uit te voeren.  
 -	**MDTO:**
 De norm Metagegevens voor duurzaam toegankelijke overheidsinformatie is voor het vastleggen en uitwisselen van eenduidige metagegevens om de duurzame toegankelijkheid van overheidsinformatie mogelijk te maken.
--   **Metagegevens:** zijn gegevens die de context, inhoud en structuur van
+-   **Metagegevens**: zijn gegevens die de context, inhoud en structuur van
     archiefstukken beschrijven, evenals het beheer van die archiefstukken door de tijd heen.  
 	-   *Identificatie (ID)*  
 Het ID van het subdossier is gelijk aan het IMRO2012 planidentificatienummer
@@ -77,32 +77,32 @@ Het bestuursorgaan stelt het betreffende ruimtelijke plan ook voor eenieder
 beschikbaar via de weblocatie die is gemeld aan de <a href='https://www.ruimtelijkeplannen.nl/index' target='_blank'>index</a> van de landelijke voorziening Ruimtelijkeplannen.nl. De
 publicatie datum van beschikbaarstelling wordt vastgelegd bij het archiveren
 van de samenhangende set van bronbestanden.  
--   **NORA** (de Nederlandse Overheid Referentie Architectuur)  
+-   **NORA**: de Nederlandse Overheid Referentie Architectuur  
 Bevat principes, beschrijvingen, modellen en standaarden voor het ontwerp en de
 inrichting van de elektronische overheid.  
--   **Norm**  
+-   **Norm**:  
 De Regeling standaarden ruimtelijke ordening geeft dan ook aan welke normen,
 aangeduid als de RO Standaarden, in de praktijk moeten worden gebruikt.  
--   **Norm Voorkeursformaten**  
+-   **Norm Voorkeursformaten**:  
 Een door het Nationaal Archief opgestelde handreiking om organisaties handvatten
 te bieden om bij de vorming van digitaal archief rekening te houden met de
 voorkeur van het Nationaal Archief.
--   **Ondergrond van het ruimtelijk plan**  
+-   **Ondergrond van het ruimtelijk plan**:  
 Op grond van artikel 1.2.4 lid 1 Bro moet bij het besluit tot vaststelling van
 het ruimtelijke instrument worden aangegeven welke ondergrond is gebruikt, maar
 maakt geen onderdeel uit van de bronbestanden.  
--   **PKI-Overheid certificaat**  
+-   **PKI-Overheid certificaat**:  
 Toevoegen van een waarmerk zodat de authenticiteit van het plan gewaarborgd bij upload naar de landelijke voorziening Ruimelijkeplannen.nl  
 -   **Planning**:  
 Aangeven wat de planning van verschillende activiteiten is en hoe lang deze
 activiteit duurt.  
--   **RO Standaarden**  
-Afspraken die ervoor zorgen dat makers van plannen in heel Nederland dezelfde
+-   **RO Standaarden**:  
+Afspraken die ervoor zorgen dat makers van ruimtelijke plannen op grond van de Wet ruimtelijkte ordening in heel Nederland dezelfde
 termen en kleuren toepassen. Ook zijn er technische afspraken gemaakt die ervoor
 zorgen dat plannen digitaal uitgewisseld kunnen worden. Het geheel aan RO
 Standaarden omvat wettelijk verplichte standaarden, praktijkrichtlijnen en
 werkafspraken.  
--   **Samenhangende set bronbestanden**  
+-   **Samenhangende set bronbestanden**:  
 Ieder ruimtelijk instrument is opgebouwd uit een samenhangende set onderdelen.
 Ieder onderdeel bestaat uit één of meerdere bronbestanden.  
 -   **Selectielijst**:  
@@ -111,28 +111,28 @@ Lijst die bepaald of, en zo ja wanneer, archiefstukken vernietigd moeten worden.
 Per dossier kunnen verschillende fasen aangeduid worden.  
 -   **Titel**:  
 Identiek aan de naam in de GML.  
--   **Toepassingsprofiel**  
+-   **Toepassingsprofiel**:  
 De profielen zijn een verbijzondering van de internationale metagegevenstandaarden
 van ISO en bevatten eveneens de metagegevens vereisten uit de Europese INSPIRE
 richtlijn. Metagegevens wordt toegankelijk gemaakt door ze op te nemen in een
 register.  
--	**TOOI:** 
+-	**TOOI**: 
 Model voor het definiëren van een gemeenschappelijke taal waarmee data en metadata uitgedrukt kunnen worden.
--   **Type**  
+-   **Type**:  
 Met type en daaraan gekoppeld vorm, wordt concreet aangegeven welke
 onderdelen (documenttypen) in dit subdossier vindbaar zijn.  
 -   **Uitvoerende**:  
 De naam van het organisatieonderdeel dat verantwoordelijk is voor het beheer van
 de archiefstukken.  
--   **Vervanging**  
+-   **Vervanging**:  
 Originele archiefstukken vervangen door reproducties, waarbij de originelen na vervanging worden vernietigd.  
--   **Vindplaats**  
+-   **Vindplaats**:  
 De fysieke of virtuele vindplaats(-en) van het archiefstuk.  
 -   **Vorm**  
 De verschijningsvorm, dan wel documentvorm.  
 -   **Werkproces**:  
 Zaaktype  
--   **Wet ruimtelijke ordening (Wro)**  
+-   **Wet ruimtelijke ordening (Wro)**:  
 Is op 1 juli 2008 in werking getreden. De basis voor digitale ruimtelijke
 plannen is gelegd door voor verschillende planprocedures aan te geven dat de
 betrokken overheid het betreffende plan, visie of besluit tevens langs
@@ -141,5 +141,5 @@ ruimtelijke ordening* (Bro).
 -   **Zaaktypecatalogus**:  
 Het verloop van dienstverleningsprocessen waarbij de ‘klant’ een product vraagt
 en geleverd krijgt.  
--   **Zorgdrager:**  
+-   **Zorgdrager**:  
 Het bestuursorgaan dat conform de Archiefwet de verantwoordelijkheid heeft.

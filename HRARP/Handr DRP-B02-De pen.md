@@ -1,4 +1,4 @@
-# Bijlage 3: Met dank aan   
+# Bijlage 2: Met dank aan   
 De pen van deze handreiking is gevoerd door Geonovum. De schrijvers hebben zeer waardevolle input en feedback mogen ontvangen van experts werkzaam bij de volgende organisaties, die we hierbij hartelijk willen danken voor hun inbreng.
 
 **Versie 2.2:**
