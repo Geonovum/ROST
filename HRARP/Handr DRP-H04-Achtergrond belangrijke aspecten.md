@@ -90,7 +90,7 @@ geschikte software beschikt.
 De Archiefwet schrijft voor dat ieder overheidsorgaan moet beschikken over een
 selectielijst, die door de minister wordt vastgesteld. In de selectielijsten is
 bepaald of, en zo ja wanneer, archiefstukken vernietigd moeten worden. 
-De <a href='https://www.nationaalarchief.nl/archiveren/kennisbank/selectielijst-voor-de-archiefbescheiden-van-gemeentelijke-en' target='_blank'>VNG</a> en het <a href='https://www.nationaalarchief.nl/archiveren/kennisbank/selectielijst-voor-archiefbescheiden-van-de-provinciale-organen-vanaf-1' target='_blank'>IPO</a> hebben bij mandaat generieke lijsten voor alle gemeenten respectievelijk provincies opgesteld, binnen het Rijk stelt elke zorgdrager een eigen selectielijst op."
+De <a href='https://www.nationaalarchief.nl/archiveren/kennisbank/selectielijst-voor-de-archiefbescheiden-van-gemeentelijke-en' target='_blank'>VNG</a> en het <a href='https://www.nationaalarchief.nl/archiveren/kennisbank/selectielijst-voor-archiefbescheiden-van-de-provinciale-organen-vanaf-1' target='_blank'>IPO</a> hebben bij mandaat generieke lijsten voor alle gemeenten respectievelijk provincies opgesteld, binnen het Rijk stelt elke zorgdrager een eigen selectielijst op.
 
 Wanneer archiefstukken voor bewaring worden aangemerkt, moeten ze na maximaal
 20 jaar na sluiting van het dossier (korter mag ook, langer niet -uitzonderingen daargelaten-) worden
