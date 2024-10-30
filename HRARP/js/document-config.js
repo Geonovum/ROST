@@ -36,7 +36,7 @@ var documentConfig =
       companyURL: "https://www.geonovum.nl/"
     },
     {
-      name: "Monique Scherpenzeel",
+      name: "Monique van Scherpenzeel",
       company: "Geonovum",
       companyURL: "https://www.geonovum.nl/"
     }
