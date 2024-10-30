@@ -12,7 +12,7 @@ var documentConfig =
   publishDate: "2024-10-29",
   publishVersion: "2.2",
   thisVersion: [
-    "https://docs.geostandaarden.nl/ro/arp/"
+    "https://docs.geostandaarden.nl/ro/def-hr-arp-20241029/"
   ],
   previousPublishDate: "2024-04-03",
   previousPublishVersion: "2.1.1",
