@@ -107,7 +107,6 @@ belang. Het samengesteld attribuut *planstatus* verwijst naar het object
 Het domein *Planstatus* geeft de toegestane waarden voor het attribuut *planstatus* waaruit er één moet worden gekozen. De waarde van dit attribuut
 geeft de planstatus weer.  
 </br>
-
 - **datum** (verplicht)
 Het attribuut datum is bedoeld om de proceduredatum van het plan op te
 nemen. De in het waardeveld op te nemen datum dient overeenkomstig het
@@ -157,12 +156,13 @@ binnen de AMvB. Daarnaast wordt de keuze vastgelegd met behulp van het attribuut
 *verwijzingNorm* bij BesluitGebied_A van deze AMvB. Het format dient
 overeen­komstig de afspraak over de bestandsnaamconventies conform de STRI2012
 te zijn.
-
+</br>
 - **verwijzingNaarTekst** (verplicht)
 Dit attribuut is bedoeld om (hyper)links te kunnen opnemen. Hier dient een
 (hy­per)­link naar het soort document dat is aangegeven bij het attribuut*typeTekst* te worden opgenomen. Het format dient overeen­komstig de
 afspraak over de bestandsnaamconventies voor het bestandstype *besluitdocument*, *toelichting*, *regels* of *bijlagen* conform de
 STRI2012 te zijn.
+</br>
 - **typeTekst** (verplicht)
 Hiermee wordt aangegeven om wat voor type tekst het gaat. Per verwijzing
 naar tekst dient gekozen te worden uit een van de volgende waarden van het
@@ -181,11 +181,13 @@ bestaande uit de attributen *ondergrondType* en *ondergrondDatum.* Met dit
 attribuut wordt, conform artikel 1.2.4 Bro, aangegeven welke ondergrond bij het
 vaststellen van het besluit is gebruikt.
 Er zijn meerdere waarden mogelijk.  
-	-   **ondergrondType** (verplicht)
+</br>
+- **ondergrondType** (verplicht)
 Het type van de gebruikte ondergrond volgens het domein Ondergronden. Op
 grond van de Wet basisregistratie grootschalige topografie (BGT) is het per
 1 juli 2017 voor bestuursorganen verplicht om gebruik te maken van de
-	-   **Basisregistratie Grootschalige Topografie (BGT).**
+</br>
+- **Basisregistratie Grootschalige Topografie (BGT).**
 Een bestuursorgaan kan daar indien nodig gemotiveerd van afwijken. Bij afwijking kan het
 bestuursorgaan gebruik maken van:  
 	-   basisregistratie topografie (BRT)  
@@ -206,13 +208,15 @@ kaarten/afbeeldingen op het niveau van het "plangebied" en niet op het niveau
 van onderliggende objecten; illustraties die bij onderliggende objecten behoren
 worden bij die objecten opgenomen. Het attribuut verwijst naar het samengestelde
 attribuut *IllustratieReferentiePG*, bestaande uit de attributen:  
-	-   **verwijzingNaarIllustratie** (verplicht)
+</br>
+- **verwijzingNaarIllustratie** (verplicht)
 Dit attribuut is exclusief bedoeld om hyperlinks te kunnen opnemen. Hier
 dient een hyperlink naar de illustratie waarbij het object behoort te worden
 opgenomen. Het format dient overeenkomstig de afspraak over de
 bestandsnaamconventie voor het bestandstype *illustraties* conform de
-STRI2012 te zijn.   
-	-   **typeIllustratie** (verplicht)  
+STRI2012 te zijn.  
+</br>
+- **typeIllustratie** (verplicht)  
 Hierin wordt het type van de illustratie vastgelegd: om wat voor soort
 illustratie het gaat. Er dient gekozen te worden uit één van de waarden
 (afbeelding of kaart) volgens het domein *Illustratie*.
@@ -224,17 +228,21 @@ leggen. Bij een mr dient altijd naar de bovenliggende AMvB verwezen te worden.
 In [Hoofdstuk 4](#H04) is dit met betrekking tot herzieningen toegelicht. Dit attribuut
 verwijst naar het samengestelde attribuut *ExternPlanReferentie_AMB*, bestaande
 uit de volgende attributen *naamExternPlan*, *idnExternPlan* en *rolExternPlan*. 
-	-   **naamExternPlan** (verplicht)  
+</br>
+- **naamExternPlan** (verplicht)  
 Hier wordt de naam van het externe plan of in voorkomend geval besluit
 waarnaar verwezen wordt opgegeven. Dit kan een specifieke naam zijn indien
-deze bekend is, maar ook een algemene benaming.  
-	-   **idnExternPlan** (indien gewenst)  
+deze bekend is, maar ook een algemene benaming. 
+</br>
+- **idnExternPlan** (indien gewenst)  
 In het geval een identificatie (idn) van het externe plan waarnaar verwezen
-wordt, bekend is, kan deze idn hier worden opgenomen.  
-	-   **rolExternPlan** (verplicht)
+wordt, bekend is, kan deze idn hier worden opgenomen.
+</br>
+- **rolExternPlan** (verplicht)
 Hierin wordt de betekenis van het externe plan/besluit ten opzichte van de
 AMvB vastgelegd. Het betreft hier een van de volgende vaste waarden uit het
-domein *RolExternPlan_AMB*:  
+domein *RolExternPlan_AMB*:
+</br>  
 	-   *ten gevolge van extern plan/besluit* in geval het plan een gevolg is van
     een ander plan of besluit, zoals een mr die naar AMvB verwijst;  
 	-   *in extern plan/besluit uit te werken* in geval de AMvB dat als gevolg dient
@@ -263,13 +271,15 @@ moet ook worden opgenomen: IMROPT2012.
 
 ***begrenzing*** (verplicht): 
 Dit attribuut verwijst naar het samengestelde attribuut *GeometriePlangebied*,
-bestaande uit de attributen *geometrie* en *idealisatie*.  
-	-   **geometrie** (verplicht)  
+bestaande uit de attributen *geometrie* en *idealisatie*. 
+</br>
+- **geometrie** (verplicht)  
 Het object *Besluitgebied_A* kent uitsluitend de geometrie van een vlak of
 multivlak (multipolygoon). Dit attribuut legt de coördinaten in een
 vastgesteld format (gml) vast. De coördinaten worden door de applicatie
-automatisch gegenereerd.  
-	-   **idealisatie** (verplicht)  
+automatisch gegenereerd.
+</br>
+- **idealisatie** (verplicht)  
 Met het attribuut *idealisatie* kan de nauwkeurigheid van de begrenzing van
 een object worden aangegeven. Dit attribuut heeft de vaste waarde exact
 volgens het domein *Idealisatie_1*. De vaste waarde exact geeft aan dat de
