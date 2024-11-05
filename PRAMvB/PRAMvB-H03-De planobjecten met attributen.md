@@ -242,15 +242,15 @@ Hierin wordt de betekenis van het externe plan/besluit ten opzichte van de
 AMvB vastgelegd. Het betreft hier een van de volgende vaste waarden uit het
 domein *RolExternPlan_AMB*:
 </br>  
-	-   *ten gevolge van extern plan/besluit* in geval het plan een gevolg is van
+  - *ten gevolge van extern plan/besluit* in geval het plan een gevolg is van
     een ander plan of besluit, zoals een mr die naar AMvB verwijst;  
-	-   *in extern plan/besluit uit te werken* in geval de AMvB dat als gevolg dient
+  - *in extern plan/besluit uit te werken* in geval de AMvB dat als gevolg dient
     te hebben;</br>  
-	-   *informatie in extern plan/besluit* in geval (nadere) informatie in een
+  - *informatie in extern plan/besluit* in geval (nadere) informatie in een
     extern plan of besluit staat;</br> 
-	-   *ter vervanging van extern plan* ingeval daarvan sprake is, een en ander als
+  - *ter vervanging van extern plan* ingeval daarvan sprake is, een en ander als
     uiteengezet in paragraaf [4.1](#gedeeltelijke-herziening) van deze praktijkrichtlijn;</br>  
-	-   *als mutatie opgenomen* voor het geval er sprake is van een mutatieplan, een
+  - *als mutatie opgenomen* voor het geval er sprake is van een mutatieplan, een
     en ander als uiteengezet in paragraaf [4.1](#gedeeltelijke-herziening) van deze praktijkrichtlijn.
 </br></br>
 
