@@ -241,7 +241,6 @@ wordt, bekend is, kan deze idn hier worden opgenomen.
 Hierin wordt de betekenis van het externe plan/besluit ten opzichte van de
 AMvB vastgelegd. Het betreft hier een van de volgende vaste waarden uit het
 domein *RolExternPlan_AMB*:
-</br>  
   - *ten gevolge van extern plan/besluit* in geval het plan een gevolg is van
     een ander plan of besluit, zoals een mr die naar AMvB verwijst;  
   - *in extern plan/besluit uit te werken* in geval de AMvB dat als gevolg dient
