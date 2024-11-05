@@ -61,12 +61,14 @@ geheel niet weergegeven in de interactieve raadpleegomgeving.</br>
 
 In het geval *symboolcode* niet is opgegeven, dient het planobject wel
 weergegeven te worden in de structuurweergave, maar niet in de kaart. De
-*symboolcode* is daarom optioneel.</br>
+*symboolcode* is daarom optioneel.
+</br></br>
 
 Bij het gebruik van een planobject met geometrieën van verschillende typen
 (punt, lijn, vlak) moet voor ieder geometrietype een bijpassend symbool worden
 opgenomen. In het geval van drie geometrietypen, komt het samengestelde
-attribuut *cartografieInfo* driemaal voor.</br>
+attribuut *cartografieInfo* driemaal voor.
+</br></br>
 
 De beginletter van de symboolcode specificeert het type geometrie waar het
 symbool betrekking heeft. Dit bepaalt tevens welke volgorde het object getekend
@@ -80,17 +82,17 @@ boven:
 - Gearceerd vlaksymbool: AS\<nr\>
 - Lijnsymbool: L\<nr\>
 - Puntsymbool: P\<nr\>
-</br>
+</br></br>
 
 De gebruikte objectenstructuur in het ruimtelijk plan dient de volgorde tussen
 de elementen binnen een symboolprefix te bepalen: kindelementen liggen boven de
 moederelementen. Binnen een kaartnummer/kaartnaam worden objecten in een
 structuur geplaatst conform de relatie van de objecten binnen een plan.
 Elementen op hetzelfde niveau worden gesorteerd op alfabet.
+</br></br>
 
 Planobjecten zonder geometrie maar met symboolcode worden wel in de weergegeven
 structuur getoond.
-</br>
 
 Wanneer symboolcodes worden toegevoegd aan een bovenliggend complex dienen de
 geometrieën van de onderliggende objecten binnen dit complex te worden verbeeld
@@ -101,23 +103,23 @@ onderliggende objecten (gebieden of complexen) onder een complex worden gegeven.
 Bij selectie van een onderliggend object moet deze niet verbeeld worden met de
 symboolcode van het bovenliggende complex. Er vindt dus geen overerving van
 symboolcode plaats. In Figuur **3** een voorbeeld van de weergave in niveaus.
-</br>
+</br></br>
 
 ![](media/27b978278da93c40c5103f33869e9c1f.png)
 **Figuur 3 Weergave van een structuur met onderliggende objecten**
-</br>
+</br></br>
 
 Deze volgorde heeft als resultaat dat de verbeelding verandert bij selectie van
 bovenliggend (Figuur **4**) en onderliggend object (Figuur 5).
-</br>
+</br></br>
 
 ![](media/bc68b6d41ba587289322f39a912eab68.png)
 **Figuur 4 Weergave in de verbeelding bij selectie van bovenliggend object**
-</br>
+</br></br>
 
 ![](media/48cf48a478df77dcfc7813a1b5b0b3a8.png)
 **Figuur 5 Weergave in de verbeelding bij selectie van een onderliggend object**
-</br>
+</br></br>
 
 Planobjecten die niet zichtbaar, maar wel opvraagbaar moeten zijn in het
 kaartbeeld (verborgen objecten) worden gecodeerd met een symboolcode met een

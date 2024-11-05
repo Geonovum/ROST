@@ -16,7 +16,7 @@ eenmalige geval als in geval van een integraal herzien besluit volledig van
 toepassing. Op deze wijze wordt al hetgeen een nieuwe AMvB besluit betreft gecodeerd en
 wordt voldaan aan de wettelijke plicht te beschikken over een objectgericht
 besluit.
-</br>
+</br></br>
 
 In het andere geval wordt een gedeelte van de geldende AMvB of mr herzien,
 waarna de geldende AMvB of mr, inclusief hetgeen daarvan herzien is, de nieuwe
@@ -67,7 +67,7 @@ versie "geconsolideerd" die verderop aan de orde komt. Uiteraard is het
 juridische doel van de herziening maatgevend, maar kan van de ruimte binnen dat
 doel gebruik worden gemaakt om te komen tot een ook voor de codering en de
 verwerking daarvan in een geconsolideerd besluit praktische oplossing.
-</br>
+</br></br>
 
 Op deze wijze wordt al hetgeen een herziening van een AMvB of mr betreft
 gecodeerd en wordt voldaan aan de wettelijke plicht te beschikken over een
@@ -99,7 +99,7 @@ zoals het vigerende planologische regime ter plaatse. Hierdoor is het niet
 (meer) nodig via andere, vaak omslachtige, wegen te zoeken naar die informatie.
 Dat geeft duidelijkheid, kost minder tijd en is dus klantvriendelijk naar de
 raadpleger.
-</br>
+</br></br>
 
 <u>Let op</u>: het gaat dus niet om een nieuw ruimtelijk plan maar om het samenvoegen
 van meerder ruimtelijke plannen om zo een integrale versie, en daardoor een
