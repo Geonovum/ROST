@@ -181,7 +181,6 @@ bestaande uit de attributen *ondergrondType* en *ondergrondDatum.* Met dit
 attribuut wordt, conform artikel 1.2.4 Bro, aangegeven welke ondergrond bij het
 vaststellen van het besluit is gebruikt.
 Er zijn meerdere waarden mogelijk.  
-</br>
 - **ondergrondType** (verplicht)
 Het type van de gebruikte ondergrond volgens het domein Ondergronden. Op
 grond van de Wet basisregistratie grootschalige topografie (BGT) is het per
@@ -246,13 +245,13 @@ domein *RolExternPlan_AMB*:
 	-   *ten gevolge van extern plan/besluit* in geval het plan een gevolg is van
     een ander plan of besluit, zoals een mr die naar AMvB verwijst;  
 	-   *in extern plan/besluit uit te werken* in geval de AMvB dat als gevolg dient
-    te hebben;  
+    te hebben;</br>  
 	-   *informatie in extern plan/besluit* in geval (nadere) informatie in een
-    extern plan of besluit staat;  
+    extern plan of besluit staat;</br> 
 	-   *ter vervanging van extern plan* ingeval daarvan sprake is, een en ander als
-    uiteengezet in hoofdstuk [4.1](#gedeeltelijke-herziening) van deze praktijkrichtlijn;  
+    uiteengezet in paragraaf [4.1](#gedeeltelijke-herziening) van deze praktijkrichtlijn;</br>  
 	-   *als mutatie opgenomen* voor het geval er sprake is van een mutatieplan, een
-    en ander als uiteengezet in hoofdstuk [4.1](#gedeeltelijke-herziening) van deze praktijkrichtlijn.
+    en ander als uiteengezet in paragraaf [4.1](#gedeeltelijke-herziening) van deze praktijkrichtlijn.
 </br></br>
 
 **verwijzingNorm** (verplicht):  
