@@ -17,6 +17,7 @@ toepassing. Op deze wijze wordt al hetgeen een nieuwe AMvB besluit betreft gecod
 wordt voldaan aan de wettelijke plicht te beschikken over een objectgericht
 besluit.
 </br>
+
 In het andere geval wordt een gedeelte van de geldende AMvB of mr herzien,
 waarna de geldende AMvB of mr, inclusief hetgeen daarvan herzien is, de nieuwe
 geldende AMvB of mr wordt. In dit geval worden alleen die aspecten die de
@@ -28,6 +29,7 @@ het betreffende departement van het rijk. Het is aan dat departement of de
 herziening is hetzelfde dossier of in een los dossier in het manifest wordt
 geplaatste.
 </br>
+
 Als verplicht onderdeel moet het object *Besluitgebied_A* worden gebruikt. De
 begrenzing van het plangebied heeft betrekking op de te herziene locatie. Dit
 kan afwijken van de begrenzing van het oorspronkelijk plangebied waarop de
@@ -47,6 +49,7 @@ Bij het attribuut *verwijzingNaarTekstInfo* worden alle relevante teksten
 gevoegd. Daartoe wordt gebruik gemaakt van de domeinwaarden van het domein
 *TeksttypeBG_AMB*. De overige attributen spreken voor zich.
 </br>
+
 Daarnaast kunnen vervolgens alle herziene objecten van de klasse *Besluitvlak_A*
 en/of *Besluitsubvlak_A*, met alle (nieuwe of aanpassingen van de) regels, voor
 zover dit de herziening betreft, worden gecodeerd. De codering, zoals hier
@@ -57,6 +60,7 @@ met zich meebrengen. Dit betreft uiteraard geen ideale situatie. Zo daar
 behoefte aan is kan getracht worden hierover afspraken te maken en een aparte
 richtlijn te schrijven.
 </br>
+
 Het kan praktisch zijn om de objecten die behoren bij de herziening zodanig te
 kiezen en te coderen dat er een voordeel ontstaat bij het opstellen van de
 versie "geconsolideerd" die verderop aan de orde komt. Uiteraard is het
@@ -64,6 +68,7 @@ juridische doel van de herziening maatgevend, maar kan van de ruimte binnen dat
 doel gebruik worden gemaakt om te komen tot een ook voor de codering en de
 verwerking daarvan in een geconsolideerd besluit praktische oplossing.
 </br>
+
 Op deze wijze wordt al hetgeen een herziening van een AMvB of mr betreft
 gecodeerd en wordt voldaan aan de wettelijke plicht te beschikken over een
 objectgericht plan, maar ontstaat *geen* compleet overzicht van de nieuwe
@@ -84,6 +89,7 @@ Hiervoor kan ook een geconsolideerd besluit gemaakt worden. Het is aan de
 bronhouder te bepalen welke ruimtelijke plannen in de versie “geconsolideerde”
 worden geïntegreerd.
 </br>
+
 Om de raadpleger van <a href='https://www.ruimtelijkeplannen.nl/' target='_blank'>Ruimtelijkeplannen.nl</a> meer duidelijkheid te kunnen bieden
 over de exacte status en werkingssfeer van de besluiten en het actuele
 planologische regime ter plaatse kan het gebruik van een versie “geconsolideerd”
@@ -94,6 +100,7 @@ zoals het vigerende planologische regime ter plaatse. Hierdoor is het niet
 Dat geeft duidelijkheid, kost minder tijd en is dus klantvriendelijk naar de
 raadpleger.
 </br>
+
 <u>Let op</u>: het gaat dus niet om een nieuw ruimtelijk plan maar om het samenvoegen
 van meerder ruimtelijke plannen om zo een integrale versie, en daardoor een
 beter leesbare versie, te tonen. Er vinden dus geen nieuwe ontwikkelingen
@@ -102,6 +109,7 @@ leesbaarheid van de geldende regelingen door deze versie sterk wordt verbeterd
 waardoor ook de interpretatie van deze geldende regelingen een stuk eenvoudiger
 zou moeten zijn.
 </br>
+
 Om de versie “geconsolideerd” te laten onderscheiden van de andere ruimtelijke
 plannen wordt het attribuut planstatus bij het object Besluitgebied_A voorzien
 van de waarde "geconsolideerd" en als waarde voor het attribuut datum de
