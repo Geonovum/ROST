@@ -306,10 +306,12 @@ gebruikt. Na de tabel is per attribuut een nadere toelichting gegeven.
 Elk object *Besluitvlak_A* krijgt een eigen unieke identificatie binnen de AMvB.
 Het samengestelde attribuut *identificatie* verwijst naar het object NEN3610ID
 bestaande uit de attributen *namespace* en *lokaalID*.
-	-   **namespace:** (verplicht)  
+</br>
+- **namespace:** (verplicht)  
 Een unieke verwijzing naar een registratie van objecten. Voor IMRO objecten
-is dat ‘NL.IMRO’.  
-	-   **lokaalID:** (verplicht)  
+is dat ‘NL.IMRO’.
+</br>
+- **lokaalID:** (verplicht)  
 Door de bronhouder te bepalen unieke identificatiecode binnen de context van
 het bestand bestaande uit maximaal 32 alfanumerieke tekens. Toegestane
 tekens: {”A”…”Z”, “a”…”z”, ”0”…”9”, “_”, “- “, “,”, ”.”}.
@@ -354,7 +356,7 @@ De bronhouder kiest voor dezelfde vorm van planteksten als bij het object
 Het format dient overeen­komstig de afspraak over de bestandsnaamconventies
 conform de STRI2012 te zijn. De keuze van de bronhouder wordt vastgelegd in de
 *verwijzingNorm* bij deze AMvB.  
--	**verwijzingNaarTekst** (verplicht)  
+- **verwijzingNaarTekst** (verplicht)  
 Dit attribuut is bedoeld om (hyper)links te kunnen opnemen. Hier dient een
 (hy­per)­link naar het soort document dat is aangegeven bij het attribuut *typeTekst* te worden opgenomen.
 Voor de waarde van het attribuut *verwijzingNaarTekst* geldt dat geen
@@ -363,8 +365,9 @@ een nadere precisering naar de plaats binnen een document te worden
 opgenomen met behulp van een fragmentidentifier. Het fragment in de
 hyperlink is de locatie in de plantekst (XML of HTML) waar het van
 toepassing zijnde attribuut *typeTekst* betrekking op heeft. Een hyperlink
-krijgt dan de vorm: <u>bestandsnaam.xml­\#fragment</u>  of <u>bestandsnaam.htm­\#fragment</u>.  
--	**typeTekst** (verplicht)  
+krijgt dan de vorm: <u>bestandsnaam.xml­\#fragment</u>  of <u>bestandsnaam.htm­\#fragment</u>.
+</br>  
+- **typeTekst** (verplicht)  
 Hiermee wordt aangegeven om wat voor type tekst het gaat. Per verwijzing
 naar tekst dient gekozen te worden uit een van de volgende waarden van het
 domein *Teksttype_AMB*:  
@@ -387,16 +390,18 @@ treedt deze waarde in de plaats van de waarde die bij het object
 Dit attribuut is bedoeld om een specifieke afbeelding of illustratie behorende
 bij het object op te nemen. Het attribuut verwijst naar het samengestelde
 attribuut *IllustratieReferentie*, bestaande uit de attributen
-*verwijzingNaarIllustratie* en *typeIllustratie*.  
--	**verwijzingNaarIllustratie** (verplicht)  
+*verwijzingNaarIllustratie* en *typeIllustratie*.
+- **verwijzingNaarIllustratie** (verplicht)  
 Dit attribuut is exclusief bedoeld om links te kunnen opnemen. Hier dient
 een link naar de illustratie waarbij het object behoort te worden opgenomen.
 Het format dient overeenkomstig de afspraak over de bestandsnaamconventie
-voor het bestandstype *illustratie* conform de STRI2012 te zijn.  
--	**typeIllustratie** (verplicht)  
+voor het bestandstype *illustratie* conform de STRI2012 te zijn.
+</br>  
+- **typeIllustratie** (verplicht)  
 Hierin wordt het type van de illustratie vastgelegd: om wat voor soort
-illustratie het gaat. Er dient gekozen te worden uit één van de waarden *afbeelding of kaart* volgens het domein *Illustratie*.  
--	**legendanaam** (indien gewenst)  
+illustratie het gaat. Er dient gekozen te worden uit één van de waarden *afbeelding of kaart* volgens het domein *Illustratie*. 
+</br> 
+- **legendanaam** (indien gewenst)  
 Indien het object in de legenda van de illustratie is opgenomen kan hier de
 naam van de legenda-eenheid worden opgenomen teneinde duidelijk te maken
 welk deel van de illustratie bij het object behoort.
@@ -409,11 +414,11 @@ word het attribuut *cartografieInfo* gebruikt om verschillende kaarten in de
 AMvB zichtbaar en presenteerbaar te maken. De structuur van de kaartopbouw staat
 echter (gedeeltelijk) los van de planstructuur. Een object kan in meerdere
 kaarten voorkomen. Daarvoor moeten dan meerdere attributen *cartografieInfo* met
-waarden toegevoegd worden om dit te realiseren.
+waarden toegevoegd worden om dit te realiseren.</br>
 
 Het attribuut verwijst naar het samengestelde attribuut *cartografieInfo*
-bestaande uit de attributen *kaartnummer, kaartnaam en symboolcode.*  
--	**kaartnummer** (verplicht)
+bestaande uit de attributen *kaartnummer, kaartnaam en symboolcode.*</br>
+- **kaartnummer** (verplicht)
 Het nummer van de kaart van de AMvB waartoe dit object behoort. Het
 kaartnummer is door de bronhouder te bepalen. Kaarten kunnen in een
 interactieve raadpleegomgeving worden geprioriteerd op basis van
@@ -421,10 +426,12 @@ kaartnummer. De kaart met nummer 1 wordt als hoofdkaart gezien en moet
 altijd voorkomen, kaartnummer 0 niet mag voorkomen. Voorloopnullen worden
 genegeerd (001 wordt bijvoorbeeld 1). Het kaartnummer is een uniek nummer
 gekoppeld aan een kaartnaam.  
--	**kaartnaam** (verplicht)  
+</br>
+- **kaartnaam** (verplicht)  
 De naam van de kaart van de AMvB waartoe dit object behoort. De kaartnaam is
 door de bronhouder te bepalen.
--	**symboolcode** (zo vaak als gewenst)  
+</br>
+- **symboolcode** (zo vaak als gewenst)  
 De symboolcode uit de symboolcodelijst voor vormvrije plannen (onderdeel van
 de RO Standaarden 2012). De symboolcode geeft de kleur en patroon aan voor
 de wijze waarop het object *Besluitgebied_A* in de interactieve
@@ -438,23 +445,26 @@ overerving van symboolcode plaats.
 ***begrenzing*** (verplicht, zo vaak als gewenst):  
 Het attribuut verwijst naar het samengestelde attribuut
 *GeometrieBesluitObject_A*, bestaande uit de attributen:  
--	**geometrie** (verplicht)  
+- **geometrie** (verplicht)  
 Het object *Besluitvlak_A* kent uitsluitend de geometrie van een
 beschrijving van punt, lijn, vlak of meervoudige versies daarvan (multipunt,
 multilijn, multivlak). Dit attribuut legt de coördinaten in een vastgesteld
 format (gml) vast. De coördinaten kunnen door een applicatie automatisch
-worden gegenereerd.  
--	**idealisatie** (verplicht)  
+worden gegenereerd.
+</br>  
+- **idealisatie** (verplicht)  
 Met het attribuut *idealisatie* kan de nauwkeurigheid van de begrenzing van
 een object worden aangegeven. Er dient een keuze gemaakt te worden volgens
 het domein *Idealisatie_2*. De nauwkeurigheid van de begrenzing van een
 object neemt af in de keuzes *exact* of *indicatief*.  
 	-   Exact geeft aan dat de geometrie van het object opgenomen is met de
     nauwkeurigheid die behoort bij de dataset, waarmee de begrenzing als exact
-    wordt beschouwd;  
+    wordt beschouwd;</br>  
 	-   Indicatief betekent dat de geometrie indicatief geïnterpreteerd moet worden;
     waarmee de begrenzing niet is vastgelegd.
-
+</br></br>
+	
+	
 ## Klasse Besluitsubvlak_A
 
 Naast de objecten *Besluitvlak_A* kunnen ook objecten van het type
@@ -475,11 +485,12 @@ gebruikt. Na de tabel is per attribuut een nadere toelichting gegeven.
 ***identificatie (idn)*** (verplicht):  
 Elk object *Besluitsubvlak_A* krijgt een eigen unieke identificatie binnen de
 AMvB. Het samengestelde attribuut *identificatie* verwijst naar het object
-NEN3610ID bestaande uit de attributen *namespace* en *lokaalID*.  
--	**namespace:** (verplicht)  
+NEN3610ID bestaande uit de attributen *namespace* en *lokaalID*. 
+- **namespace:** (verplicht)  
 Een unieke verwijzing naar een registratie van objecten. Voor IMRO objecten
-is dat ‘NL.IMRO’.  
--	**lokaalID:** (verplicht)  
+is dat ‘NL.IMRO’. 
+</br> 
+- **lokaalID:** (verplicht)  
 Door de bronhouder te bepalen unieke identificatiecode binnen de context van
 het bestand bestaande uit maximaal 32 alfanumerieke tekens. Toegestane
 tekens: {”A”…”Z”, “a”…”z”, ”0”…”9”, “_”, “- “, “,”, ”.”}.
@@ -542,7 +553,7 @@ De bronhouder kiest voor dezelfde vorm van planteksten als bij het object
 Het format dient overeen­komstig de afspraak over de bestandsnaamconventies
 conform de STRI2012 te zijn. De keuze van de bronhouder wordt vastgelegd in de
 *verwijzingNorm* bij deze AMvB.  
--	**verwijzingNaarTekst** (verplicht)  
+- **verwijzingNaarTekst** (verplicht)  
 Dit attribuut is bedoeld om (hyper)links te kunnen opnemen. Hier dient een
 (hy­per)­link naar het soort document dat is aangegeven bij het attribuut *typeTekst* te worden opgeno­men.
 Voor de waarde van het attribuut *verwijzingNaarTekst* geldt dat geen
@@ -551,8 +562,9 @@ nadere precisering naar de plaats binnen een document te worden opgenomen
 met behulp van een fragmentidentifier. Het fragment in de hyperlink is de
 locatie in de plantekst (XML of HTML) waar het van toepassing zijnde
 attribuut *typeTekst* betrekking op heeft. Een hyperlink krijgt dan de vorm:
-<u>bestandsnaam.xml­\#fragment</u> of <u>bestandsnaam.htm­\#fragment</u>.  
--	**typeTekst** (verplicht)  
+<u>bestandsnaam.xml­\#fragment</u> of <u>bestandsnaam.htm­\#fragment</u>. 
+</br> 
+- **typeTekst** (verplicht)  
 Hiermee wordt aangegeven om wat voor type tekst het gaat. Per verwijzing
 naar tekst dient gekozen te worden uit een van de volgende waarden van het
 domein *Teksttype_AMB*:
@@ -574,15 +586,17 @@ treedt deze waarde in de plaats van de waarde die bij het object *Besluitgebied_
 Dit attribuut is bedoeld om een specifieke verbeelding of illustratie behorende
 bij het object op te nemen. Het attribuut verwijst naar het samengestelde
 attribuut *IllustratieReferentie*, bestaande uit de attributen *verwijzingNaarIllustratie, typeIllustratie* en *legendanaam.*  
--	**verwijzingNaarIllustratie** (verplicht)  
+- **verwijzingNaarIllustratie** (verplicht)  
 Dit attribuut is exclusief bedoeld om links te kunnen opnemen. Hier dient
 een link naar de illustratie waarbij het object behoort te worden opgenomen.
 Het format dient overeenkomstig de afspraak over de bestandsnaamconventie
-voor het bestandstype *illustratie* conform de STRI2012 te zijn.  
--	**typeIllustratie** (verplicht)  
+voor het bestandstype *illustratie* conform de STRI2012 te zijn. 
+</br> 
+- **typeIllustratie** (verplicht)  
 Hierin wordt het type van de illustratie vastgelegd: om wat voor soort
-illustratie het gaat. Er dient gekozen te worden uit één van de waarden *afbeelding* of *kaart* volgens het domein *Illustratie*.  
--	**legendanaam** (indien gewenst)  
+illustratie het gaat. Er dient gekozen te worden uit één van de waarden *afbeelding* of *kaart* volgens het domein *Illustratie*.
+</br>  
+- **legendanaam** (indien gewenst)  
 Indien het object in de legenda van de illustratie is opgenomen kan hier de
 naam van de legenda-eenheid worden opgenomen teneinde duidelijk te maken
 welk deel van de illustratie bij het object behoort.
@@ -598,7 +612,7 @@ kaarten voorkomen. Daarvoor moeten dan meerdere attributen *cartografieInfo* met
 waarden toegevoegd worden om dit te realiseren.  
 Het attribuut verwijst naar het samengestelde attribuut *cartografieInfo*
 bestaande uit de attributen *kaartnummer, kaartnaam en symboolcode.*  
--	**kaartnummer** (verplicht)  
+- **kaartnummer** (verplicht)  
 Het nummer van de kaart van de AMvB waartoe dit object behoort. Het
 kaartnummer is door de bronhouder te bepalen. Kaarten kunnen in een
 interactieve raadpleegomgeving worden geprioriteerd op basis van
@@ -606,15 +620,17 @@ kaartnummer. De kaart met nummer 1 wordt als hoofdkaart gezien en moet
 altijd voorkomen, kaartnummer 0 niet mag voorkomen. Voorloopnullen worden
 genegeerd (001 wordt bijvoorbeeld 1). Het kaartnummer is een uniek nummer
 gekoppeld aan een kaartnaam.  
--	**kaartnaam** (verplicht)  
+</br>
+- **kaartnaam** (verplicht)  
 De naam van de kaart van de AMvB waartoe dit object behoort. De kaartnaam is
 door de bronhouder te bepalen. 
--	**symboolcode** (zo vaak als gewenst)  
+</br>
+- **symboolcode** (zo vaak als gewenst)  
 De symboolcode uit de symboolcodelijst voor vormvrije plannen (onderdeel van
 de RO Standaarden 2012). De symboolcode geeft de kleur en patroon aan voor
 de wijze waarop het object *Besluitgebied_A* in de interactieve
 raadpleegomgeving wordt weergegeven.
-
+</br>
 Een symboolcode die aan een object wordt toegevoegd geldt deze alleen voor
 dit object zelf en niet voor de onderliggende objecten. Er vindt dus geen
 overerving van symboolcode plaats.
@@ -622,19 +638,21 @@ overerving van symboolcode plaats.
 
 ***begrenzing*** (verplicht, zo vaak als gewenst):  
 Het attribuut verwijst naar het samengestelde attribuut *GeometrieBesluitObject_A*, bestaande uit de attributen:  
--	**geometrie** (verplicht)  
+- **geometrie** (verplicht)  
 Het object *Besluitvlak_A* kent uitsluitend de geometrie van een
 beschrijving van punt, lijn, vlak of meervoudige versies daarvan (multipunt,
 multilijn, multivlak). Dit attribuut legt de coördinaten in een vastgesteld
 format (gml) vast. De coördinaten kunnen door een applicatie automatisch
-worden gegenereerd.  
--	**idealisatie** (verplicht)  
+worden gegenereerd.
+</br>  
+- **idealisatie** (verplicht)  
 Met het attribuut *idealisatie* kan de nauwkeurigheid van de begrenzing van
 een object worden aangegeven. Er dient een keuze gemaakt te worden volgens
 het domein *Idealisatie_2*. De nauwkeurigheid van de begrenzing van een
 object neemt af in de keuzes *exact* of *indicatief*.  
 	-   Exact geeft aan dat de geometrie van het object opgenomen is met de
     nauwkeurigheid die behoort bij de dataset, waarmee de begrenzing als exact
-    wordt beschouwd;  
+    wordt beschouwd;</br>  
 	-   Indicatief betekent dat de geometrie indicatief geïnterpreteerd moet worden;
     waarmee de begrenzing niet is vastgelegd.
+</br></br>
