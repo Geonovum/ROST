@@ -9,15 +9,15 @@ var documentConfig =
   latestVersion: [
     "https://docs.geostandaarden.nl/ro/arp/"
   ],
-  publishDate: "2024-10-29",
-  publishVersion: "2.2",
+  publishDate: "2025-12-31",
+  publishVersion: "2.2.1",
   thisVersion: [
-    "https://docs.geostandaarden.nl/ro/def-hr-arp-20241029/"
+    "https://docs.geostandaarden.nl/ro/arp/"
   ],
-  previousPublishDate: "2024-04-03",
-  previousPublishVersion: "2.1.1",
+  previousPublishDate: "2024-10-29",
+  previousPublishVersion: "2.2",
   prevVersion: [
-    "https://docs.geostandaarden.nl/ro/def-hr-arp-20240403/"
+    "https://docs.geostandaarden.nl/ro/def-hr-arp-20241029/"
   ],
   previousMaturity: "def",
   github: "https://github.com/geonovum/ROST/",
