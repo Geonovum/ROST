@@ -3,7 +3,7 @@ var documentConfig =
   title: "Handreiking Archiveren ruimtelijke plannen",
   shortName: "arp",
   pubDomain: "ro",
-  specStatus: "def",
+  specStatus: "wv",
   specType: "hr",
   license: "cc-by-nd",
   latestVersion: [
