@@ -20,6 +20,7 @@ Een AMvB bestaat uit drie typen objecten (klassen):
 -   Besluitgebied; 
 -   Besluitvlak; 
 -   Besluitsubvlak.  
+<br/><br/>
 
 In Figuur 1 is het complete schema weergegeven met alle onderscheiden objecten.
 
@@ -43,7 +44,8 @@ standaardisatie maakt geen onderdeel uit van deze praktijkrichtlijn.
 
 Verder dient bij het coderen van een AMvB gebruik te worden gemaakt van de
 objectklassen Besluitvlak en Besluitsubvlak, waarbij Besluitvlakken en
-Besluitsubvlakken elkaar mogen overlappen:
+Besluitsubvlakken elkaar mogen overlappen.
+<br/><br/>
 
 **Besluitvlak**  
 Een besluitvlak is een gebied, geometrisch vastgelegd in de AMvB, dat
@@ -51,6 +53,7 @@ zelfstandige eigenschappen heeft (bijvoorbeeld een daaraan gekoppeld
 voorschrift). Daarnaast voldoet het gebied niet aan de definitie van een
 Besluitsubvlak.
 Een AMvB bestaat altijd uit tenminste één Besluitvlak.
+<br/><br/>
 
 **Besluitsubvlak**  
 Een besluitsubvlak is een gebied, geometrisch vastgelegd in de AMvB, met een

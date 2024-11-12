@@ -85,6 +85,7 @@ genoemd.
 In de Wro wordt aangegeven dat nadere regels kunnen worden gesteld omtrent de
 vormgeving en inrichting van een AMvB. In het Besluit ruimtelijke ordening zijn
 die uitgewerkt.  
+</br></br> 
 
 **Besluit ruimtelijke ordening (Bro)**  
 Het Bro legt vast dat een AMvB in elk geval bevat een geometrische
@@ -123,7 +124,7 @@ STRI2012 beschrijft hoe de beschikbaarstelling van ruimtelijke instrumenten
 gerealiseerd dient te worden en gaat onder meer in op naamconventies en het
 digitaal waarmerken van de elektronisch te publiceren dataset. Bij de STRI2012
 behoort de toelichting Praktijkrichtlijn Toegankelijkheid Ruimtelijke
-Instrumenten (PRTRI2012).  
+Instrumenten (PRTRI2012).
 </br></br>
 
 **Standaard voor planteksten (IMROPT)**  

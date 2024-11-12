@@ -206,8 +206,7 @@ de kaartbeelden ingeval dit er meer zijn, op te nemen. Het betreft
 kaarten/afbeeldingen op het niveau van het "plangebied" en niet op het niveau
 van onderliggende objecten; illustraties die bij onderliggende objecten behoren
 worden bij die objecten opgenomen. Het attribuut verwijst naar het samengestelde
-attribuut *IllustratieReferentiePG*, bestaande uit de attributen:  
-</br>
+attribuut *IllustratieReferentiePG*, bestaande uit de attributen:</br>
 - **verwijzingNaarIllustratie** (verplicht)
 Dit attribuut is exclusief bedoeld om hyperlinks te kunnen opnemen. Hier
 dient een hyperlink naar de illustratie waarbij het object behoort te worden
