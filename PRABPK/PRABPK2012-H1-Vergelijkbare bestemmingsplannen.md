@@ -19,7 +19,7 @@ document te gebruiken voor het maken van de analoge bestemmingsplankaart. In het
 geval dit document wel wordt gebruikt, wordt geadviseerd de voorschreven
 werkwijze te hanteren.
 
-Conform de <a href='http://wetten.overheid.nl/BWBR0020449' target='_blank'>Wet ruimtelijke ordening</a> (Wro) en het <a> href='http://wetten.overheid.nl/BWBR0023798' target='_blank'>Besluit ruimtelijke ordening</a> (Bro) wordt een bestemmingsplan met de daarbij behorende
+Conform de <a href='http://wetten.overheid.nl/BWBR0020449' target='_blank'>Wet ruimtelijke ordening</a> (Wro) en het <a href='http://wetten.overheid.nl/BWBR0023798' target='_blank'>Besluit ruimtelijke ordening</a> (Bro) wordt een bestemmingsplan met de daarbij behorende
 toelichting in digitale geautoriseerde bronbestanden vastgelegd en in die vorm
 vastgesteld. Daarnaast kent de Wro een papieren versie van (hetzelfde)
 bestemmingsplan. Indien de inhoud van digitale stukken tot een andere uitleg
@@ -49,10 +49,10 @@ In dit document worden de volgende aanduidingen gehanteerd:</br>
 <li>specificatie tussen `<<>>` haakjes: de gespecificeerde waarde wordt gekozen uit een lijst;</li>
 <li>specificatie tussen [] haakjes: de gespecificeerde waarde wordt letterlijk opgenomen;</li>
 <li>[spatie]: er wordt een enkele spatie opgenomen;</li>
-<li>rgb(x,y,z) : een kleurcodering.</li>
+<li>rgb(x,y,z): een kleurcodering.</li>
 </ul></br>
 
-De codering is opgebouwd uit drie primaire additieve kleuren rood, groen en blauw. De hoeveelheid van een kleur loopt van 0
+De kleurcodering is opgebouwd uit drie primaire additieve kleuren rood, groen en blauw. De hoeveelheid van een kleur loopt van 0
 (niets van die kleur) tot en met 255 (alles van die kleur). Het eerste cijfer
 (x) geeft de hoeveelheid van de kleur rood aan, het tweede twee cijfer (y) geeft
 de hoeveelheid van de kleur groen aan, het derde cijfer (z) geeft de hoeveelheid
