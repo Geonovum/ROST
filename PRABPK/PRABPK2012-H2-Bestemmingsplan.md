@@ -33,7 +33,7 @@ bestemmingsplankaart van het bestemmingsplan ziet er als volgt uit:
 	-   bouwaanduidingen
 	-   maatvoeringsaanduidingen
 	-   figuren
-</br>
+</br></br>
 
 De bestemmingen worden in de legenda in alfabetische volgorde geplaatst, gevolgd
 door eventuele voorlopige en uit te werken bestemmingen, beide eveneens in
