@@ -13,6 +13,7 @@ komen niet voor.
 In de SVBP2012 is een bindende lijst met hoofdgroepen van dubbelbestemmingen
 opgesteld. Van iedere specifieke dubbelbestemming is in de functielijst
 vastgelegd onder welke hoofdgroep deze valt.  
+</br></br>
 
 Op de analoge bestemmingsplankaart krijgen alle geometrisch bepaalde vlakken
 waar de bestemmingen, voorlopige bestemmingen en uit te werken bestemmingen
@@ -30,5 +31,5 @@ analoge bestemmingsplankaart en in de bijbehorende legenda.
 
 ## Lettercode van een dubbelbestemming
 Iedere dubbelbestemming heeft een lettercode op de analoge bestemmingsplankaart.
-Voor de specificatie van de lettercode van een dubbelbestemming is paragraaf 3.3
+Voor de specificatie van de lettercode van een dubbelbestemming is [paragraaf 3.3](#lettercode-van-een-bestemming)
 van toepassing.
