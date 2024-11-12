@@ -33,6 +33,7 @@ bestemmingsplankaart van het bestemmingsplan ziet er als volgt uit:
 	-   bouwaanduidingen
 	-   maatvoeringsaanduidingen
 	-   figuren
+</br>
 
 De bestemmingen worden in de legenda in alfabetische volgorde geplaatst, gevolgd
 door eventuele voorlopige en uit te werken bestemmingen, beide eveneens in
@@ -53,6 +54,7 @@ aanduidingen.
 Op de analoge bestemmingsplankaart wordt de begrenzing van het plangebied
 weergegeven met een ononderbroken bolletjeslijn, conform de specificatie in
 Figuur 1.
+</br>
 
 ![](media/d178601d10b2451b1b36a553a3ae1555.png)  
 **Figuur 1 Het plangebied op de analoge bestemmingsplankaart**
