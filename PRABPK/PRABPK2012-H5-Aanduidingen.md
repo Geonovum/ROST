@@ -73,6 +73,7 @@ functieaanduiding wordt als volgt opgenomen:
 Voor de `<<`lettercode hoofdgroep`>>` wordt gekozen uit een van de hoofdgroepen
 die gehanteerd worden bij bestemmingen en dubbelbestemmingen, behalve de
 hoofdgroep ‘Overig’. De gekozen waarde wordt met kleine letters opgenomen.
+</br></br>
 
 In het geval dat een specifieke functie niet is toegestaan op een locatie in het
 bestemmingsplan, wordt deze uitgesloten functie als volgt opgenomen:
@@ -134,6 +135,7 @@ bouwaanduiding wordt als volgt opgenomen:
 [[] [sba] [-] `<`specifieke code`>` []]  
 *Voorbeeld 1: specifieke bouwaanduiding - stolp wordt opgenomen als [sba-sto]*  
 *Voorbeeld 2: specifieke bouwaanduiding - 1 wordt opgenomen als [sba-1]*
+</br></br>
 
 In het geval dat een bepaalde bouwwijze of verschijningsvorm niet is toegestaan
 op een locatie in het bestemmingsplan, wordt gebruik gemaakt van een negatieve
@@ -169,6 +171,7 @@ worden de volgende uitgangspunten gehanteerd:
 - plaatsingspunt van het symbool: coördinaten van het zwaartepunt (center, center) van de matrix;
 - aanpijlingspunt: coördinaten van het punt waar het symbool bij hoort (indien dit niet het plaatsingspunt is). De lijn tussen plaatsingspunt en aanpijlingspunt wordt niet opgenomen;
 - hoek: waaronder symbool geplaatst wordt, eenheid: graden ten opzichte van Noordpijl, rechtsom = positief.
+</br></br>
 
 ![](media/061938b1fc1c093ec9c1060b8eff99c5.png)  
 **Figuur 7 Maatvoeringsymbolen**  
@@ -224,6 +227,7 @@ Figuur 10. De naam van de gebiedsaanduiding wordt als volgt opgenomen:
 In deze variant wordt de gebiedsaanduiding weergegeven door de arceringen in de
 kleuren die in Figuur 10 zijn weergegeven.  
 *Voorbeeld: wetgevingzone - afwijkingsgebied*
+</br></br>
 
 Als het voor een goede ruimtelijke ordening wenselijk is om meerdere varianten
 van dezelfde specifieke gebiedsaanduiding te gebruiken, dan kunnen deze verder
