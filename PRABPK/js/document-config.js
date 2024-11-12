@@ -9,7 +9,7 @@ var documentConfig =
   latestVersion: [
     "https://docs.geostandaarden.nl/ro/abpk2012/"
   ],
-  publishDate: "2024-08-14",
+  publishDate: "2024-11-26",
   publishVersion: "1.3.3",
   thisVersion: [
     "https://geonovum.github.io/ro-abpk2012/"
