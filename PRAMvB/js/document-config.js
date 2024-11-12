@@ -9,7 +9,7 @@ var documentConfig =
   latestVersion: [
     "https://docs.geostandaarden.nl/ro/amvb2012/"
   ],
-  publishDate: "2024-08-14",
+  publishDate: "2024-11-26",
   publishVersion: "1.1.8",
   thisVersion: [
     "https://geonovum.github.io/ro-amvb2012/"
