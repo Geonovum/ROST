@@ -11,7 +11,7 @@ In <a href='http://wetten.overheid.nl/BWBR0020449' target='_blank'>Wet ruimtelij
 is vastgelegd dat planologische visies, plannen, besluiten, verordeningen en
 algemene maatregelen van bestuur en onderliggende ministeriële regelingen
 digitaal vervaardigd en op elektronische wijze beschikbaar gesteld moeten
-worden. Om dit mogelijk te maken zijn de RO standaarden ontwikkeld. Deze verplichte RO Standaarden, vastgelegd met de <a href='http://wetten.overheid.nl/BWBR0031829' target='_blank'>Regeling
+worden. Om dit mogelijk te maken zijn de RO Standaarden ontwikkeld. Deze verplichte RO Standaarden, vastgelegd met de <a href='http://wetten.overheid.nl/BWBR0031829' target='_blank'>Regeling
 standaarden ruimtelijke ordening</a>, zijn:  
 
 <ul><li><a href='https://docs.geostandaarden.nl/ro/imro' target='_blank'> Informatiemodel Ruimtelijke Ordening Planteksten (IMRO2012)</a></li> 
@@ -26,7 +26,7 @@ is van belang voor applicatiebouwers en als referentie voor andere IMRO2012
 gerelateerde documenten. IMRO2012 wordt beschreven zonder in te gaan op de
 praktische toepassing van het model voor het coderen van digitale ruimtelijke
 instrumenten. Alle voor dit toepassingsdoel benodigde informatie is opgenomen in
-toelichtingen, de zogenoemde praktijkrichtlijnen:  
+toelichtingen, deze praktijkrichtlijnen:  
 
 <ul><li><a href='https://docs.geostandaarden.nl/ro/bp2012/' target='_blank'>Praktijkrichtlijn Bestemmingsplannen (PRBP2012)</a></li>
 <li><a href='https://docs.geostandaarden.nl/ro/abpk2012/' target='_blank'>Praktijkrichtlijn Analoge Bestemmingsplan Kaart (PRABPK2012)</a></li>
