@@ -36,13 +36,13 @@ toelichtingen, de zogenoemde praktijkrichtlijnen:
 <li><a href='https://docs.geostandaarden.nl/ro/amvb2012/' target='_blank'>Praktijkrichtlijn Algemene Maatregel van Bestuur (PRAMvB2012)</a></li>
 </ul><br/>
 
-De STRI2012 is ook in praktijkrichtlijn nader toegelicht:
+De STRI2012 is ook in praktijkrichtlijn nader toegelicht:<br/>
 <a href='https://docs.geostandaarden.nl/ro/tri2012' target='_blank'>Praktijkrichtlijn Toegankelijkheid Ruimtelijke Instrumenten (PRTRI2012)</a>.
 <br/><br/>
 
 De standaard voor planteksten (IMROPT2012) is onder voorwaarde verplicht.
 Toepassing van IMROPT2012 is verplicht wanneer de bronhouder ervoor kiest de
-planteksten in objectgerichte vorm (XML) beschikbaar te stellen. Dit is nader toegelicht:  
+planteksten in objectgerichte vorm (XML) beschikbaar te stellen. Dit is nader toegelicht:<br/>  
 <a href='https://docs.geostandaarden.nl/ro/pt2012/' target='_blank'>Praktijkrichtlijn voor Planteksten (PRPT2012)</a>.
 <br/><br/>
 
