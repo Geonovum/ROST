@@ -36,15 +36,15 @@ toelichtingen, de zogenoemde praktijkrichtlijnen:
 <li><a href='https://docs.geostandaarden.nl/ro/amvb2012/' target='_blank'>Praktijkrichtlijn Algemene Maatregel van Bestuur (PRAMvB2012)</a></li>
 </ul><br/>
 
-De STRI2012 is ook in praktijkrichtlijn nader toegelicht:<br/>
+De STRI2012 is ook in praktijkrichtlijn nader toegelicht:
 <a href='https://docs.geostandaarden.nl/ro/tri2012' target='_blank'>Praktijkrichtlijn Toegankelijkheid Ruimtelijke Instrumenten (PRTRI2012)</a>.
-<br/>
+<br/><br/>
 
 De standaard voor planteksten (IMROPT2012) is onder voorwaarde verplicht.
 Toepassing van IMROPT2012 is verplicht wanneer de bronhouder ervoor kiest de
-planteksten in objectgerichte vorm (XML) beschikbaar te stellen. Dit is nader toegelicht:<br/>  
+planteksten in objectgerichte vorm (XML) beschikbaar te stellen. Dit is nader toegelicht:  
 <a href='https://docs.geostandaarden.nl/ro/pt2012/' target='_blank'>Praktijkrichtlijn voor Planteksten (PRPT2012)</a>.
-<br/>
+<br/><br/>
 
 Dit document betreft de Praktijkrichtlijn Algemene Maatregel van
 Bestuur (PRAMvB2012). Als uitgangspunt voor deze praktijkrichtlijn worden alle
@@ -79,26 +79,26 @@ Informatie Model Ruimtelijke Ordening (IMRO2012).
 Hieronder wordt een aantal relevante aspecten genoemd en daarvan de globale
 context in relatie tot praktijkrichtlijnen, de voorliggende in het bijzonder,
 genoemd.
-<br/>
+<br/><br/>
 
 **Wet ruimtelijke ordening (Wro)**  
 In de Wro wordt aangegeven dat nadere regels kunnen worden gesteld omtrent de
 vormgeving en inrichting van een AMvB. In het Besluit ruimtelijke ordening zijn
 die uitgewerkt.  
-<br/>
+<br/><br/>
 
 **Besluit ruimtelijke ordening (Bro)**  
 Het Bro legt vast dat een AMvB in elk geval bevat een geometrische
 plaatsbepaling van het gebied waarop de visie betrekking heeft. Daarmee wordt
 het belang van de voorliggende praktijkrichtlijn, die de wijze van elektronisch
 (digitaal) vastleggen bepaalt, evident.
-<br/>
+<br/><br/>
 
 **Regeling standaarden ruimtelijke ordening (Rsro)**  
 Deze ministeriële regeling noemt de feitelijke standaarden die basis moeten zijn
 voor het vormgeven, inrichten en beschikbaar stellen van ruimtelijke
 instrumenten. Dit zijn de RO standaarden 2012. 
-<br/>
+<br/><br/>
 
 **Informatiemodel Ruimtelijke Ordening (IMRO2012)**  
 In de Rsro is bepaald dat bij de digitalisering van ruimtelijke instrumenten
@@ -115,7 +115,7 @@ dezelfde gegevens. De bronhouder kan door middel van een symboolcodelijst die
 bij de RO Standaarden 2012 beschikbaar is wel aangeven hoe de AMvB en andere
 vormvrije plannen digitaal kan worden weergegeven. Voor de analoge verbeelding
 is geen standaard of richtlijn binnen de RO Standaarden aanwezig. 
-<br/>
+<br/><br/>
 
 **Standaard Toegankelijkheid Ruimtelijke Instrumenten (STRI2012)**  
 Conform Wro en Bro wordt een AMvB met de daarbij behorende toelichting in
@@ -125,7 +125,7 @@ gerealiseerd dient te worden en gaat onder meer in op naamconventies en het
 digitaal waarmerken van de elektronisch te publiceren dataset. Bij de STRI2012
 behoort de toelichting Praktijkrichtlijn Toegankelijkheid Ruimtelijke
 Instrumenten (PRTRI2012).
-<br/>
+<br/><br/>
 
 **Standaard voor planteksten (IMROPT)**  
 De standaard voor planteksten moet onder voorwaarde verplicht worden gebruikt.
@@ -134,7 +134,7 @@ planteksten in objectgerichte vorm (XML) beschikbaar te stellen. De bronhouder
 mag er ook voor kiezen de planteksten in de vorm van HTML en PDF bestanden
 beschikbaar te stellen. IMROPT is in dit geval dan niet van toepassing.
 IMROPT2012 wordt toegelicht in de Praktijkrichtlijn voor Planteksten (PRPT2012).  
-<br/>
+<br/><br/>
 
 **Gebruik van PDF-bestanden**  
 Indien er PDF-bestanden worden gebruikt in een planset dan is het beter om PDF-
@@ -144,7 +144,7 @@ geopend waardoor de PDF-bestanden bij raadpleging van Ruimtelijkeplannen.nl geen
 inhoud bevatten.
 Controleer daarom vóór publicatie dat uw PDF-documenten geen Flashcomponenten
 bevatten. 
-<br/>
+<br/><br/>
 
 **Styled Layer Descriptor (SLD)**  
 Een Styled Layer Descriptor beschrijft in een xml structuur de vormgeving van de
@@ -152,7 +152,7 @@ symbolen zoals die toegepast kan worden bij geografische data. Voor de AMvB en
 andere vormvrije plannen is een bij de RO Standaarden 2012 behorende
 symboolcodelijst (in SLD formaat) beschikbaar die aangeeft op welke wijze een
 digitale verbeelding kan worden weergegeven. 
-<br/>
+<br/><br/>
  
 **Praktijkrichtlijn**  
 In een praktijkrichtlijn wordt de methode van digitalisering van ruimtelijke
@@ -162,7 +162,7 @@ praktijkrichtlijn is te beschouwen als een toelichting op en nadere uitwerking
 van de RO standaarden. Voor de algemene maatregel van bestuur en ministeriële
 regeling is dit deze Praktijkrichtlijn Algemene Maatregel van Bestuur
 (PRAMvB2012). 
-<br/>
+<br/><br/>
 
 **de AMvB (algemene maatregel van bestuur): artikel 4.3 Wro**  
 De AMvB is een instrument waarmee door de minister van BZK of door de minister
@@ -171,13 +171,13 @@ de minister van BZK regels kunnen worden gegeven omtrent de inhoud van
 bestemmingsplannen en provinciale inpassingsplannen, daaraan voorafgaande
 projectbesluiten en van beheersverordeningen, al dan niet voor een daarbij
 aangegeven gedeelte van het land.  
-<br/>
+<br/><br/>
 
 **de ministeriele regeling**  
 Een ministeriële regeling (mr) is een regeling die door een of meer ministers
 wordt gemaakt. Niet alle regels worden in een AMvB neergelegd. Vaak staat in een
 AMvB dat de verdere uitwerking van die AMvB is opgenomen in een mr.
-<br/>
+<br/><br/>
 
 ## Leeswijzer  
 De voorliggende praktijkrichtlijn gaat in [hoofdstuk 2](#H02) in op aard en karakter van
