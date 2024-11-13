@@ -9,7 +9,7 @@ var documentConfig =
   latestVersion: [
     "https://docs.geostandaarden.nl/ro/gb2012/"
   ],
-  publishDate: "2024-08-15",
+  publishDate: "2024-11-26",
   publishVersion: "1.3.8",
   thisVersion: [
     "https://geonovum.github.io/ro-gb2012/"
