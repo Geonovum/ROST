@@ -68,7 +68,7 @@ reactieve aanwijzing geven. De reactieve aanwijzing heeft als doel dat het
 onderdeel waar de reactieve aanwijzing betrekking op heeft, geen deel blijft
 uitmaken van het bestemmingsplan zoals het is vastgesteld.
 
-Attributen en waarden  
+<b>Attributen en waarden</b>  
 Van het *typeTekst* attribuut wordt het besluitdocument bij een aanwijzing
 gekoppeld. Eventueel kunnen ook worden gekoppeld: toelichting, bijlage bij
 besluitdocument en/of bijlage bij toelichting.
@@ -100,7 +100,7 @@ De Vereniging Nederlandse Gemeenten (VNG) heeft in 2011 de handreiking
 Beheersverordening Wro <a href='https://vng.nl/artikelen/factsheet-ruimtelijke-ordening
 ' target='_blank'>geactualiseerd</a>. 
 
-Attributen en waarden  
+<b>Attributen en waarden</b>  
 Een van de waarden van *typeTekst* is regels. De regels worden gekoppeld aan het
 object *Besluitgebied_X*. Bij een besluitvlak en besluitsubvlak wordt verwezen
 naar (een deel van) de regels. Eventueel kunnen ook worden gekoppeld:
@@ -147,7 +147,7 @@ voor het besluitgebied in Tabel 9 opgesteld. In deze uitwerking is voor het
 overzicht niet gebruik gemaakt van objectgerichte planteksten, maar dit is
 natuurlijk wel mogelijk.
 
-Attributen en waarden  
+<b>Attributen en waarden</b>  
 Een van de waarden van *typeTekst* is regels. De regels worden gekoppeld aan het
 object *Besluitgebied_X*. Bij een besluitvlak en besluitsubvlak wordt verwezen
 naar (een deel van) de regels. Eventueel kunnen ook worden gekoppeld:
@@ -216,7 +216,7 @@ betreffende ruimtelijke plan niet, deels of geheel onherroepelijk in werking
 treedt. Deze informatie wordt als dossierstatus in het manifest opgenomen, zie de toelichting in paragraaf 5.8 van de <a href='https://docs.geostandaarden.nl/ro/tri2012' target='_blank'>Praktijkrichtlijn
 Toegankelijkheid Ruimtelijke Instrumenten (PRTRI2012)</a>.
 
-Attributen en waarden  
+<b>Attributen en waarden</b>
 De *typeTekst* bij een gerechtelijke uitspraak is het besluitdocument. Het
 besluitdocument wordt gekoppeld aan het object *Besluitgebied_X*. Eventueel
 kunnen ook worden gekoppeld: toelichting, bijlage bij besluitdocument en/of
@@ -299,7 +299,7 @@ RO Standaarden 2008. Dit is toegelicht in de werkafspraak *Elektronisch
 publiceren kennisgeving omgevingsvergunning*. Met het in gebruik nemen van de RO
 Standaarden 2012 komt deze werkafspraak te vervallen.</p>
 
-Attributen en waarden  
+<b>Attributen en waarden</b>  
 De kennisgeving betreft de mededeling dat de omgevingsvergunning is verleend.
 Deze tekst wordt opgenomen als *besluitdocument*. Het besluitdocument wordt
 gekoppeld aan het object *Besluitgebied_X*. De tekst van de kennisgeving wordt
@@ -337,7 +337,7 @@ begrenzing die niet dezelfde hoeft te zijn als de begrenzing van het te zijner
 tijd op te stellen ruimtelijk plan. Het besluit tot dit voornemen wordt
 opgenomen in het vaststellingsbesluit.
 
-Attributen en waarden  
+<b>Attributen en waarden</b>  
 Nadere regels met betrekking tot het voorbereidingsbesluit worden opgenomen in
 de regels bij een voorbereidingsbesluit. De regels worden gekoppeld aan het
 object *Besluitgebied_X*. Eventueel kunnen ook worden gekoppeld: toelichting,
