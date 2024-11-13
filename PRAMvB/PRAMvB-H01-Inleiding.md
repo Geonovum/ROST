@@ -42,7 +42,7 @@ De STRI2012 is ook in praktijkrichtlijn nader toegelicht:<br/>
 
 De standaard voor planteksten (IMROPT2012) is onder voorwaarde verplicht.
 Toepassing van IMROPT2012 is verplicht wanneer de bronhouder ervoor kiest de
-planteksten in objectgerichte vorm (XML) beschikbaar te stellen. Dit is nader toegelicht:<br/>  
+planteksten in objectgerichte vorm (XML) beschikbaar te stellen. Dit is nader toegelicht: 
 <a href='https://docs.geostandaarden.nl/ro/pt2012/' target='_blank'>Praktijkrichtlijn voor Planteksten (PRPT2012)</a>.
 <br/><br/>
 
