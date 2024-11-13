@@ -27,7 +27,7 @@ gebiedsgerichte besluiten met deze attributen op deze wijze te maken (coderen).
 Per gebiedsgericht besluit is aangegeven of de tekst bij dat instrument een
 beleids-/besluitdocument betreft of dat de type tekst voorschriften/regels zijn.
 Dit type tekst is aangeven in dit hoofdstuk voor *Besluitgebied_X*. De voorwaarden hiervoor zijn opgenomen in hoofdstuk 8 OCL Model
-Contraints van het <li><a href='https://docs.geostandaarden.nl/ro/imro' target='_blank'>IMRO2012</a>. 
+Contraints van het <a href='https://docs.geostandaarden.nl/ro/imro' target='_blank'>IMRO2012</a>. 
 Bij de besluitvlakken en besluitsubvlakken wordt vervolgens verwezen naar delen van
 deze tekst. In het geval regels zijn gekoppeld aan het *Besluitgebied_X,* dan
 worden wordt bij de besluit(sub)vlakken alleen naar delen van deze type tekst
