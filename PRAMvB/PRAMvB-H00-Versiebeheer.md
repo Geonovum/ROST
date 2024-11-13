@@ -3,7 +3,7 @@
 Dit document is aan verandering onderhevig. Het versiebeheer van het document
 geeft inzicht in wijzigen en de actualiteit ervan.
 
-| **Versie** | **Datum**                      | **Status**            | **Aanpassing**                                                                                                                                                                                                      |
+| **Versie** | **Datum**                      | **Status**            | **Aanpassing**                                                                                                                                                                              |
 |------------|--------------------------------|-----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1.0        | 1 januari 2012                 | Vervallen             | Eerste  versie                                                                                                                                               |
 | 1.1        | 19 mei 2014                    | Vervallen             | Paragraaf 3.1 toelichting attribuut *ondergrond* uitgebreid en in lijn gebracht met nieuwe paragraaf 7.2 van de PTRI2012.                                                                                           |
