@@ -24,7 +24,7 @@ werken met een structuurvisie. Deze werkwijze kan zorgen voor een verhoogde
 leesbaarheid en bruikbaarheid van de structuurvisie.
 <br/><br/>
 
-*Wettelijk kader*  
+**Wettelijk kader**  
 Sinds 1 januari 2010 kent de <a href='http://wetten.overheid.nl/BWBR0020449' target='_blank'>Wet ruimtelijke ordening</a> (Wro) voor structuurvisies
 de digitaliseringsverplichting. In het <a href='http://wetten.overheid.nl/BWBR0023798' target='_blank'>Besluit ruimtelijke ordening</a> (Bro)
 zijn de uitgangspunten van digitalisering nader uitgewerkt. Via de <a href='http://wetten.overheid.nl/BWBR0031829' target='_blank'>Regeling
@@ -59,7 +59,7 @@ vastgesteld waarin de hoofdzaken van het te voeren ruimtelijk beleid zijn
 vastgelegd.
 <br/><br/>
 
-*Objectgerichte structuurvisie*  
+**Objectgerichte structuurvisie**  
 Een structuurvisie bestaat uit tekst en geografische aanduidingen. Per
 geografische aanduiding kan worden aangegeven welke kleur deze moet krijgen.
 Door één of meerdere verzamelingen van geografische aanduidingen in de visie
@@ -98,10 +98,10 @@ Een objectgerichte structuurvisie kenmerkt zich door integratie tussen tekst en
 kaart. Dit leidt tot:
 - betere leesbaarheid van de structuurvisie;
 - betere bruikbaarheid van de structuurvisie in het werkproces;
-- betere kwaliteitscontrole tijdens het opstellen
+- betere kwaliteitscontrole tijdens het opstellen.
 <br/><br/>
 
-*Betere leesbaarheid*  
+**Betere leesbaarheid**  
 Doordat in een objectgerichte structuurvisie tekst waar mogelijk aan thema’s
 en/of gebieden is gekoppeld, is het voor de gebruiker makkelijk te achterhalen
 waar welk beleid over welk thema geldt. De gebruiker hoeft niet de integrale
@@ -110,7 +110,7 @@ biedt vervolgens de aangebrachte indeling houvast bij het lezen. De visie wordt
 hiermee toegankelijker.
 <br/><br/>
 
-*Betere bruikbaarheid*  
+**Betere bruikbaarheid**  
 De bruikbaarheid van de informatie heeft betrekking op de wijze waarop
 informatie uit de structuurvisie makkelijk opgenomen kan worden in
 informatiesystemen, en daarmee combineerbaar en vergelijkbaar is met andere
@@ -140,7 +140,7 @@ RO-instrumenten zoals verordeningen en bestemmingsplannen. Dit komt de
 beleidsconsistentie en doorwerking van het ruimtelijk beleid ten goede.
 <br/><br/>
 
-*Betere kwaliteitscontrole*  
+**Betere kwaliteitscontrole**  
 De objecten in een structuurvisie zijn een ideaal hulpmiddel om bij het
 opstellen van de structuurvisie de taken te verdelen over een schrijversteam uit
 verschillende disciplines zoals natuur, water en cultuurhistorie. Doordat vanaf
@@ -150,7 +150,7 @@ opgespoord.
 De ervaring leert dat structuurvisies door dit extra vangnet duidelijker worden.
 <br/><br/>
 
-*Gebruik van PDF-bestanden*  
+**Gebruik van PDF-bestanden**  
 Indien er PDF-bestanden worden gebruikt in een planset dan is het beter om PDF-
 bestanden te gebruiken die geen flashcomponenten bevatten. Bestanden met
 flashcomponenten kunnen om veiligheidsredenen niet meer in een webbrowser worden
@@ -173,11 +173,13 @@ maken van de plantekst in [Hoofdstuk 3](#H03) toegelicht en [Hoofdstuk 4](#H04) 
 maken van de kaarten. De technische toelichting op de norm is in [Hoofdstuk 5](#H05)
 opgenomen.  
 Er is een vijftal bijlagen opgenomen bij deze praktijkrichtlijn:  
--   In [Bijlage 1](#B01) zijn een aantal veel gestelde vragen rondom deze praktijk en
+- In [Bijlage 1](#B01) zijn een aantal veel gestelde vragen rondom deze praktijk en
     structuurvisies algemeen opgenomen;  
--   In [Bijlage 2](#B02) zijn voor de weergave in de kaart een aantal voorbeelden van
+- In [Bijlage 2](#B02) zijn voor de weergave in de kaart een aantal voorbeelden van
     vlakken. Dit is op basis van de symbool codelijst;  
--   [Bijlage 3](#B03) licht toe de werkwijze toe van een gedeeltelijke herziening van
+- [Bijlage 3](#B03) licht toe de werkwijze toe van een gedeeltelijke herziening van
     een structuurvisie;  
--   [Bijlage 4](#B04) is gewijd aan de versie “geconsolideerd” ;  
--   Tot slot is in [Bijlage 5](#B05) een invulhulp opgenomen.
+- [Bijlage 4](#B04) is gewijd aan de versie “geconsolideerd” ;  
+- Tot slot is in [Bijlage 5](#B05) een invulhulp opgenomen.
+
+Deze praktijkrichtlijn en alle andere onderdelen van de RO Standaarden zijn vindbaar en raadpleegbaar via de <a href='https://www.geonovum.nl/geo-standaarden/ro-standaarden-ruimtelijke-ordening' target='_blank'>Geonovum website, dossier RO Standaarden</a>. 
