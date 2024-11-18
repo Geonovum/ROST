@@ -11,4 +11,4 @@ geeft inzicht in wijzigen en de actualiteit ervan.
 | 1.2.1      | oktober 2015, 14 december 2015  | Vervallen           | Tekstfout beschrijving van het attribuut typePlan in paragraaf 5.2;  Besproken met BROS en softwareleveranciers; wijzigingen definitief.    |
 | 1.2.2      | 23 november 2022             | Vervallen           | Aanpassing link                      |
 | 1.2.3      | 14 februari 2024             | Vervallen            | Actualiseren van verwijzingen naar wet- en regelgeving en de onderdelen van de RO Standaarden. Ook aangepast is de wijze van verwijzen naar externe pagina's.                         |
-| 1.2.4      | 26 november 2024             | Vervallen            | Vervangen van de weergave van tabellen zodat deze WCAG conform zijn. Verder is de opmaak aangepast.                          |
+| 1.2.4      | 26 november 2024             | Definititief            | Vervangen van de weergave van tabellen zodat deze WCAG conform zijn. Verder is de opmaak aangepast.                          |
