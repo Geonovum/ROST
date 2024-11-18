@@ -181,5 +181,6 @@ Er is een vijftal bijlagen opgenomen bij deze praktijkrichtlijn:
     een structuurvisie;  
 - [Bijlage 4](#B04) is gewijd aan de versie “geconsolideerd” ;  
 - Tot slot is in [Bijlage 5](#B05) een invulhulp opgenomen.
+</br></br>
 
 Deze praktijkrichtlijn en alle andere onderdelen van de RO Standaarden zijn vindbaar en raadpleegbaar via de <a href='https://www.geonovum.nl/geo-standaarden/ro-standaarden-ruimtelijke-ordening' target='_blank'>Geonovum website, dossier RO Standaarden</a>. 
