@@ -16,9 +16,9 @@ en het kaartnummer worden aangegeven.
 Op basis van de ingevulde kaartnamen en kaartnummers bij ieder planobject kan
 een viewer bepalen welke kaarten en in welke volgorde moeten worden getoond.  
 Iedere kaart bevat dus minimaal:  
--   één planobject waarmee de kaartnaam en kaartnummer van de kaart kan worden
+- één planobject waarmee de kaartnaam en kaartnummer van de kaart kan worden
     bepaald;
--   het plangebied van de structuurvisie.
+- het plangebied van de structuurvisie.
 Voor het plangebied geldt dat niet hoeft te worden aangegeven op welke kaart
 deze voorkomt.
 
@@ -40,16 +40,13 @@ worden opgenomen. Indien gewenst kan de kleur van het planobject per kaart
 verschillen, alhoewel dit verwarrend kan werken voor de gebruiker en om die
 reden beter kan worden vermeden.
 
-**Tabel 3 Attribuut cartografieInfo bij een planobject dat op twee kaarten
-voorkomt**
-
 <table id="d4e507" style="width: 100%;"><caption>Attribuut cartografieInfo bij een planobject dat op twee kaarten voorkomt</caption><colgroup><col id="col1" style="width: 8.222504914999423%;"></col><col id="col2" style="width: 21.31375043367642%;"></col><col id="col3" style="width: 70.46374465132416%;"></col></colgroup><tbody valign="top"><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0pt none #; border-right: 0.5pt solid #000000; background-color: #auto;" colspan="3"><p id="2CDEA279"><i>Attribuut ‘cartografieInfo’ behorende bij het planobject ‘EHS 2013’</i></p></td></tr><tr><td align="left" style="border-top: 0pt none #; border-left: 0.5pt solid #000000; border-bottom: 0pt none #000000; border-right: 0pt none #; background-color: #auto;" rowspan="2"></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: #auto;"><p id="5126D84E">Kaartnummer</p><p id="2617D703">kaartnaam</p><p id="23C1ADD0">symboolcode</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: #auto;"><p id="4F227C49">2</p><p id="17294FC9">Kaart 2a. Kernkwaliteit Natuur</p><p id="5835DC88">S210</p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: #auto;"><p id="761799BC">Kaartnummer</p><p id="5FFF69EB">kaartnaam</p><p id="33DD32FA">symboolcode</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: #auto;"><p id="6921D01F">10</p><p id="3DB24F7A">Kaart 5. Robuust natuursysteem</p><p id="47F977D0">S211</p></td></tr></tbody></table>
 
 ## Weergave van planobjecten op de kaart  
 In deze paragraaf wordt ingegaan op:  
--   de vorm waarin het planobject wordt weergegeven op de kaart (zie paragraaf 4.2.1);
--   de volgorde waarin de planobjecten worden getoond op de kaart (zie paragraaf 4.2.2);
--   de opbouw van de legenda van iedere kaart (zie paragraaf 4.3.1).
+-   de vorm waarin het planobject wordt weergegeven op de kaart (zie [paragraaf 4.2.1](#vorm-van-de-planobjecten));
+-   de volgorde waarin de planobjecten worden getoond op de kaart (zie [paragraaf 4.2.2](#volgorde-van-de-planobjecten-op-de-kaart));
+-   de opbouw van de legenda van iedere kaart (zie [paragraaf 4.3.1](#volgorde-planobjecten-in-de-legenda)).
 
 ### Vorm van de planobjecten  
 Het plangebied wordt altijd weergegeven met een contour. Voor de andere
@@ -62,11 +59,12 @@ planobjecten geldt dat ze:
     voorbeeld van een combinatie van vlakken en lijnen is opgenomen in Figuur
     16, waar het planobject ‘EHS 2013’ is weergegeven met zowel vlakken als
     lijnen.
-
-**Figuur 16 Een planobject weergegeven met een combinatie van een vlak en een
-lijn**
+<br/><br/>
 
 ![](media/10acfb8ca5207acd9b7a8e8f1026b53b.png)
+**Figuur 16 Een planobject weergegeven met een combinatie van een vlak en een
+lijn**
+<br/><br/>
 
 Het wordt aangeraden om waar mogelijk punten en lijnen te vermijden en zoveel
 mogelijk met vlakken te werken.
@@ -74,10 +72,11 @@ mogelijk met vlakken te werken.
 **Kleur/patroon van vlakken**  
 Het plangebied wordt op iedere kaart op dezelfde wijze (conform de plangrens in
 de SVBP2012) weergegeven (zie Figuur 17).
+<br/><br/>
 
 ![](media/817254a0b7bd47a8448450a72c5383f2.png)
-
 **Figuur 17 Verbeelding van het plangebied**
+<br/><br/>
 
 Voor alle andere planobjecten die als vlak zijn weergegeven, kan de opsteller
 van de structuurvisie zelf bepalen hoe deze wordt weergegeven. Wel moet worden
@@ -96,26 +95,32 @@ met een 100% transparante vulling (code ES133).
 ‘Essentie van de Visie’ in Figuur 18).  
 <u>Let op</u>: een ontvanger van het bestand is vrij om een eigen verbeelding in zijn eigen omgeving toe te passen, waardoor
 het object daar wel getoond kan worden.
+<br/><br/>
 
 ![](media/05287cd3f38eb388e334fff5e77ff6d1.png)
-
 **Figuur 18 Verborgen objecten**
+<br/><br/>
 
 **Vorm en kleur/patroon van lijnen**  
 Als een planobject (deels) als lijn is ingetekend, dan dient te worden
 aangegeven door welk type lijn, met welke lijndikte en met welke lijnkleur de
 lijn moet worden verbeeld.  
 Qua lijntype kan worden gekozen tussen:
+<br/><br/>
 
 ![](media/4e5a04bb9d99811faae9e5152f9ceab3.png)
 Per mogelijkheid zijn meerdere lijndiktes en kleuren mogelijk.
+<br/><br/>
 
 **Vorm en kleur/patroon van punten**  
 Als een planobject (deels) als punt is ingetekend, dan dient te worden
 aangegeven door welk symbool, met welke grootte en met welke kleur het punt moet
 worden verbeeld.  
 Qua typering kan worden gekozen uit abstracte symbolen:
+<br/><br/>
+
 ![](media/6ade9adbd39cd287b1129f2b7caadf8a.png)
+<br/><br/>
 
 Bij het plaatsen van het puntsymbool kan de grootte worden meegegeven. Dit heeft
 als consequentie dat iedere meegegeven grootte van het puntsymbool mee schaalt
@@ -133,11 +138,12 @@ die met een lijn of punt zijn weergegeven.
 
 Een voorbeeld waarbij het gebruik van ‘cartografisch figuur’ handig kan zijn, is
 om bijvoorbeeld uitbreidingsrichtingen weer te geven (zie Figuur 19).
-
-**Figuur 19 Voorbeelden verbeelding van een planobject via cartografisch
-figuur**
+<br/><br/>
 
 ![](media/c8e1a4cffa36ab7a40a176e8c59af342.png)
+**Figuur 19 Voorbeelden verbeelding van een planobject via cartografisch
+figuur**
+<br/><br/>
 
 **Nauwkeurigheid**  
 Voor ieder planobject geldt dat de nauwkeurigheid van de begrenzing moet worden
@@ -172,6 +178,7 @@ boven), is:
     gekeken naar de positie van het planobject in de objectenstructuur.
     Planobjecten die lager in de objectenstructuur zijn geplaatst, worden
     bovenaan getoond.
+<br/><br/>
 
 ## Legenda
 
@@ -189,14 +196,13 @@ nemen. Dit werkt als volgt:
 Vul bij het planobject wel het kaartnummer en de kaartnaam in, maar niet de
 symboolcode (zie Tabel 4).
 
-**Tabel 4 cartografieInfo bij een planobject als kopje in de legenda**
-
 <table id="d4e670" style="width: 100%;"><caption>cartografieInfo bij een planobject als kopje in de legenda</caption><colgroup><col id="col1" style="width: 8.222504914999423%;"></col><col id="col2" style="width: 21.31375043367642%;"></col><col id="col3" style="width: 70.46374465132416%;"></col></colgroup><tbody valign="top"><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0pt none #; border-right: 0.5pt solid #000000; background-color: #auto;" colspan="3"><p id="78E3A2FF"><i>Attribuut ‘cartografieInfo’ behorende bij het planobject ‘Landschapstypen’</i></p></td></tr><tr><td align="left" style="border-top: 0pt none #; border-left: 0.5pt solid #000000; border-bottom: 0pt none #000000; border-right: 0pt none #; background-color: #auto;"></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: #auto;"><p id="33727AC5">Kaartnummer</p><p id="324CA2EE">kaartnaam</p><p id="141B0A76">symboolcode</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: #auto;"><p id="1E2CAC1F">3</p><p id="078BDAAF" class="space-after">Kaart 2b. Kernkwaliteit Landschap</p></td></tr></tbody></table>
 
 Het planobject is dan niet klikbaar via de kaart, maar het is opgenomen als
 kopje in de legenda boven één of meerdere onderliggende planobjecten (zie
 planobject ‘Landschapstypen’ in Figuur 20).
-
-**Figuur 20 Planobject als kopje in de legenda**
+<br/><br/>
 
 ![](media/0fda4f4f41a1434d1bc2e7ab49ddf97d.png)
+**Figuur 20 Planobject als kopje in de legenda**
+<br/><br/>
