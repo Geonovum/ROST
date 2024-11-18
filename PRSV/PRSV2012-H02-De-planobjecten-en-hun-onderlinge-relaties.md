@@ -16,7 +16,7 @@ Het desbetreffende planobject is dus niet alleen via de tekstuele ingang
 toegankelijk, maar kan ook via de kaart of via andere ingang (bijvoorbeeld via
 de objectenstructuur) gevonden worden. De termen ‘zelfstandig logisch onderdeel
 in de tekst’ en ‘via verschillende ingangen toegankelijk’ worden respectievelijk
-in paragraaf 2.1.1 en 2.1.2 nader toegelicht.
+in [paragraaf 2.1.1](#zelfstandig-logisch-onderdeel-in-de-tekst) en [paragraaf 2.1.2](#via-verschillende-ingangen-toegankelijk) nader toegelicht.
 
 ### Zelfstandig, logisch onderdeel in de tekst  
 In Figuur 5 is een voorbeeld van een plantekst opgenomen, bestaande uit twee
@@ -156,7 +156,7 @@ Teksten van deze planobjecten kunnen op de volgende manieren worden opgeroepen:
 - via de objectenstructuur (zie Figuur 7);
 - indirect via een onderliggend planobject dat wel op de kaart staat. Via
     overerving erft het onderliggende planobject de teksten over van dit
-    planobject (zie paragraaf 2.2.2).
+    planobject, zie [paragraaf 2.2.2](#wat-betekent-een-verbinding-in-de-objectenstructuur).
 
 Meestal zal een planobject op meerdere plekken in de tekst worden beschreven
 (bijvoorbeeld in het thematische deel en in het gebiedsgerichte deel). Het
@@ -327,13 +327,13 @@ voorkomen.
 Daarnaast is het aan te bevelen om de uiteindelijke structuur van het plan goed
 te controleren. Een van de hulpmiddelen daarbij is om een planobject te nemen,
 en dan alle tekst te lezen van dat object en alle bovenliggende planobjecten.
-Dan moet, vanwege het principe van overerving (zie paragraaf 2.2.2) alle voor
+Dan moet, vanwege het principe van overerving (zie [paragraaf 2.2.2](#wat-betekent-een-verbinding-in-de-objectenstructuur)) alle voor
 dat van planobject van toepassing zijnde beleid (en eventuele toelichting op dit
 beleid) zijn gelezen. Is dat niet het geval, dan klopt de structuur niet.
 Herhaal deze test een aantal malen voor verschillende planobjecten.
 
 ## Resultaat
-Zoals aangegeven in paragraaf 1.3 bestaat een objectgerichte structuurvisie uit
+Zoals aangegeven in [paragraaf 1.3](#wat-is-een-objectgerichte-structuurvisie) bestaat een objectgerichte structuurvisie uit
 drie onderdelen:  
 <ul><li>tekst, geordend door een inhoudsopgave;</li>
 <li>geometrie (meestal door de opsteller gegroepeerd in een of meerdere kaarten, geordend door een legenda per kaart);</li>
@@ -344,23 +344,26 @@ Volgens de <a href='https://docs.geostandaarden.nl/ro/stri' target='_blank'>Stan
 dient de geometrie en de objectenstructuur samen in één bestand in gml-formaat
 ter beschikking te worden gesteld. Voor het beschikbaar stellen van de teksten
 biedt de STRI2012 de volgende twee opties toegestaan:
+<br/><br/> 
 
 *Mogelijkheid 1: xml-formaat*  
-In deze optie wordt de tekst beschikbaar gesteld conform het <li><a href='https://docs.geostandaarden.nl/ro/imropt/' target='_blank'>Informatiemodel Ruimtelijke Ordening Planteksten 2012 (IMROPT2012)</a>. Dit betekent dat in
+In deze optie wordt de tekst beschikbaar gesteld conform het <a href='https://docs.geostandaarden.nl/ro/imropt/' target='_blank'>Informatiemodel Ruimtelijke Ordening Planteksten 2012 (IMROPT2012)</a>. Dit betekent dat in
 ieder geval de regels, de toelichting en/of het beleids-/besluitdocument
 beschikbaar worden gesteld in XML formaat. Bijlagen kunnen ofwel in dit zelfde
 XML formaat beschikbaar worden gesteld, ofwel in separate bronbestanden in
 HTML-, XHTML- of PDF-formaat.
+<br/><br/> 
 
 *Mogelijkheid 2: html-formaat*  
 In deze optie wordt de tekst in HTML-, XHTML- of PDF-formaat beschikbaar
 gesteld.
+<br/><br/> 
 
 Voordeel van de eerste optie (xml-formaat) is dat ‘de computer’ van ieder
 tekstobject weet waar deze begint en eindigt. Het is hierdoor mogelijk om in
 viewers bepaalde tekstobjecten te selecteren of ‘highlighten’ (te markeren met
 een bepaalde kleur). Dit is met planteksten in html-formaat niet mogelijk.
 
-Het resultaat vormt een set van bestanden (zie hoofdstuk 2 van de STRI2012) die
-langs elektronische weg beschikbaar dienen te worden gesteld (zie hoofdstuk 5
-van de STRI2012).
+Het resultaat vormt een set van bestanden (zie (zie <a href='https://docs.geostandaarden.nl/ro/stri/#647D7CD7' target='_blank'>hoofdstuk 2
+van de STRI2012</a>) die langs elektronische weg beschikbaar dienen te worden gesteld (zie <a href='https://docs.geostandaarden.nl/ro/stri/#647D7DE7' target='_blank'>hoofdstuk 5
+van de STRI2012</a>). 
