@@ -22,10 +22,10 @@ in paragraaf 2.1.1 en 2.1.2 nader toegelicht.
 In Figuur 5 is een voorbeeld van een plantekst opgenomen, bestaande uit twee
 zelfstandige, logische onderdelen (werkgelegenheid en aard van
 bedrijvenbestand).
-
-**Figuur 5 Zelfstandig, logisch onderdeel in de tekst**
+<br/><br/>
 
 ![](media/ab3d2f528f8b5797359c861d2f86a22f.png)
+**Figuur 5 Zelfstandig, logisch onderdeel in de tekst**
 
 ### Via verschillende ingangen toegankelijk
 
@@ -42,9 +42,9 @@ dus worden bestempeld als planobjecten. Voorbeelden van andere ingangen zijn via
 de kaart of via een objectenstructuur. In Figuur 6 is een voorbeeld opgenomen
 waarbij de plantekst zowel via de kaart als via een objectenstructuur wordt
 opgeroepen.
+<br/><br/>
 
 ![](media/39e428dd57f7efdcb8bbb023f680f946.png)
-
 **Figuur 6 Tekst via verschillende ingangen toegankelijk**
 
 ## Objectenstructuur
@@ -56,11 +56,12 @@ niet op zich zelf. Sommige groepjes planobjecten hebben een inhoudelijke relatie
 met elkaar. Het ligt het voor de hand deze objecten te groeperen in grotere
 logische eenheden. Zo ontstaat een structuur in de planobjecten: een
 objectenstructuur (zie Figuur 7).
+<br/><br/>
 
 ![](media/67ff254a199df89d61a1f61327bb8576.png)
-
 **Figuur 7 Planobjecten ongeordend (links) en geordend in een objectenstructuur
 (rechts)**
+<br/><br/>
 
 Het enige planobject op het hoogste niveau in de objectenstructuur is altijd het
 plangebied. Dit planobject heeft als naam de aanhaaltitel van de structuurvisie,
@@ -85,24 +86,23 @@ kaart ontsluiten en ze worden daarom beschouwd als planobjecten.
 Twee planobjecten (EHS-land en EHS-water) worden geografisch aangeduid
 (respectievelijk met groen en blauw). In de objectenstructuur is aangegeven dat
 het planobject EHS als onderliggende objecten EHS-land en EHS-water kent.
+<br/><br/>
 
 ![](media/1b6add76e658e518f3db5c0e237a3934.png)
-
 **Figuur 8 Overerving**
+<br/><br/> 
 
 Als op het groene deel van de kaart wordt geklikt, wordt het planobject
 ‘EHS-land’ gevonden met daarbij de volgende verwijzingen naar tekst:
-
--   3.1 algemeen beleid EHS
-
--   3.2 Specifiek voor EHS-land
+- 3.1 algemeen beleid EHS
+- 3.2 Specifiek voor EHS-land
+<br/><br/>
 
 Als op het blauwe deel van de kaart wordt geklikt, wordt het planobject
 ‘EHS-water’ gevonden met daarbij de volgende verwijzingen naar tekst:
-
--   3.1 algemeen beleid EHS
-
--   3.3 Specifiek voor EHS-water
+- 3.1 algemeen beleid EHS
+- 3.3 Specifiek voor EHS-water
+<br/><br/>
 
 Uit dit voorbeeld komt het principe van overerving naar voren. Zowel het
 planobject EHS-land als EHS-water erven de verwijzing naar tekst van het
@@ -148,17 +148,13 @@ meerdere verwijzingen naar kaarten.
 
 Er zijn echter ook planobjecten die wel in de tekst maar niet op de kaart
 voorkomen. Deze hebben dus als eigenschap een verwijzing naar de tekst, maar
-kennen geen verwijzing naar de kaart[^5]. Teksten van deze planobjecten kunnen
-op de volgende manieren worden opgeroepen:
+kennen geen verwijzing naar de kaart: objecten zonder verwijzing naar de kaart, ofwel objecten zonder geometrie,
+zijn alleen mogelijk bij rijksstructuurvisies. 
+Teksten van deze planobjecten kunnen op de volgende manieren worden opgeroepen:
 
-[^5]: *Objecten zonder verwijzing naar de kaart, ofwel objecten zonder geometrie,
-zijn alleen mogelijk bij rijksstructuurvisies.*
-
--   via de tekstuele ingang;
-
--   via de objectenstructuur (zie Figuur 7);
-
--   indirect via een onderliggend planobject dat wel op de kaart staat. Via
+- via de tekstuele ingang;
+- via de objectenstructuur (zie Figuur 7);
+- indirect via een onderliggend planobject dat wel op de kaart staat. Via
     overerving erft het onderliggende planobject de teksten over van dit
     planobject (zie paragraaf 2.2.2).
 
@@ -169,10 +165,11 @@ planobject heeft dan als eigenschap meerdere verwijzingen naar de tekst.
 Samenvattend: een planobject bevat *altijd* een verwijzing naar één of meerdere
 teksten en *kan* (hoeft niet) een verwijzing naar één of meerdere kaarten
 bevatten (zie Figuur 9).
-
-**Figuur 9 Eigenschappen van planobjecten**
+<br/><br/>
 
 ![](media/4744b86e489d61d97bd691b2c7d539a9.png)
+**Figuur 9 Eigenschappen van planobjecten**
+<br/><br/>
 
 Naast een verwijzing naar de tekst of naar één of meerdere kaarten,
 kunnen/moeten er voor een planobject nog meer eigenschappen worden vastgelegd,
@@ -190,21 +187,25 @@ manieren mogelijk.
 ### Stap 1: Opstellen concept objectenstructuur
 
 Stap 1A en 1B kunnen ook in omgekeerde volgorde worden uitgevoerd.
+<br/><br/>
 
 *Stap 1A - Thema’s*  
 Benoem de thema’s die in de structuurvisie aan de orde komen (geef ze namen) en
 beschrijf de inhoud met enkele steekwoorden. Maak hierbij gebruik van de
 themalijst. Dit resulteert in de eerste planobjecten van de structuurvisie.
+<br/><br/>
 
 *Stap 1B - Gebieden*  
 Geef alle gebieden waarvoor beleid wordt gemaakt (of die ter toelichting dienen
 op het beleid) aan op de kaart. Geef die gebieden namen en beschrijf het beleid
 met enkele steekwoorden.
+<br/><br/>
 
 *Stap 1C - Koppelen gebieden aan thema’s*  
 Deel de gebieden uit stap 1B toe aan de thema’s uit stap 1A. Een gebied kan bij
 meer thema's horen. Hierdoor ontstaat een eerste versie van de
 objectenstructuur.
+<br/><br/>
 
 *Stap 1D - Groeperen van planobjecten*  
 Verzamel planobjecten in groepen die beleid met elkaar gemeen hebben zodat
@@ -217,10 +218,11 @@ een omschrijving of een weergave op kaart.
 Vaak is het handig om in stap 1C en 1D te werken met een schematische weergave
 in blokjes zoals in Figuur 10 (gebruik daarbij sprekende namen in plaats van
 “thema 2” of gebied 4”).
+<br/><br/>
 
 ![](media/37a065357f23d607edf3f5d12b86ac80.png)
-
 **Figuur 10 Groeperen in planobjecten**
+<br/><br/>
 
 Op deze wijze ontstaat de eerste globale versie van de objectenstructuur die als
 startpunt wordt gebruikt voor zowel het opstellen van de eerste teksten als het
@@ -267,15 +269,14 @@ In Bijlage 5 is een vragenlijst opgenomen waarmee kan worden bepaald tot welk
 type (klasse) een bepaald planobject uit de objectenstructuur behoort. Om de
 werking van deze vragenlijst toe te lichten, is deze toegepast op het voorbeeld
 in Figuur 11. Het voorbeeld betreft een provinciale structuurvisie.
-
-**Figuur 11 Voorbeeld objectenstructuur**
+<br/><br/>
 
 ![](media/bec044a98b3be4e78218556c7641a765.png)
+**Figuur 11 Voorbeeld objectenstructuur**
+<br/><br/> 
 
 In Tabel 1 zijn voor ieder object alle vragen uit de vragenlijst van de
 invulhulp van Bijlage 5 opgenomen.
-
-**Tabel 1 Toepassing vragenlijst uit Bijlage 5**
 
 <table id="d4e41" style="width: 100%;"><caption>Toepassing vragenlijst uit Bijlage 5</caption><colgroup><col id="col1" style="width: 21.584948688711517%;"></col><col id="col2" style="width: 30.136830102622575%;"></col><col id="col3" style="width: 20.433295324971493%;"></col><col id="col4" style="width: 27.844925883694412%;"></col></colgroup><thead valign="top"><tr><th align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000;"><p id="79106261"><b>Planobject</b></p></th><th align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000;"><p id="049B2A90"><b>Toelichting</b></p></th><th align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000;"><p id="4FBC8B96"><b>Vragenlijst</b></p></th><th align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000;"><p id="0F43D8F4"><b>Type (klasse)</b></p></th></tr></thead><tbody valign="top"><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="0927416A">EHS</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="42054378">Betreft beleidstekst. Het planobject wordt geografisch aangeduid.</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="6181C8EB">vraag 1: JA</p><p id="5EFA22C4">vraag 2: JA</p><p id="3D14A0AE">vraag 3: JA</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="5B650721">Structuurvisiecomplex. invulariant A</p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="28C6B7B8">Duurzaamheid</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="6A82E4D5">Betreft beleidstekst.  Het planobject wordt niet geografisch aangeduid en ook niet als kopje in de legenda opgenomen.</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="361AB8BB">vraag 1: JA</p><p id="3A91BB29">vraag 2: JA</p><p id="034F8261">vraag 3: NEE</p><p id="03C5F06F">vraag 4: NEE</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="5BA59250">Structuurvisiecomplex, invulvariant C</p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="43750792">Verkeer</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="7BB05276">Betreft beleidstekst.  Het planobject wordt niet geografisch aangeduid en ook niet als kopje in de legenda opgenomen.</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="478D50FA">vraag 1: JA</p><p id="365884AF">vraag 2: JA</p><p id="25A48CD4">vraag 3: NEE</p><p id="7CE70550">vraag 4: NEE</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="45C3C2CD">Structuurvisiecomplex, invulvariant C</p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="7C862ABB">EHS-land</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="422247B0">Betreft beleidstekst. Het planobject wordt geografisch aangeduid.</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="14235ABD">vraag 1: JA</p><p id="3825102B">vraag 2: NEE</p><p id="00EA0450">vraag 5: JA</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="2CB41781">Structuurvisiegebied, invulvariant A</p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="6F5931C0">EHS-water</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="4BD67B2A">Betreft beleidstekst. Het planobject wordt geografisch aangeduid.</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="1FDFDF14">vraag 1: JA</p><p id="7E3FC568">vraag 2: NEE</p><p id="6F852E19">vraag 5: JA</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="63467715">Structuurvisiegebied, invulvariant A</p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="11D15571">Windenergie</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="26C77CC9">Betreft beleidstekst.  Het planobject wordt niet geografisch aangeduid en ook niet als kopje in de legenda opgenomen.</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="7527BAE1">vraag 1: JA</p><p id="4E0AEF5B">vraag 2: JA</p><p id="00F8F2C0">vraag 3: NEE</p><p id="148D42B7">vraag 4: NEE</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="0A4512FE">Structuurvisiecomplex, invulvariant C</p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="01765769">Zonne-energie</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="34040287">Betreft beleidstekst.  Het planobject wordt niet geografisch aangeduid en ook niet als kopje in de legenda opgenomen.</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="3C8D21A2">vraag 1: JA</p><p id="18E1D568">vraag 2: NEE</p><p id="2AC4A606">vraag 5: NEE</p><p id="55220EF4">vraag 6: NEE</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="16A495E0">Niet te coderen</p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="4E25C42B">Doorstroming</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="19E37CD7">Betreft beleidstekst.  Het planobject wordt niet geografisch aangeduid en ook niet als kopje in de legenda opgenomen.</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="54A42B94">vraag 1: JA</p><p id="47390811">vraag 2: NEE</p><p id="71F74459">vraag 5: NEE</p><p id="3605F1CF">vraag 6: NEE</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="1D1A6632">Niet te coderen</p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="65587F40">Zoekgebied windenergie</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="0F16B7FC">Betreft beleidstekst. Het planobject wordt geografisch aangeduid.</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="6661676E">vraag 1: JA</p><p id="759CEA14">vraag 2: NEE</p><p id="1FCCEF90">vraag 5: JA</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="140F292D">Structuurvisiegebied, invulvariant A</p></td></tr></tbody></table>
 
@@ -291,10 +292,11 @@ alle plaatjes op. Benoem de relaties met overige plannen.
 
 Uit stap 4 kan volgen dat sommige planobjecten niet kunnen worden gecodeerd. In
 het voorbeeld in Figuur 12 zijn deze geel weergegeven.
-
-**Figuur 12 Planobjecten die niet kunnen worden gecodeerd**
+<br/><br/>
 
 ![](media/1a8cddd7a8d028d04ef46aeb9df3f3e3.png)
+**Figuur 12 Planobjecten die niet kunnen worden gecodeerd**
+<br/><br/>
 
 Verwijder deze planobjecten uit de objectenstructuur. Zorg er wel voor dat de
 teksten van de verwijderde objecten bij een ander (meestal bovenliggend) object
@@ -306,16 +308,14 @@ onderliggende planobjecten hebben. In het voorbeeld gaat het om het object
 ‘verkeer’ (in Figuur 13 in groen weergegeven). Omdat alle onderliggende objecten
 onder dit object zijn verwijderd, dient voor dit object opnieuw te worden
 bepaald tot welk type deze behoort (zie Tabel 2).
-
-**Figuur 13 Planobjecten van het type Structuurvisiecomplex zonder onderliggende
-planobjecten**
+<br/><br/>
 
 ![](media/01af6e5ca41ed045fa725e26f6fb8a7c.png)
+**Figuur 13 Planobjecten van het type Structuurvisiecomplex zonder onderliggende planobjecten**
+<br/><br/> 
 
 In Tabel 2 zijn voor ieder object alle vragen uit de vragenlijst van de
 invulhulp van Bijlage 5 opgenomen.
-
-**Tabel 2 Doorlopen stappen in het stappenplan uit Bijlage 5**
 
 <table id="d4e416" style="width: 100%;"><caption>Doorlopen stappen in het stappenplan uit Bijlage 5</caption><colgroup><col id="col1" style="width: 21.76738882554162%;"></col><col id="col2" style="width: 28.346636259977192%;"></col><col id="col3" style="width: 22.91904218928164%;"></col><col id="col4" style="width: 26.966932725199545%;"></col></colgroup><thead valign="top"><tr><th align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000;"><p id="2BFC12F8">Planobject</p></th><th align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000;"><p id="00707117">Toelichting</p></th><th align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000;"><p id="74AF2D49">Vragenlijst</p></th><th align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000;"><p id="7F69309E">Type (klasse)</p></th></tr></thead><tbody valign="top"><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="6C8A1EE9">Verkeer</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="09D0D353">Betreft beleidstekst.  Het planobject wordt niet geografisch aangeduid en ook niet als kopje in de legenda opgenomen</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="74E1FF89">vraag 1: JA</p><p id="2B47CDC7">vraag 2: NEE</p><p id="7CAE0EBA">vraag 5: NEE</p><p id="3C77E1B1">vraag 6: NEE</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="5E1A2156">Niet te coderen</p></td></tr></tbody></table>
 
@@ -333,14 +333,13 @@ beleid) zijn gelezen. Is dat niet het geval, dan klopt de structuur niet.
 Herhaal deze test een aantal malen voor verschillende planobjecten.
 
 ## Resultaat
-
 Zoals aangegeven in paragraaf 1.3 bestaat een objectgerichte structuurvisie uit
 drie onderdelen:  
--   tekst, geordend door een inhoudsopgave;
--   geometrie (meestal door de opsteller gegroepeerd in een of meerdere kaarten,
-    geordend door een legenda per kaart);
--   de zelfstandige onderdelen van de objectgerichte structuurvisie, geordend in
-    een objectenstructuur die dit alles bij elkaar houdt.
+<ul><li>tekst, geordend door een inhoudsopgave;</li>
+<li>geometrie (meestal door de opsteller gegroepeerd in een of meerdere kaarten, geordend door een legenda per kaart);</li>
+<li>de zelfstandige onderdelen van de objectgerichte structuurvisie, geordend in een objectenstructuur die dit alles bij elkaar houdt.</li>
+</ul><br/>
+
 Volgens de <a href='https://docs.geostandaarden.nl/ro/stri' target='_blank'>Standaard Toegankelijkheid Ruimtelijke Instrumenten (STRI2012)</a>
 dient de geometrie en de objectenstructuur samen in één bestand in gml-formaat
 ter beschikking te worden gesteld. Voor het beschikbaar stellen van de teksten
