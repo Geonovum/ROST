@@ -9,7 +9,7 @@ var documentConfig =
   latestVersion: [
     "https://docs.geostandaarden.nl/ro/pt2012/"
   ],
-  publishDate: "2024-08-15",
+  publishDate: "2024-11-26",
   publishVersion: "1.2.4",
   thisVersion: [
     "https://geonovum.github.io/ro-pt2012/"
