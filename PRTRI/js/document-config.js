@@ -9,7 +9,7 @@ var documentConfig =
   latestVersion: [
     "https://docs.geostandaarden.nl/ro/tri2012/"
   ],
-  publishDate: "2024-08-15",
+  publishDate: "2024-11-26",
   publishVersion: "1.5.2",
   thisVersion: [
     "https://geonovum.github.io/ro-tri2012/"
