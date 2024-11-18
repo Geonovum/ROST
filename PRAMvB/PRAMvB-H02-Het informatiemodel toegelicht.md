@@ -109,6 +109,7 @@ van de AMvB opgeslagen. De ontvanger van de dataset leest de gegevens, waaronder
 de symboolcodes, uit en kan daardoor de AMvB weergeven zoals de bronhouder dit
 bedoeld heeft. In Figuur 2 is een detail van de symboolcodelijst voor vormvrije
 plannen opgenomen die onderdeel is van de RO Standaarden 2012.</br>
+<br/><br/>
 
 ![](media/3996da701001c9222ae1e68603b121c6.png)
 **Figuur 2 Detail van de symboolcodelijst voor vormvrije plannen**
