@@ -1,9 +1,8 @@
 # Bijlage 4 - Geldende situatie: de versie “geconsolideerd” 
 
-**De geldende actuele status kan met bijvoorbeeld de zgn. versie “geconsolideerd”
-worden weergegeven.**
-
-Om de raadpleger van [ruimtelijkeplannen.nl](http://www.ruimtelijkeplannen.nl/)
+De geldende actuele status kan met bijvoorbeeld de zgn. versie “geconsolideerd”
+worden weergegeven.
+Om de raadpleger van [Ruimtelijkeplannen.nl](https://www.ruimtelijkeplannen.nl)
 meer duidelijkheid te kunnen bieden over de exacte status en werkingssfeer van
 de (wijzigingen op de) visies en het actuele planologische regime ter plaatse
 kan het gebruik van een versie “geconsolideerd” de oplossing zijn. Op die manier
@@ -20,6 +19,7 @@ plaats. De versie “geconsolideerd” van een structuurvisie kent geen wettelij
 dus geen juridische status, omdat deze versie niet door het bevoegd gezag is
 vastgesteld. Het gebruik van een geconsolideerd besluit is een keuze van het
 bevoegd gezag.
+<br/><br/>
 
 Omdat bevoegde gezagen grote mate van vrijheid hebben bij het opstellen van
 structuurvisies en wijzigingen daarop kan slechts een algemene werkwijze gegeven
@@ -27,6 +27,7 @@ worden. Uiteindelijk is de essentie van het consolideren van een structuurvisie,
 met (gedeeltelijke) wijzigingen die erop zijn gevolgd, het maken van een
 consistent document waarin het geldende beleid (de visie) en de onderbouwing
 daarvan is verwoord en op kaart getoond.
+<br/><br/>
 
 Het consolideren gebeurt op door het behandelen van de objecten waaruit de
 visies zijn opgebouwd. Objecten kunnen daarbij ongewijzigd, gewijzigd of nieuw
@@ -38,8 +39,9 @@ geometrie moet goed gekeken worden of er nog oud beleid is dat van toepassing is
 op gebied dat niet meer opgenomen is in de begrenzing. Dan zal er een object
 bijgemaakt moeten worden.  
 Bij alle gewijzigde of nieuwe objecten is het belangrijk om goed te letten op de
-overerving van het beleid zoals uitgelegd in hoofdstuk 2 van deze
+overerving van het beleid zoals uitgelegd in [hoofdstuk 2](#H02) van deze
 praktijkrichtlijn.
+<br/><br/>
 
 Aangezien deze versie niet door het bevoegd gezag wordt vastgesteld, is het voor
 de hand liggend om voor de datum van deze versie geconsolideerd aan te sluiten
