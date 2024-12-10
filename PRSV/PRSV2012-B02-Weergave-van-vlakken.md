@@ -1,8 +1,6 @@
 # Bijlage 2 - Weergave van vlakken
 
-**In deze bijlage is met voorbeelden de weergave van vlakken aangegeven.**
-
-*Let op*: Per type zijn meerdere kleuren mogelijk. De opgenomen kleuren en
+In deze bijlage is met voorbeelden de weergave van vlakken aangegeven. Per type zijn meerdere kleuren mogelijk. De opgenomen kleuren en
 nummers dienen slechts als voorbeeld.
 
 **Tabel 11 Voorbeelden van vlak weergave**
