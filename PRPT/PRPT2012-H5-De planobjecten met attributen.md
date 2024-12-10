@@ -10,6 +10,7 @@ stuk, heeft een titel, begint met een hoofdletter en eindigt met een punt. Een
 TekstObject kan bijvoorbeeld zijn een hoofdstuk, paragraaf, of een sublid. Aan
 dit object worden de algemene ei­gen­schappen van het tekstonderdeel als
 attribuut ge­koppeld.
+<br/><br/>
 
 In Tabel 1 zijn de attributen benoemd, de waarden aangegeven die deze attributen
 kunnen bevatten en wordt aangegeven of het gebruik van het attribuut ver­plicht
@@ -17,8 +18,6 @@ is en of het attribuut meerdere malen mag worden gebruikt (multipliciteit). Ook
 is aangege­ven of het sa­mengestelde attributen betreffen, dat wil zeggen altijd
 in samenhang moeten worden gebruikt. Na de tabel is per attribuut een nadere
 toelichting gegeven.
-
-**Tabel 1 Klasse TekstObject 1..n\***  
 
 <table id="d4e41" style="width: 100%;"><caption>Klasse TekstObject 1..n*</caption><colgroup><col id="col1" style="width: 27.87093789753672%;"></col><col id="col2" style="width: 21.31375043367642%;"></col><col id="col3" style="width: 6.557187463860298%;"></col><col id="col4" style="width: 44.25812420492656%;"></col></colgroup><thead valign="top"><tr><th align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="7183C7F6">attribuut</p></th><th align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="679B1BAE">waarde</p></th><th align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="4481D108">*</p></th><th align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="433CEC2F">nadere omschrijving waarde</p></th></tr></thead><tbody valign="top"><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="3DCEC8A1">identificatie</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="40F39FA1">waarde</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="5D3FC6D7">1</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="72BC20C3">eigen identificatie (idn) van het TekstObject. De code moet uniek zijn binnen het plantekstenbestand. De identificatie begint met "NL.IMRO.PT." en wordt gevolgd door max. 32 alfanumerieke tekens. </p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="136D57FF">verwijzingNaarPlangebied</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="64D58423">idn plangebied</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="6E3B1CE3">1</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="6CD01910">identificatie (idn) van het IMRO Plangebied waar dit TekstObject bij hoort.</p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="6F29B6A6">volgnummer</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="2E50F6F1">waarde</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="731E401B">1</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="6A8E53BA">een oplopend volgnummer 1, 2, 3, ... dat de volgorde van de tekstobjecten aangeeft. Deze waarde wordt veelal automatisch gegenereerd.</p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="3143CCB6">niveau</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="1111287A">waarde</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="5A4A994D">1</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="7AE7F5A9">een oplopende waarde 0, 1, 2, ... dat het hiërarchische niveau van het object aangeeft. Het object met niveau 0 heeft het hoogste niveau. Deze waarde wordt veelal automatisch gegenereerd.</p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="344B18C8">ouderId</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="40026F26">idn tekstobject</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="386ECB03">1</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="0D6F1380">identificatie (idn) van het bovenliggend TekstObject. Deze waarde wordt veelal automatisch gegenereerd.</p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="6C2D67B2">type</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="24F00BE1">waarde </p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="28048617">1</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="5098E18B">één van de waarden volgens domein ObjecttypePlan, ObjecttypeVisie of ObjecttypeBesluit </p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="7B77D21A">typeTekst</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="3EC41BDE">waarde</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="046DE733">0..1</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="074B30F3">aanduiding van het type tekst waarnaar verwezen wordt. Domein: Teksttype.</p></td></tr></tbody></table>
 
@@ -29,17 +28,20 @@ met “NL.IMRO.PT.” gevolgd door maximaal 32 vrij te gebruiken alfanumerieke
 tekens. De lengte van de identificatie is daardoor maximaal 43 alfanumerieke
 tekens. Samen met het attribuut verwijzingNaarPlangebied levert dit een unieke
 identificatie op.
+<br/><br/>
 
 **verwijzingNaarPlangebied** (verplicht)  
 Voor elk object is een verwijzing noodzakelijk naar het IMRO Plangebied waar het
 object bij hoort. Dit attribuut verwijst daarom naar het attribuut identificatie
 van het bijbehorende IMRO Plangebied object.
+<br/><br/>
 
 **volgnummer** (verplicht)  
 Het volgnummer geeft de volgorde binnen de tekst aan. Het eerste TekstObject
 krijgt volgnummer 1, het tweede TekstObject krijgt volgnummer 2, enzovoort tot
 aan het laatste TekstObject. Dit nummer mag niet verward worden met de
 identificatie of het nummer.
+<br/><br/>
 
 **niveau** (verplicht)  
 Alle TekstObjecten krijgen een niveau aanduiding mee. Hiermee is het mogelijk
@@ -50,6 +52,7 @@ bovenliggend TekstObject waar via het ouderId attribuut naar wordt verwezen
 altijd precies één niveau hoger is (numerieke waarde 1 lager) dan het niveau van
 het actuele TekstObject, met uitzondering van het TekstObject met niveau nul,
 dat naar zichzelf verwijst.
+<br/><br/>
 
 **ouderId** (verplicht)  
 Elk TekstObject verwijst naar het TekstObject waar het bij hoort (een paragraaf
@@ -58,6 +61,7 @@ wordt de identificatie (idn) van het actuele TekstObject ingevuld, waarmee het
 naar zichzelf verwijst. Het ligt voor de hand dat deze attribuutwaarde
 automatisch wordt gegenereerd. Uiteraard moet de ingevulde waarde bestaan binnen
 het plantekstenbestand.
+<br/><br/>
 
 **type** (verplicht)  
 Bepaalde onderdelen van het plantekstenbestand hebben een vaste functie. Denk
@@ -68,11 +72,13 @@ meer algemene termen als “hoofdstuk” en “paragraaf” beschikbaar in
 ObjecttypePlan, ObjecttypeVisie en ObjecttypeBesluit. De toepassing hiervan is
 beschreven in Hoofdstuk 3 van IMROPT. Met het gebruik van dit attribuut wordt
 duidelijk wat het doel is van een bepaald stuk tekst.
+<br/><br/>
 
 **typeTekst** (facultatief)  
 Hiermee wordt aangegeven om wat voor type tekst het gaat. Per verwijzing naar
 tekst dient gekozen te worden uit een van de volgende waarden van het domein
 Teksttype.
+<br/><br/>
 
 ***titelInfo*** (verplicht)  
 Dit attribuut bepaalt de aanhef van een TekstObject. Het samengesteld attribuut
@@ -95,6 +101,7 @@ en een nummering zoals "2a" toe te passen.
 **naam** (facultatief)  
 Elk tekstobject heeft een titel. Deze werkwijze maakt leesbare teksten en
 transparante verwijzingsmechanismes mogelijk.  
+<br/><br/>
 
 **interneVerwijzing** (facultatief)  
 Een interne verwijzing kan objecten binnen de tekst met elkaar verbinden. In een
@@ -108,6 +115,7 @@ De interneVerwijzing kan als attribuut bij een object worden opgenomen of in de
 tekst worden opgenomen. Een verwijzing in de tekst werkt als een hyperlink. Een
 verwijzing als attribuut kan door viewers worden geïnterpreteerd om categorieën
 als “zie ook” of “zie verder” te vullen.
+<br/><br/>
 
 **externeVerwijzing** (facultatief)  
 Vanuit de planteksten kan worden verwezen naar andere bronbestanden waaruit het
@@ -128,12 +136,14 @@ verwezen naar een Notitie van uitgangspunten, die als bijlage bronbestand in PDF
 formaat is toegevoegd aan het plan. Op de plek in de toelichting waar dit
 relevant is, kan een hyperlink worden opgenomen zodat in een vieweromgeving
 direct naar dit stuk kan worden verwezen.*
+<br/><br/>
 
 **tekstMetadata** (conditioneel)  
 Verwijzing naar de metadata van dit bestand. Hiermee is een link opgenomen naar
 de algemene gegevens die van toepassing zijn op de hele tekst. Deze verwijzing
 mag maar 1 keer opgenomen worden en komt daarom alleen, verplicht, voor bij de
 teksttypen document en besluitdocument
+<br/><br/>
 
 **tekst** (facultatief)  
 dit attribuut bevat de daadwerkelijke tekstinhoud. Hier vinden de cijfer- en
@@ -141,6 +151,7 @@ lettertekens die samen een tekst vormen hun plek.
 Deze tekst mag worden opgemaakt met een beperkte set van XHTML coderingen,
 aangevuld met enkele specifieke codes. Wat er in de tekst mag worden opgenomen
 staat beschreven in de <li><a href='https://docs.geostandaarden.nl/ro/imropt/#6CD31BFC' target='_blank'>IMROPT2012, paragraaf 2.3</a>.
+<br/><br/>
 
 ## Klasse TekstMetaData
 Gegevens over gegevens worden metadata genoemd. In IMROPT2012 zijn bij de klasse
