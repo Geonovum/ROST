@@ -7,9 +7,11 @@ Het IMRO2012 definieert de objectgerichte benadering binnen de ruimtelijke
 ordening. De digitale verbeelding wordt ontleed tot haar samenstellende
 (geometrisch bepaalde) delen. Het IMRO2012 kent hierbij plangebieden en
 planobjecten. De planobjecten bevinden zich altijd binnen een plangebied.
+<br/><br/>
 
 ![](media/1bf381641fbe45efe546e8143bcef948.png)  
 **Figuur 1 Algemene modelopbouw IMRO2012**
+<br/><br/>
 
 Planteksten kunnen ook gezien worden als een verzameling objecten. In het
 onderliggende model bestaat het plantekstenbestand uit twee soorten objecten:
@@ -17,9 +19,11 @@ TekstMetadata en TekstObject. Daarbij worden alle onderdelen met een nummer
 en/of een titel als TekstObject beschouwd. TekstMetadata bevat de kenmerken die
 horen bij alle TekstObjecten samen. Omdat het om ruimtelijke plannen gaat zijn
 TekstMetadata en alle TekstObjecten altijd met een plangebied verbonden.
+<br/><br/>
 
 ![](media/ee5740ff6083e5a7f5e8f6931b338ebb.png)  
 **Figuur 2 Relatie tussen plangebied en tekstobjecten**
+<br/><br/>
 
 IMRO2012 noemt deze objectsoorten (TekstMetadata en TekstObject) **Klassen**.  
 Elke klasse kent eigenschappen die als attributen worden toegekend. Voor
@@ -36,9 +40,11 @@ attributen.
 
 Voor bestemmingsplannen ontstaat zo het totaalbeeld van een geometrie en tekst
 in één mode als weergegeven in Figuur 3.  
+<br/><br/>
 
 ![](media/6ac2f59608ecdbd02818da832aa6f846.png)  
 **Figuur 3 Modelopbouw Bestemmingsplan IMRO2012 inclusief tekstobjecten**
+<br/><br/>
 
 ## De basisindeling van objectgerichte teksten
 De basisindeling van objectgerichte teksten is aangegeven in <li><a href='https://docs.geostandaarden.nl/ro/imropt/#6CD31C9F' target='_blank'>IMROPT2012, hoofdstuk 3</a>.  
@@ -60,16 +66,19 @@ het IMRO2012-model is om die reden een verwijzingNaarTekst voorzien. Dit
 attribuut vormt het “bruggenhoofd” naar zowel niet-objectgerichte planteksten
 (HTML en/of PDF) als objectgerichte planteksten (XML). Met objectgerichte
 teksten zijn mogelijkheden uitgebreider:
+<br/><br/>
 
 **Precies verwijzen**  
 Elk onderdeel van een objectgerichte tekst kent een eigen identificatie,
 waardoor preciezer kan worden verwezen.
+<br/><br/>
 
 **Enkelzijdig verwijzen**  
 Verwijzen van geometrie naar tekst en omgekeerd is in principe mogelijk omdat
 beide kanten gebruik maken van de XLink verwijzingstechniek. In IMRO2012 is
 vanwege de eenduidigheid echter gekozen voor een enkelzijdige verwijzing: van
 kaart naar tekst.
+<br/><br/>
 
 **Presentatie versus representatie**  
 Objectgerichte teksten hebben als doel het uitwisselen van de inhoud van
