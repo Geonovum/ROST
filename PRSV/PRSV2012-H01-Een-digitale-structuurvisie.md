@@ -66,11 +66,11 @@ Door één of meerdere verzamelingen van geografische aanduidingen in de visie
 samen af te beelden, ontstaan één of meerdere digitale kaarten.  
 Door de teksten in zelfstandige onderdelen op te knippen en te koppelen aan
 bijbehorende geografische aanduidingen, ontstaat interactie tussen de tekst en
-de kaart. We spreken dan van een objectgerichte structuurvisie. In paragraaf 2.2
+de kaart. We spreken dan van een objectgerichte structuurvisie. In [paragraaf 2.2](#objectenstructuur)
 wordt ingegaan op deze zelfstandige onderdelen die de interactie tussen tekst en
 kaart mogelijk maken. De onderlinge samenhang tussen deze zelfstandige
 onderdelen vormt als het ware het ‘cement’ van de structuurvisie en wordt
-objectenstructuur genoemd. Dit wordt nader toegelicht in paragraaf 2.3.
+objectenstructuur genoemd. Dit wordt nader toegelicht in [paragraaf 2.3](#objectenstructuur-versus-inhoudsopgave-en-kaartlegenda).
 <br/><br/>
 
 Kortom een objectgerichte structuurvisie bestaat uit de volgende drie

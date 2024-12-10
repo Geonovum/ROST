@@ -14,7 +14,7 @@ Het eerste planobject in de objectenstructuur is altijd het plangebied. Dit
 planobject heeft als naam de aanhaaltitel van de structuurvisie, als tekst de
 gehele plantekst en als geografische aanduiding de buitenste grens van het
 gebied waar de structuurvisie over gaat. Dit planobject behoort tot de klasse
-‘Structuurvisieplangebied’. In paragraaf 5.2 wordt voor deze klasse nader
+‘Structuurvisieplangebied’. In [paragraaf 5.2](#klasse-structuurvisiegebied) wordt voor deze klasse nader
 toegelicht welke eigenschappen moeten/mogen worden ingevuld.  
 Voor de overige planobjecten in de objectenstructuur dient eerst nader te worden
 bepaald tot welke klasse deze behoren voordat de bijbehorende eigenschappen
