@@ -260,7 +260,7 @@ wil opnemen op de kaart.
 
 <u>Let wel</u>: een gebruiker die de structuurvisie inleest in een geografisch
 informatiesysteem ziet de begrenzing natuurlijk zoals hij of zij dat zelf wil.
-Voor meer informatie over het opstellen van de kaarten, zie Hoofdstuk 4.
+Voor meer informatie over het opstellen van de kaarten, zie [hoofdstuk 4](#H04).
 
 ### Stap 4: Bepalen type van ieder planobject
 
@@ -268,7 +268,7 @@ Omdat planobjecten heel verschillend kunnen zijn, dient eerst te worden bepaald
 tot welk type (ook wel klasse genoemd) een bepaald planobject behoort. Per type
 (klasse) is aangegeven welke eigenschappen moeten/mogen worden ingevuld. Het
 gaat hierbij om eigenschappen zoals thema, belang, rol en instrument.  
-In Bijlage 5 is een vragenlijst opgenomen waarmee kan worden bepaald tot welk
+In [bijlage 5](#B05) is een vragenlijst opgenomen waarmee kan worden bepaald tot welk
 type (klasse) een bepaald planobject uit de objectenstructuur behoort. Om de
 werking van deze vragenlijst toe te lichten, is deze toegepast op het voorbeeld
 in Figuur 11. Het voorbeeld betreft een provinciale structuurvisie.

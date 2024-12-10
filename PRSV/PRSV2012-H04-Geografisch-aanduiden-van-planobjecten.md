@@ -84,7 +84,7 @@ Voor alle andere planobjecten die als vlak zijn weergegeven, kan de opsteller
 van de structuurvisie zelf bepalen hoe deze wordt weergegeven. Wel moet worden
 gekozen uit een vaste lijst met symboolcodes.
 
-Vlakken kunnen op verschillende manieren worden weergegeven. In Bijlage 2 zijn
+Vlakken kunnen op verschillende manieren worden weergegeven. In [bijlage 2](#B02) zijn
 deze weergave mogelijkheden voor vlakken beschreven. Per mogelijkheid zijn
 meerdere kleuren mogelijk.
 <br/><br/>
@@ -152,7 +152,7 @@ figuur**
 **Nauwkeurigheid**  
 Voor ieder planobject geldt dat de nauwkeurigheid van de begrenzing moet worden
 aangegeven. Dit gebeurt via het attribuut ‘idealisatie’ en is voor de
-verschillende objecttypen uitgelegd in Hoofdstuk 5. Voor het planobject
+verschillende objecttypen uitgelegd in [hoofdstuk 5](#H05). Voor het planobject
 ‘plangebied’ geldt dat de idealisatie altijd ‘exact’ is en voor planobjecten die
 als cartografisch figuur zijn weergegeven, is de waarde voor het attribuut
 idealisatie altijd ‘cartografisch figuur’.  

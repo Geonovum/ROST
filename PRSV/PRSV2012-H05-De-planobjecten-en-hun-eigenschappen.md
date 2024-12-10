@@ -203,7 +203,7 @@ bestuursorgaan gebruik maken van:
 <br/>
 Indien geen gebruik is gemaakt van een ondergrond uit het domein
 Ondergronden, dan wordt de naam van het bestand van de gebruikte
-ondergrond(en) als vrije tekst opgegeven. In de PRTRI2012, hoofdstuk 7, is
+ondergrond(en) als vrije tekst opgegeven. In de <a href='https://docs.geostandaarden.nl/ro/tri2012/#H07' target='_blank'>PRTRI2012, hoofdstuk 7</a>, is
 toegelicht welke bestandformaten voor de ondergrond kunnen worden gebruikt.  
 <br/>
 - **ondergronddatum** (verplicht)  
@@ -212,7 +212,7 @@ De datum van de gebruikte ondergrond.
 
 ***verwijzingNaarExternPlanInfo*** (zo vaak als gewenst):  
 Dit attribuut wordt gebruikt om de relatie met een ander instrument vast te
-leggen. In bijlage 3 is dit met betrekking tot herzieningen toegelicht. Een
+leggen. In [bijlage 3](#B03) is dit met betrekking tot herzieningen toegelicht. Een
 structuurvisie staat niet altijd op zichzelf, maar kan een relatie hebben met
 een ander plan van dezelfde of een andere overheidsorganisatie. Voorbeelden:  
 -   de structuurvisie is een uitwerking van een overkoepelend plan;
@@ -241,9 +241,9 @@ waarden uit het domein *RolExternPlanPG_SV*:
 	-   *informatie in extern plan/besluit* in geval (nadere) informatie in een
     extern plan of besluit staat;
 	-   *ter vervanging van extern plan* ingeval daarvan sprake is, een en ander als
-    uiteengezet in bijlage 3 van deze praktijkrichtlijn.
+    uiteengezet in [bijlage 3](#B03) van deze praktijkrichtlijn.
 	-   *als mutatie opgenomen* voor het geval er sprake is van een mutatieplan, een
-    en ander als uiteengezet in bijlage 3 van deze praktijkrichtlijn.
+    en ander als uiteengezet in [bijlage 3](#B03) van deze praktijkrichtlijn.
 <br/><br/>
 
 **verwijzingNorm** (verplicht):  
