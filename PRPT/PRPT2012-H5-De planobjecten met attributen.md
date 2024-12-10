@@ -115,10 +115,9 @@ instrument is opgebouwd. Dit wordt gedaan door de bestandsnaam van het
 gerefereerde bronbestand op te nemen. Zo kan er vanuit de planteksten eenvoudig
 worden verwezen naar bijlagen en illustraties. Er kan niet worden verwezen naar
 bronnen die geen onderdeel zijn van het instrument. De waarde van dit attribuut
-moet voldoen aan de vereisten die in paragraaf 4.2 van de STRI2012 worden
-gesteld aan de bestandsnaam van een bronbestand, eventueel gevolgd door een
-“fragment identifier” \#. In paragraaf 2.3 van IMROPT wordt dit nader
-gespecificeerd.  
+moet voldoen aan de vereisten die in de <a href='https://docs.geostandaarden.nl/ro/stri/#3B7E85C8' target='_blank'>STRI2012, paragraaf 4.2</a>
+ worden gesteld aan de bestandsnaam van een bronbestand, eventueel gevolgd door een
+“fragment identifier” \#. In de <li><a href='https://docs.geostandaarden.nl/ro/imropt/#6CD31BFC' target='_blank'>IMROPT2012, paragraaf 2.3</a> wordt dit nader gespecificeerd.  
 De externeVerwijzing kan als attribuut bij een object worden opgenomen of in de
 tekst worden opgenomen. Een verwijzing in de tekst werkt als een hyperlink. Een
 verwijzing als attribuut kan door viewers worden geïnterpreteerd om categorieën
@@ -141,7 +140,7 @@ dit attribuut bevat de daadwerkelijke tekstinhoud. Hier vinden de cijfer- en
 lettertekens die samen een tekst vormen hun plek.  
 Deze tekst mag worden opgemaakt met een beperkte set van XHTML coderingen,
 aangevuld met enkele specifieke codes. Wat er in de tekst mag worden opgenomen
-staat beschreven in paragraaf 2.3 van IMROPT.
+staat beschreven in de <li><a href='https://docs.geostandaarden.nl/ro/imropt/#6CD31BFC' target='_blank'>IMROPT2012, paragraaf 2.3</a>.
 
 ## Klasse TekstMetaData
 Gegevens over gegevens worden metadata genoemd. In IMROPT2012 zijn bij de klasse

@@ -41,7 +41,7 @@ in één mode als weergegeven in Figuur 3.
 **Figuur 3 Modelopbouw Bestemmingsplan IMRO2012 inclusief tekstobjecten**
 
 ## De basisindeling van objectgerichte teksten
-Dit is aangegeven in Hoofdstuk 3 van IMROPT2012.  
+De basisindeling van objectgerichte teksten is aangegeven in <li><a href='https://docs.geostandaarden.nl/ro/imropt/#6CD31C9F' target='_blank'>IMROPT2012, hoofdstuk 3</a>.  
 
 Ieder TekstObject is een zelfstandig leesbaar stuk, heeft een titel, begint met
 een hoofdletter en eindigt met een punt. Een TekstObject kan bijvoorbeeld zijn
