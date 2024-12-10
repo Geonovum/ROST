@@ -1,13 +1,12 @@
 # Bijlage 3 - Gedeeltelijke herziening
 
-**Het herzien van een structuurvisie is in deze bijlage kort toegelicht.**
-
 Bij de herziening van een structuurvisie kan worden gekozen uit twee methoden:  
 1.  er kan een geheel nieuwe structuurvisie worden opgesteld, al dan niet
     samenvallend met de begrenzing van een of meer voorgaande structuurvisies
     of;  
 2.  er kan worden volstaan met de herziening van een bepaald aspect in tekst of
     de geometrie van een object van een eerder vastgestelde structuurvisie.
+<br/><br/>
 
 In het eerste geval is sprake van een nieuwe structuurvisie die in de plaats
 treedt van het (de) bestaande structuurvisie(s). De werkwijze zoals beschreven
@@ -39,5 +38,5 @@ Op deze wijze wordt al hetgeen de herziening betreft gecodeerd en wordt voldaan
 aan de wettelijke plicht te beschikken over een digitale structuurvisie, maar
 ontstaat geen compleet overzicht van de nieuwe geldende situatie. Een oplossing
 daarvoor is om gebruik te maken van een versie "geconsolideerd" waarin de
-gevolgen van de herziening zijn verwerkt. Daarop wordt in [Bijlage 4](#B04) nader
+gevolgen van de herziening zijn verwerkt. Daarop wordt in [bijlage 4](#B04) nader
 ingegaan.
