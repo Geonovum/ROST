@@ -100,6 +100,7 @@ van een aanhaaltitel in het plan dan wordt deze gebruikt.
 **locatieNaam** (zo vaak als gewenst):  
 Het kan gewenst zijn om de naam van de locatie(s) waarover de structuurvisie
 gaat kenbaar te maken. De naam van die locatie(s) worden hier ingevuld.
+<br/><br/>
 
 ***planstatusInfo*** (verplicht):  
 Dit attribuut is noodzakelijk om de plangegevens te kunnen plaatsen naar tijd en
@@ -154,7 +155,7 @@ Het attribuut wordt met de volgende cardinaliteit opgenomen:
 - 1 verwijzing naar volledige beleidsdocument;
 - 0..1 verwijzing naar volledige toelichting;
 - 0..1 verwijzing naar volledige bijlagen.  
-<br/><br/>
+<br/>
 
 Teneinde een zo beperkt mogelijk aantal verwijzingen naar teksten te verkrijgen
 is het aantal keren dat het attribuut *verwijzingNaarTekstInfo* mag worden
@@ -197,12 +198,14 @@ grond van de Wet basisregistratie grootschalige topografie (BGT) is het per
 1 juli 2017 voor bestuursorganen verplicht om gebruik te maken van de **Basisregistratie Grootschalige Topografie (BGT).** Een bestuursorgaan kan
 daar indien nodig gemotiveerd van afwijken. Bij afwijking kan het
 bestuursorgaan gebruik maken van:  
-- basisregistratie topografie (BRT)
-- basisregistratie kadaster (BRK)  
+	-   basisregistratie topografie (BRT)
+	-   basisregistratie kadaster (BRK)
+<br/>
 Indien geen gebruik is gemaakt van een ondergrond uit het domein
 Ondergronden, dan wordt de naam van het bestand van de gebruikte
 ondergrond(en) als vrije tekst opgegeven. In de PRTRI2012, hoofdstuk 7, is
 toegelicht welke bestandformaten voor de ondergrond kunnen worden gebruikt.  
+<br/>
 - **ondergronddatum** (verplicht)  
 De datum van de gebruikte ondergrond.
 <br/><br/>

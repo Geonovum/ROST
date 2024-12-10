@@ -52,7 +52,7 @@ volgende paragraaf verder wordt toegelicht.
 
 ## Wat is een objectgerichte structuurvisie? 
 
-*Het instrument Structuurvisie*  
+**Het instrument Structuurvisie**  
 Ten behoeve van een goede ruimtelijke ordening worden voor het gehele
 grondgebied van de gemeente, provincie of het Rijk één of meer structuurvisies
 vastgesteld waarin de hoofdzaken van het te voeren ruimtelijk beleid zijn
@@ -164,23 +164,23 @@ bevatten.
 
 De opbouw van deze praktijkrichtlijn is anders dan de andere praktijkrichtlijnen
 onder de RO Standaarden. In deze praktijkrichtlijn is de toelichting op de norm
-IMRO gegeven in [Hoofdstuk 5](#H05). In dit [hoofdstuk 1](#H01) is aangegeven welke informatie
+IMRO gegeven in [hoofdstuk 5](#H05). In dit [hoofdstuk 1](#H01) is aangegeven welke informatie
 verplicht is op te nemen in de digitale structuurvisie.  
 Verder kent deze praktijkrichtlijn de opbouw die maken van een structuurvisie
-volgt. In [Hoofdstuk 2](#H02) wordt de structuur van objecten toegelicht en wordt
+volgt. In [hoofdstuk 2](#H02) wordt de structuur van objecten toegelicht en wordt
 ingegaan op de eigenschappen en mogelijkheden van de objecten. Vervolgens is het
-maken van de plantekst in [Hoofdstuk 3](#H03) toegelicht en [Hoofdstuk 4](#H04) gewijd aan het
-maken van de kaarten. De technische toelichting op de norm is in [Hoofdstuk 5](#H05)
+maken van de plantekst in [hoofdstuk 3](#H03) toegelicht en [hoofdstuk 4](#H04) gewijd aan het
+maken van de kaarten. De technische toelichting op de norm is in [hoofdstuk 5](#H05)
 opgenomen.  
 Er is een vijftal bijlagen opgenomen bij deze praktijkrichtlijn:  
-- In [Bijlage 1](#B01) zijn een aantal veel gestelde vragen rondom deze praktijk en
+- In [bijlage 1](#B01) zijn een aantal veel gestelde vragen rondom deze praktijk en
     structuurvisies algemeen opgenomen;  
-- In [Bijlage 2](#B02) zijn voor de weergave in de kaart een aantal voorbeelden van
+- In [bijlage 2](#B02) zijn voor de weergave in de kaart een aantal voorbeelden van
     vlakken. Dit is op basis van de symbool codelijst;  
 - [Bijlage 3](#B03) licht toe de werkwijze toe van een gedeeltelijke herziening van
     een structuurvisie;  
 - [Bijlage 4](#B04) is gewijd aan de versie “geconsolideerd” ;  
-- Tot slot is in [Bijlage 5](#B05) een invulhulp opgenomen.
+- Tot slot is in [bijlage 5](#B05) een invulhulp opgenomen.
 </br></br>
 
 Deze praktijkrichtlijn en alle andere onderdelen van de RO Standaarden zijn vindbaar en raadpleegbaar via de <a href='https://www.geonovum.nl/geo-standaarden/ro-standaarden-ruimtelijke-ordening' target='_blank'>Geonovum website, dossier RO Standaarden</a>. 

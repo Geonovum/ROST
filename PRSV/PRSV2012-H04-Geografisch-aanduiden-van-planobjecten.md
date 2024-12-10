@@ -21,6 +21,7 @@ Iedere kaart bevat dus minimaal:
 - het plangebied van de structuurvisie.
 Voor het plangebied geldt dat niet hoeft te worden aangegeven op welke kaart
 deze voorkomt.
+<br/><br/>
 
 Als kaartnaam dient voor iedere kaart een unieke naam te worden ingevuld. Het
 kaartnummer is een oplopend nummer waarmee de opsteller van de structuurvisie de
@@ -68,6 +69,7 @@ lijn**
 
 Het wordt aangeraden om waar mogelijk punten en lijnen te vermijden en zoveel
 mogelijk met vlakken te werken.
+<br/><br/>
 
 **Kleur/patroon van vlakken**  
 Het plangebied wordt op iedere kaart op dezelfde wijze (conform de plangrens in
@@ -85,11 +87,13 @@ gekozen uit een vaste lijst met symboolcodes.
 Vlakken kunnen op verschillende manieren worden weergegeven. In Bijlage 2 zijn
 deze weergave mogelijkheden voor vlakken beschreven. Per mogelijkheid zijn
 meerdere kleuren mogelijk.
+<br/><br/>
 
 *Verborgen objecten*  
 Planobjecten die niet zichtbaar, maar wel opvraagbaar moeten zijn in het
 kaartbeeld (zogenaamde verborgen objecten) worden gecodeerd met een symboolcode
 met een 100% transparante vulling (code ES133).
+<br/><br/>
 
 <u>Let op</u>: dit planobject wordt wel getoond in de legenda (zie planobject
 ‘Essentie van de Visie’ in Figuur 18).  
@@ -105,8 +109,7 @@ het object daar wel getoond kan worden.
 Als een planobject (deels) als lijn is ingetekend, dan dient te worden
 aangegeven door welk type lijn, met welke lijndikte en met welke lijnkleur de
 lijn moet worden verbeeld.  
-Qua lijntype kan worden gekozen tussen:
-<br/><br/>
+Qua lijntype kan worden gekozen tussen:<br/>
 
 ![](media/4e5a04bb9d99811faae9e5152f9ceab3.png)
 Per mogelijkheid zijn meerdere lijndiktes en kleuren mogelijk.
@@ -116,8 +119,7 @@ Per mogelijkheid zijn meerdere lijndiktes en kleuren mogelijk.
 Als een planobject (deels) als punt is ingetekend, dan dient te worden
 aangegeven door welk symbool, met welke grootte en met welke kleur het punt moet
 worden verbeeld.  
-Qua typering kan worden gekozen uit abstracte symbolen:
-<br/><br/>
+Qua typering kan worden gekozen uit abstracte symbolen:<br/>
 
 ![](media/6ade9adbd39cd287b1129f2b7caadf8a.png)
 <br/><br/>
@@ -128,7 +130,9 @@ bij het inzoomen als de structuurvisie wordt geraadpleegd in een viewer.
 Er is ook de mogelijkheid om als opsteller zelf een figuratief symbool te
 tekenen als vlak. Dit betekent dat het vlak als symbool geïnterpreteerd moet
 worden en geen relatie heeft met de begrenzing van het planobject in de
-werkelijkheid. Het vlak wordt gebruikt om een figuur af te beelden.  
+werkelijkheid. Het vlak wordt gebruikt om een figuur af te beelden.
+<br/><br/>
+  
 Bij de weergave van dit getekende figuur kan dan worden gekozen uit de
 weergavemogelijkheden van vlakken. Bij de nauwkeurigheid dient dan
 ‘cartografisch figuur’ te worden aangegeven. De gebruiker weet dan dat het
@@ -153,10 +157,10 @@ verschillende objecttypen uitgelegd in Hoofdstuk 5. Voor het planobject
 als cartografisch figuur zijn weergegeven, is de waarde voor het attribuut
 idealisatie altijd ‘cartografisch figuur’.  
 Voor alle overige planobjecten kan worden gekozen tussen:  
->‘Exact’  
+>*‘Exact’*  
 
 *Exact* geeft aan dat de geometrie van het object opgenomen is met de nauwkeurigheid die behoort bij de dataset, waarmee de begrenzing als exact wordt beschouwd.
->‘Indicatief’  
+>*‘Indicatief’* 
 
 *Indicatief* betekent dat de geometrie indicatief geïnterpreteerd moet
 worden; waarmee de begrenzing niet is vastgelegd.  
@@ -178,7 +182,7 @@ boven), is:
     gekeken naar de positie van het planobject in de objectenstructuur.
     Planobjecten die lager in de objectenstructuur zijn geplaatst, worden
     bovenaan getoond.
-<br/><br/>
+<br/>
 
 ## Legenda
 
