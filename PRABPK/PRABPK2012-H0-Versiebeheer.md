@@ -17,6 +17,6 @@ geeft inzicht in wijzigen en de actualiteit ervan.
 |            | 14 december 2015   | Vervallen  | Besproken met BROS en softwareleveranciers; wijzigingen definitief.                                            |
 | 1.3.1      | 23 november 2022   | Vervallen  | Kleine verbeteringen en foutherstel                                                                            |
 | 1.3.2      | 14 februari 2024   | Vervallen  | Actualiseren van verwijzingen naar wet- en regelgeving en de onderdelen van de RO Standaarden. Ook aangepast is de wijze van verwijzen naar externe pagina's.                                                                                           |
-| 1.3.3      | 26 november 2024   | Definitief | Vervangen van de weergave van tabellen zodat deze WCAG conform zijn. Verder is de opmaak aangepast.                                                                                            |
+| 1.3.3      | 20 december 2024   | Definitief | Vervangen van de weergave van tabellen zodat deze WCAG conform zijn. Verder is de opmaak aangepast.                                                                                            |
 
 
