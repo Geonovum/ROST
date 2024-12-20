@@ -11,7 +11,8 @@ samenhangende set van bronbestanden die samen het instrument vormen, bestaat het
 feitelijke proces van beschikbaar stellen er uit dat deze bestanden op een
 webserver worden geplaatst die via een vast webadres (URL) benaderbaar is via
 het internet.  
-</br></br>
+<br/><br/>
+
 Alle bronbestanden van een enkel instrument worden binnen één virtuele directory
 beschikbaar gesteld die door de bronhouder zelf gekozen kan worden. Er wordt
 daarbij gewerkt met relatieve URL's (bijvoorbeeld bij de illustraties in HTML of
@@ -25,10 +26,12 @@ ht<span>tp://ro.durperdam.nl/visie2012/0012/<sup>[2]</sup>
 
 dan worden alle bij dit instrument behorende bestanden direct in deze virtuele
 directory geplaatst.
-</br></br>
+<br/><br/>
+
 Het IMRO GML bestand van dit instrument wordt dus beschikbaar gesteld op:  
 ht<span>tp://ro.durperdam.nl/visie2012/0012/NL.IMRO.1111.visie2012-0012.gml  
-</br></br>
+<br/><br/>
+
 Beschikbaar stellen van elementen binnen een andere virtuele directory of in een
 subdirectory binnen de virtuele directory is niet toegestaan. Het is dus niet
 toegestaan het GML bestand bijvoorbeeld als volgt beschikbaar te stellen
@@ -40,7 +43,7 @@ ht<span>tp://ro.durperdam.nl/visie2012/0012/<u><span style="color: red;">IMRO</s
 ht<span>tp://ro.durperdam.nl/visie2012<u><span style="color: red;">/</span></u>NL.IMRO.1111.visie2012-0012.gml of
 
 ht<span>tp://<u><span style="color: red;">www.roservice.nl</span></u>/visie2012/0012/NL.IMRO.1111.visie2012-0012.gml.
-</br></br>
+<br/><br/>
 Overigens is het wel toegestaan om binnen dezelfde virtuele directory bestanden
 toe te voegen, bijvoorbeeld:
 
@@ -83,6 +86,7 @@ is weergegeven in Figuur 1.
 
 ![](media/d0c3ebe26021f094279b53de44e926fe.png)  
 **Figuur 1 Primair proces beschikbaar stellen**
+<br/><br/>
 
 Een ruimtelijk instrument kan in de totstandkoming diverse statussen doorlopen.
 Voor een aantal formele versies is het beschikbaar stellen wettelijk vereist.
@@ -90,15 +94,18 @@ Voor alle overige versies is beschikbaar stellen mogelijk, maar niet verplicht.
 
 ## Wijzigen reeds eerder gepubliceerde plannen
 Ambtelijk foutherstel in een ruimtelijke plan of besluit door de bronhouder, zonder voorafgaand besluit, is het herstellen van de metadata c.q. de technische kenmerken van het ruimtelijk plan of besluit of het opheffen van inconsistenties in de planvoorraad tussen bronhouder en Ruimtelijkeplannen.nl. Het naderhand door de bronhouder aanpassen van reeds eerder gepubliceerde plannen kan en mag, indien het gaat om:
-- een (beperkte) set van metadata die van cruciaal belang is voor (blijvende) begrijpelijkheid, raadpleegbaarheid en bruikbaarheid van plannen, niet alleen in de huidige LV, maar ook in het DSO.
-- het ervoor zorgen dat, op grond van de bestaande verplichting daartoe in het Besluit ruimtelijke ordening (Bro), de lokaal aanwezige planvoorraad consistent is met de landelijke voorziening Ruimtelijkeplannen.nl.
-</br></br>
+
+<ul><li>een (beperkte) set van metadata die van cruciaal belang is voor (blijvende) begrijpelijkheid, raadpleegbaarheid en bruikbaarheid van plannen, niet alleen in de huidige LV, maar ook in het DSO.</li>
+<li>het ervoor zorgen dat, op grond van de bestaande verplichting daartoe in het Besluit ruimtelijke ordening (Bro), de lokaal aanwezige planvoorraad consistent is met de landelijke voorziening Ruimtelijkeplannen.nl.</li>
+</ul>
+<br/><br/>
+
 Bij gebreken aan de inhoud van het plan of besluit zal het bevoegd gezag een nieuw besluit moeten nemen of een nieuwe procedure moeten volgen. De hoofdregel is dat foutherstel niet gaat over de inhoud van een plan of besluit, maar om vorm- of technische aspecten die van belang zijn voor blijvende raadpleegbaarheid, bruikbaarheid en toegankelijkheid van het plan. Foutherstel is alleen mogelijk:
 
 <ol><li>Indien het gebrek niet gaat over de inhoud van het besluit, maar om bepaalde metadata of inconsistentie tussen bronhouder en RP.nl kan worden volstaan met een ambtelijk herstel zonder besluit.</li>
 <li>Indien een goede verantwoording van uitgevoerd foutherstel gewaarborgd is, in ieder geval intern binnen de organisatie. Hierdoor kan later altijd gereconstrueerd worden wat de aanleiding van de hersteloperatie was en wie, wanneer, wat en hoe het herstel heeft uitgevoerd. </li>
 </ol>
-</br></br>
+<br/><br/>
 Bij foutherstel zijn er in beginsel geen juridische consequenties aan verbonden. De inhoud van het plan of besluit mag daarbij niet worden aangepast, ook niet de bijbehorende geometrie. Het herstel van een plan kan voor de volgende kenmerken van het plan of besluit (attributen met waarden): 
 
 <ul><li>Manifest<ul><li>Dossierstatus</li>
@@ -117,7 +124,8 @@ Bij foutherstel zijn er in beginsel geen juridische consequenties aan verbonden.
 
 </li>
 </ul>
-</br></br>
+<br/><br/>
+
 De digitale waarmerken in geleideformulier/manifest ter borging van de authenticiteit, onveranderlijkheid en volledigheid van de dataset, zullen door de bronhouder ook opnieuw gedaan moet worden bij publicatie van een nieuwe of gewijzigde versie van een plan. De RO-software zorgt hier normaliter voor.
 
 Het aanpassen van de verschillende onderdelen door de bronhouder is stapsgewijs toegelicht in de <a href='https://docs.geostandaarden.nl/ro/doo/' target='_blank'>handreiking ‘Data op orde’</a>. 
@@ -140,18 +148,21 @@ geopend waardoor de PDF-bestanden bij raadpleging van Ruimtelijkeplannen.nl geen
 inhoud bevatten.  
 Controleer daarom vóór publicatie dat uw PDF-documenten geen Flashcomponenten
 bevatten.  
-</br></br> 
+<br/><br/>
+
 Voor objectgerichte planteksten in XML-formaat volgens de IMROPT2012-standaard
 is er vanaf versie 2.2.10 van Ruimtelijkeplannen.nl landelijk één standaard
 layout en presentatie. w. Kenmerk van objectgericht werken is dat vorm en inhoud
 gescheiden zijn. Bronhouders kunnen nog wel een opmaakbestand (.CSS) meeleveren
 voor gebruik door derden maar Ruimtelijkeplannen.nl zal hier geen gebruik van
 maken. 
-</br></br> 
+<br/><br/>
+
 Ten behoeve van het weergeven van objectgerichte XML planteksten wordt gebruik
 gemaakt van 2 soorten opmaakbestanden:  
--   XSL stylesheet ten behoeve van het omzetten van objectgericht XML naar HTML;
--   CSS stylesheet ten behoeve van de visuele opmaak van de HTML.  
+- XSL stylesheet ten behoeve van het omzetten van objectgericht XML naar HTML;
+- CSS stylesheet ten behoeve van de visuele opmaak van de HTML.  
+<br/><br/>
 
 Een XSL stylesheet transformeert de objectgerichte plantekst van XML naar
 leesbare HTML tekst. Een CSS stylesheet voegt daar een standaard layout en
@@ -173,13 +184,14 @@ standaard XSL en CSS stylesheets die onderdeel zijn van de RO Standaarden<sup>[4
 De landelijke voorziening Ruimtelijkeplannen.nl maakt van de standaard opmaak
 gebruik, maar ook andere applicaties / implementaties kunnen van de standaard
 opmaak gebruik maken.
-</br></br>
+<br/><br/>
+
 <sup>[3]</sup>: *De handleiding is beschikbaar via Ruimtelijkeplannen.nl, de besloten
 omgeving voor bronhouders, en via de helpdesk van Ruimtelijkeplannen.nl.*
 
 <sup>[4]</sup>: *Deze standaard XSL en CSS zijn tezamen met de rest van de andere
 onderdelen van de RO Standaarden 2012 beschikbaar via de <a href='https://www.geonovum.nl/geo-standaarden/ro-standaarden-ruimtelijke-ordening' target='_blank'>Geonovum website</a>.
-</br></br>
+<br/><br/>
 
 Het is nog steeds mogelijk dat een bronhouder gebruik maakt van een eigen opmaak
 voor objectgerichte planteksten voor een eigen viewer. In het geval de
@@ -192,13 +204,14 @@ Voor het weergeven van planteksten zijn er vier mogelijkheden:
 3.  XML planteksten zonder eigen CSS opmaakbestand;  
 4.  XML planteksten met eigen CSS opmaakbestand.
 
-</br></br>
+<br/><br/>
 Ad. 1. HTML planregels zonder eigen CSS opmaakbestand  
 De niet-objectgerichte planregels zijn vastgelegd in een HTML of XHTML bestand
 dat wordt opgevoerd in het geleideformulier bij het element \<Onderdelen\>. In
 het HTML bestand wordt niet verwezen naar een eigen CSS bestand en conform de
 Webrichtlijnen bevat de HTML geen eigen layout en presentatie.
-</br></br>
+<br/><br/>
+
 Ad. 2. HTML planregels met eigen CSS opmaakbestand  
 De niet-objectgerichte planregels zijn vastgelegd in een HTML of XHTML bestand
 dat wordt opgevoerd in het geleideformulier bij het element \<Onderdelen\>.
@@ -208,7 +221,8 @@ geleideformulier opgenomen bij het element \<Supplementen\>. In het HTML bestand
 wordt naar dit CSS bestand verwezen met behulp van een relatieve URL, als volgt:
 
 \<link href="**eigenopmaak.css**" rel="stylesheet" type="text/css" /\>
-</br></br>
+<br/><br/>
+
 In de praktijk komt het voor dat vanuit het CSS bestand wordt verwezen naar
 externe bronnen, bijvoorbeeld een logo of andere externe afbeeldingen, die op
 een externe URL te vinden zijn. Dit betekent dat de bronhouder er voor moet
@@ -216,9 +230,9 @@ zorgen deze externe bronnen minstens gedurende de gehele looptijd van het
 ruimtelijke plan blijven bestaan. Een randvoorwaarde blijft dat de gehele inhoud
 van het plan raadpleegbaar moet zijn op het moment dat deze externe bronnen niet
 beschikbaar zijn. Het gaat hierbij om layout en presentatie, nooit om inhoud.
-</br></br>
-Ad. 3. XML planteksten zonder eigen CSS opmaakbestand
+<br/><br/>
 
+Ad. 3. XML planteksten zonder eigen CSS opmaakbestand
 De bronhouder maakt gebruik van objectgerichte XML planteksten. De toelichting
 en regels zijn in één XML bestand opgenomen. Dit bestand wordt in het
 geleideformulier opgenomen bij het element \<Onderdelen\>.
@@ -236,9 +250,9 @@ standaard opmaak. Conceptueel ziet de XSL van Ruimtelijkeplannen.nl er als volgt
 uit:
 
 ![](media/d80bca6b6220f318195cde9d60cdfe00.png)
-</br></br>
-Ad. 4. XML planteksten met eigen CSS opmaakbestand
+<br/><br/>
 
+Ad. 4. XML planteksten met eigen CSS opmaakbestand
 De bronhouder maakt gebruik van objectgerichte XML planteksten. De toelichting
 en regels zijn in één XML bestand opgenomen. Dit bestand wordt in het
 geleideformulier opgenomen bij het element \<Onderdelen\>. Daarbij heeft de
@@ -257,11 +271,12 @@ bestand toegepast voor de layout en presentatie.
 Bronhouder stelt dus bijvoorbeeld beschikbaar:
 
 ![](media/4d3c2765b25b443ba12534f4b0219d88.png)
-</br></br>  
+<br/><br/>
 Deze twee bestanden worden als volgt in het geleidformulier opgenomen:
 
 ![](media/f89db3d139399edce4fe283e4db291c2.png)
-</br></br>
+<br/><br/>
+
 Bij de transformatie van de XML planteksten naar HTML wordt in de resulterende
 HTML verwezen naar het eigen CSS bestand, conceptueel als volgt:
 
@@ -278,16 +293,19 @@ met behulp van dossiers. Overigens kan er naast het STRI2012 manifest ook nog
 een STRI2006 manifest beschikbaar worden gesteld door de bronhouder, omwille van
 het beschikbaar stellen van IMRO2006 plannen. Dit is echter buiten de scope van
 de STRI2012 en wordt daarom ook niet aangehaald.
-</br></br>
+<br/><br/>
+
 **Dossier**  
 In een dossier zijn één of meerdere ruimtelijke plannen opgenomen. Het dossier
 is daarmee het ordenend element in het manifest waarbinnen alle ruimtelijke
 instrumenten met een identiek dossiernummer worden geplaatst. Bij het plaatsen
 van plannen in dossiers wordt de volgende stelregel gehanteerd:
-</br></br>
+<br/><br/>
+
 *Ieder ruimtelijk plan dat een zelfstandige Wro, Awb of Wabo procedure kent,
 krijgt ook een eigen dossier.*
-</br></br>
+<br/><br/>
+
 Gerechtelijke uitspraken komen op basis van deze stelregel in het dossier van
 het bestemmingsplan (of andere ruimtelijk plan) waar zij bij horen. Wijzigingen,
 uitwerkingen en omgevingsvergunningen komen ieder in een eigen dossier en
@@ -322,7 +340,8 @@ Naast het Manifest wordt bij ieder ruimtelijk instrument een geleideformulier
 meegeleverd voor een gedetailleerd overzicht van het desbetreffende individuele
 instrument. Ook het geleideformulier is een XML bestand. Manifest en
 Geleideformulier zijn beide voorzien van een waarmerk, zie [Hoofdstuk 6](#H06).
-</br></br>
+<br/><br/>
+
 **Status van een ruimtelijk instrument versus status van het Dossier**
 
 In de systematiek van beschikbaar stellen wordt als uitgangspunt gehanteerd dat
@@ -355,8 +374,8 @@ aandachtspunten zijn hierbij van belang:
     Status van het dossier aangepast;
 -   De status die wordt weergegeven bij ieder dossier is altijd de actuele
     status. Dit is dus een dynamische waarde. 
+<br/><br/>
 
-</br></br>
 **BasisURL**  
 In het geleideformulier wordt de BasisURL gebruikt bij de Onderdelen en
 Supplementen. Dit zorgt er voor dat alle bronbestanden binnen dezelfde virtuele
@@ -423,12 +442,13 @@ betekenis verschilt per instrument.
 In de basis kan er een onderscheid worden gemaakt tussen besluiten waartegen
 beroep mogelijk is en besluiten waartegen dit niet mogelijk is. Voor de volgende
 instrumenten geldt dat hiertegen geen rechtstreeks beroep mogelijk is:  
--   voorbereidingsbesluit;
--   beheersverordening;
--   provinciale verordening;
--   AMvB met onderliggende ministeriële regelingen;
--   structuurvisie;
-</br></br>
+- voorbereidingsbesluit;
+- beheersverordening;
+- provinciale verordening;
+- AMvB met onderliggende ministeriële regelingen;
+- structuurvisie.
+<br/><br/>
+
 Voor deze besluiten zonder beroepsmogelijkheid zijn in algemene zin alleen de
 dossierstatussen van toepassing: in voorbereiding, geheel onherroepelijk in
 werking, vervallen en geconsolideerd. Dit is mede afhankelijk van de procedure;
@@ -442,6 +462,5 @@ Voor besluiten waar wel beroep tegen mogelijk is zijn alle dossierstatussen en
 beschreven overgangen in Tabel 3 van toepassing; of de dossierstatus 'in
 voorbereiding' aan de orde is hangt af of er een voorbereidingsprocedure wordt
 toegepast.
-
 
 <table id="d4e1125" style="width: 100%;"><caption>Ruimtelijke instrumenten met mogelijke en dossierstatussen</caption><colgroup><col id="col1" style="width: 46.04631460039536%;"></col><col id="col2" style="width: 6.001129624399887%;"></col><col id="col3" style="width: 6.001129624399887%;"></col><col id="col4" style="width: 6.001129624399887%;"></col><col id="col5" style="width: 6.015249929398475%;"></col><col id="col6" style="width: 6.001129624399887%;"></col><col id="col7" style="width: 6.001129624399887%;"></col><col id="col8" style="width: 6.001129624399887%;"></col><col id="col9" style="width: 6.015249929398475%;"></col><col id="col10" style="width: 5.916407794408359%;"></col></colgroup><tbody valign="top"><tr><td align="left" style="border-top: 0pt none #; border-left: 0pt none #; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"></td><td align="left" style="padding-top: 0.5em; border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="3621BF7D" style="writing-mode: vertical-rl; rotate: 180deg;">in voorbereiding</p></td><td align="left" style="padding-top: 0.5em; border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="47BC00B7" style="writing-mode: vertical-rl; rotate: 180deg;">Vastgesteld</p></td><td align="left" style="padding-top: 0.5em; border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="12745250" style="writing-mode: vertical-rl; rotate: 180deg;">geheel in werking</p></td><td align="left" style="padding-top: 0.5em; border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="138674C6" style="writing-mode: vertical-rl; rotate: 180deg;">deels in werking</p></td><td align="left" style="padding-top: 0.5em; border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="283A7BC4" style="writing-mode: vertical-rl; rotate: 180deg;">niet in werking</p></td><td align="left" style="padding-top: 0.5em; border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="66AACBA4" style="writing-mode: vertical-rl; rotate: 180deg;">geheel onherroepelijk in werking</p></td><td align="left" style="padding-top: 0.5em; border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="415350AF" style="writing-mode: vertical-rl; rotate: 180deg;">deels onherroepelijk in werking</p></td><td align="left" style="padding-top: 0.5em; border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="344B17F3" style="writing-mode: vertical-rl; rotate: 180deg;">vervallen</p></td><td align="left" style="padding-top: 0.5em; border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="3FE29EF8" style="writing-mode: vertical-rl; rotate: 180deg;">geconsolideerd</p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="3F11CDA6">AMvB</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="290B26DB"><b>X</b></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="5CEC9D9A"><b>X</b></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="1619030E"><b>X</b></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="5896EFD9"><b>X</b></p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="07DA5F02">Beheersverordening</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="5F7B8EAA"><b>X</b></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="1D8498D5"><b>X</b></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="16ED55E9"><b>X</b></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="2A057F33"><b>X</b></p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="47D92167">Exploitatieplan</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="6FE33BD7"><b>X</b></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="7B7B959F"><b>X</b></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="4F27F1F7"><b>X</b></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="4A7A7EA6"><b>X</b></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="5859920D"><b>X</b></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="7F44DE33"><b>X</b></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="100D56CC"><b>X</b></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="6AC784C8"><b>X</b></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="033DE119"><b>X</b></p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="7C4CC084">Omgevingsvergunning</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="53191606"><b>X</b></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="046EB94D"><b>X</b></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="26C77FA3"><b>X</b></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="4E7860B0"><b>X</b></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="7B221CEC"><b>X</b></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="66BC7388"><b>X</b></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="66A91487"><b>X</b></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="7F855D00"><b>X</b></p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="53E4F061">Proactieve aanwijzing </p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="10E6A30A"><b>X</b></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="7B097C63"><b>X</b></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="35F5E64A"><b>X</b></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="35907655"><b>X</b></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="02185F5E"><b>X</b></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="7C0F4D5F"><b>X</b></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="72182681"><b>X</b></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="238A107C"><b>X</b></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="02A73500"><b>X</b></p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="62A0EA8A">Provinciale verordening</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="52528A45"><b>X</b></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="52EF9826"><b>X</b></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="1D080987"><b>X</b></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="58623936"><b>X</b></p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="011AA0FF">Reactieve aanwijzing  </p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="6E1AD152"><b>X</b></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="15DD3BA4"><b>X</b></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="6345B800"><b>X</b></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="04B0C566"><b>X</b></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="0C919507"><b>X</b></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="480EDF25"><b>X</b></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="7D9371B8"><b>X</b></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="1C7E9389"><b>X</b></p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="666DFE8E">Structuurvisie </p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="24CB69F9"><b>X</b></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="6449A3BB"><b>X</b></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="471F43BC"><b>X</b></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="15764D41"><b>X</b></p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="6C53D388">Voorbereidingsbesluit</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="0C54AC93"><b>X</b></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="25FE6EF8"><b>X</b></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="2CF3EDDF"><b>X</b></p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="0AF1A422">Welstandsnota</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="7332649F"><b>X</b></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="05E62095"><b>X</b></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="11FD0E0F"><b>X</b></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="34111F08"><b>X</b></p></td></tr></tbody></table>
