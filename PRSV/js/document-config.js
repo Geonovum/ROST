@@ -11,9 +11,6 @@ var documentConfig =
   ],
   publishDate: "2024-11-26",
   publishVersion: "1.1.7",
-  thisVersion: [
-    "https://geonovum.github.io/ro-sv2012/"
-  ],
   previousPublishDate: "2024-02-14",
   previousPublishVersion: "1.1.6",
   prevVersion: [
