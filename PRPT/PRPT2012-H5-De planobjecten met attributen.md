@@ -70,7 +70,7 @@ bestemmingsartikel zoals in de SVBP is geregeld. De lijst die daarin is
 opgenomen is voor het domein ObjecttypePlan gebruikt. Voor andere plantypen zijn
 meer algemene termen als “hoofdstuk” en “paragraaf” beschikbaar in
 ObjecttypePlan, ObjecttypeVisie en ObjecttypeBesluit. De toepassing hiervan is
-beschreven in Hoofdstuk 3 van IMROPT. Met het gebruik van dit attribuut wordt
+beschreven in <a href='https://docs.geostandaarden.nl/ro/imropt/#6CD31C9F' target='_blank'>IMROPT2012, hoofdstuk 3</a>. Met het gebruik van dit attribuut wordt
 duidelijk wat het doel is van een bepaald stuk tekst.
 <br/><br/>
 

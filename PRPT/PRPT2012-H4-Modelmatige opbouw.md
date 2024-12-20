@@ -47,7 +47,7 @@ in één mode als weergegeven in Figuur 3.
 <br/><br/>
 
 ## De basisindeling van objectgerichte teksten
-De basisindeling van objectgerichte teksten is aangegeven in <li><a href='https://docs.geostandaarden.nl/ro/imropt/#6CD31C9F' target='_blank'>IMROPT2012, hoofdstuk 3</a>.  
+De basisindeling van objectgerichte teksten is aangegeven in <a href='https://docs.geostandaarden.nl/ro/imropt/#6CD31C9F' target='_blank'>IMROPT2012, hoofdstuk 3</a>.  
 
 Ieder TekstObject is een zelfstandig leesbaar stuk, heeft een titel, begint met
 een hoofdletter en eindigt met een punt. Een TekstObject kan bijvoorbeeld zijn
