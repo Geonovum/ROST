@@ -88,17 +88,17 @@ maar waarvoor verder geldt dat tenminste één van de drie met een niet-lege
 waarde moet zijn gevuld, zodat er nooit een lege titel ontstaat. Verder kunnen
 er vanuit de SVBP eisen worden gesteld aan de waarden voor dit attribuut. De
 titel is opgebouwd uit de volgende attributen:  
-**label** (facultatief)  
+- **label** (facultatief)  
 De tekstobjecten worden voorzien van een soortnaam van het object. Dit kan
 bijvoorbeeld zijn "hoofdstuk"of "artikel". Deze labels kunnen in een koptekst
 worden opgenomen. Vaak zal het label overeen komen met het type. Het label is
 echter gericht op de verschijningsvorm/verbeelding van de tekst, terwijl het
 type naar de functie van een tekst verwijst.  
-**nummer** (facultatief)  
+- **nummer** (facultatief)  
 Een nummer is meestal een opvolgende reeks. (1,2,3 of A,B,C). In principe wordt
 er een doornummerende reeks opgebouwd. Het kan nodig zijn hiervan af te wijken
 en een nummering zoals "2a" toe te passen.  
-**naam** (facultatief)  
+- **naam** (facultatief)  
 Elk tekstobject heeft een titel. Deze werkwijze maakt leesbare teksten en
 transparante verwijzingsmechanismes mogelijk.  
 <br/><br/>
@@ -125,11 +125,12 @@ worden verwezen naar bijlagen en illustraties. Er kan niet worden verwezen naar
 bronnen die geen onderdeel zijn van het instrument. De waarde van dit attribuut
 moet voldoen aan de vereisten die in de <a href='https://docs.geostandaarden.nl/ro/stri/#3B7E85C8' target='_blank'>STRI2012, paragraaf 4.2</a>
  worden gesteld aan de bestandsnaam van een bronbestand, eventueel gevolgd door een
-“fragment identifier” \#. In de <li><a href='https://docs.geostandaarden.nl/ro/imropt/#6CD31BFC' target='_blank'>IMROPT2012, paragraaf 2.3</a> wordt dit nader gespecificeerd.  
+“fragment identifier” \#. In de <a href='https://docs.geostandaarden.nl/ro/imropt/#6CD31BFC' target='_blank'>IMROPT2012, paragraaf 2.3</a> wordt dit nader gespecificeerd.  
 De externeVerwijzing kan als attribuut bij een object worden opgenomen of in de
 tekst worden opgenomen. Een verwijzing in de tekst werkt als een hyperlink. Een
 verwijzing als attribuut kan door viewers worden geïnterpreteerd om categorieën
 als “zie ook” of “zie verder” te vullen.  
+<br/>
 
 *Voorbeeld: In de toelichting van een bestemmingsplan kan bijvoorbeeld worden
 verwezen naar een Notitie van uitgangspunten, die als bijlage bronbestand in PDF
@@ -150,15 +151,13 @@ dit attribuut bevat de daadwerkelijke tekstinhoud. Hier vinden de cijfer- en
 lettertekens die samen een tekst vormen hun plek.  
 Deze tekst mag worden opgemaakt met een beperkte set van XHTML coderingen,
 aangevuld met enkele specifieke codes. Wat er in de tekst mag worden opgenomen
-staat beschreven in de <li><a href='https://docs.geostandaarden.nl/ro/imropt/#6CD31BFC' target='_blank'>IMROPT2012, paragraaf 2.3</a>.
+staat beschreven in de <a href='https://docs.geostandaarden.nl/ro/imropt/#6CD31BFC' target='_blank'>IMROPT2012, paragraaf 2.3</a>.
 <br/><br/>
 
 ## Klasse TekstMetaData
 Gegevens over gegevens worden metadata genoemd. In IMROPT2012 zijn bij de klasse
 *TekstMetadata* regels opgenomen over de in het tekstbestand op te nemen
 metadata. In Tabel 2 wordt klasse *TekstMetadata* toegelicht.
-
-**Tabel 2 Klasse TekstMetadata 1\***
 
 <table id="d4e287" style="width: 100%;"><caption>Klasse TekstMetadata 1*</caption><colgroup><col id="col1" style="width: 23.009360915289495%;"></col><col id="col2" style="width: 31.12215416618514%;"></col><col id="col3" style="width: 6.552640702646481%;"></col><col id="col4" style="width: 39.31584421587889%;"></col></colgroup><thead valign="top"><tr><th align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="74BB00BD">Attribuut</p></th><th align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="45185722">Waarde</p></th><th align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="51D39296">*</p></th><th align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="3CAB5929">Opmerking</p></th></tr></thead><tbody valign="top"><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="4E76D428">identificatie</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="3FB5DD45">waarde</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="3EF678A2">1</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="107EAD28">eigen identificatie (idn) van de TekstMetadata . De code moet uniek zijn binnen het plantekstenbestand. De identificatie begint met "NL.IMRO.PT." en wordt gevolgd door max. 32 alfanumerieke tekens. </p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="426189AF">verwijzingNaarPlangebied</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="32EBDFD5">idn plangebied</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="1DF6BF61">1</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="1E18AD47">identificatie (idn) van het IMRO Plangebied waar het plantekstenbestand bij hoort.</p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="363906E0">typePlan</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="44C999E3">waarde</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="0521837E">0..1</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="71BE2D12">de waarde van het attribuut typePlan van het Plangebied waar het plantekstenbestand bij hoort.</p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="3E806AF4">naam</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="5F93D9E5">naam van het plan</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="461B1C6E">0..1</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="191E7391">volgens de (aanhaal)titel</p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="5535E9F3">beleidsmatigVerantwoordelijkeOverheid</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="595CBED5">gemeentelijke overheid, deelgemeente/stadsdeel, provinciale overheid of nationale overheid</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="5611D0C3">0..1</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="23F80FC1">de waarde van het attribuut beleidsmatigVerantwoordelijkeOverheid van het Plangebied waar het plantekstenbestand bij hoort.</p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="62B18F00">naamOverheid</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="50C7CC04">naam van de overheid</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="1BEA8734">0..n</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="0F518FE3">volgens format in de vorm: gemeente …., deelgemeente/ stadsdeel …., provincie …. of ministerie ….; alleen bij meerdere verantwoordelijke ministeries wordt naamOverheid evenzoveel ingevuld</p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="5C53CA2A">overheidsCode    </p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="157F9C14">CBS-nummer van de beleidsmatig verantwoordelijke overheid </p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="5B93778B">0..1</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="435DE5E3">4 cijfers; ingeval Rijk: "0000"; ingeval provincie: CBS-nummer provincie, met voorafgaand 2 voorloopnegens; indien deelgemeente/stadsdeel: CBS-nummer gemeente</p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="477990F4">creatiedatum</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="1DBAB4F0">datum waarop het bestand gemaakt is</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="1EBC1BEE">0..1</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="31882A8A">in de vorm: jjjj-mm-dd</p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="113795CD">naamPraktijkrichtlijn</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="1C7AA2D4">gebruikte praktijkrichtlijn</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="27C57230">1</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="5CBA66BD">de vaste waarde PRPT2012</p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;" colspan="4"><p id="1E6CCDD5">* multipliciteit:</p><p id="4F2136B9">1 = komt 1 keer voor        1..n = komt tenminste 1 keer voor</p><p id="483D48F3">0..1 = komt 0 of 1 keer voor    0..n = komt zo vaak voor als gewenst</p></td></tr></tbody></table>
 
@@ -169,34 +168,41 @@ object. Dit nummer begint met “NL.IMRO.PT.” en wordt gevolgd door maximaal 3
 vrij te gebruiken alfanumerieke tekens. De lengte van de identificatie is
 daardoor maximaal 43 alfanumerieke tekens. Samen met het attribuut
 verwijzingNaarPlangebied levert dit een unieke identificatie op.
+<br/><br/>
 
 **verwijzingNaarPlangebied** (verplicht)  
 Voor elk object is een verwijzing noodzakelijk naar het IMRO Plangebied waar het
 object bij hoort. Dit attribuut verwijst daarom naar het attribuut identificatie
 van het bijbehorende IMRO Plangebied object.
+<br/><br/>
 
 **typePlan** (facultatief)  
 Voor dit attribuut wordt de waarde van typePlan behorende bij het IMRO
 plangebied gespecificeerd.
+<br/><br/>
 
 **naam** (facultatief)  
 In het waardeveld van het attribuut *naam* dient de naam van het ruimtelijk
 instrument te worden op­genomen. Het gaat daarbij om de volledige naam. Indien
 er sprake is van een aanhaaltitel dan wordt deze gebruikt.
+<br/><br/>
 
 **beleidsmatigVerantwoordelijkeOverheid** (facultatief)  
 Hier wordt de overheid die beleidsmatig verantwoordelijk is voor het opstellen
 van het plan opgeno­men*.* In dit geval een van de volgende vaste waarden:  
--   gemeentelijke overheid
--   deelgemeente/stadsdeel
--   provinciale overheid
--   nationale overheid.
+
+<ul><li>gemeentelijke overheid</li>
+<li>deelgemeente/stadsdeel</li>
+<li>provinciale overheid</li>
+<li>nationale overheid.</li>
+</ul><br/>
 
 **naamOverheid** (facultatief)  
 Hier wordt de naam van de beleidsmatig verantwoordelijke overheid opgenomen, in
 de vorm van de tekst “gemeente …….”, “deelgemeente ……”, "stadsdeel ……",
 “provincie …….” of “ministerie …….”. In het geval er meerdere verantwoordelijke
 ministeries zijn, wordt naamOverheid evenzoveel ingevuld,
+<br/><br/>
 
 **overheidsCode** (facultatief)  
 Teneinde kenbaar te maken van welke beleidsmatig verantwoordelijke overheid het
@@ -205,9 +211,11 @@ overheid opgenomen. Voor deelgemeen­ten/­stadsdelen wordt het nummer gebruikt
 van de gemeente waartoe zij behoren. Voor de provincies worden, voorafgaand aan
 het CBS-nummer van de provincie, twee voorloop negens geplaatst, zodat de totale
 lengte 4 posities bedraagt. Voor het Rijk wordt het nummer "0000" gebruikt.
+<br/><br/>
 
 **creatiedatum** (facultatief)  
 Datum waarop de plantekst is gemaakt. Formaat in de in de vorm: jjjj-mm-dd.
+<br/><br/>
 
 **naamPraktijkrichtlijn** (verplicht)  
 Om de ontvanger duidelijk te maken welke gegevens hij ontvangt en welke status
