@@ -3,17 +3,14 @@ var documentConfig =
   title: "Prakijkrichtlijn Algemene Maatregel van Bestuur 2012 (PRAMvB)",
   shortName: "amvb2012",
   pubDomain: "ro",
-  specStatus: "wv",
+  specStatus: "def",
   specType: "pr",
   license: "cc-by-nd",
   latestVersion: [
     "https://docs.geostandaarden.nl/ro/amvb2012/"
   ],
-  publishDate: "2024-11-26",
+  publishDate: "2024-12-20",
   publishVersion: "1.1.8",
-  thisVersion: [
-    "https://geonovum.github.io/ro-amvb2012/"
-  ],
   previousPublishDate: "2024-02-14",
   previousPublishVersion: "1.1.7",
   prevVersion: [
