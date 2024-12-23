@@ -14,13 +14,13 @@ var documentConfig =
   previousPublishDate: "2024-02-14",
   previousPublishVersion: "1.1.7",
   prevVersion: [
-    "https://docs.geostandaarden.nl/ro/def-hr-amvb2012-20240214/"
+    "https://docs.geostandaarden.nl/ro/def-pr-amvb2012-20240214/"
   ],
   previousMaturity: "def",
   github: "https://github.com/geonovum/ROST/",
   issueBase: "https://github.com/geonovum/ROST/issues/",
   edDraftURI: "https://geonovum.github.io/PRAMVB/",
-  canonicalURI: "https://docs.geostandaarden.nl/ro/amvb2012/",
+  canonicalURI: "https://docs.geostandaarden.nl/ro/def-pr-amvb2012/",
   authors: [
     {
       name: "Beheerteam DRO",
