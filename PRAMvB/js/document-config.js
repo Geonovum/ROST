@@ -7,7 +7,7 @@ var documentConfig =
   specType: "pr",
   license: "cc-by-nd",
   latestVersion: [
-    "https://docs.geostandaarden.nl/ro/amvb2012/"
+    "https://docs.geostandaarden.nl/ro/def-pr-amvb2012/"
   ],
   publishDate: "2024-12-20",
   publishVersion: "1.1.8",
@@ -20,7 +20,7 @@ var documentConfig =
   github: "https://github.com/geonovum/ROST/",
   issueBase: "https://github.com/geonovum/ROST/issues/",
   edDraftURI: "https://geonovum.github.io/PRAMVB/",
-  canonicalURI: "https://docs.geostandaarden.nl/ro/def-pr-amvb2012/",
+  canonicalURI: "https://docs.geostandaarden.nl/ro/amvb2012/",
   authors: [
     {
       name: "Beheerteam DRO",
