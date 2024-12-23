@@ -7,10 +7,13 @@ var documentConfig =
   specType: "pr",
   license: "cc-by-nd",
   latestVersion: [
-    "https://docs.geostandaarden.nl/ro/def-pr-amvb2012/"
+    "https://docs.geostandaarden.nl/ro/amvb2012/"
   ],
   publishDate: "2024-12-20",
   publishVersion: "1.1.8",
+  thisVersion: [
+    "https://docs.geostandaarden.nl/ro/def-pr-amvb2012-20241220/"
+  ],
   previousPublishDate: "2024-02-14",
   previousPublishVersion: "1.1.7",
   prevVersion: [
