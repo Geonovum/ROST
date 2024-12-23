@@ -9,15 +9,17 @@ Er zijn drie betrouwbaarheidsaspecten van belang bij het uitwisselen van
 ruimtelijk instrumenten: integriteit, authenticiteit en volledigheid. Met het
 waarmerken van alle onderdelen (NB alle bronbestanden die samen het instrument
 vormen), ontstaat een aantal waarborgen:  
--  dat het instrument daadwerkelijk van de juiste bronhouder afkomstig is;
--  dat de inhoud van het instrument na waarmerken niet meer gewijzigd is;
--  dat het instrument volledig is.  
-</br></br>
-Met het waarmerken van het Manifest ontstaat eveneens een aantal waarborgen:  
--  dat het Manifest daadwerkelijk van de juiste bronhouder afkomstig is;
--  dat de inhoud van het Manifest na waarmerken niet meer gewijzigd is;
--  dat het Manifest volledig en actueel is.  
-</br></br>
+<ul><li>dat het instrument daadwerkelijk van de juiste bronhouder afkomstig is;</li>
+<li>dat de inhoud van het instrument na waarmerken niet meer gewijzigd is;</li>
+<li>dat het instrument volledig is.</li>
+</ul></br>
+
+Met het waarmerken van het Manifest ontstaat eveneens een aantal waarborgen: 
+<ul><li>dat het Manifest daadwerkelijk van de juiste bronhouder afkomstig is;</li>
+<li>dat de inhoud van het Manifest na waarmerken niet meer gewijzigd is;</li>
+<li>dat het Manifest volledig en actueel is.</li>
+</ul></br>
+
 Ruimtelijke instrumenten worden gewaarmerkt met een elektronische handtekening,
 waarmee de authenticiteit is gewaarborgd en de instrumenten tevens beschermd
 zijn tegen wijzigen. Voor een elektronische handtekening is een certificaat van
@@ -32,7 +34,7 @@ Figuur 4.
 Bronhouders zijn via interne maatregelen zelf verantwoordelijk dat de
 instrumenten alleen kunnen worden gewaarmerkt door daarvoor geautoriseerde
 personen en dat steeds de juiste instrumenten beschikbaar gesteld worden.
-
+<br/><br/>
 Afnemers van de ruimtelijk instrumenten moeten de authenticiteit, integriteit en
 volledigheid van het instrument kunnen vaststellen. Dat betekent dat behalve van
 de onderdelen afzonderlijk de afnemer ook in de raadpleegomgeving van het
@@ -44,8 +46,7 @@ instrument.
 Vanwege operationele veiligheidseisen is er binnen de landelijke voorziening Ruimtelijkeplannen.nl
 een aantal aanvullende beperkingen van toepassing met betrekking tot het
 waarmerk binnen Manifest en Geleideformulieren, die vanwege het dynamische
-karakter niet in de STRI2012 zijn opgenomen. Deze beperkingen zijn als volgt: 
-</br></br> 
+karakter niet in de STRI2012 zijn opgenomen. Deze beperkingen zijn als volgt:</br> 
 -   DOCTYPE declaraties zijn niet toegestaan;
 -   \<?xml-stylesheet /\> processing instructies zijn niet toegestaan;
 -   Het gebruik van XSLT is niet- toegestaan;
@@ -64,7 +65,7 @@ karakter niet in de STRI2012 zijn opgenomen. Deze beperkingen zijn als volgt:
 -   SignatureMethod en DigestMethod mogen geen MD5 Algorithm gebruiken. 
 </br></br>
 
-Verder zijn alleen de volgende algoritmes zijn toegestaan<sup>[6]</sup>:  
+Verder zijn alleen de volgende algoritmes zijn toegestaan (let op: Niet van al de genoemde algorithms zijn de oorspronkelijke web-locaties nog beschikbaar):  
 Transform Algorithm:  
 -   http://www.w3.org/TR/2001/REC-xml-c14n-20010315
 -   http://www.w3.org/2001/10/xml-exc-c14n#
@@ -91,8 +92,6 @@ DigestMethod Algorithm:
 -   http://www.w3.org/2000/09/xmldsig#sha512  
 </br></br>
 
-<sup>[6]</sup> Niet van al de genoemde algorithms zijn de oorspronkelijke web-locaties nog beschikbaar.
-</br></br>
 Bovenstaande aanvullende beperkingen dienen verplicht te worden toegepast om te
 kunnen voldoen aan de eis in het Bro dat de landelijke voorziening Ruimtelijkeplannen.nl in staat moet
 zijn om de bronbestanden op te kunnen halen.
