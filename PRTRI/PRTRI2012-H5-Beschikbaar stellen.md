@@ -19,10 +19,10 @@ daarbij gewerkt met relatieve URL's (bijvoorbeeld bij de illustraties in HTML of
 de verwijzingen naar de onderdelen in het geleideformulier). Hierdoor blijven de
 bronbestanden bruikbaar indien deze in zijn geheel in een andere
 raadpleegomgeving wordt gebruikt.
-Bijvoorbeeld, als een instrument met idn NL.IMRO.1111.visie2012-0012 beschikbaar
-gesteld wordt in de virtuele directory:  
+Bijvoorbeeld op basis van durperdam.nl (een niet bestaande voorbeeldsite) als een instrument met idn NL.IMRO.1111.visie2012-0012 beschikbaar
+gesteld wordt:  
 
-ht<span>tp://ro.durperdam.nl/visie2012/0012/<sup>[2]</sup>
+ht<span>tp://ro.durperdam.nl/visie2012/0012/<su
 
 dan worden alle bij dit instrument behorende bestanden direct in deze virtuele
 directory geplaatst.
@@ -52,8 +52,6 @@ ht<span>tp://ro.durperdam.nl/visie2012/0012/index.htm
 is dus toegestaan. De index.htm pagina is dus geen onderdeel van het ruimtelijk
 instrument zelf, maar wordt in dit voorbeeld gebruikt voor de inrichting van de
 informatievoorziening door de bronhouder.
-
-<sup>[2]</sup>ht<span>tp://ro.durperdam.nl is een niet bestaande voorbeeldsite.
 
 ## Periode van beschikbaarheid
 De bronbestanden van iedere beschikbaar gestelde versie van een ruimtelijk
@@ -139,17 +137,16 @@ stylesheet (opmaakbestand) kan mee sturen met de plantekstbestanden. De
 landelijke voorziening Ruimtelijkeplannen.nl maakt bij de verbeelding gebruik van het opmaakbestand en daarmee de huisstijl van de bronhouder toepassen. Ook derden kunnen van dit opmaakbestand gebruik maken.
 <br/><br/>
 
-***Gebruik van PDF-bestanden*** 
+***Gebruik van PDF-bestanden***<br/> 
 Indien er PDF-bestanden worden gebruikt in een planset dan is het beter om PDF-
 bestanden te gebruiken die geen flashcomponenten bevatten. Bestanden met
 flashcomponenten kunnen om veiligheidsredenen niet meer in een webbrowser worden
 geopend waardoor de PDF-bestanden bij raadpleging van Ruimtelijkeplannen.nl geen
-inhoud bevatten.  
-Controleer daarom vóór publicatie dat uw PDF-documenten geen Flashcomponenten
-bevatten.  
+inhoud bevatten. Controleer daarom vóór publicatie dat uw PDF-documenten geen Flashcomponenten
+bevatten. 
 <br/><br/>
 
-***Objectgerichte planteksten in XML*** 
+***Objectgerichte planteksten in XML***<br/>
 Voor objectgerichte planteksten in XML-formaat volgens de IMROPT2012-standaard
 is er (sinds versie 2.2.10 van Ruimtelijkeplannen.nl) landelijk één standaard
 layout en presentatie. Kenmerk van objectgericht werken is dat vorm en inhoud
@@ -161,7 +158,7 @@ maken.
 Ten behoeve van het weergeven van objectgerichte XML planteksten wordt gebruik
 gemaakt van 2 soorten opmaakbestanden:  
 - XSL stylesheet ten behoeve van het omzetten van objectgericht XML naar HTML;
-- CSS stylesheet ten behoeve van de visuele opmaak van de HTML.  
+- CSS stylesheet ten behoeve van de visuele opmaak van de HTML. 
 <br/><br/>
 
 Een XSL stylesheet transformeert de objectgerichte plantekst van XML naar
@@ -201,10 +198,10 @@ bronhouder gebruik gemaakt van een eigen opmaak voor objectgerichte planteksten,
 kan deze meegeleverd worden maar Ruimtelijkeplannen.nl zal hier niets mee doen.  
 
 Voor het weergeven van planteksten zijn er vier mogelijkheden:  
-1. HTML planregels zonder eigen CSS opmaakbestand;  
-2. HTML planregels met eigen CSS opmaakbestand;  
-3. XML planteksten zonder eigen CSS opmaakbestand;  
-4. XML planteksten met eigen CSS opmaakbestand.
+1. HTML planregels zonder eigen CSS opmaakbestand; 
+2. HTML planregels met eigen CSS opmaakbestand; 
+3. XML planteksten zonder eigen CSS opmaakbestand; 
+4. XML planteksten met eigen CSS opmaakbestand. 
 <br/><br/>
 
 **Ad. 1. HTML planregels zonder eigen CSS opmaakbestand**  
@@ -418,7 +415,7 @@ detailniveau zullen verschillen.<br/>
 
 | **Dossierstatus**                | **Betekenis**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | **beschikbaar stellen/ verwijderen indien van toepassing**                                                                                                   |
 |----------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| in voorbereiding                 | Deze dossierstatus wordt toegekend vanaf de eerste beschikbaarstelling, wat bij de bestemmingsplanprocedure mogelijk een voorbereidingsbesluit kan zijn<sup>[5]</sup>. Mogelijke instrumenten daar op volgend zijn informele concepten en/of een voorontwerp. Daarna wordt het ontwerp bestemmingsplan beschikbaar gesteld en ter inzage gelegd. Na afloop van de terinzagelegging beantwoordt en verwerkt de bronhouder de zienswijzen. Vervolgens wordt het plan vastgesteld en het vastgestelde plan beschikbaar gesteld. Als er een reactieve aanwijzing is gegeven waardoor een onderdeel van het plan geen deel meer uitmaakt van het plan, dan wordt deze aanwijzing niet verwerkt in het vastgestelde plan. Het bevoegd gezag dat de aanwijzing heeft gegeven stelt de reactieve aanwijzing via het eigen manifest in een eigen dossier beschikbaar, met in de aanwijzing een verwijzing naar het plan waar het zich toe richt. De dossierstatus in voorbereiding eindigt gelijktijdig met het beschikbaar stellen van het vastgestelde bestemmingsplan. | Beschikbaar stellen:<ul><li>voorbereidingsbesluit</li><li>concept plan</li><li>voorontwerp plan</li><li>ontwerp plan</li></ul>                               |
+| in voorbereiding                 | Deze dossierstatus wordt toegekend vanaf de eerste beschikbaarstelling, wat bij de bestemmingsplanprocedure mogelijk een voorbereidingsbesluit kan zijn. Mogelijke instrumenten daar op volgend zijn informele concepten en/of een voorontwerp. Daarna wordt het ontwerp bestemmingsplan beschikbaar gesteld en ter inzage gelegd. Na afloop van de terinzagelegging beantwoordt en verwerkt de bronhouder de zienswijzen. Vervolgens wordt het plan vastgesteld en het vastgestelde plan beschikbaar gesteld. Als er een reactieve aanwijzing is gegeven waardoor een onderdeel van het plan geen deel meer uitmaakt van het plan, dan wordt deze aanwijzing niet verwerkt in het vastgestelde plan. Het bevoegd gezag dat de aanwijzing heeft gegeven stelt de reactieve aanwijzing via het eigen manifest in een eigen dossier beschikbaar, met in de aanwijzing een verwijzing naar het plan waar het zich toe richt. De dossierstatus in voorbereiding eindigt gelijktijdig met het beschikbaar stellen van het vastgestelde bestemmingsplan. | Beschikbaar stellen:<ul><li>voorbereidingsbesluit</li><li>concept plan</li><li>voorontwerp plan</li><li>ontwerp plan</li></ul>                               |
 | vastgesteld                      | Deze dossierstatus wordt toegekend op het moment dat het vastgestelde plan beschikbaar wordt gesteld. Na de beschikbaarstelling van het vastgestelde plan is er beroep tegen het plan mogelijk. De dossierstatus vastgesteld eindigt op het moment dat er bij het bevoegde gezag duidelijkheid is over ingesteld beroep en mogelijke verzoeken om een voorlopige voorziening. De dossierstatus moet nu in het manifest worden gewijzigd naar de actuele waarde en het gewijzigde manifest moet weer beschikbaar worden gesteld.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Beschikbaar stellen:<ul><li>vastgesteld plan/</li></ul>                                                                                                      |
 | geheel in werking                | Deze dossierstatus wordt toegekend indien er beroep is ingesteld tegen het vastgestelde plan zonder dat er een verzoek om voorlopige voorziening (vovo) is ingediend of indien dit verzoek is afgewezen. De uitspraak over het eventuele verzoek om voorlopige voorziening wordt door de bronhouder beschikbaar gesteld. De dossierstatus geheel in werking eindigt met de uitspraak in de beroepsprocedure. De dossierstatus moet nu in het manifest worden gewijzigd naar de actuele waarde en het gewijzigde manifest moet weer beschikbaar worden gesteld.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | Beschikbaar stellen:<ul><li>uitspraak vovo met contour/</li></ul>                                                                                            |
 | deels in werking                 | Deze dossierstatus wordt toegekend als ten gevolge van het toewijzen van het verzoek om voorlopige voorziening het plan slechts gedeeltelijk in werking treedt. De uitspraak over het eventuele verzoek om voorlopige voorziening wordt door de bronhouder beschikbaar gesteld. De dossierstatus deels in werking eindigt met de uitspraak in de beroepsprocedure. De dossierstatus moet nu in het manifest worden gewijzigd naar de actuele waarde en het gewijzigde manifest moet weer beschikbaar worden gesteld.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Beschikbaar stellen:<ul><li>uitspraak vovo met contour/</li></ul>                                                                                            |
