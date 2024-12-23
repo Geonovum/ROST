@@ -58,12 +58,10 @@ artikel 2.12, eerste lid, onderdeel a, onder 3o Wabo. Het exploitatieplan
 doorloopt dezelfde procedure als het bestemmingsplan waar het bij hoort. De
 procedure van de omgevingsvergunning is hiervoor al besproken. Procedure
 bestemmingsplan en daarbij behorend exploitatieplan:  
-1.  Er wordt een ontwerp-besluit ter inzage gelegd waartegen zienswijzen kunnen
-    worden ingediend; bij het bestemmingsplan kan deze fase worden voorafgegaan
-    door het verlenen van inspraak op een terinzagegelegd voorontwerp.
-2.  Tegen een vastgesteld bestemmingsplan en een exploitatieplan kan beroep
-    worden ingesteld.  
-<br/>
+1. Er wordt een ontwerp-besluit ter inzage gelegd waartegen zienswijzen kunnen worden ingediend; bij het bestemmingsplan kan deze fase worden voorafgegaan door het verlenen van inspraak op een terinzagegelegd voorontwerp.
+2. Tegen een vastgesteld bestemmingsplan en een exploitatieplan kan beroep worden ingesteld.  
+<br/><br/>
+
 Bij het bestemmingsplan en het exploitatieplan komen alle dossierstatussen voor.
 <br/><br/>
 
@@ -71,12 +69,11 @@ Bij het bestemmingsplan en het exploitatieplan komen alle dossierstatussen voor.
 De beheersverordening is een instrument dat gemeenten in plaats van een
 bestemmings­plan kunnen inzetten. De beheersverordening is vergelijkbaar met
 andere verordeningen die een gemeente kan vast­stellen.  
-1.  Er wordt geen ontwerp-besluit ter inzage gelegd en het indienen van
-    zienswijzen is niet mogelijk; wel kan afhankelijk van de gemeentelijke
-    inspraakverordening het verlenen van inspraak vereist zijn.
-2.  Tegen de beheersverordening kan geen beroep worden ingesteld en geen
-    bezwaarschrift worden ingediend. 
-<br/>
+1. Er wordt geen ontwerp-besluit ter inzage gelegd en het indienen van zienswijzen is niet mogelijk; wel kan afhankelijk van de gemeentelijke
+    inspraakverordening het verlenen van inspraak vereist zijn. 
+2. Tegen de beheersverordening kan geen beroep worden ingesteld en geen bezwaarschrift worden ingediend. 
+<br/><br/>
+
 Door de mogelijkheid van een voorbereidingsprocedure en doordat de
 beheersverordening direct na het vaststellen ervan onherroepelijk wordt, kent
 het uitsluitend de dossierstatussen 'in voorbereiding' en 'geheel onherroepelijk
@@ -87,12 +84,11 @@ in werking', 'vervallen' en 'geconsolideerd'.
 Gemeenten, provincies en het rijk stellen een of meer structuurvisies vast. In
 een structuurvisie worden de hoofdzaken van het te voeren ruimtelijk beleid
 vastgelegd.  
-1.  Er wordt geen ontwerp-besluit ter inzage gelegd en het indienen van
-    zienswijzen is niet mogelijk; wel kan afhankelijk van de inspraakverordening
+1. Er wordt geen ontwerp-besluit ter inzage gelegd en het indienen van zienswijzen is niet mogelijk; wel kan afhankelijk van de inspraakverordening
     het verlenen van inspraak vereist zijn.
-2.  Tegen de structuurvisie kan geen beroep worden ingesteld en geen
-    bezwaarschrift worden ingediend.  
-<br/>
+2. Tegen de structuurvisie kan geen beroep worden ingesteld en geen bezwaarschrift worden ingediend.  
+<br/><br/>
+
 Door de mogelijkheid van een voorbereidingsprocedure en doordat de
 structuurvisie direct na het vaststellen ervan onherroepelijk wordt, kent het
 uitsluitend de dossierstatussen 'in voorbereiding' en 'geheel onherroepelijk in
@@ -104,13 +100,11 @@ werking', 'vervallen' en 'geconsolideerd'.
 een aanwijzing geven om binnen een daarbij te bepalen termijn een
 bestemmingsplan vast te stellen overeenkomstig daarbij gegeven voorschriften
 omtrent de inhoud van dat bestemmingsplan.  
-1.  Er wordt een ontwerp-besluit ter inzage gelegd waartegen zienswijzen kunnen
-    worden ingediend.
-2.  Tegen de proactieve aanwijzing kan geen beroep worden ingesteld en geen
-    bezwaarschrift worden ingediend, *tenzij*,de proactieve aanwijzing
-    betrekking heeft op een daarbij concreet aangegeven locatie waarvan geen
-    afwijking mogelijk is, dan is er wel beroep mogelijk.
-<br/>
+1. Er wordt een ontwerp-besluit ter inzage gelegd waartegen zienswijzen kunnen worden ingediend.
+2. Tegen de proactieve aanwijzing kan geen beroep worden ingesteld en geen bezwaarschrift worden ingediend, *tenzij*,de proactieve aanwijzing
+    betrekking heeft op een daarbij concreet aangegeven locatie waarvan geen afwijking mogelijk is, dan is er wel beroep mogelijk.
+<br/><br/>
+
 Doordat er een voorbereidingsprocedure geldt en er gevallen zijn waarin beroep
 kan worden ingesteld tegen de proactieve aanwijzing kent de proactieve
 aanwijzing alle dossierstatussen.
@@ -118,10 +112,10 @@ aanwijzing alle dossierstatussen.
 
 <u>Reactieve aanwijzing</u>: Met een reactieve aanwijzing kunnen een provincie dan
 wel het rijk onderdelen van een bestemmingsplan niet in werking laten treden.  
-1.  Er wordt geen ontwerp-besluit ter inzage gelegd en het indienen van
-    zienswijzen is niet mogelijk.
-2.  Tegen de reactieve aanwijzing kan beroep worden ingesteld. 
-<br/>
+1. Er wordt geen ontwerp-besluit ter inzage gelegd en het indienen van zienswijzen is niet mogelijk.
+2. Tegen de reactieve aanwijzing kan beroep worden ingesteld. 
+<br/><br/>
+
 Door het ontbreken van een voorbereidingsprocedure en doordat het mogelijk is
 tegen een reactieve aanwijzing beroep in te stellen kent de reactieve aanwijzing
 alle dossierstatussen met uitzondering van de status 'in voorbereiding'.
@@ -129,11 +123,10 @@ alle dossierstatussen met uitzondering van de status 'in voorbereiding'.
 
 **Provinciale verordening**  
 Een provinciale verordening bevat algemeen verbindende voorschriften.  
-1.  Er wordt een ontwerp-besluit ter inzage gelegd waarover opmerkingen ter
-    kennis van provinciale staten kunnen worden gebracht.
-2.  Tegen de provinciale verordening kan geen beroep worden ingesteld en geen
-    bezwaarschrift worden ingediend.  
-<br/>
+1. Er wordt een ontwerp-besluit ter inzage gelegd waarover opmerkingen ter kennis van provinciale staten kunnen worden gebracht.
+2. Tegen de provinciale verordening kan geen beroep worden ingesteld en geen bezwaarschrift worden ingediend.  
+<br/><br/>
+
 Doordat er een voorbereidingsprocedure geldt en de provinciale verordening
 direct na het vaststellen ervan onherroepelijk wordt, kent de verordening uitsluitend de
 dossierstatussen 'in voorbereiding' of 'geheel onherroepelijk in
@@ -144,12 +137,10 @@ werking', 'vervallen', 'geconsolideerd'.
 Een Algemene Maatregel van Bestuur (AMvB) is een besluit van de regering. Hierin
 is de inhoud van een wet verder uitgewerkt. Een AMvB bevat algemeen verbindende
 voorschriften.  
-1.  Er wordt een ontwerp-besluit ter inzage gelegd waarover opmerkingen ter
-    kennis van de minister kunnen worden gebracht.
-2.  Tegen de AMvB kan geen beroep worden ingesteld en geen bezwaarschrift worden
-    ingediend.  
-<br/>
+1. Er wordt een ontwerp-besluit ter inzage gelegd waarover opmerkingen ter kennis van de minister kunnen worden gebracht.
+2. Tegen de AMvB kan geen beroep worden ingesteld en geen bezwaarschrift worden ingediend.  
+<br/><br/>
+
 Doordat er een voorbereidingsprocedure geldt en de AMvB direct na het
 vaststellen ervan onherroepelijk wordt, kent het uitsluitend de dossierstatussen
 'in voorbereiding', 'geheel onherroepelijk in werking', 'vervallen' en 'geconsolideerd'.
-
