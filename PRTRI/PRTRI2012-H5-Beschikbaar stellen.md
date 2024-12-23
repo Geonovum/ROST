@@ -32,7 +32,7 @@ Het IMRO GML bestand van dit instrument wordt dus beschikbaar gesteld op:
 ht<span>tp://ro.durperdam.nl/visie2012/0012/NL.IMRO.1111.visie2012-0012.gml  
 <br/><br/>
 
-Beschikbaar stellen van elementen binnen een andere virtuele directory of in een
+Beschikbaarstellen van elementen binnen een andere virtuele directory of in een
 subdirectory binnen de virtuele directory is niet toegestaan. Het is dus niet
 toegestaan het GML bestand bijvoorbeeld als volgt beschikbaar te stellen
 (foutieve elementen <u>onderstreept</u> 
@@ -70,15 +70,14 @@ van het feit of de stukken wel of niet beschikbaar blijven via het Manifest, is
 in vrijwel alle gevallen de Archiefwet van toepassing op deze stukken.
 
 ## Werkwijze bij het beschikbaar stellen
-Bij het beschikbaar stellen van een ruimtelijk instrument hoort een bepaalde
+Bij het beschikbaarstellen van een ruimtelijk instrument hoort een bepaalde
 werkwijze. Allereerst zal het ruimtelijk instrument elektronisch worden
 gewaarmerkt. Vervolgens worden alle bronbestanden op internet beschikbaar
 gemaakt, en wordt het Manifest aangepast en vervolgens ook gewaarmerkt. Tot slot
 moet het al op internet beschikbaar gestelde Manifest vervangen worden door het
 gewijzigde Manifest, en wordt ook de digitale verbeelding bijgewerkt. Dit
-laatste gebeurt overigens veelal in geautomatiseerde systemen, zoals bij [de
-landelijke voorziening Ruimtelijkeplannen.nl](http://www.ruimtelijkeplannen.nl/). Daarna is het ruimtelijk instrument voor een
-ieder beschikbaar, raadpleegbaar en via het Manifest ook vindbaar. De werkwijze
+laatste gebeurt overigens veelal in geautomatiseerde systemen, zoals bij de
+landelijke voorziening <a href='https://www.ruimtelijkeplannen.nl/' target='_blank'>Ruimtelijkeplannen.nl</a>. Daarna is het ruimtelijk instrument voor een ieder beschikbaar, raadpleegbaar en via het Manifest ook vindbaar. De werkwijze
 is weergegeven in Figuur 1.  
 
 
@@ -117,7 +116,7 @@ Bij foutherstel zijn er in beginsel geen juridische consequenties aan verbonden.
 <li>Overheidscode / naam overheid</li>
 <li>Verwijzingen naar externe plannen</li>
 <li>Bijlage(n)</li>
-<li><a name='_Hlk522006912'></a>HTML planteksten naar XML planteksten </li>
+<li>HTML planteksten naar XML planteksten </li>
 </ul>
 
 </li>
@@ -290,7 +289,7 @@ het internet toegankelijk webadres (bijvoorbeeld een webadres als
 ht<span>tp://ro.durperdam.nl/manifest.xml). In het manifest is ordening aangebracht
 met behulp van dossiers. Overigens kan er naast het STRI2012 manifest ook nog
 een STRI2006 manifest beschikbaar worden gesteld door de bronhouder, omwille van
-het beschikbaar stellen van IMRO2006 plannen. Dit is echter buiten de scope van
+het beschikbaarstellen van IMRO2006 plannen. Dit is echter buiten de scope van
 de STRI2012 en wordt daarom ook niet aangehaald.
 <br/><br/>
 
