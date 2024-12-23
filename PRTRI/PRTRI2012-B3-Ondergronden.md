@@ -21,25 +21,19 @@ uitwisselbaarheid van deze ondergronden te verbeteren. De Raad van State
 schrijft één van de onderstaande bestandsformaten voor:
 
 -   Vectorformaten:  
-	-   [AutoCAD© DXF](https://en.wikipedia.org/wiki/AutoCAD_DXF)
-	-   [ESRI© shape (incl. verbeelding) in 2D](http://www.esri.com/library/whitepapers/pdfs/shapefile.pdf)
-	-   GML
+	- <a href='https://en.wikipedia.org/wiki/AutoCAD_DXF' target='_blank'>AutoCAD© DXF</a>
+	- <a href='https://www.esri.com/content/dam/esrisites/sitecore-archive/Files/Pdfs/library/whitepapers/pdfs/shapefile.pdf' target='_blank'>ESRI© shape (incl. verbeelding) in 2D</a>
+	- GML
 -   Rasterformaten
-	-   JPEG 2000
+	- JPEG 2000
 
 Waarbij geldt:  
--   Voor de ondergronden is alleen de geometrie bepalend. Attributen en layer
-    informatie zijn niet in de ondergrond behorende bij het ruimtelijk
+- Voor de ondergronden is alleen de geometrie bepalend. Attributen en layer informatie zijn niet in de ondergrond behorende bij het ruimtelijk
     instrument opgenomen;
--   In het geval de ondergrond tijdens de planprocedure dient te worden
-    aangepast (er moet bijvoorbeeld een actuelere ondergrond worden gebruikt),
-    dan wordt dit een nieuwe versie van de ondergrond dat hoort bij die status
-    van het instrument. Het is dan ook mogelijk dat bij het instrument meerdere
-    (versies van) ondergronden zijn gearchiveerd;
--   Alle coördinaten van de aangeboden elementen (en geo-referenties voor
-    rasterbestanden) dienen hetzelfde coördinaatsysteem te gebruiken als het
-    ruimtelijk instrument waartoe het behoort. Dit is conform IMRO het
-    Rijksdriehoeksstelsel, ofwel EPSG:2899229.
+- In het geval de ondergrond tijdens de planprocedure dient te worden aangepast (er moet bijvoorbeeld een actuelere ondergrond worden gebruikt),
+    dan wordt dit een nieuwe versie van de ondergrond dat hoort bij die status van het instrument. Het is dan ook mogelijk dat bij het instrument meerdere (versies van) ondergronden zijn gearchiveerd;
+-  Alle coördinaten van de aangeboden elementen (en geo-referenties voor rasterbestanden) dienen hetzelfde coördinaatsysteem te gebruiken als het
+    ruimtelijk instrument waartoe het behoort. Dit is conform IMRO het Rijksdriehoeksstelsel, ofwel EPSG:2899229.
 
 ## Toelichting
 
