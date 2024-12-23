@@ -3,19 +3,16 @@ var documentConfig =
   title: "Praktijkrichtlijn Analoge Bestemmingsplan Kaart (PRABPK2012)",
   shortName: "abpk2012",
   pubDomain: "ro",
-  specStatus: "def",
+  specStatus: "wv",
   specType: "pr",
   license: "cc-by-nd",
   latestVersion: [
     "https://docs.geostandaarden.nl/ro/abpk2012/"
   ],
-  publishDate: "2024-12-20",
-  publishVersion: "1.3.3",
-  thisVersion: [
-    "https://docs.geostandaarden.nl/ro/def-pr-abpk2012-20241220/"
-  ],
-  previousPublishDate: "2024-02-14",
-  previousPublishVersion: "1.3.2",
+  publishDate: "",
+  publishVersion: "1.3.4",
+  previousPublishDate: "2024-12-20",
+  previousPublishVersion: "1.3.3",
   prevVersion: [
     "https://docs.geostandaarden.nl/ro/def-pr-abpk2012-20240214/"
   ],
