@@ -22,7 +22,7 @@ var documentConfig =
   previousMaturity: "def",
   github: "https://github.com/geonovum/ROST/",
   issueBase: "https://github.com/geonovum/ROST/issues/",
-  edDraftURI: "https://geonovum.github.io/PRAMVB/",
+  edDraftURI: "https://geonovum.github.io/ROST/PRAMvB/",
   canonicalURI: "https://docs.geostandaarden.nl/ro/amvb2012/",
   authors: [
     {
