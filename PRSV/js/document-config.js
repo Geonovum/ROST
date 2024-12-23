@@ -11,15 +11,18 @@ var documentConfig =
   ],
   publishDate: "2024-11-26",
   publishVersion: "1.1.7",
+  thisVersion: [
+    "https://docs.geostandaarden.nl/ro/def-pr-sv2012-20241126/"
+  ],
   previousPublishDate: "2024-02-14",
   previousPublishVersion: "1.1.6",
   prevVersion: [
-    "https://docs.geostandaarden.nl/ro/def-hr-sv2012-20240214/"
+    "https://docs.geostandaarden.nl/ro/def-pr-sv2012-20240214/"
   ],
   previousMaturity: "def",
   github: "https://github.com/geonovum/ROST/",
   issueBase: "https://github.com/geonovum/ROST/issues/",
-  edDraftURI: "https://geonovum.github.io/PRSV/",
+  edDraftURI: "https://geonovum.github.io/ROST/PRSV/",
   canonicalURI: "https://docs.geostandaarden.nl/ro/sv2012/",
   authors: [
     {
