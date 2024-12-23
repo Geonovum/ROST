@@ -14,7 +14,7 @@ Per instrument volgt een toelichting; er is aangegeven of:
 2. *beroep kan worden ingesteld of een bezwaarschrift kan worden ingediend.*
 <br/><br/>
 
-**Voorbereidingsbesluit**
+**Voorbereidingsbesluit**<br/>
 Met dit instrument geeft het bevoegd gezag aan voornemens te zijn een ruimtelijk
 plan als een bestemmingsplan, inpassingsplan, provinciale verordening of AMvB op
 te stellen.  
@@ -29,7 +29,7 @@ uitsluitend de dossierstatussen 'geheel onherroepelijk in werking', 'vervallen'
 en 'geconsolideerd'.
 <br/><br/>
 
-**Omgevingsvergunning**
+**Omgevingsvergunning**<br/>
 Het bevoegd gezag kan medewerking verlenen aan een aanvraag die in strijd is met
 een be­stemmingsplan of een beheersverordening door met toepassing van artikel
 2.12, eerste lid, onderdeel a, onder 3o van de Wabo omgevingsvergunning te
@@ -51,7 +51,7 @@ elektronische weg beschikbaar worden gesteld, waardoor het exploitatieplan wel
 de dossierstatus 'in voorbereiding' kent. 
 <br/><br/>
 
-**Exploitatieplan / bestemmingsplan**
+**Exploitatieplan / bestemmingsplan**<br/>
 Als het exploitatieplan wordt vast­gesteld, dan wordt het gelijktijdig
 bekend­gemaakt met een bestemmingsplan of een omgevingsvergunning op grond van
 artikel 2.12, eerste lid, onderdeel a, onder 3o Wabo. Het exploitatieplan
@@ -65,7 +65,7 @@ bestemmingsplan en daarbij behorend exploitatieplan:
 Bij het bestemmingsplan en het exploitatieplan komen alle dossierstatussen voor.
 <br/><br/>
 
-**Beheersverordening**
+**Beheersverordening**<br/>
 De beheersverordening is een instrument dat gemeenten in plaats van een
 bestemmings­plan kunnen inzetten. De beheersverordening is vergelijkbaar met
 andere verordeningen die een gemeente kan vast­stellen.  
@@ -80,7 +80,7 @@ het uitsluitend de dossierstatussen 'in voorbereiding' en 'geheel onherroepelijk
 in werking', 'vervallen' en 'geconsolideerd'.
 <br/><br/>
 
-**Structuurvisie**
+**Structuurvisie**<br/>
 Gemeenten, provincies en het rijk stellen een of meer structuurvisies vast. In
 een structuurvisie worden de hoofdzaken van het te voeren ruimtelijk beleid
 vastgelegd.  
@@ -95,7 +95,7 @@ uitsluitend de dossierstatussen 'in voorbereiding' en 'geheel onherroepelijk in
 werking', 'vervallen' en 'geconsolideerd'.
 <br/><br/>
 
-**Proactieve en reactieve aanwijzing**
+**Proactieve en reactieve aanwijzing**<br/>
 <u>Proactieve aanwijzing</u>: De provincie en het rijk kunnen aan een gemeenteraad
 een aanwijzing geven om binnen een daarbij te bepalen termijn een
 bestemmingsplan vast te stellen overeenkomstig daarbij gegeven voorschriften
@@ -121,7 +121,7 @@ tegen een reactieve aanwijzing beroep in te stellen kent de reactieve aanwijzing
 alle dossierstatussen met uitzondering van de status 'in voorbereiding'.
 <br/><br/>
 
-**Provinciale verordening**
+**Provinciale verordening**<br/>
 Een provinciale verordening bevat algemeen verbindende voorschriften.  
 1. Er wordt een ontwerp-besluit ter inzage gelegd waarover opmerkingen ter kennis van provinciale staten kunnen worden gebracht.
 2. Tegen de provinciale verordening kan geen beroep worden ingesteld en geen bezwaarschrift worden ingediend. 
@@ -133,7 +133,7 @@ dossierstatussen 'in voorbereiding' of 'geheel onherroepelijk in
 werking', 'vervallen', 'geconsolideerd'.
 <br/><br/>
 
-**AMvB**
+**AMvB**<br/>
 Een Algemene Maatregel van Bestuur (AMvB) is een besluit van de regering. Hierin
 is de inhoud van een wet verder uitgewerkt. Een AMvB bevat algemeen verbindende voorschriften.  
 1. Er wordt een ontwerp-besluit ter inzage gelegd waarover opmerkingen ter kennis van de minister kunnen worden gebracht.
