@@ -55,7 +55,7 @@ verzorgen, bijvoorbeeld op de eigen website. Deze digitale verbeelding is een
 interactieve raadpleegomgeving die afgeleid is uit de authentieke informatie. De
 digitale verbeelding ontsluit de gehele inhoud van het instrument. Voor
 bestemmingsplannen en inpassingsplannen wordt de digitale verbeelding gemaakt
-volgens de Standaard voor Vergelijkbare Bestemmingsplannen SVBP2012.
+volgens de Standaard voor Vergelijkbare Bestemmingsplannen <a href='https://docs.geostandaarden.nl/ro/svbp' target='_blank'>SVBP2012</a>.
 
 De landelijke voorziening Ruimtelijkeplannen.nl toont de ruimtelijke instrumenten van de bronhouder
 ook in onderlinge samenhang. Dit betekent op zijn minst dat de landelijke
