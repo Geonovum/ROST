@@ -138,6 +138,7 @@ planteksten in HTML- en/of PDF-formaat geldt dat de bronhouder een eigen CSS
 stylesheet (opmaakbestand) kan mee sturen met de plantekstbestanden. De
 landelijke voorziening Ruimtelijkeplannen.nl maakt bij de verbeelding gebruik van het opmaakbestand en daarmee de huisstijl van de bronhouder toepassen.
 Ook derden kunnen van dit opmaakbestand gebruik maken.
+<br/>
 
 ***Gebruik van PDF-bestanden***  
 Indien er PDF-bestanden worden gebruikt in een planset dan is het beter om PDF-
@@ -147,7 +148,7 @@ geopend waardoor de PDF-bestanden bij raadpleging van Ruimtelijkeplannen.nl geen
 inhoud bevatten.  
 Controleer daarom vóór publicatie dat uw PDF-documenten geen Flashcomponenten
 bevatten.  
-<br/><br/>
+<br/>
 
 ***Objectgerichte planteksten in XML***
 Voor objectgerichte planteksten in XML-formaat volgens de IMROPT2012-standaard
@@ -162,7 +163,7 @@ Ten behoeve van het weergeven van objectgerichte XML planteksten wordt gebruik
 gemaakt van 2 soorten opmaakbestanden:  
 - XSL stylesheet ten behoeve van het omzetten van objectgericht XML naar HTML;
 - CSS stylesheet ten behoeve van de visuele opmaak van de HTML.  
-<br/>
+<br/><br/>
 
 Een XSL stylesheet transformeert de objectgerichte plantekst van XML naar
 leesbare HTML tekst. Een CSS stylesheet voegt daar een standaard layout en
@@ -180,7 +181,7 @@ organisatielogo aanleveren dat door Ruimtelijkplannen.nl getoond zal worden in
 de opmaak van de uiteindelijke web-pagina. Op Ruimtelijkeplannen.nl is hiervoor een handleiding 
 beschikbaar.  
 <details class='note'>
-Noot: De handleiding is beschikbaar via de besloten omgeving voor bronhouders van Ruimtelijkeplannen.nl en via de helpdesk van Ruimtelijkeplannen.nl. 
+De handleiding is beschikbaar via de besloten omgeving voor bronhouders van Ruimtelijkeplannen.nl en via de helpdesk van Ruimtelijkeplannen.nl. 
 </details>
 
 Bij het werken met objectgerichte XML planteksten wordt gebruik gemaakt van
@@ -205,7 +206,7 @@ Voor het weergeven van planteksten zijn er vier mogelijkheden:
 2.  HTML planregels met eigen CSS opmaakbestand;  
 3.  XML planteksten zonder eigen CSS opmaakbestand;  
 4.  XML planteksten met eigen CSS opmaakbestand.
-<br/>
+<br/><br/>
 
 **Ad. 1. HTML planregels zonder eigen CSS opmaakbestand**  
 De niet-objectgerichte planregels zijn vastgelegd in een HTML of XHTML bestand

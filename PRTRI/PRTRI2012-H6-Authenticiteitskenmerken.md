@@ -30,7 +30,6 @@ Figuur 4.
 **Figuur 4 Authenticatieproces**
 
 ## Authenticiteitskenmerken van een individueel instrument
-
 Bronhouders zijn via interne maatregelen zelf verantwoordelijk dat de
 instrumenten alleen kunnen worden gewaarmerkt door daarvoor geautoriseerde
 personen en dat steeds de juiste instrumenten beschikbaar gesteld worden.
@@ -42,54 +41,49 @@ instrument moet kunnen controleren wat de status is van het waarmerk van ieder
 instrument.
 
 ## Authenticiteitskenmerken voor de totale instrumentenvoorraad
-
 Vanwege operationele veiligheidseisen is er binnen de landelijke voorziening Ruimtelijkeplannen.nl
 een aantal aanvullende beperkingen van toepassing met betrekking tot het
 waarmerk binnen Manifest en Geleideformulieren, die vanwege het dynamische
 karakter niet in de STRI2012 zijn opgenomen. Deze beperkingen zijn als volgt:</br> 
--   DOCTYPE declaraties zijn niet toegestaan;
--   \<?xml-stylesheet /\> processing instructies zijn niet toegestaan;
--   Het gebruik van XSLT is niet- toegestaan;
--   XPointers die verwijzen naar externe bestanden zijn niet toegestaan;
--   Een Transform element met
-    Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" mag
-    alleen voorkomen indien de Reference URI="";
--   Binnen KeyInfo elementen zijn slechts X509Data elementen toegestaan;
--   Er is slechts één X509Data element toegestaan binnen een KeyInfo element;
--   Binnen X509Data elementen zijn slechts X509Certificate elementen toegestaan;
--   Binnen een Transforms element mag slechts één Transform element voorkomen;
--   CanonicalizationMethod Algorithm en Transform Algorithm attributen mogen
-    geen commentaar verwerken, XSLT toestaan, XPointer en XPath toestaan;
--   CanonicalizationMethod, Transform, SignatureMethod en DigestMethod elementen
-    mogen geen subelementen of tekst bevatten;
--   SignatureMethod en DigestMethod mogen geen MD5 Algorithm gebruiken. 
+- DOCTYPE declaraties zijn niet toegestaan;
+- \<?xml-stylesheet /\> processing instructies zijn niet toegestaan;
+- Het gebruik van XSLT is niet- toegestaan;
+- XPointers die verwijzen naar externe bestanden zijn niet toegestaan;
+- Een Transform element met Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" mag alleen voorkomen indien de Reference URI="";
+- Binnen KeyInfo elementen zijn slechts X509Data elementen toegestaan;
+- Er is slechts één X509Data element toegestaan binnen een KeyInfo element;
+- Binnen X509Data elementen zijn slechts X509Certificate elementen toegestaan;
+- Binnen een Transforms element mag slechts één Transform element voorkomen;
+- CanonicalizationMethod Algorithm en Transform Algorithm attributen mogen geen commentaar verwerken, XSLT toestaan, XPointer en XPath toestaan;
+- CanonicalizationMethod, Transform, SignatureMethod en DigestMethod elementen mogen geen subelementen of tekst bevatten;
+- SignatureMethod en DigestMethod mogen geen MD5 Algorithm gebruiken. 
 </br></br>
 
 Verder zijn alleen de volgende algoritmes zijn toegestaan (let op: Niet van al de genoemde algorithms zijn de oorspronkelijke web-locaties nog beschikbaar):  
 Transform Algorithm:  
--   http://www.w3.org/TR/2001/REC-xml-c14n-20010315
--   http://www.w3.org/2001/10/xml-exc-c14n#
--   http://www.w3.org/2000/09/xmldsig#base64
--   http://www.w3.org/2000/09/xmldsig#enveloped-signature  
+- http://www.w3.org/TR/2001/REC-xml-c14n-20010315
+- http://www.w3.org/2001/10/xml-exc-c14n#
+- http://www.w3.org/2000/09/xmldsig#base64
+- http://www.w3.org/2000/09/xmldsig#enveloped-signature  
 </br></br>
 
 CanonicalizationMethod Algorithm:  
--   http://www.w3.org/TR/2001/REC-xml-c14n-20010315
--   http://www.w3.org/2001/10/xml-exc-c14n#  
+- http://www.w3.org/TR/2001/REC-xml-c14n-20010315
+- http://www.w3.org/2001/10/xml-exc-c14n#  
 </br></br>
 
 SignatureMethod Algorithm:  
--   http://www.w3.org/2000/09/xmldsig#rsa-sha1
--   [http://www.w3.org/2001/04/xmldsig-more#rsa-sha256](https://www.rfc-editor.org/rfc/rfc6931#section-2.3.2)
--   [http://www.w3.org/2001/04/xmldsig-more#rsa-sha384](https://www.rfc-editor.org/rfc/rfc6931#section-2.3.2)
--   [http://www.w3.org/2001/04/xmldsig-more#rsa-sha512](https://www.rfc-editor.org/rfc/rfc6931#section-2.3.2)
+- http://www.w3.org/2000/09/xmldsig#rsa-sha1
+- [http://www.w3.org/2001/04/xmldsig-more#rsa-sha256](https://www.rfc-editor.org/rfc/rfc6931#section-2.3.2)
+- [http://www.w3.org/2001/04/xmldsig-more#rsa-sha384](https://www.rfc-editor.org/rfc/rfc6931#section-2.3.2)
+- [http://www.w3.org/2001/04/xmldsig-more#rsa-sha512](https://www.rfc-editor.org/rfc/rfc6931#section-2.3.2)
 </br></br>
 
 DigestMethod Algorithm:  
--   http://www.w3.org/2000/09/xmldsig#sha1
--   http://www.w3.org/2000/09/xmldsig#sha256
--   [http://www.w3.org/2001/04/xmldsig-more#sha384](https://www.rfc-editor.org/rfc/rfc6931#section-2.3.2)
--   http://www.w3.org/2000/09/xmldsig#sha512  
+- http://www.w3.org/2000/09/xmldsig#sha1
+- http://www.w3.org/2000/09/xmldsig#sha256
+- [http://www.w3.org/2001/04/xmldsig-more#sha384](https://www.rfc-editor.org/rfc/rfc6931#section-2.3.2)
+- http://www.w3.org/2000/09/xmldsig#sha512  
 </br></br>
 
 Bovenstaande aanvullende beperkingen dienen verplicht te worden toegepast om te
