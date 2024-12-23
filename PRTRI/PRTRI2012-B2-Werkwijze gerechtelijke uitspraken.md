@@ -24,41 +24,35 @@ aanbeveling. Dit is
 
 > gemarkeerd
 
-weergegeven.  
-De meest voorkomende situaties van uitspraken zijn opgenomen en beschreven: moet
+weergegeven. De meest voorkomende situaties van uitspraken zijn opgenomen en beschreven: moet
 de uitspraak wel/ niet beschikbaar worden gesteld, wordt het bestemmingsplan
 aangepast en welke dossierstatus is van toepassing?
 
 ## Leeswijzer
-In paragraaf 0 van deze bijlage is samengevat welke informatie aan het
+In [paragraaf 3](#gebiedsgericht-besluit-gerechtelijke-uitspraak) van deze bijlage is samengevat welke informatie aan het
 gebiedsgerichte besluit ‘gerechtelijke uitspraak’ wordt gekoppeld. In paragraaf
 9.4 van deze bijlage is beschreven welke dossierstatus het bestemmingsplan
 krijgt in de fase voorafgaand aan de uitspraak op beroep, waarbij ook rekening
 is gehouden met de mogelijkheid dat een reactieve aanwijzing is gegeven:
 - Voor vaststelling;
-- Na vaststelling/vanaf beschikbaar stellen vastgesteld bestemmingsplan tot en
-    met bekend worden of er wel/geen beroep en voorlopige voorziening is
+- Na vaststelling/vanaf beschikbaar stellen vastgesteld bestemmingsplan tot en met bekend worden of er wel/geen beroep en voorlopige voorziening is
     ingesteld;
 - Geen beroep ingesteld, geen voorlopige voorziening gevraagd;
 - Beroep ingesteld, geen voorlopige voorziening gevraagd;
 - Beroep ingesteld en voorlopige voorziening gevraagd.  
+<br/><br/>
 
 Vervolgens zijn in paragraaf 9.5 van deze bijlage per type uitspraak de acties
 voor de bronhouder/ bestuursorgaan uitgewerkt:  
--   voorlopige_voorziening;
-
+- Voorlopige voorziening;
 - Tussenuitspraak (bestuurlijke lus);
 - Uitspraak op beroep/bodemuitspraak;
-- Uitspraak op beroep tegen reactieve aanwijzing
-	- Situatie A: reactieve_aanwijzing: gemeente heeft er voor gekozen de
-        reactieve aanwijzing niet in bestemmingsplan te verwerken.
-	- Situatie B:reactieve_aanwijzing: gemeente heeft er voor gekozen de
-        reactieve aanwijzing in het bestemmingsplan te verwerken.
+- Uitspraak op beroep tegen reactieve aanwijzing:
+	- Situatie A: gemeente heeft ervoor gekozen reactieve aanwijzing niet in bestemmingsplan te verwerken.
+	- Situatie B: gemeente heeft ervoor gekozen reactieve aanwijzing in bestemmingsplan te verwerken.
 
 ## Gebiedsgericht besluit: gerechtelijke uitspraak
-In hoofdstuk 5 van de Prakrijkrichtlijn Gebiedsgerichte Besluiten
-[PRGB2012](https://docs.geostandaarden.nl/ro/gb2012/)
-is een nadere toelichting gegeven: welke informatie moet conform
+In de <a href='https://docs.geostandaarden.nl/ro/gb2012/#H05' target='_blank'>Prakrijkrichtlijn Gebiedsgerichte Besluiten (PRGB2012), hoofdstuk 5</a> is een nadere toelichting gegeven: welke informatie moet conform
 de RO Standaarden worden meegenomen bij het maken van dit gebiedsgerichte
 besluit. De informatie in de PRGB2012 is beknopt en daarom in deze werkwijze
 nogmaals op een rij gezet.  
