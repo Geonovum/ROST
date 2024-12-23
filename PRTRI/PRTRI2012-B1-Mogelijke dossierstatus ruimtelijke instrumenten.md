@@ -20,8 +20,9 @@ plan als een bestemmingsplan, inpassingsplan, provinciale verordening of AMvB op
 te stellen.  
 1. Het voorbereidingsbesluit wordt genomen. Er is geen voorbereidingsprocedure. Er wordt geen ontwerp-besluit ter inzage gelegd en er kunnen er geen
     zienswijzen ingediend worden.
-2. Tegen het voorbereidings­besluit kan geen beroep worden ingesteld en geen bezwaarschrift worden ingediend.  
+2. Tegen het voorbereidings­besluit kan geen beroep worden ingesteld en geen bezwaarschrift worden ingediend. 
 <br/><br/>
+
 Door het ontbreken van een voorbereidingsprocedure en doordat het
 voorbereidingsbesluit direct na het nemen ervan onherroepelijk wordt, kent het
 uitsluitend de dossierstatussen 'geheel onherroepelijk in werking', 'vervallen'
@@ -58,7 +59,7 @@ doorloopt dezelfde procedure als het bestemmingsplan waar het bij hoort. De
 procedure van de omgevingsvergunning is hiervoor al besproken. Procedure
 bestemmingsplan en daarbij behorend exploitatieplan:  
 1. Er wordt een ontwerp-besluit ter inzage gelegd waartegen zienswijzen kunnen worden ingediend; bij het bestemmingsplan kan deze fase worden voorafgegaan door het verlenen van inspraak op een terinzagegelegd voorontwerp.
-2. Tegen een vastgesteld bestemmingsplan en een exploitatieplan kan beroep worden ingesteld.  
+2. Tegen een vastgesteld bestemmingsplan en een exploitatieplan kan beroep worden ingesteld. 
 <br/><br/>
 
 Bij het bestemmingsplan en het exploitatieplan komen alle dossierstatussen voor.
@@ -85,7 +86,7 @@ een structuurvisie worden de hoofdzaken van het te voeren ruimtelijk beleid
 vastgelegd.  
 1. Er wordt geen ontwerp-besluit ter inzage gelegd en het indienen van zienswijzen is niet mogelijk; wel kan afhankelijk van de inspraakverordening
     het verlenen van inspraak vereist zijn.
-2. Tegen de structuurvisie kan geen beroep worden ingesteld en geen bezwaarschrift worden ingediend.  
+2. Tegen de structuurvisie kan geen beroep worden ingesteld en geen bezwaarschrift worden ingediend. 
 <br/><br/>
 
 Door de mogelijkheid van een voorbereidingsprocedure en doordat de
@@ -123,7 +124,7 @@ alle dossierstatussen met uitzondering van de status 'in voorbereiding'.
 **Provinciale verordening**
 Een provinciale verordening bevat algemeen verbindende voorschriften.  
 1. Er wordt een ontwerp-besluit ter inzage gelegd waarover opmerkingen ter kennis van provinciale staten kunnen worden gebracht.
-2. Tegen de provinciale verordening kan geen beroep worden ingesteld en geen bezwaarschrift worden ingediend.  
+2. Tegen de provinciale verordening kan geen beroep worden ingesteld en geen bezwaarschrift worden ingediend. 
 <br/><br/>
 
 Doordat er een voorbereidingsprocedure geldt en de provinciale verordening
@@ -134,10 +135,9 @@ werking', 'vervallen', 'geconsolideerd'.
 
 **AMvB**
 Een Algemene Maatregel van Bestuur (AMvB) is een besluit van de regering. Hierin
-is de inhoud van een wet verder uitgewerkt. Een AMvB bevat algemeen verbindende
-voorschriften.  
+is de inhoud van een wet verder uitgewerkt. Een AMvB bevat algemeen verbindende voorschriften.  
 1. Er wordt een ontwerp-besluit ter inzage gelegd waarover opmerkingen ter kennis van de minister kunnen worden gebracht.
-2. Tegen de AMvB kan geen beroep worden ingesteld en geen bezwaarschrift worden ingediend.  
+2. Tegen de AMvB kan geen beroep worden ingesteld en geen bezwaarschrift worden ingediend. 
 <br/><br/>
 
 Doordat er een voorbereidingsprocedure geldt en de AMvB direct na het
