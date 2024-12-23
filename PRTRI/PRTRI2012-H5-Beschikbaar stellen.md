@@ -139,7 +139,7 @@ stylesheet (opmaakbestand) kan mee sturen met de plantekstbestanden. De
 landelijke voorziening Ruimtelijkeplannen.nl maakt bij de verbeelding gebruik van het opmaakbestand en daarmee de huisstijl van de bronhouder toepassen. Ook derden kunnen van dit opmaakbestand gebruik maken.
 <br/><br/>
 
-***Gebruik van PDF-bestanden***  
+***Gebruik van PDF-bestanden*** 
 Indien er PDF-bestanden worden gebruikt in een planset dan is het beter om PDF-
 bestanden te gebruiken die geen flashcomponenten bevatten. Bestanden met
 flashcomponenten kunnen om veiligheidsredenen niet meer in een webbrowser worden
@@ -149,7 +149,7 @@ Controleer daarom vóór publicatie dat uw PDF-documenten geen Flashcomponenten
 bevatten.  
 <br/><br/>
 
-***Objectgerichte planteksten in XML***
+***Objectgerichte planteksten in XML*** 
 Voor objectgerichte planteksten in XML-formaat volgens de IMROPT2012-standaard
 is er (sinds versie 2.2.10 van Ruimtelijkeplannen.nl) landelijk één standaard
 layout en presentatie. Kenmerk van objectgericht werken is dat vorm en inhoud
@@ -162,7 +162,7 @@ Ten behoeve van het weergeven van objectgerichte XML planteksten wordt gebruik
 gemaakt van 2 soorten opmaakbestanden:  
 - XSL stylesheet ten behoeve van het omzetten van objectgericht XML naar HTML;
 - CSS stylesheet ten behoeve van de visuele opmaak van de HTML.  
-<br/>
+<br/><br/>
 
 Een XSL stylesheet transformeert de objectgerichte plantekst van XML naar
 leesbare HTML tekst. Een CSS stylesheet voegt daar een standaard layout en
@@ -184,7 +184,7 @@ De handleiding is beschikbaar via de besloten omgeving voor bronhouders van Ruim
 </details>
 
 Bij het werken met objectgerichte XML planteksten wordt gebruik gemaakt van
-standaard XSL en CSS stylesheets die onderdeel zijn van de RO Standaarden<sup>[4]</sup>.
+standaard XSL en CSS stylesheets die onderdeel zijn van de RO Standaarden.
 <details class='note'>
 Deze standaard XSL en CSS zijn tezamen met de rest van de andere
 onderdelen van de RO Standaarden 2012 beschikbaar via de <a href='https://www.geonovum.nl/geo-standaarden/ro-standaarden-ruimtelijke-ordening' target='_blank'>Geonovum website</a>.
@@ -201,10 +201,10 @@ bronhouder gebruik gemaakt van een eigen opmaak voor objectgerichte planteksten,
 kan deze meegeleverd worden maar Ruimtelijkeplannen.nl zal hier niets mee doen.  
 
 Voor het weergeven van planteksten zijn er vier mogelijkheden:  
-1.  HTML planregels zonder eigen CSS opmaakbestand;  
-2.  HTML planregels met eigen CSS opmaakbestand;  
-3.  XML planteksten zonder eigen CSS opmaakbestand;  
-4.  XML planteksten met eigen CSS opmaakbestand.
+1. HTML planregels zonder eigen CSS opmaakbestand;  
+2. HTML planregels met eigen CSS opmaakbestand;  
+3. XML planteksten zonder eigen CSS opmaakbestand;  
+4. XML planteksten met eigen CSS opmaakbestand.
 <br/><br/>
 
 **Ad. 1. HTML planregels zonder eigen CSS opmaakbestand**  
