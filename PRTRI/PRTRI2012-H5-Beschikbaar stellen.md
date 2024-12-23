@@ -136,9 +136,8 @@ De opmaak van planteksten wordt voor een belangrijk deel niet in de plantekst
 zelf geregeld maar in een apart opmaakbestand. Voor niet-objectgerichte
 planteksten in HTML- en/of PDF-formaat geldt dat de bronhouder een eigen CSS
 stylesheet (opmaakbestand) kan mee sturen met de plantekstbestanden. De
-landelijke voorziening Ruimtelijkeplannen.nl maakt bij de verbeelding gebruik van het opmaakbestand en daarmee de huisstijl van de bronhouder toepassen.
-Ook derden kunnen van dit opmaakbestand gebruik maken.
-<br/>
+landelijke voorziening Ruimtelijkeplannen.nl maakt bij de verbeelding gebruik van het opmaakbestand en daarmee de huisstijl van de bronhouder toepassen. Ook derden kunnen van dit opmaakbestand gebruik maken.
+<br/><br/>
 
 ***Gebruik van PDF-bestanden***  
 Indien er PDF-bestanden worden gebruikt in een planset dan is het beter om PDF-
@@ -148,7 +147,7 @@ geopend waardoor de PDF-bestanden bij raadpleging van Ruimtelijkeplannen.nl geen
 inhoud bevatten.  
 Controleer daarom vóór publicatie dat uw PDF-documenten geen Flashcomponenten
 bevatten.  
-<br/>
+<br/><br/>
 
 ***Objectgerichte planteksten in XML***
 Voor objectgerichte planteksten in XML-formaat volgens de IMROPT2012-standaard
@@ -163,7 +162,7 @@ Ten behoeve van het weergeven van objectgerichte XML planteksten wordt gebruik
 gemaakt van 2 soorten opmaakbestanden:  
 - XSL stylesheet ten behoeve van het omzetten van objectgericht XML naar HTML;
 - CSS stylesheet ten behoeve van de visuele opmaak van de HTML.  
-<br/><br/>
+<br/>
 
 Een XSL stylesheet transformeert de objectgerichte plantekst van XML naar
 leesbare HTML tekst. Een CSS stylesheet voegt daar een standaard layout en
