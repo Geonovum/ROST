@@ -11,6 +11,9 @@ var documentConfig =
   ],
   publishDate: "",
   publishVersion: "1.3.4",
+  thisVersion: [
+    "https://docs.geostandaarden.nl/ro/def-pr-abpk2012-20241220/"
+  ],
   previousPublishDate: "2024-12-20",
   previousPublishVersion: "1.3.3",
   prevVersion: [

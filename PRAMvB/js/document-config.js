@@ -11,6 +11,9 @@ var documentConfig =
   ],
   publishDate: "",
   publishVersion: "1.1.9",
+  thisVersion: [
+    "https://docs.geostandaarden.nl/ro/def-pr-amvb2012-20241220/"
+  ],
   previousPublishDate: "2024-12-20",
   previousPublishVersion: "1.1.8",
   prevVersion: [
