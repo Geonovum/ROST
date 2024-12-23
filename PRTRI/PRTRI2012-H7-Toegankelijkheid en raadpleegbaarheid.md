@@ -4,21 +4,20 @@ van het ruimtelijk instrument nader toegelicht.**
 ## Ruimtelijke instrumenten
 Als een ruimtelijk instrument eenmaal beschikbaar gesteld is, komt dit op drie
 manieren tot uitdrukking:  
--   **Beschikbaarheid** : alle tot het instrument behorende bronbestanden zijn
-    beschikbaar op internet en kunnen door een ieder worden gedownload;
--   **Vindbaarheid** : het ruimtelijk instrument kan worden gevonden middels het
-    Manifest, waar verwijzingen naar dit instrument en de bijbehorende
+- **Beschikbaarheid** : alle tot het instrument behorende bronbestanden zijn beschikbaar op internet en kunnen door een ieder worden gedownload;
+- **Vindbaarheid** : het ruimtelijk instrument kan worden gevonden middels het Manifest, waar verwijzingen naar dit instrument en de bijbehorende
     bronbestanden worden gegeven;
--   **Toegankelijkheid** : het instrument is op een toegankelijke manier
-    raadpleegbaar in de digitale verbeelding, die is gegenereerd uit de tot het
+- **Toegankelijkheid** : het instrument is op een toegankelijke manier raadpleegbaar in de digitale verbeelding, die is gegenereerd uit de tot het
     instrument behorende bestanden.  
+<br/>
 
 De relaties tussen bestanden, Manifest, digitale verbeelding en hun onderlinge
 functies en relaties worden weergegeven in Figuur 5. 
  
 ![](media/22538695c7857efe5940c206e8f211b3.png)  
 **Figuur 5 Relaties tussen bestanden, Manifest en verbeelding**
-</br></br>
+<br/><br/>
+
 Nadat alle bestanden waaruit het ruimtelijk instrument is opgebouwd via het
 internet beschikbaar zijn gemaakt, zullen deze nog niet automatisch kunnen
 worden gevonden door afnemers. Er zijn twee soorten afnemers:  
@@ -36,13 +35,13 @@ worden gevonden door afnemers. Er zijn twee soorten afnemers:
     Manifest gezocht naar de benodigde informatie van de bronhouder, en
     tenslotte verwijst het Manifest door naar de webadressen van de individuele
     ruimtelijke instrumenten.  
-
+<br/><br/>
 
 In Figuur 6 is het zoeken en vinden door beide soorten afnemer schematisch
 weergegeven.  
 ![](media/d021490674f0f3d3973e42d752c8ea00.png)  
 **Figuur 6 Zoekproces**  
-</br></br>
+<br/><br/>
 
 Een belangrijk aspect van ieder ruimtelijk instrument is de volledige,
 toegankelijke raadpleegbaarheid door middel van een cartografische visualisatie
@@ -70,11 +69,9 @@ verbeeld worden ten behoeve van toelichting of verduidelijking. Deze aanvullende
 verbeeldingen hebben een informatief karakter.
 
 ## Ondergrond
-Op grond van artikel 1.2.4 lid 1 Bro moet bij het besluit tot vaststelling van
-het ruimtelijke instrument worden aangegeven welke ondergrond is gebruikt. In
+Op grond van het <a href='http://wetten.overheid.nl/BWBR0023798' target='_blank'>Besluit ruimtelijke ordening</a> (Bro) artikel 1.2.4 lid 1 moet bij het besluit tot vaststelling van het ruimtelijke instrument worden aangegeven welke ondergrond is gebruikt. In
 IMRO2012 is dit uitgewerkt door voor alle ruimtelijke instrumenten het opnemen
-en invullen van het attribuut *ondergrondInfo* verplicht te stellen. Hoewel niet
-wettelijk verplicht, is deze lijn ook gevolgd in IMWE2014. De ondergrond maakt
+en invullen van het attribuut *ondergrondInfo* verplicht te stellen. De ondergrond maakt
 echter geen deel uit van de set van bronbestanden die het ruimtelijke instrument
 vormen. Om die reden bevat de STRI2012 geen voorschrift over de toegelaten
 bestandsformaten voor de ondergrond. Daardoor kan een bronhouder ieder
@@ -97,7 +94,6 @@ ontvangen en begrepen kan worden. Een lijst van bestandsformaten is opgenomen in
 
 Conform IMRO2012 is het bij de ruimtelijke instrumenten alleen mogelijk
 ondergronden te gebruiken van de volgende basisregistratie(s):  
--   basisregistratie grootschalige topografie (BGT), verplicht gebruik per 1
-    juli 2017.
--   basisregistratie topografie (BRT)
--   basisregistratie kadaster (BRK)
+- basisregistratie grootschalige topografie (BGT), 
+- basisregistratie topografie (BRT),
+- basisregistratie kadaster (BRK).
