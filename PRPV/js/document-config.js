@@ -3,7 +3,7 @@ var documentConfig =
   title: "Praktijkrichtlijn Provinciale Verordening 2012 (PRPV2012)",
   shortName: "pv2012",
   pubDomain: "ro",
-  specStatus: "wv",
+  specStatus: "def",
   specType: "pr",
   license: "cc-by-nd",
   latestVersion: [
