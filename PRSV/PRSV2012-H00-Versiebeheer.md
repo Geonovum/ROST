@@ -13,7 +13,7 @@ geeft inzicht in wijzigen en de actualiteit ervan.
 | 1.1.4      | 20 september 2018, 23 oktober 2018   | Vervallen               | Paragraaf 1.2 aanpassen voor het gebruik van PDF bestanden zonder Flashcompnenten.           |
 | 1.1.5      | 23 november 2022                 | Vervallen               | Reparatie verwijzing STRI2012 v1.1 naar v2.0       |
 | 1.1.6      | 14 februari 2024                 | Vervallen               | Actualiseren van verwijzingen naar wet- en regelgeving en de onderdelen van de RO Standaarden. Ook aangepast is de wijze van verwijzen naar externe pagina's.       |
-| 1.1.7      | 26 november 2024                 | Definitief               | Vervangen van de weergave van tabellen zodat deze WCAG conform zijn. Verder is de opmaak aangepast.      |
+| 1.1.7      | 24 december 2024                 | Definitief               | Vervangen van de weergave van tabellen zodat deze WCAG conform zijn. Verder is de opmaak aangepast.      |
 
 
 
