@@ -9,10 +9,10 @@ var documentConfig =
   latestVersion: [
     "https://docs.geostandaarden.nl/ro/sv2012/"
   ],
-  publishDate: "2024-11-26",
+  publishDate: "2024-12-24",
   publishVersion: "1.1.7",
   thisVersion: [
-    "https://docs.geostandaarden.nl/ro/def-pr-sv2012-20241126/"
+    "https://docs.geostandaarden.nl/ro/def-pr-sv2012-20241224/"
   ],
   previousPublishDate: "2024-02-14",
   previousPublishVersion: "1.1.6",
