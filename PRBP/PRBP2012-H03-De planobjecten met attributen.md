@@ -1,11 +1,9 @@
 # De planobjecten met attributen
-
 **Een klasse, te beschouwen als een objecttype, kent attributen die de
 eigenschappen van dat objecttype geven. In dit hoofdstuk worden de
 (sub)klassen (objecttypen) met bijbehorende attributen beschreven.**
 
 ## Klasse Bestemmingsplangebied
-
 Het object (de klasse) *Bestemmingsplangebied* is het object dat het gebied, of
 de gebieden, binnen de plangrenzen geometrisch representeert. Aan dit object
 worden de algemene eigenschappen van het plangebied als attribuut gekoppeld.
@@ -17,11 +15,9 @@ is aangegeven of het samengestelde attributen betreffen, dat wil zeggen altijd
 in samenhang moeten worden gebruikt. Na de tabel is per attribuut een nadere
 toelichting gegeven.
 
-**Tabel 2 Klasse Bestemmingsplangebied 1\***
-
 <table id="d4e612" style="width: 100%;"><caption>Klasse Bestemmingsplangebied 1*</caption><colgroup><col id="col1" style="width: 5.657835653345308%;"></col><col id="col2" style="width: 0.60619667714414%;"></col><col id="col3" style="width: 26.87471935339021%;"></col><col id="col4" style="width: 28.01975752132914%;"></col><col id="col5" style="width: 8.834755276156264%;"></col><col id="col6" style="width: 30.006735518634937%;"></col></colgroup><thead valign="top"><tr><th align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;" colspan="3"><p id="3A3DF3F8">attribuut</p></th><th align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="75C53F51">waarde</p></th><th align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="2B1AF88B">*</p></th><th align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="44BDB88C">nadere omschrijving waarde</p></th></tr></thead><tbody valign="top"><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;" colspan="3"><p id="4FD0A884"><i>identificatie: </i></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="5C350903"><i>NEN3610ID</i></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="79A7A3D5"><i>1</i></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="2F452A3A"><i>samengesteld attribuut.</i></p><p id="0B71B2B0"><i>Uit  de combinatie hiervan wordt de bestandsnaam van het plan opgebouwd conform STRI2012: namespace.lokaalID-versie</i></p></td></tr><tr><td align="left" style="padding-top: 0.5em; border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;" rowspan="3"><p id="0108AF16" style="writing-mode: vertical-rl; rotate: 180deg;"><i>NEN3610ID</i></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;" colspan="2"><p id="1B67E4C7">namespace</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="7BC056EB">waarde</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="1CD37128">1</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="431BFCBE">Unieke verwijzing naar een registratie van objecten. Voor IMRO objecten is dat ‘NL.IMRO’</p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;" colspan="2"><p id="2E304AF8">lokaalID</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="0DB8E39D">waarde</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="0900B782">1</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="602BBAFB">Unieke identificatiecode binnen een registratie. Bestaande uit een bronhouderscode van 4 cijfers gevolgd door een punt (.) en maximaal 18 alfanumerieke tekens.</p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;" colspan="2"><p id="33F62A99">versie</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="05CD0B60">waarde</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="263A028C">1</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="1A806FD5">Versie-aanduiding van het plangebied bestaande uit 4 alfanumerieke tekens </p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;" colspan="3"><p id="7CE3C98E">typePlan</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="2851067F">bestemmingsplan, inpassingsplan, rijksbestemmingsplan, uitwerkingsplan, wijzigingsplan </p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="47730D94">1</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="23DCBFA2">één van de waarden volgens domein RuimtelijkPlanOfBesluit_BP</p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;" colspan="3"><p id="4BC0FA72">beleidsmatigVerantwoordelijkeOverheid</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="3C786830">gemeentelijke overheid, deelgemeente/stadsdeel,</p><p id="3B30071F">provinciale overheid of nationale overheid</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="3C8E0289">1</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="2F04062E">één van de waarden volgens domein Overheden_BP</p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;" colspan="3"><p id="59260BA8">naamOverheid</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="239A0187">naam van de overheid</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="6639552F">1..n</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="4085CE4E">volgens format in de vorm: gemeente …., deelgemeente/ stadsdeel …., provincie …. of ministerie …. In het geval er meerdere verantwoordelijke ministeries zijn, wordt naamOverheid evenzoveel ingevuld.</p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;" colspan="3"><p id="3C5F075B">overheidsCode    </p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="24A9FFE2">CBS-nummer van de beleidsmatig verantwoordelijke overheid </p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="28CA4211">1</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="72554C28">4 cijfers; ingeval Rijk: "0000"; ingeval provincie: CBS-nummer provincie, met voorafgaand 2 voorloopnegens; ingeval deelgemeente/stadsdeel: CBS-nummer gemeente</p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;" colspan="3"><p id="2E2B15D1">naam</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="45F0C712">naam van het plan</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="4111D6B4">1</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="64669712">volgens de aanhaaltitel conform SVBP2012</p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;" colspan="3"><p id="66859991">locatieNaam</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="2E613BCC">naam van de locatie</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="633FDF11">0..n</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="245D86D7">iedere gewenste naam; verplicht ingeval naamOverheid anders dan gemeente</p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;" colspan="3"><p id="64FC1961"><i>planstatusInfo:</i></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="36667BD3"><i>PlanstatusEnDatum</i></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="14A92279"><i>1</i></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="379C471C"><i>samengesteld attribuut</i></p></td></tr><tr><td align="left" style="padding-top: 0.5em; border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;" colspan="2" rowspan="2"><p id="7C367379" style="writing-mode: vertical-rl; rotate: 180deg;"><i>PlanstatusEnDatum</i></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="5830A549">planstatus</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="5D41BE0E">waarde van de planstatus</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="3E250570">1</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="2D4E782C">één van de waarden volgens domein Planstatus</p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="253019CB">datum</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="415A412F">datum van de planstatus</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="3E838A02">1</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="575231B6">in de vorm: jjjj-mm-dd</p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;" colspan="3"><p id="12B34C89">besluitnummer</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="038BE8C9">nummer van het besluit</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="296E0ACD">0..1</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="7DA116E6">het besluitnummer van het vaststellingsbesluit; alleen toegestaan en verplicht voor planstatus vastgesteld</p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;" colspan="3"><p id="01C055A5">verwijzingNaarVaststellingsbesluit</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="4AA23983">link</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="4C8534A0">0..1</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="2D40CD65">naar tekst vaststellingsbesluit; in format bestandsnaamconventie conform STRI2012; alleen toegestaan en verplicht voor planstatus vastgesteld</p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;" colspan="3"><p id="2C00656B"><i>verwijzingNaarTekstInfo:</i></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="263F7C09"><i>TekstReferentiePG_BP</i></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="6C8627A7"><i>2..4</i></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="71AC2F52"><i>samengesteld attribuut:</i></p><p id="75A04E27"><i>1 verwijzing naar volledige toelichting (verplicht), 1 naar volledige regels (verplicht) en max. 1 van elk typeTekst naar volledige bijlage(n)</i></p></td></tr><tr><td align="left" style="padding-top: 0.5em; border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;" colspan="2" rowspan="2"><p id="22740FE6" style="writing-mode: vertical-rl; rotate: 180deg;"><i>TekstReferentiePG_BP</i></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="5992BE2C">verwijzingNaarTekst</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="6D969318">link</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="4495FC40">1</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="48FAF8E5">in format bestandsnaamconventie toelichting, regels of bijlage, conform STRI2012</p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="45D88489">typeTekst</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="1E6166D8">regels</p><p id="19B3359A">toelichting</p><p id="0B1C1337">bijlage bij regels</p><p id="4F19D648">bijlage bij toelichting</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="2D3E75ED">1</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="503EE2E8">één van de waarden volgens domein TeksttypePG_BP</p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;" colspan="3"><p id="1B6CB385"><i>ondergrondInfo:</i></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="342FB109"><i>OndergrondReferentie</i></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="24A77732"><i>1..n</i></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="4794733C"><i>samengesteld attribuut</i></p></td></tr><tr><td align="left" style="padding-top: 0.5em; border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;" colspan="2" rowspan="2"><p id="48235405" style="writing-mode: vertical-rl; rotate: 180deg;"><i>OndergrondReferentie</i></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="5601050F">ondergrondtype</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="002BF89B">naam van de ondergrond</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="31ECF1DB">1</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="2F008429">één van de waarden volgens domein Ondergronden Ingeval geen gebruik is gemaakt van een ondergrond uit het domein Ondergronden wordt een eenduidige referentie naar de gebruikte ondergrond(en) gegeven</p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="5CA28DE7">ondergronddatum</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="632AC6A2">datum van de gebruikte ondergrond</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="7B132E62">1</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="29E75745">in de vorm: jjjj-mm-dd</p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;" colspan="3"><p id="7C0532B2"><i>verwijzingNaarExternPlanInfo: </i></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="5E5D6892"><i>ExternPlanReferentie_BP</i></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="4081802E"><i>0..n</i></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="431F4811"><i>samengesteld attribuut</i></p><p id="221C8879"><i>Verplicht bij een uitwerkingsplan, wijzigingsplan </i></p></td></tr><tr><td align="left" style="padding-top: 0.5em; border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;" rowspan="3"><p id="5BBA661B" style="writing-mode: vertical-rl; rotate: 180deg;"><i>ExternPlan-Referentie_BP</i></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;" colspan="2"><p id="2EC99AA9">naamExternPlan</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="073F07A3">naam van extern plan/ besluit</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="18149B36">1</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="6993136C">de naam van het plan/besluit waarnaar wordt verwezen</p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;" colspan="2"><p id="42016487">idnExternPlan</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="4A7A5A6C">idn van plan/ besluit</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="52EBB0BC">0..1</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="36E7EB6C">idn van het plan/ besluit waarnaar wordt verwezen</p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;" colspan="2"><p id="31C9C853">rolExternPlan</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="3F389237">ten gevolge van extern plan/ besluit, ter vervanging van extern plan of als mutatie opgenomen</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="784E1886">1</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="65B7DA76">één van de waarden volgens domein RolExternPlan_BP.</p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;" colspan="3"><p id="6253B46C">verwijzingNorm</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="5CE36ADF">IMRO2012 en PRBP2012 optioneel IMROPT2012 optioneel PRABPK2012</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="1B87D71D">2..4</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="45542ECE">verwijzing naar gebruikte versie IMRO en naar gebruikte versie praktijkrichtlijn bestemmingsplannen: vaste waarden.</p><p id="49946250">verplicht bij gebruik objectgerichte planteksten: IMROPT2012.</p><p id="5C8C69DB">verplicht bij gebruik praktijkrichtlijn analoge bestemmingsplankaart: PRABPK2012.</p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;" colspan="3"><p id="097F750E">geometrie</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="79BA57C0">coördinaten </p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="7CC54D65">1</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="38370438">beschrijving van vlak of multivlak</p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;" colspan="6"><p id="52A4AF18"><b>*</b>  multipliciteit:</p><p id="12DE18E4">0..1:   komt 0 of 1 keer voor          0..n:   komt zo vaak voor als gewenst</p><p id="6D6DAF41">1/2:   komt 1 resp. 2 keer voor      1/2..n:   komt tenminste 1 resp. 2 keer voor</p></td></tr></tbody></table><table id="d4e1758" style="width: 100%;"><caption>Type plan</caption><colgroup><col id="col1" style="width: 28.220244716351502%;"></col><col id="col2" style="width: 71.7797552836485%;"></col></colgroup><thead valign="top"><tr><th align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="1F8AB61F">type plan</p></th><th align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="27799469">omschrijving</p></th></tr></thead><tbody valign="top"><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="5DCB1CF8">bestemmingsplan:</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="542345A9">voor een bestemmingsplan dat wordt opgesteld overeenkomstig artikel 3.1 van de Wet ruimtelijke ordening (Wro)</p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="39ED96D2">inpassingsplan:</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="6ABFBE11">voor een bestemmingsplan (inpassingsplan) dat wordt opgesteld overeenkomstig artikel 3.26 of 3.28 van de Wet ruimtelijke ordening (Wro)</p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="42E19361">rijksbestemmingsplan:</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="62DFC0B6">voor een (rijks)bestemmingsplan dat wordt opgesteld overeenkomstig artikel 10.1 van de Wet ruimtelijke ordening (Wro)</p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="7CA4A4A4">uitwerkingsplan:</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="534D2BE7">voor een uitwerkingsplan dat wordt opgesteld overeenkomstig artikel 3.6, 3.26, 3.28 of 10.3, lid 2 van de Wet ruimtelijke ordening (Wro)</p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="7D48180F">wijzigingsplan:</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="51CFE8AA">voor een wijzigingsplan dat wordt opgesteld overeenkomstig artikel 3.6, 3.26, 3.28 of 10.3, lid 2 van de Wet ruimtelijke ordening (Wro)</p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;" colspan="2"><p id="7D8D6FBB">N.B.    artikelnummers overeenkomstig het staatsblad nr. 566, jaargang 2006</p></td></tr></tbody></table
 
-**identificatie** (verplicht):  
+***identificatie*** (verplicht):  
 Ieder ruimtelijk instrument kent een eigen identificatienummer (idn). Deze
 identificatie maakt het mogelijk dat op landelijk niveau een uniek onderscheid
 voor ieder instrument aanwezig is. Voor het geval het werkingsgebied bestaat uit
@@ -29,17 +25,20 @@ meerdere ruimtelijk gescheiden gebieden kent het totaal van die gebieden één
 identificatienummer. De geometrie van het object *Bestemmingsplangebied* is
 hierbij een multipolygoon.
 Het samengestelde attribuut verwijst naar het object NEN3610ID bestaande uit de
-attributen *namespace, lokaalID* en *versie*.  
--	 **namespace:** (verplicht)  
+attributen *namespace, lokaalID* en *versie*.
+<br/>
+- **namespace:** (verplicht)  
 Een unieke verwijzing naar een registratie van objecten. Voor IMRO objecten
-is dat ‘NL.IMRO’.  
-- 	**lokaalID:** (verplicht)  
+is dat ‘NL.IMRO’.
+<br/>
+- **lokaalID:** (verplicht)  
 Unieke identificatiecode binnen de registratie van ruimtelijke plannen.
 Bestaande uit een bronhouderscode van 4 cijfers (voor het Rijk 0000, voor
 gemeente het CBS-nummer) gevolgd door een punt (.) en maximaal door de
 bronhouder te bepalen 18 alfanumerieke tekens. Er geldt de volgende
-reguliere expressie: [0-9]{4}\\.[A-Za-z0-9]{1,18}  
--	**Versie:** (verplicht)
+reguliere expressie: [0-9]{4}\\.[A-Za-z0-9]{1,18}
+<br/>
+- **Versie:** (verplicht)
 Versie-aanduiding van het plangebied bestaande uit 4 alfanumerieke tekens
 door de bronhouder te bepalen. Er geldt de volgende reguliere expressie:
 [A-Za-z0-9]{4}
@@ -47,11 +46,13 @@ Uit de waarden van de attributen *namespace, lokaalID* en *versie* wordt de
 bestandsnaam van het plan opgebouwd conform STRI2012:
 namespace.lokaalID-versie. De samengestelde reguliere expressie is:
 NL\\.IMRO\\.[0-9]{4}\\.[A-Za-z0-9]{1,18}-[A-Za-z0-9]{4}
+<br/><br/>
 
 **typePlan** (verplicht):  
 Voor het attribuut *typePlan* wordt het domein *RuimtelijkPlanOfBesluit_BP*
 gebruikt. Voor de waarde zijn er vijf mogelijkheden waaruit er één moet worden
 gekozen. De mogelijkheden zijn opgenomen in Tabel 3.
+<br/><br/>
 
 **Tabel 3 Type plan**
 
@@ -65,12 +66,14 @@ volgende vaste waarden:
 -   deelgemeente/stadsdeel;
 -   provinciale overheid of
 -   nationale overheid.
+<br/><br/>
 
 **naamOverheid** (verplicht):  
 Hier wordt de naam van de beleidsmatig verantwoordelijke overheid opgenomen, in
 de vorm van de tekst “gemeente …….”, “deelgemeente ……”, "stadsdeel ……",
 “provincie …….” of “ministerie …….”. In het geval er meerdere verantwoordelijke
 ministeries zijn, wordt naamOverheid evenzoveel ingevuld,
+<br/><br/>
 
 **overheidsCode** (verplicht):  
 Om inzichtelijk te maken van welke beleidsmatig verantwoordelijke overheid het
@@ -79,6 +82,7 @@ opgenomen. Voor deelgemeenten/stadsdelen wordt het nummer gebruikt van de
 gemeente waartoe zij behoren. Voor de provincies worden, voorafgaand aan het
 CBS-nummer van de provincie, twee voorloopnegens geplaatst, zodat de totale
 lengte 4 posities bedraagt. Voor het Rijk wordt het nummer "0000" gebruikt.
+<br/><br/>
 
 **naam** (verplicht):  
 In het waardeveld van het attribuut *naam* dient de volledig naam van het
@@ -96,23 +100,27 @@ Het is noodzakelijk (verplicht) het attribuut *locatieNaam* te gebruiken voor
 zover het een inpassingsplan betreft dat door een provincie of door het Rijk
 wordt opgesteld. In dat geval worden bij dit attribuut alle provincienamen en
 gemeentenamen opgenomen waarbinnen het bestemmingsplan valt.
+<br/><br/>
 
 ***planstatusInfo*** (verplicht):
-
 Dit attribuut is noodzakelijk om de plangegevens te kunnen plaatsen naar tijd en
 belang. Het samengesteld attribuut *planstatusInfo* verwijst naar het object
-*PlanstatusEnDatum*, bestaande uit de attributen:  
--	**planstatus** (verplicht)  
+*PlanstatusEnDatum*, bestaande uit de attributen:
+<br/>
+- **planstatus** (verplicht)  
 Het domein *Planstatus* geeft de toegestane waarden voor het attribuut *planstatus* waaruit er één moet worden gekozen. De waarde van dit attribuut
-geeft de planstatus weer.  
--	**datum** (verplicht)  
+geeft de planstatus weer.
+<br/>
+- **datum** (verplicht)  
 Het attribuut *datum* is bedoeld om de proceduredatum van het plan op te
 nemen. De in het waardeveld op te nemen datum dient overeenkomstig het in
 IMRO2012 afgesproken datumformaat te worden genoteerd: jjjj-mm-dd.
+<br/><br/>
 
 **besluitnummer** (onder voorwaarde verplicht):  
 Nummer van het vaststellingsbesluit van het plan. Het besluitnummer is alleen
 toegestaan en verplicht indien de planstatus *vastgesteld*.
+<br/><br/>
 
 **verwijzingNaarVaststellingsbesluit** (onder voorwaarde verplicht):  
 Hierin wordt een link opgenomen naar de tekst van het vaststellingsbesluit. In
@@ -122,14 +130,16 @@ andere (eerdere) planstatus is dit attribuut niet toegestaan. Aan het bestand
 kunnen indien gewenst ook door de bronhouder andere relevant geachte stukken,
 die voor een goed begrip nodig kunnen zijn, zoals het raadsvoorstel, worden
 toegevoegd.
+<br/><br/>
 
 ***verwijzingNaarTekstInfo*** (verplicht):  
 Dit attribuut verwijst naar het samengestelde attribuut *TekstReferentiePG_BP*,
 bestaande uit de attributen *verwijzingNaarTekst* en *typeTekst*.  
 Het attribuut wordt met de volgende cardinaliteit opgenomen:  
-- 1 verwijzing naar volledige toelichting.
-- 1 verwijzing naar volledige regels.
-- 0..2 verwijzing naar elk typeTekst volledige bijlagen.  
+\- 1 verwijzing naar volledige toelichting.
+\- 1 verwijzing naar volledige regels.
+\- 0..2 verwijzing naar elk typeTekst volledige bijlagen.  
+<br/><br/>
 Teneinde een zo beperkt mogelijk aantal verwijzingen naar teksten te verkrijgen
 is het aantal keren dat het attribuut *verwijzingNaarTekstInfo* mag worden
 gebruikt beperkt. De raadpleger van de plannen heeft daar baat bij, omdat hij
@@ -139,6 +149,7 @@ toelichting en maximaal één naar de volledige regels. Daarnaast mag er maximaa
 één verwijzing zijn naar alle eventuele bijlagen, gegroe­peerd naar bijlage(n)
 bij toelichting en bijlage(n) bij regels. Er mag worden verwezen naar een
 inhoudsop­gave of index, waardoor indirect meer mogelijkheden aanwezig zijn.
+<br/>
 De bronhouder kiest voor het al dan niet gebruik van objectgerichte planteksten.
 In beide gevallen wordt dit attribuut *verwijzingNaarTekstInfo* gebruikt. De
 keuze voor XML of HTML/PDF planteksten geldt niet alleen voor het
@@ -146,12 +157,14 @@ bestemmingsplangebied, de keuze geldt ook voor de andere objecten (bestemmingen/
 aanduidingen) binnen het bestemmingsplan. Daarnaast wordt de keuze vastgelegd
 met behulp van het attribuut *verwijzingNorm* bij Bestemmingsplangebied van dit
 bestemmingsplan. Het format dient overeenkomstig de afspraak over de
-bestandsnaamconventies conform de STRI2012 te zijn.  
--	**verwijzingNaarTekst** (verplicht)  
+bestandsnaamconventies conform de STRI2012 te zijn.
+<br/>
+- **verwijzingNaarTekst** (verplicht)  
 De waarde van dit attribuut is een (hyper)link naar het soort document dat
 is aangegeven bij het attribuut *typeTekst*. Er wordt in de waarde geen
-elementen van een directory structuur/pad opgenomen.  
--	**typeTekst** (verplicht)  
+elementen van een directory structuur/pad opgenomen.
+<br/>
+- **typeTekst** (verplicht)  
 Hiermee wordt aangegeven om wat voor type tekst het gaat. Per verwijzing
 naar tekst dient gekozen te worden uit een van de volgende waarden van het
 domein *TeksttypePG_BP*:  
@@ -159,6 +172,7 @@ domein *TeksttypePG_BP*:
 	-	toelichting  
 	-	bijlage bij regels  
 	-	bijlage bij toelichting
+<br/><br/>
 
 ***ondergrondInfo*** (verplicht, zo vaak als gewenst):  
 Dit attribuut verwijst naar het samengestelde attribuut *Ondergrondreferentie*,
@@ -166,7 +180,7 @@ bestaande uit de attributen *ondergrondtype* en *ondergronddatum.* Met dit
 attribuut wordt, conform artikel 1.2.4 Bro, aangegeven welke ondergrond bij het
 vaststellen van het bestemmingsplan is gebruikt.
 Er zijn meerdere waarden mogelijk.
-
+<br/>
 - **ondergrondtype** (verplicht)  
 	-	Het type van de gebruikte ondergrond volgens het domein *Ondergronden*. Op
     grond van de Wet basisregistratie grootschalige topografie (BGT) is het per
@@ -177,10 +191,11 @@ Er zijn meerdere waarden mogelijk.
 Indien geen gebruik is gemaakt van een ondergrond uit het domein
 Ondergronden, dan wordt de naam van het bestand van de gebruikte
 ondergrond(en) als vrije tekst opgegeven. In hoofdstuk 7 van de <a href='https://docs.geostandaarden.nl/ro/tri2012' target='_blank'>PRTRI2012</a> is
-toegelicht welke bestandformaten voor de ondergrond kunnen worden gebruikt. 
- 
+toegelicht welke bestandformaten voor de ondergrond kunnen worden gebruikt.
+<br/>
 - **ondergronddatum** (verplicht)  
 De datum van de gebruikte ondergrond.
+<br/><br/>
 
 ***verwijzingNaarExternPlanInfo*** (onder voorwaarde verplicht):  
 Dit attribuut betreft een verwijzing naar het externe plan waar het type plan
@@ -188,7 +203,7 @@ een gevolg van is. De verwijzing naar het externe plan wordt verplicht opgenomen
 bij het *typePlan*:  
 -   uitwerkingsplan;  
 -   wijzigingsplan.
-
+<br/>
 Bij de waarde van het typePlan bestemmingsplan, inpassingsplan en
 rijksbestemmingsplan mag het attribuut *verwijzingNaarExternPlanInfo* worden
 gebruikt. Een ander ruimtelijk plan of besluit, zoals een aanwijzingsbesluit,
@@ -196,15 +211,18 @@ kan juist de aanleiding zijn voor dit nieuwe bestemmingsplan, inpassingsplan of
 rijksbestemmingsplan. In dat geval kan de bronhouder dit aan de informatie van
 het plan toevoegen met behulp van het attribuut *verwijzingNaarExternPlanInfo*.  
 Het attribuut verwijst naar het samengestelde attribuut *ExternPlanReferentie*,
-bestaande uit de attributen *naamExternPlan*, *idnExternPlan* en *rolExternPlan.*  
+bestaande uit de attributen *naamExternPlan*, *idnExternPlan* en *rolExternPlan.*
+<br/>
 - **naamExternPlan** (verplicht)  
 Hier wordt de naam van het externe plan waarnaar verwezen wordt opgegeven.
 In het geval een *typePlan* uitwerkingsplan of wijzigingsplan is, wordt de
 naam van het bestemmingsplan opgenomen waarvan dit een uitwerking of
-wijziging.  
+wijziging.
+<br/>
 - **idnExternPlan** (indien bekend)  
 Met dit attribuut wordt de identificatie (idn) van het externe plan waarnaar
-wordt verwezen opgenomen.  
+wordt verwezen opgenomen.
+<br/>
 - **rolExternPlan** (verplicht)  
 Hierin wordt de betekenis van het externe plan ten opzichte van het hier
 betreffende plan vastgelegd. Het betreft hier een van de volgende vaste
@@ -216,6 +234,7 @@ waarden uit het domein *RolExternPlan_BP*:
     van deze praktijkrichtlijn;  
 	-	*als mutatie opgenomen* voor het geval er sprake is van een"geconsolideerd
     plan ", als uiteengezet in Hoofdstuk 4 van deze praktijkrichtlijn.
+<br/><br/>
 
 **verwijzingNorm** (verplicht):  
 Teneinde de zekerheid te hebben welke technische status de data hebben, is het
@@ -224,7 +243,7 @@ Tevens moet een verwijzing worden opgenomen naar de gebruikte versie van de
 praktijkrichtlijn. In het geval objectgerichte planteksten (XML) onderdeel zijn
 van het bestemmingsplan, dan wordt ook de verwijzing naar de standaard voor
 planteksten opgenomen.
-
+<br/>
 Het attribuut *verwijzingNorm* dient minimaal twee keer te worden opgenomen
 met de verwijzing naar de betreffende versies in het waardeveld: IMRO2012 en
 PRBP2012. Bij het gebruik van objectgerichte planteksten in dit ruimtelijk plan
@@ -233,7 +252,7 @@ vaste weergave voor de analoge bestemmingsplankaart wordt ook de verwijzing naar
 de PRABPK2012 opgenomen bij het bestemmingsplangebied: PRABPK2012. In dat geval
 geldt het gebruik van de opmaak van de analoge bestemmingsplan kaartconform
 PRABPK2012 voor dit gehele bestemmingsplan.
-
+<br/><br/>
 **geometrie** (verplicht):  
 Het object *Bestemmingsplangebied* kent uitsluitend de geometrie van een vlak of
 multivlak (multipolygoon). Dit attribuut kent coördinaten in een vastgesteld
