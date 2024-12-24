@@ -3,7 +3,7 @@ var documentConfig =
   title: "Praktijkrichtlijn Gebiedsgerichte Besluiten 2012 (PRGB2012)",
   shortName: "gb2012",
   pubDomain: "ro",
-  specStatus: "wv",
+  specStatus: "def",
   specType: "pr",
   license: "cc-by-nd",
   latestVersion: [
