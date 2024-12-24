@@ -1,16 +1,15 @@
 # Herzieningen
-
 **In dit hoofdstuk wordt ingegaan op de wijze waarop gedeeltelijke herzieningen
 gecodeerd moeten worden en hoe beschikt kan worden over een versie
 "geconsolideerd".**
 
 ## Gedeeltelijke herziening
-
 Hetgeen in Hoofdstuk 4 van deze praktijkrichtlijn is vermeld, is zowel in het
 eenmalige geval als in geval van een herzien besluit volledig van toepassing.
 Op deze wijze wordt al hetgeen een nieuwe gebiedsgericht besluit betreft
 gecodeerd en wordt voldaan aan de wettelijke plicht te beschikken over een
 objectgericht besluit.
+<br/><br/>
 
 Als verplicht onderdeel moet het object *Besluitgebied_X* worden gebruikt. De
 begrenzing van het plangebied heeft betrekking op de te herziene locatie. Dit
@@ -25,13 +24,12 @@ herzien en de waarde "ter vervanging van extern plan" ingevuld. Daarmee wordt de
 relatie vastgelegd met het gebiedsgerichte besluit dat gedeeltelijk wordt
 herzien.
 
-**Tabel 6 Relatie naar extern plan**
-
 <table id="d4e3123" style="width: 100%;"><caption>Relatie naar extern plan</caption><colgroup><col id="col1" style="width: 6.809156739079654%;"></col><col id="col2" style="width: 23.24223312310208%;"></col><col id="col3" style="width: 30.96239196449428%;"></col><col id="col4" style="width: 4.555010511562719%;"></col><col id="col5" style="width: 34.43120766176127%;"></col></colgroup><tbody valign="top"><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;" colspan="2"><p id="2CF27D64"><i>verwijzingNaarExternPlan-Info: </i></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="2976083C"><i>ExternPlanReferentie_XGB</i></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="3026B05A">1</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="57483C45"><i>samengesteld attribuut</i></p></td></tr><tr><td align="left" style="padding-top: 0.5em; border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;" rowspan="3"><p id="032F686C" style="writing-mode: vertical-rl; rotate: 180deg;"><i>ExternPlan-Referentie_XGB</i></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="5843C1FF">naamExternPlan</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="3A7626A8">…</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="61B5DEC2">1</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="192FAF9E">de naam (aanhaaltitel) van het plan dat wordt vervangen</p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="7E524B1A">idnExternPlan</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="36181690">idn van het externe plan</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="55265E5D">1</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="3BFEFDA3">het idn van het externe plan </p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="495CA253">rolExternPlan</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="01CC2BA3">ter vervanging van extern plan</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="10B2CBC2">1</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="363F8628">de hier genoemde vaste waarde volgens domein RolExternPlan_XGB</p></td></tr></tbody></table>
 
 Bij het attribuut *verwijzingNaarTekstInfo* worden alle relevante teksten
 gevoegd. Daartoe wordt ge­bruik gemaakt van de domeinwaarden van het domein
 *TeksttypeBG_XGB*. De overige attributen spre­ken voor zich.
+<br/><br/>
 
 Daarnaast kunnen vervolgens alle herziene objecten van de klasse *Besluitvlak_X*
 en/of *Besluitsubvlak_X*, met alle (nieuwe of aanpassingen van de) regels, voor
@@ -48,6 +46,7 @@ kiezen en te coderen dat er een voordeel ontstaat bij het opstellen van het
 juridische doel van de herziening maatgevend, maar kan van de ruimte binnen dat
 doel gebruik worden gemaakt om te komen tot een ook voor de codering en de
 verwerking daarvan in een geconsolideerd besluit praktische oplossing.
+<br/><br/>
 
 Op deze wijze wordt al hetgeen een gebiedsgericht besluit of een herziening
 daarvan betreft gecodeerd en wordt voldaan aan de wettelijke plicht te
@@ -57,9 +56,7 @@ van een "geconsolideerd besluit " waarin de gevolgen van de herziening zijn
 verwerkt. Daarop wordt hierna in paragraaf 4.2. nader ingegaan.
 
 ## Geldende situatie: de versie ‘geconsolideerd’.
-
-Om de raadpleger van [ruimtelijkeplannen.nl](https://www.ruimtelijkeplannen.nl/)
-meer duidelijkheid te kunnen bieden over de exacte status en werkingssfeer van
+Om de raadpleger van <a href='https://www.ruimtelijkeplannen.nl' target='_blank'>Ruimtelijkeplannen.nl</a> meer duidelijkheid te kunnen bieden over de exacte status en werkingssfeer van
 de wijzigingen van een gebiedsgericht besluit en het actuele planologische
 regime ter plaatse kan het gebruik van een versie “geconsolideerd” de oplossing
 zijn. Op die manier is in één oogopslag duidelijk wat de juridische status van
@@ -69,6 +66,7 @@ bevoegd gezag kan hiermee op orde worden gesteld. Hierdoor is het niet (meer)
 nodig via andere, vaak omslachtige, wegen te zoeken naar de geldende regels. Dat
 geeft duidelijkheid, kost minder tijd en is dus klantvriendelijk naar de
 raadpleger.
+<br/><br/>
 
 <u>Let op</u>: het gaat dus niet om een herziening of een actualisering van een
 ruimtelijk plan maar om het samenvoegen van meerder ruimtelijke plannen om zo
@@ -77,12 +75,14 @@ dus geen nieuwe ontwikkelingen plaats. De versie ‘geconsolideerd’ van een
 gebiedsgericht besluit kent geen wettelijke, dus geen juridische status omdat
 deze versie niet door gemeenteraad wordt vastgesteld. Het gebruik van een
 geconsolideerd plan is een keuze van het bevoegd gezag.
+<br/><br/>
 
 Bij vergunningverlening en handhaving moet altijd verwezen worden naar de
 juridisch geldende plannen. Het consolideren van gebiedsgerichte besluiten gaat
 in eerste instantie altijd over het samenvoegen van twee of meer plankaarten,
 waar nodig. Dit kan in combinatie met het consolideren van de regels en
 toelichting.
+<br/><br/>
 
 De versie geconsolideerd is van toepassing op de inhoudelijke gebiedsgerichte
 besluiten; beheersverordening en exploitatieplan.
@@ -101,6 +101,7 @@ binnen een gemeente meerdere beheersverordeningen worden vastgesteld. Het is
 voor te stellen dat deze samen geconsolideerd worden. Exploitatieplannen dienen
 volgens de wet jaarlijks herzien te worden. Een herziening van een
 exploitatieplan komt daardoor vaker voor.
+<br/><br/>
 
 Vervolgens bundelt de bronouder de regels van de herzieningen die geconsolideerd
 worden. Hierbij verwerkt de bronhouder in de regels van het oorspronkelijke plan
@@ -112,6 +113,7 @@ duidelijkheid voor de raadpleger over wat waar geldig is. Omdat deze versie geen
 geldige juridische status heeft is het aan te bevelen om een verwijzing te maken
 naar de juridisch geldende beheersverordeningen dan wel exploitatieplannen met
 een deeplink in de geconsolideerde tekst naar de brontekst.
+<br/><br/>
 
 Een volgende stap die nog gedaan kan worden, is het consolideren van de
 toelichting behorende bij een beheersverordening of exploitatieplan. Een
@@ -120,6 +122,7 @@ de essentie van het consolideren wordt uitgelegd met daarbij de koppeling van de
 toelichtingen van de plannen die geconsolideerd worden. Dit kan een koppeling
 zijn naar een pdf dan wel html van de toelichtingen of een koppeling naar de xml
 bestanden van de toelichtingen in geval van objectgerichte planteksten.
+<br/><br/>
 
 Aangezien de versie geconsolideerd niet door de gemeenteraad wordt vastgesteld
 is het voor de hand liggend om voor de datum van dit plan aan te sluiten bij het
