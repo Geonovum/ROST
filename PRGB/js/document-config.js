@@ -17,12 +17,12 @@ var documentConfig =
   previousPublishDate: "2024-02-14",
   previousPublishVersion: "1.3.7",
   prevVersion: [
-    "https://docs.geostandaarden.nl/ro/def-hr-gb2012-20240214/"
+    "https://docs.geostandaarden.nl/ro/def-pr-gb2012-20240214/"
   ],
   previousMaturity: "def",
   github: "https://github.com/geonovum/ROST/",
   issueBase: "https://github.com/geonovum/ROST/issues/",
-  edDraftURI: "https://geonovum.github.io/PRGB/",
+  edDraftURI: "https://geonovum.github.io/ROST/PRGB/",
   canonicalURI: "https://docs.geostandaarden.nl/ro/gb2012/",
   authors: [
     {
