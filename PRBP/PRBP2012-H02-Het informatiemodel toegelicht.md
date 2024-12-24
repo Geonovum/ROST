@@ -1,39 +1,40 @@
 # Het informatiemodel toegelicht
-
 **Het Informatiemodel Ruimtelijke Ordening verdeelt het bestemmingsplan in
 objecten, klassen en subklassen. In dit hoofdstuk wordt het context van het
 informatiemodel toegelicht.**
 
 ## De objectbenadering van een bestemmingsplan
-
-Een bestemmingsplan bestaat uit drie typen objecten (klassen):  
--   Bestemmingsplangebied;
--   Bestemmingsvlak;
--   Aanduiding.
+Een bestemmingsplan bestaat uit drie typen objecten (klassen):
+<ul><li>Bestemmingsplangebied;</li>
+<li>Bestemmingsvlak;</li>
+<li>Aanduiding.</li>
+</ul><br/>
 
 Het bestemmingsvlak is het gebied waarnaar de bijbehorende regels verwijzen en
 is in samenhang daarmee te beschouwen als één geheel object. Aanduidingen
 kunnen iets zeggen over het bestemmingsplangebied of een bestemmingsvlak.
 IMRO2012 noemt deze objecttypen klassen. In Figuur 1 is de hoofd indeling
 weergegeven.
+<br/><br/>
 
 ![](media/a30223d2c1180b3061d6a5c297c706c9.png)
-
 **Figuur 1 Objectklassen bestemmingsplan**
+<br/><br/>
 
 De klasse *Aanduiding* kent objecten uit zes subklassen:  
--   Bouwvlak;
--   Functieaanduiding;
--   Bouwaanduiding;
--   Maatvoering;
--   Figuur;
--   Gebiedsaanduiding.
-
+<ul><li>Bouwvlak;</li>
+<li>Functieaanduiding;</li>
+<li>Bouwaanduiding;</li>
+<li>Maatvoering;</li>
+<li>Figuur;</li>
+<li>Gebiedsaanduiding.</li>
+</ul><br/>
 In Figuur 2 is het complete schema weergegeven met alle onderscheiden objecten.
+<br/><br/>
 
 ![](media/499cdad5628b9b8b7bf830e088baebbc.png)
-
 **Figuur 2 Objecten bestemmingsplan**
+<br/><br/>
 
 Elk object kent eigenschappen die als attribuut daaraan worden toegekend. In
 IMRO2012 wordt in een zogenoemd UML-schema weergegeven hoe de objecten (klassen)
@@ -43,7 +44,6 @@ model voor een goed begrip bij het coderen. In de volgende paragraaf wordt het
 principe verder uitgewerkt.
 
 ## Structuur
-
 De structuur van en tussen de objecten in het bestemmingsplan bestaat uit
 verschillende lagen van geometrisch bepaalde objecten boven elkaar en
 gerelateerd aan elkaar. Op een locatie is daardoor (mogelijk) een stapeling van
@@ -59,29 +59,29 @@ object *Bouwvlak* zijn gekoppeld. Vervolgens kunnen aanduidingen voorkomen die
 een specificatie van het bestemmingsvlak of het bouwvlak geven voor het gebruik
 of het bouwen. Iedere aanduiding moet ook in de regels voorkomen. Figuur 3 geeft
 de laagsgewijze opbouw weer.
+<br/><br/>
 
 ![](media/b02a31d8208cb09c0af7baec9d25713a.png)
-
 **Figuur 3 Opbouw objecten**
+<br/><br/>
 
 Naast deze direct bij een bestemmingsvlak behorende aanduidingen zijn er ook
 aanduidingen die vanuit de regels gewenst zijn en betekenis geven aan een
 onafhankelijke deel van het plangebied. Een voorbeeld is een
 wijzigingsbevoegdheid voor een bepaald gedeelte van het plangebied. Voor een
 dergelijke aanduiding wordt het object *Gebiedsaanduiding* gebruikt.
-
 Hieronder wordt verder ingegaan op de onderscheiden objecten.
+<br/><br/>
 
 ![](media/6aed3bcaef4c158a7eeb2247f8dc8919.png)
-
 **Figuur 4 Onderscheid in objecten**
+<br/><br/>
 
 Voor een verdere beschrijving van de specifieke mogelijkheden die zijn
 toegestaan om nadere invulling te geven aan de verschillende objecten wordt
 verwezen naar de <a href='https://docs.geostandaarden.nl/ro/svbp' target='_blank'>Standaard Vergelijkbare Bestemmingsplannen (SVBP2012)</a>.
 
 ## Gemeente- en provinciegrensoverschrijdende bestemmingsplannen
-
 Ingeval sprake is van een intergemeentelijk bestemmingsplan, een bestemmingsplan
 dat door twee of meer gemeenten wordt opgesteld, stelt elk van de betreffende
 gemeenten het bestemmingsplan vast voor zover het haar eigen grondgebied
@@ -103,7 +103,6 @@ provincienamen te benoemen. Zie toelichting in Hoofdstuk 3: ["De planobjecten me
 attributen"](#H03).
 
 ## Geometrie en/of tekst als ingang voor raadpleging
-
 De voorliggende praktijkrichtlijn is gericht op de geometrie en opbouw van de
 bestemmingsplannen. De geometrie (locatie) vormt hierbij de ingang voor het
 raadplegen van het ruimtelijke plan.
@@ -128,6 +127,7 @@ digitale bestemmingsplan is het juridisch authentieke bestemmingsplan. Volgens
 het Bro wordt een bestemmingsplan met de daarbij behorende toelichting in een
 samenhangende set geautoriseerde bronbestanden langs elektronische weg
 vastgelegd.
+<br/><br/>
 
 De analoge bestemmingsplankaart van een bestemmingsplan is altijd een concreet
 en afgerond product: een papieren (analoge) plankaart waarbij alle
@@ -140,7 +140,6 @@ gebruiken; de <a href='https://docs.geostandaarden.nl/ro/abpk2012' target='_blan
 Kaart (PRABPK2012)</a>.
 
 ## Metadata
-
 In de voorgaande paragrafen is het IMRO met betrekking tot het bestemmingsplan
 toegelicht. Wanneer het bestemmingsplan digitaal wordt vastgelegd bestaat deze
 uit een set van verschillende bestanden: de dataset. STRI2012 geeft regels met
