@@ -133,10 +133,10 @@ toegevoegd.
 Dit attribuut verwijst naar het samengestelde attribuut *TekstReferentiePG_BP*,
 bestaande uit de attributen *verwijzingNaarTekst* en *typeTekst*.  
 Het attribuut wordt met de volgende cardinaliteit opgenomen:  
-\- 1 verwijzing naar volledige toelichting.
-\- 1 verwijzing naar volledige regels.
+\- 1 verwijzing naar volledige toelichting.  
+\- 1 verwijzing naar volledige regels.  
 \- 0..2 verwijzing naar elk typeTekst volledige bijlagen.  
-<br/><br/>
+<br/>
 Teneinde een zo beperkt mogelijk aantal verwijzingen naar teksten te verkrijgen
 is het aantal keren dat het attribuut *verwijzingNaarTekstInfo* mag worden
 gebruikt beperkt. De raadpleger van de plannen heeft daar baat bij, omdat hij
@@ -179,15 +179,12 @@ vaststellen van het bestemmingsplan is gebruikt.
 Er zijn meerdere waarden mogelijk.
 <br/>
 - **ondergrondtype** (verplicht)  
-	-	Het type van de gebruikte ondergrond volgens het domein *Ondergronden*. Op
-    grond van de Wet basisregistratie grootschalige topografie (BGT) is het per
-    1 juli 2017 voor bestuursorganen verplicht om gebruik te maken van de **Basisregistratie Grootschalige Topografie (BGT).** Een bestuursorgaan kan
-    daar indien nodig gemotiveerd van afwijken. Bij afwijking kan het
-    bestuursorgaan gebruik maken van: basisregistratie topografie (BRT)  
+Het type van de gebruikte ondergrond volgens het domein *Ondergronden*. Op grond van de Wet basisregistratie grootschalige topografie (BGT) is het per 1 juli 2017 voor bestuursorganen verplicht om gebruik te maken van de Basisregistratie Grootschalige Topografie (BGT). Een bestuursorgaan kan daar indien nodig gemotiveerd van afwijken. Bij afwijking kan het    bestuursorgaan gebruik maken van:  
+	-   basisregistratie topografie (BRT)  
 	-	basisregistratie kadaster (BRK)  
 Indien geen gebruik is gemaakt van een ondergrond uit het domein
 Ondergronden, dan wordt de naam van het bestand van de gebruikte
-ondergrond(en) als vrije tekst opgegeven. In hoofdstuk 7 van de <a href='https://docs.geostandaarden.nl/ro/tri2012' target='_blank'>PRTRI2012</a> is
+ondergrond(en) als vrije tekst opgegeven. In <a href='https://docs.geostandaarden.nl/ro/tri2012/#H07' target='_blank'>PRTRI2012, hoofdstuk 7</a> is
 toegelicht welke bestandformaten voor de ondergrond kunnen worden gebruikt.
 <br/>
 - **ondergronddatum** (verplicht)  
@@ -198,8 +195,8 @@ De datum van de gebruikte ondergrond.
 Dit attribuut betreft een verwijzing naar het externe plan waar het type plan
 een gevolg van is. De verwijzing naar het externe plan wordt verplicht opgenomen
 bij het *typePlan*:  
--   uitwerkingsplan;  
--   wijzigingsplan.
+\- uitwerkingsplan;  
+\- wijzigingsplan.  
 <br/>
 Bij de waarde van het typePlan bestemmingsplan, inpassingsplan en
 rijksbestemmingsplan mag het attribuut *verwijzingNaarExternPlanInfo* worden
@@ -256,7 +253,6 @@ multivlak (multipolygoon). Dit attribuut kent coördinaten in een vastgesteld
 format (GML).
 
 ## Klasse Bestemmingsvlak
-
 Het bestemmingsvlak is het belangrijkste object (klasse) binnen het
 bestemmingsplangebied. De eigenschappen van dit object worden bepaald door een
 aantal attributen dat aan dat object wordt gekoppeld.
@@ -270,21 +266,22 @@ Ook is aangegeven of attributen gekoppeld zijn, dat wil zeggen altijd in
 samenhang moeten worden gebruikt. Na de tabel is per attribuut een toelichting
 gegeven.
 
-**Tabel 4 Klasse Bestemmingsvlak 1..n\***
-
 <table id="d4e1897" style="width: 100%;"><caption>Klasse Bestemmingsvlak 1..n*</caption><colgroup><col id="col1" style="width: 5.641083267782896%;"></col><col id="col2" style="width: 5.641083267782896%;"></col><col id="col3" style="width: 17.428924598269468%;"></col><col id="col4" style="width: 27.04798291942915%;"></col><col id="col5" style="width: 9.203281267558152%;"></col><col id="col6" style="width: 35.03764467917744%;"></col></colgroup><thead valign="top"><tr><th align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;" colspan="3"><p id="328FC264">Attribuut</p></th><th align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="50214214">waarde</p></th><th align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="26F0EB9C">*</p></th><th align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="038B7A32">nadere omschrijving waarde</p></th></tr></thead><tbody valign="top"><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;" colspan="3"><p id="3789E56F"><i>identificatie: </i></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="1750AF69"><i>NEN3610ID</i></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="0D660865"><i>1</i></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="1E5CB57A"><i>samengesteld attribuut.</i></p></td></tr><tr><td align="left" style="padding-top: 0.5em; border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;" rowspan="2"><p id="6638A051" style="writing-mode: vertical-rl; rotate: 180deg;"><i>NEN3610ID</i></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;" colspan="2"><p id="1C8D4601">namespace</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="72C345AA">waarde</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="48547887">1</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="0EB064CB">Unieke verwijzing naar een registratie van objecten. Voor IMRO objecten is dat ‘NL.IMRO’</p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;" colspan="2"><p id="2940172E">lokaalID</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="1AC612A9">waarde</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="3BC693CB">1</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="4C20A7A4">Unieke identificatiecode binnen dit bestand. Bestaande uit max. 32 alfanumerieke tekens.</p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;" colspan="3"><p id="7EA97FDC">typePlanobject</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="24BA08F5">enkelbestemming of dubbelbestemming</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="0FF663CB">1</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="7A5F0C7A">één van de hier genoemde waarden volgens domein RuimtelijkPlanObject</p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;" colspan="3"><p id="539F785A">plangebied</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="27D90444">idn Bestemmingsplangebied</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="4B8569F0">1</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="583DEFBB">identificatienummer van het plangebied </p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;" colspan="3"><p id="7E5330B3">naam</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="5880506A">naam bestemming</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="4D99E96B">1</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="249C91D4">volgens de bestemmingsregel (het artikel)</p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;" colspan="3"><p id="77825D86">bestemmingshoofdgroep</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="5F4AE719">waarde hoofdgroep</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="57908904">1</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="5EE53D9C">één van de waarden volgens domein Bestemmingshoofdgroep_E ingeval het attribuut typePlanobject de waarde enkelbestemming heeft en volgens domein Bestemmingshoofdgroep_D ingeval het attribuut typePlanobject de waarde dubbelbestemming heeft</p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;" colspan="3"><p id="189D2B77">artikelnummer</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="60992C20">artikelnummer</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="6F3EB4CB">1</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="53AAC289">alleen het nummer in het format conform SVBP2012</p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;" colspan="3"><p id="65E60F0D"><i>verwijzingNaarTekstInfo:</i></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="45DC421C"><i>TekstReferentie_BP</i></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="2DE10497"><i>1</i></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="2C79D538"><i>samengesteld attribuut:</i></p><p id="58F5A04E"><i>verwijzend naar specifieke regel</i></p></td></tr><tr><td align="left" style="padding-top: 0.5em; border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;" rowspan="2"><p id="2A657023" style="writing-mode: vertical-rl; rotate: 180deg;"><i>TekstReferentie_BP</i></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;" colspan="2"><p id="7896C31C">verwijzingNaarTekst</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="4AC80627">link</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="76A0DF1B">1</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="149BFFF4">in format bestandsnaamconventie conform STRI2012; link naar een  specifieke positie binnen de regels</p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;" colspan="2"><p id="38DD3553">typeTekst</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="1953964F">regels</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="36BA106B">1</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="1B14A9CC">vaste waarde volgens domein Teksttype_BP</p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: #D0CECE;" colspan="3"><p id="54BBA107"><i>labelinfo:</i></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: #D0CECE;"><p id="3D1D695F"><i>Label</i></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: #D0CECE;"><p id="2C603FEC"><i>0..1</i></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: #D0CECE;"><p id="0381157B"><i>samengesteld attribuut</i></p></td></tr><tr><td align="left" style="padding-top: 0.5em; border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: #D0CECE;" rowspan="5"><p id="4EC9D0BA" style="writing-mode: vertical-rl; rotate: 180deg;"><i>Label</i></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: #D0CECE;" colspan="2"><p id="0F92F09F">tekst</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: #D0CECE;"><p id="1325BD76">letter-/tekencombinatie</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: #D0CECE;"><p id="29E2061A">1</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: #D0CECE;"><p id="5F10C9B1">lettercode conform PRABPK2012</p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: #D0CECE;" colspan="2"><p id="65CECA05"><i>positie:</i></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: #D0CECE;"><p id="49291907"><i>Labelpositie</i></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: #D0CECE;"><p id="48B1FB02"><i>1..n</i></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: #D0CECE;"><p id="6EF750EB"><i>samengesteld attribuut</i></p></td></tr><tr><td align="left" style="padding-top: 0.5em; border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: #D0CECE;" rowspan="3"><p id="41E2C2DC" style="writing-mode: vertical-rl; rotate: 180deg;"><i>Labelpositie</i></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: #D0CECE;"><p id="2BF6740C">plaatsingspunt</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: #D0CECE;"><p id="28CEA9D5">coördinaten</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: #D0CECE;"><p id="1B561012">1</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: #D0CECE;"><p id="4FB34526">beschrijving van het plaatsingspunt van de letter-/tekencombinatie</p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: #D0CECE;"><p id="1D58B1D0">aanpijlingspunt</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: #D0CECE;"><p id="6EAA2DD6">coördinaten</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: #D0CECE;"><p id="11AD4A34">0..1</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: #D0CECE;"><p id="40047040">beschrijving van het aanpijlingspunt van de letter-/tekencombinatie</p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: #D0CECE;"><p id="2AC19C32">hoek</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: #D0CECE;"><p id="6091F22B">waarde</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: #D0CECE;"><p id="5A044AD0">0..1</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: #D0CECE;"><p id="71B6FCAE">beschrijving van de hoek in graden waaronder de letter-/tekencombinatie geplaatst wordt</p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;" colspan="3"><p id="2A1BF1F1">geometrie</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="0D1D6B5E">coördinaten </p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="3CACAD32">1</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="477D2BE8">beschrijving van vlak</p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;" colspan="6"><p id="2E58A318"><b>*</b>  multipliciteit:</p><p id="1975AAD6">0..1:   komt 0 of 1 keer voor               0..n:   komt zo vaak voor als gewenst</p><p id="5227826C">1:       komt 1 keer voor                      1..n:   komt tenminste 1 keer voor</p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: #D0CECE;" colspan="6"><p id="6EDF96D6">in de lichtgrijze cellen zijn die attributen weergegeven die uitsluitend voor de opbouw van de analoge bestemmingsplankaart kunnen worden gebruikt.</p></td></tr></tbody></table>
 
 **identificatie (idn)** (verplicht):  
 Elk object *Bestemmingsvlak* krijgt een eigen unieke identificatie binnen het
 bestemmingsplan. Het samengestelde attribuut *identificatie* verwijst naar het
-object NEN3610ID bestaande uit de attributen *namespace* en *lokaalID*.  
+object NEN3610ID bestaande uit de attributen *namespace* en *lokaalID*.
+<br/>
 - **namespace:** (verplicht)  
 Een unieke verwijzing naar een registratie van objecten. Voor IMRO objecten
-is dat ‘NL.IMRO’.  
+is dat ‘NL.IMRO’.
+<br/>
 - **lokaalID:** (verplicht)  
 Door de bronhouder te bepalen unieke identificatiecode binnen de context van
 het bestand bestaande uit maximaal 32 alfanumerieke tekens. Toegestane
 tekens: {”A”…”Z”, “a”…”z”, ”0”…”9”, “_”, “- “, “,”, ”.”}.
+<br/><br/>
 
 **typePlanobject** (verplicht):  
 Het attribuut *typePlanobject* maakt het via het bijbehorende domein
@@ -313,12 +310,14 @@ Uit overweging van herkenbaarheid van een dubbelbestemming ten opzichte van de
 enkelbestemming is het gewenst om deze als apart object te kunnen onderscheiden.
 Voor dubbelbestemmingen geldt dat deze op gelijke wijze worden gecodeerd als
 een enkelbestemming.
+<br/><br/>
 
 **plangebied** (verplicht):  
 Voor elk object is een verwijzing noodzakelijk naar het object
 *Bestemmingsplangebied* waar het object deel van uitmaakt. Dit attribuut
 verwijst daartoe naar het attribuut *identificatie* van het bijbehorende object
 *Bestemmingsplan­gebied*.
+<br/><br/>
 
 **naam** (verplicht):  
 Iedere bestemming heeft een naam. Aan het attribuut *naam* wordt als waarde de
@@ -330,6 +329,7 @@ varianten mogelijk:
 2.  Specifieke bestemmingsbenaming gebruiken. *Voorbeeld: Agrarisch - Akkerbouw*  
 3.  Bestemming splitsen. *Voorbeeld : Gemengd - 1*  
 4.  Bestemming onder de hoofdgroep Overig. *Voorbeeld: Enclave*
+<br/>
 
 De systematiek van hoofdgroepen van bestemmingen in de <a href='https://docs.geostandaarden.nl/ro/svbp' target='_blank'>SVBP2012</a> laat het toe een
 bestemming te specificeren en slechts één of enkele functies van een hoofdgroep
@@ -355,6 +355,7 @@ ondergeschikte horeca en de combinatie bedrijf en daaraan ondergeschikte
 detailhandel (bijvoorbeeld in ter plaatse vervaardigde goederen).
 Een (dubbel)bestemming geeft aan waarvoor de gronden mogen worden gebruikt. Het
 zijn zaken die men aan kan raken, in de grond aanwezig zijn of zichtbaar zijn.
+<br/><br/>
 
 **bestemmingshoofdgroep** (verplicht):  
 Bij de <a href='https://docs.geostandaarden.nl/ro/svbp' target='_blank'>SVBP2012</a> is een functielijst opgenomen. Bij de functies zijn hoofdgroepen
@@ -370,10 +371,12 @@ dubbelbestemmingen waaruit moet worden gekozen. In het attribuut *typePlanobject
 dubbelbestemming betreft.
 Voor het geval de bestemming een voorlopige bestemming betreft, wordt alleen de
 voorlopige bestemming gebruikt om de bijbehorende hoofdgroep te bepalen.
+<br/><br/>
 
 **artikelnummer** (verplicht):  
 Het artikelnummer wordt als waarde bij het attribuut *artikelnummer*
 meegegeven. Het format van het artikelnummer is voorgeschreven in de SVBP2012.
+<br/><br/>
 
 ***verwijzingNaarTekstInfo*** (verplicht):  
 Het attribuut is bedoeld voor het verwijzen naar het specifieke artikel dat
@@ -383,7 +386,8 @@ attributen *verwijzingNaarTekst* en *typeTekst*.
 De bronhouder kiest voor dezelfde vorm van planteksten als bij het object *Bestemmingsplangebied*: objectgericht in XML of niet-objectgericht in HTML
 formaat. Het format dient overeenkomstig de afspraak over de
 bestandsnaamconventies conform de STRI2012 te zijn. De keuze van de bronhouder
-wordt vastgelegd in de *verwijzingNorm* bij dit bestemmingsplan.  
+wordt vastgelegd in de *verwijzingNorm* bij dit bestemmingsplan.
+<br/>
 - **verwijzingNaarTekst** (verplicht)  
 Dit attribuut is bedoeld om (hyper)links te kunnen opnemen. Hier dient een
 (hyper)link naar het soort document dat is aangegeven bij het attribuut*typeTekst* te worden opgenomen.
@@ -393,14 +397,17 @@ een nadere precisering naar de plaats binnen een document te worden
 opgenomen met behulp van een fragmentidentifier. Het fragment in de
 hyperlink is de locatie in de plantekst (XML of HTML) waar het van
 toepassing zijnde attribuut *typeTekst* betrekking op heeft. Een hyperlink
-krijgt dan de vorm: <u>bestandsnaam.xml\#fragment</u> of <u>bestandsnaam.htm\#fragment</u>.  
+krijgt dan de vorm: <u>bestandsnaam.xml\#fragment</u> of <u>bestandsnaam.htm\#fragment</u>.
+<br/>
 - **typeTekst** (verplicht)  
 Hiermee wordt met de vaste waarde *regels* volgens het domein *Teksttype_BP*
 aangegeven dat de tekst waarnaar verwezen wordt een regel betreft.
+<br/><br/>
 
 ***labelInfo*** (facultatief):  
 Dit attribuut, dat uitsluitend bedoeld is voor de analoge bestemmingsplankaart,
-verwijst naar het samengestelde attribuut *Label*, bestaande uit de attributen *tekst* en het samengestelde attribuut *positie.*  
+verwijst naar het samengestelde attribuut *Label*, bestaande uit de attributen *tekst* en het samengestelde attribuut *positie.*
+<br/>
 - **tekst** (verplicht)  
 In het waardeveld van dit attribuut wordt de lettercode
 (letter-/tekencombinaties) van de gebruikte bestemmingsnaam opgenomen.
@@ -411,30 +418,35 @@ verbeeldingsmiddel ten behoeve van de leesbaarheid van de analoge
 bestemmingsplankaart. De lettercode bestaat uit hoofdletters. Bij de
 digitale verbeelding worden deze lettercodes niet getoond, maar de waarde
 van het attribuut *naam* wordt getoond na interactie met de digitale
-verbeelding.  
+verbeelding.
+<br/> 
 - **positie** (verplicht, zo vaak als gewenst):  
 Soms bestaat er aanleiding de letter-/tekencombinatie van het attribuut *tekst* meerdere keren binnen één bestemming op de analoge
 bestemmingsplankaart te laten voorkomen. In dat geval worden meerdere
 attributen *positie* meegegeven. Het attribuut *positie* verwijst naar het
-samengestelde attribuut *Labelpositie*, bestaande uit de attributen *plaatsingspunt, aanpijlingspunt* en *hoek*.  
+samengestelde attribuut *Labelpositie*, bestaande uit de attributen *plaatsingspunt, aanpijlingspunt* en *hoek*.
+<br/>
 - **plaatsingspunt** (verplicht)  
 Het is nodig dat een plaatsingspunt voor de lettercode wordt opgenomen. Het
 plaatsingspunt van het label staat links beneden ten opzichte van de
 labeltekst.
 In het geval het bij de analoge bestemmingsplankaart gewenst is meerdere
 dezelfde letter-/tekencombinaties binnen één bestemmingsvlak te plaatsen,
-dan worden meerdere plaatsingspunten opgenomen.  
+dan worden meerdere plaatsingspunten opgenomen.
+<br/>
 - **aanpijlingspunt** (indien gewenst)  
 Soms kan een lettercode niet binnen het bijbehorende vlak op de analoge
 bestemmingsplankaart worden geplaatst omdat de schaal van de analoge
 bestemmingsplankaart dat niet toelaat. In dat geval wordt de lettercode
 buiten dat vlak geplaatst. Er is dan een aanpijling naar dat vlak
 noodzakelijk zodat duidelijk is waar de lettercode bij behoort. Voor dit
-doel is het aanpijlingspunt noodzakelijk.  
+doel is het aanpijlingspunt noodzakelijk.
+<br/>
 - **hoek** (indien gewenst)  
 Soms is het gewenst dat een lettercode onder een bepaalde hoek wordt
 geplaatst. Voor dit doel is invullen van de waarde van die hoek
 noodzakelijk.
+<br/><br/>
 
 **geometrie** (verplicht):  
 Het object *Bestemmingsvlak* kent uitsluitend de geometrie van een vlak. Dit
@@ -467,14 +479,15 @@ aangegeven. Het attribuut *aanduiding* bij de klassen *Functieaanduiding,
 Bouwaanduiding, Maatvoering* en *Figuur* geeft deze mogelijke relaties van het
 betreffende object aan. In de volgende subparagrafen wordt hier nader op
 ingegaan.
+<br/><br/>
 
 Voor het coderen dient eerst de vraag gesteld te worden welke van de zes
 (sub)klassen het betreft. In dat geval is het overzicht in Figuur 5 van
 toepassing. Hierin wordt nader ingegaan op de onderscheiden (sub)klassen. De
 (sub)klassen zelf worden ook object genoemd.
+<br/><br/>
 
 ![](media/55ae7ea54729f3612c0ab14e69648d17.png)  
-
 **Figuur 5 Relatiediagram aanduidingen**
 
 ### Klasse Bouwvlak  
@@ -504,8 +517,6 @@ In Tabel 5 zijn de attributen benoemd, de waarden aangegeven die deze attributen
 moeten bevatten en wordt aangegeven of het gebruik van het attribuut ver­plicht
 is en of het attribuut meerdere malen mag worden gebruikt. Na de tabel is per
 attri­buut een nadere toelichting gegeven.
-
-**Tabel 5 Klasse Bouwvlak 0..n\***
 
 <table id="d4e2691" style="width: 100%;"><caption>Klasse Bouwvlak 0..n*</caption><colgroup><col id="col1" style="width: 5.550651070403885%;"></col><col id="col2" style="width: 21.088060030898255%;"></col><col id="col3" style="width: 27.06907967336129%;"></col><col id="col4" style="width: 10.814389759435002%;"></col><col id="col5" style="width: 35.47781946590157%;"></col></colgroup><thead valign="top"><tr><th align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;" colspan="2"><p id="2A3C75ED">attribuut</p></th><th align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="6C84D532">waarde</p></th><th align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="3EF3BFAC">*</p></th><th align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="280D0187">nadere omschrijving waarde</p></th></tr></thead><tbody valign="top"><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;" colspan="2"><p id="26D382AB"><i>identificatie: </i></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="4C16399A"><i>NEN3610ID</i></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="0BACB718"><i>1</i></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="7BF8C7A4"><i>samengesteld attribuut.</i></p></td></tr><tr><td align="left" style="padding-top: 0.5em; border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;" rowspan="2"><p id="052D587B" style="writing-mode: vertical-rl; rotate: 180deg;"><i>NEN3610ID</i></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="459918BB">namespace</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="1D56A7BC">waarde</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="206D9D0F">1</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="282F000C" class="space-after">Unieke verwijzing naar een registratie van objecten. Voor IMRO objecten is dat ‘NL.IMRO’</p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="07EB9B46">lokaalID</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="74B07AF5">waarde</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="316A017D">1</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="4AC7F53F">Unieke identificatiecode binnen dit bestand. Bestaande uit max. 32 alfanumerieke tekens.</p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;" colspan="2"><p id="636B8CC0">typePlanobject</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="30037F09">bouwvlak</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="112D5B95">1</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="141F1868">vaste waarde volgens domein RuimtelijkPlanObject</p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;" colspan="2"><p id="395A497F">plangebied</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="57C25118">idn Bestemmingsplangebied</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="54ADFC41">1</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="31B33117">identificatienummer van het plangebied</p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;" colspan="2"><p id="433C91C5">bestemmingsvlak</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="05B10990">idn Bestemmingsvlak</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="73C8885D">0..1</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="6F245AAF">identificatienummer van het bestemmingsvlak (enkel- of dubbelbestemming) waarbij het bouwvlak behoort</p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;" colspan="2"><p id="2D2C2C9B">naam</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="12B7F2A1">bouwvlak</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="35E3C66F">1</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="7E404FC9">vaste, unieke waarde</p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;" colspan="2"><p id="101596CB">geometrie</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="27469309">coördinaten </p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="598376F7">1</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="2377D280">beschrijving van vlak of multivlak</p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;" colspan="5"><p id="306A2F0D"><b>*</b>  multipliciteit:</p><p id="749BD37F">0..1:   komt 0 of 1 keer voor               0..n:   komt zo vaak voor als gewenst</p><p id="190D9DCF">1:       komt 1 keer voor                      1..n:   komt tenminste 1 keer voor</p></td></tr></tbody></table>
 
