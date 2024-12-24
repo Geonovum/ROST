@@ -221,7 +221,7 @@ daar indien nodig gemotiveerd van afwijken. Bij afwijking kan het bestuursorgaan
 	-   basisregistratie kadaster (BRK)  
 Indien geen gebruik is gemaakt van een ondergrond uit het domein
 Ondergronden wordt de naam van het bestand van de gebruikte ondergrond(en)
-als vrije tekst opgegeven. In de PRTRI2012, hoofdstuk 7, is toegelicht welke
+als vrije tekst opgegeven. In de <a href='https://docs.geostandaarden.nl/ro/tri2012/#H07' target='_blank'>PRTRI2012, hoofdstuk 7</a> is toegelicht welke
 bestandformaten voor de ondergrond kunnen worden gebruikt.
 </br>
 - **ondergrondDatum** (verplicht)  
