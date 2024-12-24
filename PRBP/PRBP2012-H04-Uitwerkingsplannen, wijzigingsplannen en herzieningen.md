@@ -27,7 +27,7 @@ Bestemmingsplangebied bij het attribuut *typePlan* de waarde â€˜uitwerkingsplanâ
 wordt ingevuld en dat een relatie moet worden gelegd met het bestemmingsplan
 waarvan het uitwerkingsplan een uitwerking is. Dat laatste gebeurt door bij het
 object Bestemmingsplangebied het attribuut *verwijzingNaarExternPlanInfo* in te
-vullen*: het type, de naam en het idn* van het plan dat wordt uitgewerkt en als
+vullen: het type, de naam en het idn van het plan dat wordt uitgewerkt en als
 rol van het externe plan 'ten gevolge van extern plan/besluit'.
 
 Zie ook Tabel 11. Een uitwerkingsplan kent een eigen begrenzing en daarmee een
