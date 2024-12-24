@@ -3,21 +3,21 @@ var documentConfig =
   title: "Praktijkrichtlijn Gebiedsgerichte Besluiten 2012 (PRGB2012)",
   shortName: "gb2012",
   pubDomain: "ro",
-  specStatus: "def",
+  specStatus: "wv",
   specType: "pr",
   license: "cc-by-nd",
   latestVersion: [
     "https://docs.geostandaarden.nl/ro/gb2012/"
   ],
-  publishDate: "2024-12-24",
+  publishDate: "",
   publishVersion: "1.3.8",
   thisVersion: [
     "https://docs.geostandaarden.nl/ro/def-pr-gb2012-20241224/"
   ],
-  previousPublishDate: "2024-02-14",
-  previousPublishVersion: "1.3.7",
+  previousPublishDate: "2024-12-14",
+  previousPublishVersion: "1.3.8",
   prevVersion: [
-    "https://docs.geostandaarden.nl/ro/def-pr-gb2012-20240214/"
+    "https://docs.geostandaarden.nl/ro/def-pr-gb2012-20241224/"
   ],
   previousMaturity: "def",
   github: "https://github.com/geonovum/ROST/",
