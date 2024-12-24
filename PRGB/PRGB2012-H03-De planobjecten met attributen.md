@@ -149,8 +149,7 @@ wordt met de volgende cardinaliteit opgenomen:
 	-   De volledige bijlage bij de regels;
 	-   De volledige bijlage bij het besluitdocument;
 	-   De volledige bijlage bij de toelichting.  
-<br/><br/>
-
+<br/>
 Het aantal verwijzingen naar teksten is beperkt. De raadpleger van de plannen
 heeft daar baat bij, omdat hij dan niet direct geconfronteerd wordt met een
 mogelijk lange lijst van verwijzingen. Daarom moet er maximaal één verwijzing
