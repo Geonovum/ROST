@@ -9,9 +9,11 @@ var documentConfig =
   latestVersion: [
     "https://docs.geostandaarden.nl/ro/pt2012/"
   ],
-  publishDate: "2024-12-20",
+  publishDate: "2024-12-24",
   publishVersion: "1.2.4",
-  previousPublishDate: "2024-02-14",
+  thisVersion: [
+    "https://docs.geostandaarden.nl/ro/def-hr-pt2012-20241224/"
+  ],previousPublishDate: "2024-02-14",
   previousPublishVersion: "1.2.3",
   prevVersion: [
     "https://docs.geostandaarden.nl/ro/def-hr-pt2012-20240214/"

@@ -25,8 +25,9 @@ geklikt; zie voorbeeld in Figuur 14.
 <br/><br/>
 
 Objectgericht schrijven is:  
--   werken met een heldere structuur;
--   de teksten opknippen in stukken zoals hoofdstukken, paragrafen e.d..
+- werken met een heldere structuur;
+- de teksten opknippen in stukken zoals hoofdstukken, paragrafen e.d..
+
 Uitgangspunt is dat ieder stuk tekst zelfstandig leesbaar is, een titel heeft,
 begint met een hoofdletter en eindigt met een punt. Dit helpt de lezer, zeker
 als de plannen via het internet worden ontsloten waarbij vaak fragmentarisch

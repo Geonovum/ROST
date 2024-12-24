@@ -152,9 +152,9 @@ Dit attribuut dat verwijst naar het samengestelde attribuut
 TekstReferentiePG_SV, bestaande uit de attributen *verwijzingNaarTekst* en
 *typeTekst*.  
 Het attribuut wordt met de volgende cardinaliteit opgenomen:  
-- 1 verwijzing naar volledige beleidsdocument;
-- 0..1 verwijzing naar volledige toelichting;
-- 0..1 verwijzing naar volledige bijlagen.  
+\- 1 verwijzing naar volledige beleidsdocument;
+\- 0..1 verwijzing naar volledige toelichting;
+\- 0..1 verwijzing naar volledige bijlagen.  
 <br/>
 
 Teneinde een zo beperkt mogelijk aantal verwijzingen naar teksten te verkrijgen
@@ -166,6 +166,7 @@ beleidsdocument en mag er maximaal één verwijzing zijn naar de volledige
 toelichting en maximaal één naar de volledige bijlagen. Er mag worden verwezen
 naar een inhoudsop­gave of index, waardoor indirect meer mogelijkheden aanwezig
 zijn.  
+
 De bronhouder kiest voor het al dan niet gebruik van objectgerichte planteksten.
 In beide gevallen wordt dit attribuut *verwijzingNaarTekstInfo* gebruikt. De
 keuze voor XML of HTML/PDF planteksten geldt niet alleen voor het plangebied, de
@@ -175,15 +176,17 @@ vastgelegd met behulp van het attribuut *verwijzingNorm* bij
 Structuurvisieplangebied_R van deze structuurvisie. Het format dient
 overeen­komstig de afspraak over de bestandsnaamconventies conform de STRI2012
 te zijn:  
+</br>
 - **verwijzingNaarTekst** (verplicht)  
 De waarde van dit attribuut is een (hy­per)­link naar het soort document dat
 is aangegeven bij het attribuut *typeTekst*. Er wordt in de waarde geen
-elementen van een directory­structuur/pad opgenomen.  
+elementen van een directory­structuur/pad opgenomen. 
+</br> 
 - **typeTekst** (verplicht)  
 Aanduiding van het type tekst waarnaar verwezen wordt. Domein: *TeksttypePG_SV*:  
-- document
-- toelichting
-- bijlage
+	-   document;
+	-   toelichting;
+	-   bijlage. 
 <br/><br/>
 
 ***ondergrondInfo*** (verplicht, zo vaak als gewenst):  
@@ -191,19 +194,19 @@ Dit attribuut verwijst naar het samengestelde attribuut *Ondergrondreferentie*,
 bestaande uit de attributen *ondergrondtype* en *ondergronddatum.* Met dit
 attribuut wordt, conform artikel 1.2.4 Bro, aangegeven welke ondergrond bij het
 vaststellen van de structuurvisie is gebruikt.  
-Er zijn meerdere waarden mogelijk.  
+Er zijn meerdere waarden mogelijk. 
+</br> 
 - **ondergrondtype** (verplicht)  
 Het type van de gebruikte ondergrond volgens het domein Ondergronden. Op
 grond van de Wet basisregistratie grootschalige topografie (BGT) is het per
-1 juli 2017 voor bestuursorganen verplicht om gebruik te maken van de **Basisregistratie Grootschalige Topografie (BGT).** Een bestuursorgaan kan
+1 juli 2017 voor bestuursorganen verplicht om gebruik te maken van de Basisregistratie Grootschalige Topografie (BGT). Een bestuursorgaan kan
 daar indien nodig gemotiveerd van afwijken. Bij afwijking kan het
 bestuursorgaan gebruik maken van:  
 	-   basisregistratie topografie (BRT)
 	-   basisregistratie kadaster (BRK)
-<br/>
 Indien geen gebruik is gemaakt van een ondergrond uit het domein
 Ondergronden, dan wordt de naam van het bestand van de gebruikte
-ondergrond(en) als vrije tekst opgegeven. In de <a href='https://docs.geostandaarden.nl/ro/tri2012/#H07' target='_blank'>PRTRI2012, hoofdstuk 7</a>, is
+ondergrond(en) als vrije tekst opgegeven. In de <a href='https://docs.geostandaarden.nl/ro/tri2012/#H07' target='_blank'>PRTRI2012, hoofdstuk 7</a> is
 toegelicht welke bestandformaten voor de ondergrond kunnen worden gebruikt.  
 <br/>
 - **ondergronddatum** (verplicht)  

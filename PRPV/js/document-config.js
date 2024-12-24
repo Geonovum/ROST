@@ -3,16 +3,16 @@ var documentConfig =
   title: "Praktijkrichtlijn Provinciale Verordening 2012 (PRPV2012)",
   shortName: "pv2012",
   pubDomain: "ro",
-  specStatus: "wv",
+  specStatus: "def",
   specType: "pr",
   license: "cc-by-nd",
   latestVersion: [
     "https://docs.geostandaarden.nl/ro/pv2012/"
   ],
-  publishDate: "2024-11-26",
+  publishDate: "2024-12-24",
   publishVersion: "1.1.8",
   thisVersion: [
-    "https://geonovum.github.io/ro-pv2012/"
+    "https://geonovum.github.io/ro-pv2012-20241224/"
   ],
   previousPublishDate: "2024-02-14",
   previousPublishVersion: "1.1.7",
