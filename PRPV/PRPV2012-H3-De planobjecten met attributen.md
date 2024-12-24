@@ -232,7 +232,7 @@ de kaartbeelden ingeval dit er meer zijn, op te nemen. Het betreft
 kaarten/afbeeldingen op het niveau van het "plangebied" en niet op het niveau
 van onderliggende objecten; illustraties die bij onderliggende objecten behoren
 worden bij die objecten opgenomen. Het attribuut verwijst naar het samengestelde
-attribuut *IllustratieReferentiePG*, bestaande uit de attributen *verwijzingNaarIllustratie* en *typeIllustratie*.  
+attribuut *IllustratieReferentiePG*, bestaande uit de attributen *verwijzingNaarIllustratie* en *typeIllustratie*.
 </br>
 - **verwijzingNaarIllustratie** (verplicht) 
 Dit attribuut is exclusief bedoeld om hyperlinks te kunnen opnemen. Hier
@@ -253,7 +253,7 @@ maar kan ook gebaseerd zijn op een ander beleidsdocument. Ook kan er sprake zijn
 van het doorwerken van een AMvB naar een provinciale verordening. In Hoofdstuk 4
 is dit met betrekking tot herzieningen toegelicht. Daarnaast kan een extern plan
 ook relevante informatie bevatten. Het attribuut verwijst naar het samengestelde
-attribuut *ExternPlanReferentie_PV*, bestaande uit de volgende attributen *naamExternPlan*, *idnExternPlan* en *rolExternPlan*.  
+attribuut *ExternPlanReferentie_PV*, bestaande uit de volgende attributen *naamExternPlan*, *idnExternPlan* en *rolExternPlan*.
 </br>
 - **naamExternPlan** (verplicht)  
 Hier wordt de naam van het externe plan of in voorkomend geval besluit
@@ -287,7 +287,7 @@ moet ook worden opgenomen: IMROPT2012.
 </br></br>
 
 ***begrenzing*** (verplicht):  
-Dit attribuut verwijst naar het samengestelde attribuut *GeometriePlangebied*, bestaande uit de attributen *geometrie* en *idealisatie*.  
+Dit attribuut verwijst naar het samengestelde attribuut *GeometriePlangebied*, bestaande uit de attributen *geometrie* en *idealisatie*.
 </br>
 - **geometrie** (verplicht)  
 Het object *Besluitgebied_P* kent uitsluitend de geometrie van een vlak of
