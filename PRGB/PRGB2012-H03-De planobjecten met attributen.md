@@ -39,7 +39,6 @@ Unieke identificatiecode binnen de registratie van ruimtelijke plannen. Bestaand
 reguliere expressie: [0-9]{4}\\.[A-Za-z0-9]{1,18}
 <br/>
 - **Versie:** (verplicht)
-
 Versie-aanduiding van het plangebied bestaande uit 4 alfanumerieke tekens door de bronhouder te bepalen. Er geldt de volgende reguliere expressie:
 [A-Za-z0-9]{4}
 Uit de waarden van de attributen *namespace, lokaalID* en *versie* wordt de
@@ -51,23 +50,23 @@ NL\\.IMRO\\.[0-9]{4}\\.[A-Za-z0-9]{1,18}-[A-Za-z0-9]{4}
 **typePlan** (verplicht):  
 Voor het attribuut *typePlan* wordt het domein *RuimtelijkPlanOfBesluit_XGB*
 gebruikt. Hier wordt een van de volgende waarden ingevuld:  
--   aanwijzingsbesluit;
--   beheersverordening;
--   exploitatieplan;
--   gerechtelijke uitspraak;
--   omgevingsvergunning (voormalig Wro projectbesluit);
--   reactieve aanwijzing;
--   voorbereidingsbesluit.
+- aanwijzingsbesluit;
+- beheersverordening;
+- exploitatieplan;
+- gerechtelijke uitspraak;
+- omgevingsvergunning (voormalig Wro projectbesluit);
+- reactieve aanwijzing;
+- voorbereidingsbesluit.
 <br/><br/>
 
 **beleidsmatigVerantwoordelijkeOverheid** (verplicht):  
 Hier wordt de overheid die beleidsmatig verantwoordelijk is voor het opstellen
 van het plan opgenomen uit het domein *Overheden_XGB.* In dit geval een van de
 volgende vaste waarden:  
--   gemeentelijke overheid;
--   deelgemeente/stadsdeel;
--   provinciale overheid of;
--   nationale overheid.
+- gemeentelijke overheid;
+- deelgemeente/stadsdeel;
+- provinciale overheid of;
+- nationale overheid.
 <br/><br/>
 
 **naamOverheid** (verplicht):  
@@ -150,6 +149,7 @@ wordt met de volgende cardinaliteit opgenomen:
 	-   De volledige bijlage bij de regels;
 	-   De volledige bijlage bij het besluitdocument;
 	-   De volledige bijlage bij de toelichting.  
+<br/><br/>
 
 Het aantal verwijzingen naar teksten is beperkt. De raadpleger van de plannen
 heeft daar baat bij, omdat hij dan niet direct geconfronteerd wordt met een
@@ -159,7 +159,8 @@ volledige toelichting en maximaal één naar de volledige regels. Daarnaast mag 
 maximaal één verwijzing zijn naar alle eventuele bijlagen, gegroe­peerd naar
 bijlage bij besluitdocument, toelichting en/of regels. Er mag worden verwezen
 naar een inhoudsop­gave of index, waardoor indirect meer mogelijkheden aanwezig
-zijn.  
+zijn.
+
 De bronhouder kiest voor het al dan niet gebruik van objectgerichte planteksten.
 Uit de waarde van het attribuut *typeTekst* (onderdeel van het attribuut
 *verwijzingNaarTekstInfo*) blijkt wat voor tekst het betreft. Voor zowel
@@ -272,7 +273,7 @@ een van de volgende vaste waarden uit het domein *RolExternPlan_XGB:*
     dat als gevolg dient te hebben;  
 	- *ten gevolge van extern plan/besluit* in geval het gebiedsgerichte besluit
     een gevolg is van een ander plan (besluit).
-<br/>
+<br/><br/>
 
 **verwijzingNorm** (verplicht):  
 Teneinde de zekerheid te hebben welke technische status de data hebben, is het
@@ -316,24 +317,29 @@ gebruikt. Na de tabel is per attribuut een nadere toelichting gegeven.
 Elk object *Besluitvlak_X* krijgt een eigen unieke identificatie binnen het
 gebiedsgerichte besluit. Het samengestelde attribuut *identificatie* verwijst
 naar het object NEN3610ID bestaande uit de attributen *namespace* en *lokaalID*.
+<br/>
 - **Namespace:** (verplicht)  
 Een unieke verwijzing naar een registratie van objecten. Voor IMRO objecten
-is dat ‘NL.IMRO’.  
+is dat ‘NL.IMRO’.
+<br/>
 - **lokaalID:** (verplicht)  
 Door de bronhouder te bepalen unieke identificatiecode binnen de context van
 het bestand bestaande uit maximaal 32 alfanumerieke tekens. Toegestane
 tekens: {”A”…”Z”, “a”…”z”, ”0”…”9”, “_”, “- “, “,”, ”.”}.
+<br/><br/>
 
 **typePlanobject** (verplicht):  
 Het attribuut *typePlanobject* maakt het via het bijbehorende domein
 *RuimtelijkPlanobject* mogelijk aan te geven welk object het betreft. Hier
 wordt de vaste waarde *besluitvlak_X* ingevuld.
+<br/><br/>
 
 **besluitgebied** (verplicht):  
 Voor elk object is een verwijzing noodzakelijk naar het object *Besluitgebied_X*
 waar het object deel van uitmaakt. Dit attribuut verwijst daartoe naar het
 attribuut *identificatie* van het bijbehorende object *Besluitgebied_X.* Dit zal
 automatisch binnen een applicatie ge­stalte kunnen krijgen.
+<br/><br/>
 
 **naam** (verplicht):  
 Aan het attribuut *naam* wordt als waarde een representerende naam van het
@@ -341,6 +347,7 @@ object meegegeven, mogelijk zoals deze in de tekst die ernaar verwijst is
 opgenomen. Niet altijd zal dit het geval zijn. In dat geval zal een zinvolle
 onder­scheidende naam moeten worden ingevuld, zodat het object voor gebruikers
 herkenbaar is en de gebruiker hierop desgewenst kan classificeren.
+<br/><br/>
 
 ***verwijzingNaarTekstInfo*** (verplicht, zo vaak als gewenst):  
 Het attribuut is bedoeld voor het verwijzen naar specifieke tekst die behoort
@@ -351,7 +358,8 @@ De bronhouder kiest voor dezelfde vorm van planteksten als bij het object
 *Besluitgebied_X*: objectgericht in XML of niet-objectgericht in HTML formaat.
 Het format dient overeenkomstig de afspraak over de bestandsnaamconventies
 conform de STRI2012 te zijn. De keuze van de bonhouder wordt vastgelegd in de
-*verwijzingNorm* bij dit gebiedsgericht besluit.  
+*verwijzingNorm* bij dit gebiedsgericht besluit.
+<br/>
 - **verwijzingNaarTekst** (verplicht)
 Dit attribuut is bedoeld om (hyper)links te kunnen opnemen. Hier dient een
 (hyper)link naar het soort document dat is aangegeven bij het attribuut *typeTekst* te worden opgenomen.
@@ -362,7 +370,8 @@ opgenomen met behulp van een fragmentidentifier. Het fragment in de
 hyperlink is de locatie in de plantekst (XML of HTML) waar het van
 toepassing zijnde attribuut *typeTekst* betrekking op heeft. Een hyperlink
 krijgt dan de vorm: <u>bestandsnaam.xml\#fragment</u> of
-<u>bestandsnaam.htm­\#fragment</u>.  
+<u>bestandsnaam.htm­\#fragment</u>.
+<br/>
 - **typeTekst** (verplicht)  
 Hiermee wordt aangegeven om wat voor type tekst het gaat. Per verwijzing
 naar tekst dient gekozen te worden uit een van de volgende waarden van het
@@ -375,6 +384,7 @@ domein *Teksttype_XGB*:
 	-   bijlage bij toelichting.  
 Wanneer een besluitdocument is gekoppeld aan het *Besluitgebied_X*, wordt
 een deel van het besluitdocument, de besluittekst, gekoppeld aan het *Besluitvlak_X* en *Besluitsubvlak_X* (zover deze voorkomt).
+<br/><br/>
 
 **normadressant** (zo vaak als gewenst)  
 Dit attribuut geeft aan op welke organen of rechtspersonen de regeling zich
@@ -382,6 +392,7 @@ richt. Het domein *Normadressant_XGB* geeft de toegestane waarden aan waaruit
 één of meerdere kunnen worden gekozen. Indien deze waarde hier wordt opgegeven
 treedt deze waarde in de plaats van de waarde die bij het object
 *Besluitgebied_X* is opgegeven.
+<br/><br/>
 
 **geometrie** (verplicht)  
 Het object *Besluitvlak_X* kent uitsluitend de geometrie van een vlak of
@@ -390,7 +401,6 @@ vastgesteld format (gml) en kan door een applicatie automatisch worden
 gegenereerd.
 
 ## Klasse Besluitsubvlak_X
-
 Naast objecten van het type *Besluitvlak_X* kunnen ook objecten van het type
 *Besluitsubvlak_X* voorkomen. Deze geven een nadere betekenis aan een gedeelte
 van een of meer objecten *Besluitvlak_X* of aan een of meer andere objecten
@@ -406,32 +416,35 @@ mag worden gebruikt. Ook is aangegeven of attributen gekoppeld worden, dat wil
 zeggen altijd in samenhang moeten worden gebruikt. Na de tabel is per attribuut
 een nadere toelichting
 
-**Tabel 5 Klasse Besluitsubvlak_X 0..n\***
-
 <table id="d4e2585" style="width: 100%;"><caption>Klasse Besluitsubvlak_X 0..n*</caption><colgroup><col id="col1" style="width: 5.825693396773819%;"></col><col id="col2" style="width: 1.9728443773935245%;"></col><col id="col3" style="width: 22.095857026807472%;"></col><col id="col4" style="width: 30.346988511082746%;"></col><col id="col5" style="width: 6.382731809214344%;"></col><col id="col6" style="width: 33.375884878728094%;"></col></colgroup><thead valign="top"><tr><th align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;" colspan="3"><p id="326EC46C">attribuut</p></th><th align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="5E7227F1">waarde</p></th><th align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="5C73380B">*</p></th><th align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="4B39E2A0">nadere omschrijving waarde</p></th></tr></thead><tbody valign="top"><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;" colspan="3"><p id="58DD9227"><i>identificatie:</i></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="009DC38C"><i>NEN3610ID</i></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="3F6390A6"><i>1</i></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="69B11263"><i>samengesteld attribuut.</i></p></td></tr><tr><td align="left" style="padding-top: 0.5em; border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;" rowspan="2"><p id="34E7211D" style="writing-mode: vertical-rl; rotate: 180deg;"><i>NEN3610ID</i></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;" colspan="2"><p id="45CAF385">namespace</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="15ECFC6D">waarde</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="3F9CA389">1</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="1D1774B1">Unieke verwijzing naar een registratie van objecten. Voor IMRO objecten is dat ‘NL.IMRO’</p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;" colspan="2"><p id="03598553">lokaalID</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="1C5C68DE">waarde</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="202FCA77">1</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="64770B73">Unieke identificatiecode binnen dit bestand. Bestaande uit max. 24 alfanumerieke tekens.</p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;" colspan="3"><p id="66B83834">typePlanobject</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="445121BF">besluitsubvlak_X</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="778863B7">1</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="466660B0">vaste waarde volgens domein RuimtelijkPlanObject</p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;" colspan="3"><p id="7BA4C7CB">besluitgebied</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="7B91C302">idn Besluitgebied_X</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="21F32521">1</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="07E43124">automatisch uitlezen door applicatie</p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;" colspan="3"><p id="5D632C1C">besluitvlak</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="40A00637">idn bijbehorend Besluitvlak_X</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="561B2FDD">0..n</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="6C0820DA">alleen verplicht indien behoort bij een besluitvlak op grond van een inhoudelijke relatie</p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;" colspan="3"><p id="22D94E08">besluitsubvlak</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="05933CFC">idn bijbehorend Besluitsubvlak_X</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="7C974C3C">0..n</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="53549EF2">alleen verplicht indien behoort bij een ander besluitsubvlak op grond van een inhoudelijke relatie</p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;" colspan="3"><p id="451754E0">naam</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="2B1FDF42">naam besluitsubvlak</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="00C49E34">1</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="11F5DF59">volgens tekst van besluit</p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;" colspan="3"><p id="109E6001"><br/><i>verwijzingNaarTekstInfo:</i></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="26D5B1F9"><i>TekstReferentie_XGB</i></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="6F196C5B"><i>1..n</i></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="3D5EC32A"><i>samengesteld attribuut</i></p><p id="7771EF81"><i>verwijzend naar specifieke tekst</i></p></td></tr><tr><td align="left" style="padding-top: 0.5em; border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;" colspan="2" rowspan="3"><p id="7AE37405" style="writing-mode: vertical-rl; rotate: 180deg;"><i>TekstReferentie_XGB</i></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="02E6CDC5">verwijzingNaarTekst</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="6B70AC0C">link</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="5C852C04">1</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="7BF67655">in format bestandsnaamconventie besluittekst, voorschriften/regels, toelichting of bijlage conform STRI2012</p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="3DC67320">typeTekst</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="0BD537CE">besluittekst, voorschriften/regels, toelichting, bijlage bij besluittekst bijlage bij voorschriften/regels of bijlage bij toelichting</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="0DCA9243">1</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="2F59BF33">één van de waarden volgens domein Teksttype_XGB</p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="6864C7F7">normadressant</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="7D583F1F">naam van de normadressant</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="3D7A73C9">0..n</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="1DB8B2AC">geen, één of meer van de waarden volgens domein Normadressant_XGB; alleen indien anders dan bij object Besluitgebied_X</p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;" colspan="3"><p id="6E89B735">geometrie</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="3446645D">coördinaten</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="0B852439">1</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="0DCB496B">beschrijving van vlak of multivlak </p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;" colspan="6"><p id="1C076192"><b>*</b>  multipliciteit:</p><p id="6236E6CB">0..1:   komt 0 of 1 keer voor               0..n:   komt zo vaak voor als gewenst</p><p id="6F40E1E5">1:       komt 1 keer voor                      1..n:   komt tenminste 1 keer voor</p></td></tr></tbody></table>
 
 ***identificatie (idn)*** (verplicht):  
 Elk object *Besluitsubvlak_X* krijgt een eigen unieke identificatie binnen het
 gebiedsgerichte besluit. Het samengestelde attribuut *identificatie* verwijst
-naar het object NEN3610ID bestaande uit de attributen *namespace* en *lokaalID*.  
+naar het object NEN3610ID bestaande uit de attributen *namespace* en *lokaalID*.
+<br/>
 - **namespace:** (verplicht)  
 Een unieke verwijzing naar een registratie van objecten. Voor IMRO objecten
-is dat ‘NL.IMRO’.  
+is dat ‘NL.IMRO’.
+<br/>
 - **lokaalID:** (verplicht)  
 Door de bronhouder te bepalen unieke identificatiecode binnen de context van
 het bestand bestaande uit maximaal 32 alfanumerieke tekens. Toegestane
 tekens: {”A”…”Z”, “a”…”z”, ”0”…”9”, “_”, “- “, “,”, ”.”}.
+<br/><br/>
 
 **typePlanobject** (verplicht):  
 Het attribuut *typePlanobject* maakt het via het bijbehorende domein
 *RuimtelijkPlanobject* mogelijk aan te geven welk object het betreft. Hier
 wordt de vaste waarde *Besluitsubvlak_X* ingevuld.
+<br/><br/>
 
 **besluitgebied** (verplicht):  
 Voor elk object is een verwijzing noodzakelijk naar het object *Besluitgebied_X*
 waar het object deel van uitmaakt. Dit attribuut verwijst daartoe naar het
 attribuut *identificatie* van het bijbehorende object *Besluitgebied_X.* Dit zal
 automatisch binnen een applicatie ge­stalte kunnen krijgen.
+<br/><br/>
 
 **besluitvlak** (onder voorwaarde verplicht):  
 Een object *Besluitsubvlak_X* heeft op grond van een inhoudelijke relatie altijd
@@ -442,12 +455,14 @@ idn van het onderliggende object *Besluitvlak_X* waar dit object
 *Besluitsubvlak_X* betrekking op heeft, te worden ingevuld. Dit attribuut moet
 meerdere keren worden gebruikt als het object betrekking heeft op meerdere
 onderliggende objecten *Besluitvlak_X*.
+<br/><br/>
 
 **besluitsubvlak** (onder voorwaarde verplicht):  
 Objecten van het type *Besluitsubvlak_X* kunnen op grond van een inhoudelijke
 relatie betrekking hebben op andere onderliggende objecten *Besluitsubvlak_X*.
 Indien dat het geval is, dient met dit attribuut het idn van deze onderliggende
 objecten *Besluitsubvlak_X* te worden opgenomen.
+<br/><br/>
 
 **naam** (verplicht):  
 Aan het attribuut *naam* wordt als waarde een representerende naam van het
@@ -455,6 +470,7 @@ object meegegeven, mogelijk zoals deze in de tekst die ernaar verwijst is
 opgenomen. Niet altijd zal dit het geval zijn. In dat geval zal een zinvolle
 onder­scheidende naam moeten worden ingevuld, zodat het object voor gebruikers
 herkenbaar is en de gebruiker hierop desgewenst kan classificeren.
+<br/><br/>
 
 ***verwijzingNaarTekstInfo*** (verplicht, zo vaak als gewenst):  
 Het attribuut is bedoeld voor het verwijzen naar specifieke tekst die behoort
@@ -465,7 +481,8 @@ De bronhouder kiest voor dezelfde vorm van planteksten als bij het object
 *Besluitgebied_X*: objectgericht in XML of niet-objectgericht in HTML formaat.
 Het format dient overeen­komstig de afspraak over de bestandsnaamconventies
 conform de STRI2012 te zijn. De keuze van de bonhouder wordt vastgelegd in de
-*verwijzingNorm* bij dit gebiedsgericht besluit.  
+*verwijzingNorm* bij dit gebiedsgericht besluit.
+<br/>
 - **verwijzingNaarTekst** (verplicht)  
 Dit attribuut is bedoeld om (hyper)links te kunnen opnemen. Hier dient een
 (hyper)link naar het soort document dat is aangegeven bij het attribuut *typeTekst* te worden opgenomen.
@@ -476,7 +493,8 @@ opgenomen met behulp van een fragmentidentifier. Het fragment in de
 hyperlink is de locatie in de plantekst (XML of HTML) waar het van
 toepassing zijnde attribuut *typeTekst* betrekking op heeft. Een hyperlink
 krijgt dan de vorm: <u>bestandsnaam.xml­\#fragment</u> of
-<u>bestandsnaam.htm\#fragment</u>.  
+<u>bestandsnaam.htm\#fragment</u>.
+<br/>
 - **typeTekst** (verplicht)  
 Hiermee wordt aangegeven om wat voor type tekst het gaat. Per verwijzing
 naar tekst dient gekozen te worden uit een van de volgende waarden van het
@@ -489,6 +507,7 @@ domein *Teksttype_XGB*:
 	-   bijlage bij toelichting.  
 Wanneer een besluitdocument is gekoppeld aan het *Besluitgebied_X*, wordt
 een deel van het besluitdocument, de besluittekst, gekoppeld aan het *Besluitvlak_X* en *Besluitsubvlak_X* (zover deze voorkomt).
+<br/><br/>
 
 **normadressant** (zo vaak als gewenst)  
 Dit attribuut geeft aan op welke organen of rechtspersonen de regeling zich
@@ -496,6 +515,7 @@ richt. Het domein *Normadressant_XGB* geeft de toegestane waarden aan waaruit
 één of meerdere kunnen worden gekozen. Indien deze waarde hier wordt opgegeven
 treedt deze waarde in de plaats van de waarde die bij het object
 *Besluitgebied_X* is opgegeven.
+<br/><br/>
 
 **geometrie** (verplicht)  
 Het object *Besluitsubvlak_X* kent uitsluitend de geometrie van een vlak of
