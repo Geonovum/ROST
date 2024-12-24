@@ -1,11 +1,9 @@
 # Inleiding
-
 **De Praktijkrichtlijn Gebiedsgerichte Besluiten is een toelichting op het
 Informatiemodel Ruimtelijke Ordening. In dit hoofdstuk wordt de achtergrond van
 de praktijkrichtlijn gegeven evenals de strekking van de standaard.**
 
 ## Aanleiding
-
 In <a href='http://wetten.overheid.nl/BWBR0020449' target='_blank'>Wet ruimtelijke ordening</a> (Wro) en het <a href='http://wetten.overheid.nl/BWBR0023798' target='_blank'>Besluit ruimtelijke ordening</a> (Bro) is vastgelegd dat planologische visies, plannen, besluiten, verordeningen en
 algemene maatregelen van bestuur en onderliggende ministeriële regelingen
 digitaal vervaardigd en op elektronische wijze beschikbaar gesteld moeten
@@ -16,8 +14,7 @@ standaarden ruimtelijke ordening</a>, zijn:
 <li><a href='https://docs.geostandaarden.nl/ro/stri' target='_blank'>Standaard Toegankelijkheid Ruimtelijke Instrumenten (STRI2012)</a></li> 
 <li><a href='https://docs.geostandaarden.nl/ro/svbp' target='_blank'>Standaard Vergelijkbare Bestemmingsplannen (SVBP2012)</a></li>
 <li><a href='https://docs.geostandaarden.nl/ro/imropt' target='_blank'> Informatiemodel Ruimtelijke Ordening Planteksten (IMROPT2012)</a></li>
-</ul>
-<br/>
+</ul><br/>
 
 IMRO2012 is normstellend voor de codering van ruimtelijke instrumenten. IMRO2012
 is van belang voor applicatiebouwers en als referentie voor andere IMRO2012
@@ -57,10 +54,9 @@ vastgelegd. De PRGB2012 is van toepassing op de instrumenten:
 <li>omgevingsvergunning (voormalig Wro projectbesluit);</li>
 <li>reactieve aanwijzing;</li>
 <li>voorbereidingsbesluit.</li>
-</ul><br/>
+</ul>
  
 ## Context
-
 Naast de voorliggende praktijkrichtlijn is sprake van andere praktijkrichtlijnen
 en standaarden die in samenhang zijn ontwikkeld in de context van de Wro. De
 praktijkrichtlijnen voor de provinciale verordening (PRPV2012) en de algemene
@@ -216,7 +212,7 @@ Dit betreft zowel een uitspraak van de Afdeling Bestuursrechtspraak van Raad van
 State (ABRS) als van diverse bestuursrechters, die gevolgen kan hebben voor
 ruimtelijk plan of onderdelen daarvan en dientengevolge van belang zijn voor het
 verdere gebruik of de strekking van die ruimtelijke plannen.
-<br/><br/>
+<br/>
 
 ## Leeswijzer
 De voorliggende praktijkrichtlijn gaat in [Hoofdstuk 2](#H02) in op aard en karakter van
