@@ -1,5 +1,4 @@
 # Inleiding
-
 **De Praktijkrichtlijn Bestemmingsplannen is een toelichting op het
 Informatiemodel Ruimtelijke Ordening, voor wat betreft bestemmingsplannen, en de
 Standaard Vergelijkbare Bestemmingsplannen. In dit hoofdstuk wordt de
@@ -7,7 +6,6 @@ achtergrond van de praktijkrichtlijn gegeven evenals de strekking van de
 standaard.**
 
 ## Aanleiding
-
 In <a href='http://wetten.overheid.nl/BWBR0020449' target='_blank'>Wet ruimtelijke ordening</a> (Wro) en het <a href='http://wetten.overheid.nl/BWBR0023798' target='_blank'>Besluit ruimtelijke ordening</a> (Bro)
 is vastgelegd dat planologische visies, plannen, besluiten, verordeningen en
 algemene maatregelen van bestuur en onderliggende ministeriële regelingen
@@ -19,8 +17,7 @@ standaarden ruimtelijke ordening</a>, zijn:
 <li><a href='https://docs.geostandaarden.nl/ro/stri' target='_blank'>Standaard Toegankelijkheid Ruimtelijke Instrumenten (STRI2012)</a></li> 
 <li><a href='https://docs.geostandaarden.nl/ro/svbp' target='_blank'>Standaard Vergelijkbare Bestemmingsplannen (SVBP2012)</a></li>
 <li><a href='https://docs.geostandaarden.nl/ro/imropt' target='_blank'> Informatiemodel Ruimtelijke Ordening Planteksten (IMROPT2012)</a></li>
-</ul>
-<br/>
+</ul><br/>
 
 IMRO2012 is normstellend voor de codering van ruimtelijke instrumenten. IMRO2012
 is van belang voor applicatiebouwers en als referentie voor andere IMRO2012
@@ -182,10 +179,8 @@ Naast de Wro kent ook de Wet algemene bepalingen omgevingsrecht (Wabo) een
 verplichte elektronische beschikbaarstelling: artikel 2.12, eerste lid,
 onderdeel a, onder 3 van de Wabo. De Praktijkrichtlijn Gebiedsgerichte Besluiten
 (PRGB2012) licht deze verplichting toe.
-<br/><br/>
 
 ## Leeswijzer
-
 De voorliggende praktijkrichtlijn gaat in [Hoofdstuk 2](#H02) eerst in op de relatie met
 IMRO2012 en beschrijft de globale opzet van de modelmatige grondslag. [Hoofdstuk
 3](#H03) beschrijft alle objecten en de bijbehorende attributen. [Hoofdstuk 4](#H04) gaat in
