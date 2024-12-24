@@ -42,7 +42,7 @@ De volgende inhoudelijk besluiten worden achtereenvolgens in deze paragraaf beha
 <ul><li>Aanwijzing;</li>
 <li>Beheersverordening;</li>
 <li>Exploitatieplan.</li>
-</ul><br/>
+</ul>
 
 ### Aanwijzing  
 Er zijn twee besluittypen binnen de aanwijzingen: een aanwijzingsbesluit
@@ -69,7 +69,7 @@ onderdeel waar de reactieve aanwijzing betrekking op heeft, geen deel blijft
 uitmaken van het bestemmingsplan zoals het is vastgesteld.
 <br/><br/>
 
-<u>Attributen en waarden</u>
+<u>Attributen en waarden</u>  
 Van het *typeTekst* attribuut wordt het besluitdocument bij een aanwijzing
 gekoppeld. Eventueel kunnen ook worden gekoppeld: toelichting, bijlage bij
 besluitdocument en/of bijlage bij toelichting.
@@ -95,9 +95,6 @@ wordt weergegeven.
 Er is bij de ontwikkeling van de RO Standaarden 2012 bewust gekozen om de
 beheersverordening vormvrij te houden en geen regels voor verbeelding te
 hanteren.
-De Vereniging Nederlandse Gemeenten (VNG) heeft in 2011 de handreiking
-Beheersverordening Wro <a href='https://vng.nl/artikelen/factsheet-ruimtelijke-ordening
-' target='_blank'>geactualiseerd</a>. 
 <br/><br/>
 
 <u>Attributen en waarden</u>  
@@ -139,8 +136,7 @@ juli 2013 beschikbaar moet worden gesteld. Een exploitatieplan kan alleen in een
 <br/><br/>
 
 De Vereniging Nederlandse Gemeenten (VNG) heeft eind 2010 een handreiking voor
-het exploitatieplan <a href='https://vng.nl/artikelen/factsheet-ruimtelijke-ordening
-' target='_blank'>opgesteld</a>. Op basis hiervan zijn de specifieke waarden
+het exploitatieplan opgesteld. Op basis hiervan zijn de specifieke waarden
 voor het besluitgebied in Tabel 9 opgesteld. In deze uitwerking is voor het
 overzicht niet gebruik gemaakt van objectgerichte planteksten, maar dit is
 natuurlijk wel mogelijk.
@@ -181,7 +177,7 @@ De volgende besluiten worden achtereenvolgens in deze paragraaf behandeld:
 <ul><li>Gerechtelijke uitspraak;</li>
 <li>Omgevingsvergunning;</li>
 <li>Voorbereidingsbesluit.</li>
-</ul><br/>
+</ul>
 
 ### Gerechtelijke uitspraak  
 In de <a href='https://docs.geostandaarden.nl/ro/tri2012/' target='_blank'>PRTRI2012</a> is een uitbreide toelichting op de werkwijze van gerechtelijke
@@ -209,10 +205,10 @@ kopie van de authentieke informatie van de rechter) als gebiedsgericht besluit
 beschikbaar. Op deze wijze kan het in samenhang met, maar tegelijk los van, het
 plan worden ontsloten. Het resultaat van de uitspraak zelf is dat het
 betreffende ruimtelijke plan niet, deels of geheel onherroepelijk in werking
-treedt. Deze informatie wordt als dossierstatus in het manifest opgenomen, zie de toelichting in paragraaf 5.8 van de <a href='https://docs.geostandaarden.nl/ro/tri2012' target='_blank'>Praktijkrichtlijn Toegankelijkheid Ruimtelijke Instrumenten (PRTRI2012)</a>.
+treedt. Deze informatie wordt als dossierstatus in het manifest opgenomen, zie de toelichting in de <a href='https://docs.geostandaarden.nl/ro/tri2012#beschrijving-dossierstatussen-met-overgangen' target='_blank'>PRTRI2012, paragraaf 5.8</a>.
 <br/><br/>
 
-<u>Attributen en waarden</u>
+<u>Attributen en waarden</u>  
 De *typeTekst* bij een gerechtelijke uitspraak is het besluitdocument. Het
 besluitdocument wordt gekoppeld aan het object *Besluitgebied_X*. Eventueel
 kunnen ook worden gekoppeld: toelichting, bijlage bij besluitdocument en/of
@@ -263,15 +259,17 @@ werkwijze toe voor de ennisgeving van een omgevingsvergunning
 om af te wijken van het bestemmingsplan.
 <br/><br/>
 
-In het Besluit Omgevingsrecht (Bor) artikel 6.14 is aangegeven dat bij
+In het bij de Wabo behorende <a href='https://wetten.overheid.nl/BWBR0027464' target='_blank'>Besluit Omgevingsrecht</a> (Bor) artikel 6.14 is aangegeven dat bij
 ministeriële regeling nadere regels worden gesteld over de wijze waarop de
 mededeling van een met artikel 2.12, eerste lid, onderdeel a, onder 3 van de
 Wabo *verleende* omgevingsvergunning elektronisch wordt gedaan en beschikbaar
-gesteld. De nadere regels zijn gegeven in de ministeriële Regeling standaarden
-ruimtelijke ordening 2012: het gebruik van het Informatiemodel Ruimtelijke
+gesteld. De nadere regels zijn gegeven in de ministeriële <a href='http://wetten.overheid.nl/BWBR0031829' target='_blank'>Regeling
+standaarden ruimtelijke ordening</a>: het gebruik van het Informatiemodel Ruimtelijke
 Ordening (IMRO) en Standaard Toegankelijkheid Ruimtelijke Instrumenten (STRI) is
 daardoor verplicht. Deze praktijkrichtlijn (PRGB2012) is een toelichting op het
-IMRO2010 voor de toepassing in de praktijk.
+IMRO voor de toepassing in de praktijk.
+<br/><br/>
+
 De kennisgeving van de omgevingsvergunning is de tekst die de bronhouder opstelt
 en bekendmaakt via de Staatscourant. De bronhouder koppelt de kennisgeving aan
 een contour van de betreffende locatie. Het is geheel vrijblijvend en aan de
