@@ -67,6 +67,7 @@ identificatienummer. De geometrie van het object *Besluitgebied_P* is hierbij
 een multipolygoon.
 Het samengestelde attribuut verwijst naar het object NEN3610ID bestaande uit de
 attributen *namespace, lokaalID* en *versie*.
+<br/>
 - **namespace:** (verplicht)  
 Een unieke verwijzing naar een registratie van objecten. Voor IMRO objecten
 is dat ‘NL.IMRO’.
@@ -126,6 +127,7 @@ eventueel meerdere kunnen worden gekozen.
 **locatieNaam** (zo vaak als gewenst):  
 Indien gewenst kan de naam van de locatie waarop de verordening betrekking heeft
 hier worden opgenomen.
+<br/><br/>
 
 ***planstatusInfo*** (verplicht):  
 Dit attribuut is noodzakelijk om de plangegevens te kunnen plaatsen naar tijd en
@@ -250,7 +252,7 @@ illustratie het gaat. Er dient gekozen te worden uit één van de waarden
 ***verwijzingNaarExternPlanInfo*** (zo vaak als gewenst):  
 Een verordening zal meestal gebaseerd zijn op een Provinciale Structuurvisie,
 maar kan ook gebaseerd zijn op een ander beleidsdocument. Ook kan er sprake zijn
-van het doorwerken van een AMvB naar een provinciale verordening. In Hoofdstuk 4
+van het doorwerken van een AMvB naar een provinciale verordening. In [hoofdstuk 4](#H04)
 is dit met betrekking tot herzieningen toegelicht. Daarnaast kan een extern plan
 ook relevante informatie bevatten. Het attribuut verwijst naar het samengestelde
 attribuut *ExternPlanReferentie_PV*, bestaande uit de volgende attributen *naamExternPlan*, *idnExternPlan* en *rolExternPlan*.
@@ -315,25 +317,30 @@ gebruikt. Na de tabel is per attribuut een nadere toelichting gegeven.
 ***identificatie (idn)*** (verplicht):  
 Elk object *Besluitvlak_P* krijgt een eigen unieke identificatie binnen de
 provinciale verordening. Het samengestelde attribuut *identificatie* verwijst
-naar het object NEN3610ID bestaande uit de attributen *namespace* en *lokaalID*.  
+naar het object NEN3610ID bestaande uit de attributen *namespace* en *lokaalID*.
+<br/>
 - **namespace:** (verplicht)  
 Een unieke verwijzing naar een registratie van objecten. Voor IMRO objecten
 is dat ‘NL.IMRO’.  
+<br/>
 - **lokaalID:** (verplicht)  
 Door de bronhouder te bepalen unieke identificatiecode binnen de context van
 het bestand bestaande uit maximaal 32 alfanumerieke tekens. Toegestane
 tekens: {”A”…”Z”, “a”…”z”, ”0”…”9”, “_”, “- “, “,”, ”.”}.
+<br/><br/>
 
 **typePlanobject** (verplicht):  
 Het attribuut *typePlanobject* maakt het via het bijbehorende domein
 *RuimtelijkPlanobject* mogelijk aan te geven welk object het betreft. Hier wordt
 de vaste waarde *besluitvlak_P* ingevuld.
+<br/><br/>
 
 **besluitgebied** (verplicht):  
 Voor elk object is een verwijzing noodzakelijk naar het object *Besluitgebied_P*
 waar het object deel van uitmaakt. Dit attribuut verwijst daartoe naar het
 attribuut *identificatie* van het bijbehorende object *Besluitgebied_P*. Dit zal
 automatisch binnen een applicatie gestalte kunnen krijgen.
+<br/><br/>
 
 **naam** (verplicht):  
 Aan het attribuut *naam* wordt als waarde een representerende naam van het
@@ -341,12 +348,14 @@ object meegegeven, mogelijk zoals deze in de tekst die ernaar verwijst is
 opgenomen. Niet altijd zal dit het geval zijn. In dat geval zal een zinvolle
 onderscheidende naam moeten worden ingevuld, zodat het object voor gebruikers
 herkenbaar is en de gebruiker hierop desgewenst kan classificeren.
+<br/><br/>
 
 **thema** (verplicht, zo vaak als gewenst):  
 Met dit attribuut wordt het thema van het object opgenomen. Het thema wordt
 gekozen uit de waarden volgens het voorlopige domein *Thema*. Indien geen
 bruikbare waarde wordt gevonden kan een vrije tekst worden opgenomen. Dit
 attribuut kan meerdere keren worden opgenomen.
+<br/><br/>
 
 ***verwijzingNaarTekstInfo*** (onder voorwaarde verplicht):  
 Het attribuut is bedoeld voor het verwijzen naar het specifieke artikel dat
@@ -354,7 +363,8 @@ behoort bij het betreffende object *Besluitvlak_P*. Het attribuut verwijst naar
 het samengestelde attribuut *TekstReferentie_PV*, bestaande uit de attributen *verwijzingNaarTekst, typeTekst* en *normadressant*.  
 De bronhouder kiest voor dezelfde vorm van planteksten als bij het object *Besluitgebied_P*: objectgericht in XML of niet-objectgericht in HTML formaat.
 Het format dient overeen­komstig de afspraak over de bestandsnaamconventies
-conform de STRI2012 te zijn. De keuze van de bronhouder wordt vastgelegd in de *verwijzingNorm* bij deze provinciale verordening.  
+conform de STRI2012 te zijn. De keuze van de bronhouder wordt vastgelegd in de *verwijzingNorm* bij deze provinciale verordening.
+<br/>
 - **verwijzingNaarTekst** (verplicht)  
 Dit attribuut is bedoeld om (hyper)links te kunnen opnemen. Hier dient een
 (hy­per)­link naar het soort document dat is aangegeven bij het attribuut *typeTekst* te worden opgenomen.  
@@ -364,7 +374,8 @@ een nadere precisering naar de plaats binnen een document te worden
 opgenomen met behulp van een fragmentidentifier. Het fragment in de
 hyperlink is de locatie in de plantekst (XML of HTML) waar het van
 toepassing zijnde attribuut *typeTekst* betrekking op heeft. Een hyperlink
-krijgt dan de vorm: *bestandsnaam.xml­\#fragment* of *bestandsnaam.htm­\#fragment*.  
+krijgt dan de vorm: *bestandsnaam.xml­\#fragment* of *bestandsnaam.htm­\#fragment*.
+<br/>
 - **typeTekst** (verplicht)  
 Hiermee wordt aangegeven om wat voor type tekst het gaat. Per verwijzing
 naar tekst dient gekozen te worden uit een van de volgende waarden van het
@@ -375,28 +386,34 @@ domein *Teksttype_PV*:
 	-   bijlage bij regel zonder voorbereidingsbescherming;  
 	-   bijlage bij regel met voorbereidingsbescherming;  
 	-   bijlage bij toelichting.
+<br/><br/>
 
 **normadressant** (zo vaak als gewenst)  
 Dit attribuut geeft aan op welke organen of rechtspersonen de regeling zich
 richt. Het domein *Normadressant_PV* geeft de toegestane waarden aan waaruit één
 of meerdere kunnen worden gekozen. Indien deze waarde hier wordt opgegeven
 treedt deze waarde in de plaats van de waarde die bij het object *Besluitgebied_P* is opgegeven.
+<br/><br/>
 
 ***verwijzingNaarIllustratieInfo*** (zo vaak als gewenst):  
 Dit attribuut is bedoeld om een specifieke afbeelding of illustratie behorende
 bij het object op te nemen. Het attribuut verwijst naar het samengestelde
-attribuut *IllustratieReferentie*, bestaande uit de attributen *verwijzingNaarIllustratie, typeIllustratie* en *legendanaam*.  
+attribuut *IllustratieReferentie*, bestaande uit de attributen *verwijzingNaarIllustratie, typeIllustratie* en *legendanaam*.
+<br/>
 - **verwijzingNaarIllustratie** (verplicht)  
 Dit attribuut is exclusief bedoeld om links te kunnen opnemen. Hier dient
 een link naar de illustratie waarbij het object behoort te worden opgenomen.
 Het format dient overeenkomstig de afspraak over de bestandsnaamconventie
 voor het bestandstype *illustratie* conform de STRI2012 te zijn.  
+<br/>
 - **typeIllustratie** (verplicht)  
 Hierin wordt het type van de illustratie vastgelegd: om wat voor soort
-illustratie het gaat. Er dient gekozen te worden uit één van de waarden *afbeelding* of *kaart* volgens het domein *Illustratie*.  
+illustratie het gaat. Er dient gekozen te worden uit één van de waarden *afbeelding* of *kaart* volgens het domein *Illustratie*.
+<br/>
 - **legendanaam** (indien gewenst)  
 De op te nemen / opgenomen naam voor de legenda van het kaartbeeld waarnaar
 verwezen wordt.
+<br/><br/>
 
 ***cartografieInfo*** (zo vaak als gewenst):  
 Het attribuut *cartografieInfo* wordt gebruikt om verschillende kaarten in de
@@ -407,7 +424,8 @@ objectweergave in een interactieve raadpleegomgeving. Een object kan in meerdere
 kaarten voorkomen. Er moeten meerdere attributen *cartografieInfo* met waarden
 toegevoegd worden om dit te realiseren.  
 Het attribuut verwijst naar het samengestelde attribuut *cartografieInfo*
-bestaande uit de attributen *kaartnummer, kaartnaam en symboolcode.*  
+bestaande uit de attributen *kaartnummer, kaartnaam en symboolcode.*
+<br/>
 - **kaartnummer** (verplicht) 
 Het nummer van de kaart van de provinciale verordening waartoe dit object
 behoort. Het kaartnummer is door de bronhouder te bepalen. Kaarten kunnen in
@@ -415,10 +433,12 @@ een interactieve raadpleegomgeving worden geprioriteerd op basis van
 kaartnummer. De kaart met nummer 1 wordt als hoofdkaart gezien en moet
 altijd voorkomen, kaartnummer 0 niet mag voorkomen. Voorloopnullen worden
 genegeerd (001 wordt bijvoorbeeld 1). Het kaartnummer is een uniek nummer
-gekoppeld aan een kaartnaam.  
+gekoppeld aan een kaartnaam.
+<br/>
 - **kaartnaam** (verplicht)  
 De naam van de kaart van de provinciale verordening waartoe dit object
-behoort. De kaartnaam is door de bronhouder te bepalen.  
+behoort. De kaartnaam is door de bronhouder te bepalen.
+<br/>
 - **symboolcode** (zo vaak als gewenst)  
 De symboolcode uit de symboolcodelijst voor vormvrije plannen (onderdeel van
 de RO Standaarden 2012). De symboolcode geeft de kleur en patroon aan voor
@@ -427,19 +447,23 @@ raadpleegomgeving wordt weergegeven.
 Een symboolcode die aan een object wordt toegevoegd geldt deze alleen voor
 dit object zelf en niet voor de onderliggende objecten. Er vindt dus geen
 overerving van symboolcode plaats.
+<br/><br/>
 
 ***begrenzing*** (verplicht, zo vaak als gewenst):  
-Het attribuut verwijst naar het samengestelde attribuut *GeometrieBesluitObject_P1*, bestaande uit de attributen:  
+Het attribuut verwijst naar het samengestelde attribuut *GeometrieBesluitObject_P1*, bestaande uit de attributen:
+<br/>
 - **geometrie** (verplicht)  
 Het object *Besluitvlak_P* kent uitsluitend de geometrie van een vlak of
 multivlak (multipolygoon). Dit attribuut legt de coördinaten in een
 vastgesteld format (gml) vast. De coördinaten kunnen door een applicatie
-automatisch worden gegenereerd.  
+automatisch worden gegenereerd.
+<br/>
 - **idealisatie** (verplicht)  
 De waarde van dit attribuut is voor het object *Besluitvlak_P* altijd exact.
 Hiermee wordt bedoeld dat de geometrie van het object opgenomen is met de
 nauwkeurigheid die behoort bij de dataset, waarmee de begrenzing als exact
 wordt beschouwd.
+<br/>
 
 ## Klasse Besluitsubvlak_P
 
@@ -450,32 +474,35 @@ mag worden gebruikt. Ook is aangegeven of attributen gekoppeld worden, dat wil
 zeggen altijd in samenhang moeten worden gebruikt. Na de tabel is per attribuut
 een nadere toelichting gegeven.
 
-**Tabel 4 Klasse Besluitsubvlak_P 0..n\***
-
 <table id="d4e4162" style="width: 100%;"><caption>Klasse Besluitsubvlak_P 0..n*</caption><colgroup><col id="col1" style="width: 4.414609170554102%;"></col><col id="col2" style="width: 3.67504835589942%;"></col><col id="col3" style="width: 0.10240072818295597%;"></col><col id="col4" style="width: 20.844237114575037%;"></col><col id="col5" style="width: 30.640573444077823%;"></col><col id="col6" style="width: 6.451245875526227%;"></col><col id="col7" style="width: 33.871885311184435%;"></col></colgroup><thead valign="top"><tr><th align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;" colspan="4"><p id="1A463D14">attribuut</p></th><th align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="13A1EBA1">waarde</p></th><th align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="45D93E47">*</p></th><th align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="3A370BE0">nadere omschrijving waarde</p></th></tr></thead><tbody valign="top"><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;" colspan="4"><p id="6AD4810A"><i>identificatie: </i></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="1813DE7E"><i>NEN3610ID</i></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="4D4B5387"><i>1</i></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="5DD02E05"><i>samengesteld attribuut.</i></p></td></tr><tr><td align="left" style="padding-top: 0.5em; border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;" rowspan="2"><p id="2144E58C" style="writing-mode: vertical-rl; rotate: 180deg;"><i>NEN3610ID</i></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;" colspan="3"><p id="52717CF1">namespace</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="66D303B0">waarde</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="4841647C">1</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="0FB8B1F5" class="space-after">Unieke verwijzing naar een registratie van objecten. Voor IMRO objecten is dat ‘NL.IMRO’</p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;" colspan="3"><p id="498A044D">lokaalID</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="4ED3DD81">waarde</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="30E58E68">1</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="7194FEE0">Unieke identificatiecode binnen dit bestand. Bestaande uit max. 24 alfanumerieke tekens.</p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;" colspan="4"><p id="67B35D88">typePlanobject</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="6718072A">besluitsubvlak_P</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="1FD7D184">1</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="358D8713">vaste waarde volgens domein RuimtelijkPlanObject</p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;" colspan="4"><p id="5B1C58AE">besluitgebied</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="6982E86B">idn Besluitgebied_P</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="5E1B4F93">1</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="58C89A29">automatisch uitlezen door applicatie</p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;" colspan="4"><p id="618F50D4">besluitvlak</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="521CBD8A">idn bijbehorend Besluitvlak_P</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="33A03FE2">0..n</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="25BF9865">alleen verplicht indien behoort bij een besluitvlak op grond van een inhoudelijke relatie</p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;" colspan="4"><p id="5477E36A">besluitsubvlak</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="165C29E9">idn bijbehorend Besluitsubvlak_P</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="68C07F4C">0..n</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="3BE07488">alleen verplicht indien behoort bij een ander besluitsubvlak op grond van een inhoudelijke relatie</p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;" colspan="4"><p id="2395EC31">naam</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="4992C87A">naam besluitsubvlak</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="1F21BE66">1</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="6C920CDE">volgens tekst besluit</p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;" colspan="4"><p id="443CC43D">thema</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="6A4130A6">naam thema</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="61F43DFF">1..n</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="71FB5CD7">vrij in te vullen, desgewenst één van de waarden volgens voorlopig domein Thema</p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;" colspan="4"><p id="01444A6F"><i>verwijzingNaarTekstInfo:</i></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="33E83B3F"><i>TekstReferentie_PV</i></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="6F35BF32"><i>1..n</i></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="7BF4C84D"><i>samengesteld attribuut</i></p><p id="78B52030"><i>verwijzend naar specifieke tekst</i></p></td></tr><tr><td align="left" style="padding-top: 0.5em; border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;" colspan="3" rowspan="3"><p id="50B6C564" style="writing-mode: vertical-rl; rotate: 180deg;"><i>TekstReferentie_PV</i></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="0EBF7794">verwijzingNaarTekst</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="625B31F8">link</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="5F98E2B0">1</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="073D73DA">in format bestandsnaamconventie voorschriften/regels, toelichting of bijlage conform STRI2012</p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="486E6D45">typeTekst</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="4F62D718">regel zonder voorbereidingsbescherming,  </p><p id="1DE28432">regel met voorbereidingsbescherming, </p><p id="15F628CA">toelichting,</p><p id="1F8790D2">bijlage bij regel zonder voorbereidingsbescherming,</p><p id="2ECB8E0C">bijlage bij regel met voorbereidingsbescherming of </p><p id="52154052">bijlage bij toelichting</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="14515B17">1</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="102037E8">één van de waarden volgens domein Teksttype_PV</p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="4CC3A1B9">normadressant</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="0820185E">naam van de normadressant</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="52537FAD">0..n</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="6855EC28">geen, één of meer van de waarden volgens domein Normadressant_PV; alleen indien anders dan bij object Besluitgebied_P</p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;" colspan="4"><p id="4752A2BB"><i>verwijzingNaarIllustratieInfo:</i></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="4839AA90"><i>IllustratieReferentie</i></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="67512CDA"><i>0..n</i></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="30329F88"><i>samengesteld attribuut</i></p></td></tr><tr><td align="left" style="padding-top: 0.5em; border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;" colspan="3" rowspan="3"><p id="3B68DB71" style="writing-mode: vertical-rl; rotate: 180deg;"><i>IllustratieReferentie</i></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="40B74B4D">verwijzingNaarIllustratie</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="52D0AD3A">link</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="2A926542">1</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="4D4370FD">in format bestandsnaamconventie illustratie conform STRI2012</p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="08F9C391">typeIllustratie</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="00CE9CC9">afbeelding of kaart</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="11616F37">1</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="61F43A31">één van de waarden volgens domein Illustratie</p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="593FFC42">legendanaam</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="06BD4FD0">naam</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="27AB9E41">0..1</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="7DE2E639">volgens legenda van de illustratie waarnaar verwezen wordt</p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;" colspan="4"><p id="1673F6D9"><i>cartografieInfo:</i></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="79D1B001"><i>CartografieInfo</i></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="7C5A1A02"><i>0..n</i></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="27A4C47A"><i>samengesteld attribuut</i></p></td></tr><tr><td align="left" style="padding-top: 0.5em; border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;" colspan="2" rowspan="3"><p id="1113A786" style="writing-mode: vertical-rl; rotate: 180deg;"><i>CartografieInfo</i></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;" colspan="2"><p id="59308282">kaartnummer</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="350BADCA">nummer van de kaart waartoe dit object behoort</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="1C16DBD4">1</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="33FC0565">nummer van de kaart waartoe dit object behoort</p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;" colspan="2"><p id="3D42903C">kaartnaam</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="3DA41B59">naam van de kaart waartoe dit object behoort</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="5BB9FF18">1</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="097C2CCA">naam van de kaart waartoe dit object behoort</p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;" colspan="2"><p id="555E5D6D">symboolcode</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="2033130A">code van de gebruikte verbeelding voor weergave van het object. </p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="626E2472">0..1</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="367923FF">één van de waarden uit SLD Symboolcodelijst vormvrije plannen</p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;" colspan="4"><p id="4CECFC7A"><i>begrenzing:</i></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="3A9EC204"><i>GeometrieBesluitobject_P3</i></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="7785EA4B"><i>1..n</i></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="677A2D17"><i>samengesteld attribuut</i></p></td></tr><tr><td align="left" style="padding-top: 0.5em; border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;" colspan="3" rowspan="2"><p id="6217ADB2" style="writing-mode: vertical-rl; rotate: 180deg;"><i>GeometrieBesluitobject_P3</i></p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="7B004A72">geometrie</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="68A82133">coördinaten</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="150E92D2">1</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="6B234E57">beschrijving van punt, lijn, vlak of meervoudige versies daarvan (multipunt, multilijn, multivlak)</p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="0147052E">idealisatie</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="1EE0EE31">exact, indicatief of cartografisch figuur</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="361E874F">1</p></td><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;"><p id="4C39B80E">één van de waarden volgens domein Idealisatie_3</p></td></tr><tr><td align="left" style="border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;" colspan="7"><p id="64CAE23E"><b>*</b>  multipliciteit:</p><p id="565658D0">0..1:   komt 0 of 1 keer voor               0..n:   komt zo vaak voor als gewenst</p><p id="4999F9CE">1:       komt 1 keer voor                      1..n:   komt tenminste 1 keer voor </p></td></tr></tbody></table>
 
 ***identificatie (idn)*** (verplicht):  
 Elk object *Besluitsubvlak_P* krijgt een eigen unieke identificatie binnen deze
 provinciale verordening. Het samengestelde attribuut *identificatie* verwijst
-naar het object NEN3610ID bestaande uit de attributen *namespace* en *lokaalID*.  
+naar het object NEN3610ID bestaande uit de attributen *namespace* en *lokaalID*.
+<br/>
 - **namespace:** (verplicht)  
 Een unieke verwijzing naar een registratie van objecten. Voor IMRO objecten
 is dat ‘NL.IMRO’.  
+<br/>
 - **lokaalID:** (verplicht)  
 Door de bronhouder te bepalen unieke identificatiecode binnen de context van
 het bestand bestaande uit maximaal 32 alfanumerieke tekens. Toegestane
 tekens: {”A”…”Z”, “a”…”z”, ”0”…”9”, “_”, “- “, “,”, ”.”}.
+<br/><br/>
 
 **typePlanobject** (verplicht):  
 Het attribuut *typePlanobject* maakt het via het bijbehorende domein
 *RuimtelijkPlanobject* mogelijk aan te geven welk object het betreft. Hier wordt
 de vaste waarde *besluitsubvlak_P* ingevuld.
+<br/><br/>
 
 **besluitgebied** (verplicht):  
 Voor elk object is een verwijzing noodzakelijk naar het object *Besluitgebied_P*
 waar het object deel van uitmaakt. Dit attribuut verwijst daartoe naar het
 attribuut *identificatie* van het bijbehorende object *Besluitgebied_P*. Dit zal
 automatisch binnen een applicatie gestalte kunnen krijgen.
+<br/><br/>
 
 **besluitvlak** (onder voorwaarde verplicht):  
 Een object *Besluitsubvlak_P* heeft op grond van een inhoudelijke relatie altijd
@@ -485,12 +512,14 @@ het onderliggende object *Besluitvlak_P* waar dit object *Besluitsubvlak_P*
 betrekking op heeft, te worden ingevuld. Dit attribuut moet meerdere keren
 worden gebruikt als het object betrekking heeft op meerdere onderliggende
 objecten *Besluitvlak_P*.
+<br/><br/>
 
 **besluitsubvlak** (onder voorwaarde verplicht):  
 Objecten van het type *Besluitsubvlak_P* kunnen op grond van een inhoudelijke
 relatie betrekking hebben op andere onderliggende objecten *Besluitsubvlak_P*.
 Indien dat het geval is, dient met dit attribuut het idn van deze onderliggende
 objecten *Besluitsubvlak_P* te worden opgenomen.
+<br/><br/>
 
 **naam** (verplicht):  
 Aan het attribuut *naam* wordt als waarde een representerende naam van het
@@ -498,12 +527,14 @@ object meegegeven, mogelijk zoals deze in de tekst die ernaar verwijst is
 opgenomen. Niet altijd zal dit het geval zijn. In dat geval zal een zinvolle
 onderscheidende naam moeten worden ingevuld, zodat het object voor gebruikers
 herkenbaar is en de gebruiker hierop desgewenst kan classificeren.
+<br/><br/>
 
 **thema** (verplicht, zo vaak als gewenst):  
 Met dit attribuut wordt het thema van het object opgenomen. Het thema wordt
 gekozen uit de waarden volgens het voorlopige domein *Thema*. Indien geen
 bruikbare waarde wordt gevonden kan een vrije tekst worden opgenomen. Dit
 attribuut kan meerdere keren worden opgenomen.
+<br/><br/>
 
 ***verwijzingNaarTekstInfo*** (onder voorwaarde verplicht):  
 Het attribuut is bedoeld voor het verwijzen naar het specifieke artikel dat
@@ -515,7 +546,7 @@ De bronhouder kiest voor dezelfde vorm van planteksten als bij het object
 Het format dient overeen­komstig de afspraak over de bestandsnaamconventies
 conform de STRI2012 te zijn. De keuze van de bronhouder wordt vastgelegd in de
 *verwijzingNorm* bij deze provinciale verordening.
-
+<br/>
 - **verwijzingNaarTekst** (verplicht)  
 Dit attribuut is bedoeld om (hyper)links te kunnen opnemen. Hier dient een
 (hy­per)­link naar het soort document dat is aangegeven bij het attribuut *typeTekst* te worden opgeno­men.  
@@ -525,7 +556,8 @@ een nadere precisering naar de plaats binnen een document te worden
 opgenomen met behulp van een fragmentidentifier. Het fragment in de
 hyperlink is de locatie in de plantekst (XML of HTML) waar het van
 toepassing zijnde attribuut *typeTekst* betrekking op heeft. Een hyperlink
-krijgt dan de vorm: *bestandsnaam.xml­\#fragment,* of *bestandsnaam.htm­\#fragment*.  
+krijgt dan de vorm: *bestandsnaam.xml­\#fragment,* of *bestandsnaam.htm­\#fragment*.
+<br/>
 - **typeTekst** (verplicht)  
 Hiermee wordt aangegeven om wat voor type tekst het gaat. Per verwijzing
 naar tekst dient gekozen te worden uit een van de volgende waarden van het
@@ -535,28 +567,34 @@ domein *Teksttype_PV*:
 	-   toelichting;  
 	-   bijlage bij regel zonder voorbereidingsbescherming;  
 	-   bijlage bij regel met voorbereidingsbescherming;  
-	-   bijlage bij toelichting.  
+	-   bijlage bij toelichting.
+<br/>
 - **normadressant** (zo vaak als gewenst)  
 Dit attribuut geeft aan op welke organen of rechtspersonen de regeling zich
 richt. Het domein *Normadressant_PV* geeft de toegestane waarden aan waaruit één
 of meerdere kunnen worden gekozen. Indien deze waarde hier wordt opgegeven
 treedt deze waarde in de plaats van de waarde die bij het object *Besluitgebied_P* is opgegeven.
+<br/><br/>
 
 ***verwijzingNaarIllustratieInfo*** (optioneel):  
 Dit attribuut is bedoeld om een specifieke verbeelding of illustratie behorende
 bij het object op te nemen. Het attribuut verwijst naar het samengestelde
-attribuut *IllustratieReferentie*, bestaande uit de attributen *verwijzingNaarIllustratie, typeIllustratie* en *legendanaam*.  
+attribuut *IllustratieReferentie*, bestaande uit de attributen *verwijzingNaarIllustratie, typeIllustratie* en *legendanaam*.
+<br/>
 - **verwijzingNaarIllustratie** (verplicht)  
 Dit attribuut is exclusief bedoeld om links te kunnen opnemen. Hier dient
 een link naar de illustratie waarbij het object behoort te worden opgenomen.
 Het format dient overeenkomstig de afspraak over de bestandsnaamconventie
-voor het bestandstype *illustratie* conform de STRI2012 te zijn.  
+voor het bestandstype *illustratie* conform de STRI2012 te zijn.
+<br/>
 - **typeIllustratie** (verplicht)  
 Hierin wordt het type van de illustratie vastgelegd: om wat voor soort
-illustratie het gaat. Er dient gekozen te worden uit één van de waarden *afbeelding* of *kaart* volgens het domein *Illustratie*.  
+illustratie het gaat. Er dient gekozen te worden uit één van de waarden *afbeelding* of *kaart* volgens het domein *Illustratie*.
+<br/>
 - **legendanaam** (indien gewenst)  
 De op te nemen / opgenomen naam voor de legenda van het kaartbeeld waarnaar
 verwezen wordt.
+<br/><br/>
 
 ***cartografieInfo*** (zo vaak als gewenst):  
 Het attribuut *cartografieInfo* wordt gebruikt om verschillende kaarten in de
@@ -567,7 +605,8 @@ objectweergave in een interactieve raadpleegomgeving. Een object kan in meerdere
 kaarten voorkomen. Er moeten meerdere attributen *cartografieInfo* met waarden
 toegevoegd worden om dit te realiseren.  
 Het attribuut verwijst naar het samengestelde attribuut *cartografieInfo*
-bestaande uit de attributen *kaartnummer, kaartnaam en symboolcode.*  
+bestaande uit de attributen *kaartnummer, kaartnaam en symboolcode.*
+<br/>
 - **kaartnummer** (verplicht)  
 Het nummer van de kaart van de provinciale verordening waartoe dit object
 behoort. Het kaartnummer is door de bronhouder te bepalen. Kaarten kunnen in
@@ -575,10 +614,12 @@ een interactieve raadpleegomgeving worden geprioriteerd op basis van
 kaartnummer. De kaart met nummer 1 wordt als hoofdkaart gezien en moet
 altijd voorkomen, kaartnummer 0 niet mag voorkomen. Voorloopnullen worden
 genegeerd (001 wordt bijvoorbeeld 1). Het kaartnummer is een uniek nummer
-gekoppeld aan een kaartnaam.  
+gekoppeld aan een kaartnaam.
+<br/>
 - **kaartnaam** (verplicht)  
 De naam van de kaart van de provinciale verordening waartoe dit object
-behoort. De kaartnaam is door de bronhouder te bepalen.  
+behoort. De kaartnaam is door de bronhouder te bepalen.
+<br/>
 - **symboolcode** (zo vaak als gewenst)  
 De symboolcode uit de symboolcodelijst voor vormvrije plannen (onderdeel van
 de RO Standaarden 2012). De symboolcode geeft de kleur en patroon aan voor
@@ -587,15 +628,18 @@ raadpleegomgeving wordt weergegeven.
 Een symboolcode die aan een object wordt toegevoegd geldt deze alleen voor
 dit object zelf en niet voor de onderliggende objecten. Er vindt dus geen
 overerving van symboolcode plaats.
+<br/><br/>
 
 ***begrenzing*** (verplicht, zo vaak als gewenst):  
-Dit attribuut verwijst naar het samengestelde attribuut *GeometrieBesluitobject_P3*, bestaande uit de attributen *geometrie* en *idealisatie*.  
+Dit attribuut verwijst naar het samengestelde attribuut *GeometrieBesluitobject_P3*, bestaande uit de attributen *geometrie* en *idealisatie*.
+<br/>
 - **geometrie** (verplicht)  
 De geometrie van het object *Besluitsubvlak_P* kan een beschrijving van
 punt, lijn, vlak of meervoudige versies daarvan (multipunt, multilijn,
 multivlak) zijn, tezamen de geometrie van het object vormend. Dit attribuut
 legt de coördinaten in een vastgesteld format (gml) vast. De coördinaten
-kunnen door een applicatie automatisch worden gegenereerd.  
+kunnen door een applicatie automatisch worden gegenereerd.
+<br/>
 - **idealisatie** (verplicht)  
 Met het attribuut idealisatie kan de nauwkeurigheid van de begrenzing van
 een object worden aangegeven. Er dient een keuze gemaakt te worden volgens
