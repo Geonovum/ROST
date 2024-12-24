@@ -21,7 +21,7 @@ Op alle overige uitwerkingsplannen zijn de RO Standaarden 2012 van toepassing.
 
 <u>Specifieke waarden</u>  
 Voor de uitwerkingsplannen die moeten worden ingericht en vormgegeven conform de
-RO Standaarden 2012 is Hoofdstuk 3 van deze praktijkrichtlijn van
+RO Standaarden 2012 is [Hoofdstuk 3](#H03) van deze praktijkrichtlijn van
 overeenkomstige toepassing, met dien verstande dat bij het object
 Bestemmingsplangebied bij het attribuut *typePlan* de waarde ‘uitwerkingsplan’
 wordt ingevuld en dat een relatie moet worden gelegd met het bestemmingsplan
@@ -65,7 +65,7 @@ verklaard.
 
 <u>Specifieke waarden</u>  
 Voor de wijzigingsplannen die moeten worden ingericht en vormgegeven conform de
-RO Standaarden 2012 is Hoofdstuk 3 van deze praktijkrichtlijn van
+RO Standaarden 2012 is [Hoofdstuk 3](#H03) van deze praktijkrichtlijn van
 overeenkomstige toepassing, met dien verstande dat bij het object
 Bestemmingsplangebied bij het attribuut typePlan de waarde ‘wijzigingsplan’
 wordt ingevuld en dat een relatie moet worden gelegd met het bestemmingsplan
@@ -86,7 +86,7 @@ Bij het herzien van een bestemmingsplan kan worden gekozen uit twee methodieken:
    
 In het eerste geval is sprake van een nieuw bestemmingsplan met een complete set
 regels, toelichting en plankaart. Het plangebied is volledig gevuld met
-enkelbestemmingen. Hoofdstuk 3 van deze praktijkrichtlijn is hierop volledig van
+enkelbestemmingen. [Hoofdstuk 3](#H03) van deze praktijkrichtlijn is hierop volledig van
 toepassing.
 In het tweede geval kan gesproken worden van een gedeeltelijke herziening.
 Alleen de onderdelen die wijzigen kunnen worden meegenomen in de herziening.
@@ -131,7 +131,7 @@ zijn met enkelbestemmingen.
 
 <u>Specifieke waarden</u>  
 Voor de gedeeltelijke herzieningen die moeten worden ingericht en vormgegeven
-conform de RO Standaarden 2012 is Hoofdstuk 3 van deze praktijkrichtlijn van
+conform de RO Standaarden 2012 is [Hoofdstuk 3](#H03) van deze praktijkrichtlijn van
 overeenkomstige toepassing, met dien verstande dat een relatie moet worden
 gelegd met het bestemmingsplan dat gedeeltelijk herzien wordt. Dat laatste
 gebeurt door bij het object Bestemmingsplangebied het attribuut
