@@ -9,10 +9,10 @@ var documentConfig =
   latestVersion: [
     "https://docs.geostandaarden.nl/ro/bp2012/"
   ],
-  publishDate: "2024-11-26",
+  publishDate: "2024-12-24",
   publishVersion: "1.3.8",
   thisVersion: [
-    "https://geonovum.github.io/ro-bp2012/"
+    "https://docs.geostandaarden.nl/ro/def-pr-bp2012-20241224/"
   ],
   previousPublishDate: "2024-02-14",
   previousPublishVersion: "1.3.7",

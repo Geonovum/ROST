@@ -19,4 +19,4 @@ geeft inzicht in wijzigen en de actualiteit ervan.
 | 1.3.5      | September 2018 23 oktober 2018 | Vervallen            | \-Paragraaf 1.2 aanpassen voor het gebruik van PDF bestanden zonder Flashcompnenten.                   |
 | 1.3.6      | 15 december 2022               | Vervallen                       | Algehele tekstuele update en update van verwijzingen naar externe websites                                   |
 | 1.3.7      | 14 februari 2024               | Vervallen                       | Actualiseren van verwijzingen naar wet- en regelgeving en de onderdelen van de RO Standaarden. Ook aangepast is de wijze van verwijzen naar externe pagina's.                                          |
-| 1.3.8      | 26 november 2024               | Defintief                       | Vervangen van de weergave van tabellen zodat deze WCAG conform zijn. Verder is de opmaak aangepast.           |
+| 1.3.8      | 24 december 2024               | Defintief                       | Vervangen van de weergave van tabellen zodat deze WCAG conform zijn. Verder is de opmaak aangepast.          |
