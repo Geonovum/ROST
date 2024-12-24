@@ -199,14 +199,14 @@ Er zijn meerdere waarden mogelijk.
 - **ondergrondtype** (verplicht)  
 Het type van de gebruikte ondergrond volgens het domein Ondergronden. Op
 grond van de Wet basisregistratie grootschalige topografie (BGT) is het per
-1 juli 2017 voor bestuursorganen verplicht om gebruik te maken van de **Basisregistratie Grootschalige Topografie (BGT).** Een bestuursorgaan kan
+1 juli 2017 voor bestuursorganen verplicht om gebruik te maken van de Basisregistratie Grootschalige Topografie (BGT). Een bestuursorgaan kan
 daar indien nodig gemotiveerd van afwijken. Bij afwijking kan het
 bestuursorgaan gebruik maken van:  
 	-   basisregistratie topografie (BRT)
 	-   basisregistratie kadaster (BRK)
 Indien geen gebruik is gemaakt van een ondergrond uit het domein
 Ondergronden, dan wordt de naam van het bestand van de gebruikte
-ondergrond(en) als vrije tekst opgegeven. In de <a href='https://docs.geostandaarden.nl/ro/tri2012/#H07' target='_blank'>PRTRI2012, hoofdstuk 7</a>, is
+ondergrond(en) als vrije tekst opgegeven. In de <a href='https://docs.geostandaarden.nl/ro/tri2012/#H07' target='_blank'>PRTRI2012, hoofdstuk 7</a> is
 toegelicht welke bestandformaten voor de ondergrond kunnen worden gebruikt.  
 <br/>
 - **ondergronddatum** (verplicht)  
