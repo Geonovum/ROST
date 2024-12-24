@@ -153,7 +153,7 @@ afzonderlijk, maar met één besluit worden vastgesteld.
 
 <u>Toepasselijkheid RO Standaarden</u>  
 Met betrekking tot de vormgeving en de digitaliseringsverplichtingen van de
-parapluherziening, is paragraaf 4.3.1 volledig van toepassing.
+parapluherziening is deze paragraaf volledig van toepassing.
 De exacte begrenzing van het totaal van alle originele plangebieden kan worden
 overgenomen. Het is evenwel ook mogelijk een deel te kiezen als begrenzing van
 het plangebied. Bij een parapluherziening hoeft het plangebied niet volledig

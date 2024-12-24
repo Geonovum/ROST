@@ -1,18 +1,17 @@
 # Relaties
-
 **In dit hoofdstuk wordt ingegaan op de relatie van het bestemmingsplan met
 gebiedsgerichte besluiten. Daarnaast hebben andere vakgebieden en wet- en
 regelgeving een mogelijke relatie met het digitaal bestemmingsplan. Tot slot
 komt de versie ‘geconsolideerd’ aan de orde.**
 
 ## Bestemmingsplan
-
 Met een bestemmingsplan wordt concreet aangegeven hoe de ruimtelijke ordening op
 een bepaalde locatie is geregeld. Naast de functie die is bepaald, geven de
 bijbehorende regels het gebruik van de grond en hetgeen daarop gebouwd is
 (bouwwerken) aan. Omgevingsvergunningen moeten worden getoetst aan het
 bestemmingsplan. Het bestemmingsplan bepaalt daardoor mede of ergens gebouwd mag
 worden. Het bestemmingsplan is bindend voor zowel overheid als burgers.
+<br/><br/>
 
 Bij het opstellen van een bestemmingsplan dient rekening te worden gehouden met
 verschillende wet- en regelgeving maar ook met andere ruimtelijke besluiten die
@@ -20,6 +19,7 @@ hun invloed op bestemmingsplan uitoefenen. Zo kan de vaststelling van een
 ruimtelijk plan ertoe leiden dat een nieuw bestemmingsplan wordt opgesteld. Een
 provinciale verordening bijvoorbeeld kan regels geven voor bestemmingsplannen
 die binnen een jaar in een bestemmingsplan moeten worden opgenomen.
+<br/><br/>
 
 Tijdens de bestemmingsplan procedure kunnen er juist door dit bestemmingsplan
 ook andere ruimtelijke plannen worden opgesteld. Zo volgt bijvoorbeeld het
@@ -27,6 +27,7 @@ exploitatieplan dezelfde procedure als het bestemmingsplan. Zij worden
 gelijktijdig vastgesteld. Gerechtelijke uitspraken volgen echter nadat een
 bestemmingsplan is vastgesteld en beroep is aangetekend. Het bestemmingsplan kan
 daardoor bijvoorbeeld deels onherroepelijk in werking treden.
+<br/><br/>
 
 Bij het raadplegen van ruimtelijke plannen in een interactieve raadpleegomgeving
 is het weergeven van de relaties tussen de ruimtelijke plannen van waarde: de
@@ -41,26 +42,28 @@ de digitaliseringverplichting kennen, extra informatie aan het plan toevoegen
 door middel van het attribuut *verwijzingNaarExternPlanInfo* bij het plangebied.
 Naast het feit dat de bronhouder deze relatie in de tekst (regels, toelichting)
 kan opnemen.
+<br/><br/>
 
 In onderstaand schema is aangegeven welke digitale ruimtelijke plannen (conform
 Bro) tijdens en na de bestemmingsplan procedure een relatie hebben met het
 bestemmingsplan.
 
 ![](media/06e4e86b775b95ae6181218b973708a9.png)
+<br/><br/>
 
 In de Praktijkrichtlijn Gebiedsgerichte Besluiten (PRGB2012) wordt voor het
 exploitatieplan, de aanwijzing (proactief en reactief) en de gerechtelijke
 uitspraak aangegeven hoe en welke informatie aan het besluit met worden
 gekoppeld.
 
-In paragraaf 5.3 is dit aangegeven voor een geconsolideerd plan.
+In [paragraaf 5.3](#geldende-situatie-de-versie-geconsolideerd) is dit aangegeven voor een geconsolideerd plan.
 
 ## Andere relaties
-
 Het bestemmingsplan heeft vele relaties met andere vakgebieden. In deze
 paragraaf wordt kort ingegaan op die wet- en regelgeving en/of vakgebieden die
 van invloed zijn op het digitaal bestemmingsplan. Deze paragraaf is niet
 uitputtend.
+<br/><br/>
 
 **Algemene verordening gegevensbescherming**  
 De Algemene verordening gegevensbescherming (AVG) is een Europese verordening
@@ -94,9 +97,11 @@ persoonsgegevens:
     algemeen belang of uitoefening van openbaar gezag.
 6.  De gegevensverwerking is noodzakelijk voor de behartiging van de
     gerechtvaardigde belangen.
+<br/><br/>
 
 U bent zelf verantwoordelijk om te beoordelen of u zich voor een verwerking van
 persoonsgegevens kunt baseren op één van de 6 grondslagen.
+<br/><br/>
 
 **Digitaal ter inzage leggen**  
 Voor een correcte beschikbaarstelling langs elektronische weg als bedoeld in
@@ -104,6 +109,7 @@ artikel 3.8 lid 1 Wro moeten, naast de dataset die conform de STRI beschikbaar
 moet worden gesteld, ook de bijlagen die zijn opgenomen bij de planregels en de
 bijlagen die zijn opgenomen bij de plantoelichting langs elektronische weg
 beschikbaar worden gesteld.
+<br/><br/>
 
 **Verwijzing naar jurisprudentie**  
 Voor verwijzing naar jurisprudentie in de toelichting of in andere stukken kan
@@ -112,7 +118,6 @@ uitspraak, nummer uitspraak en eventueel de vindplaats. Bijvoorbeeld: ABRvS, 3
 januari 2010, nr. 2009005678/1/R3, AB 2010/45.
 
 ## Geldende situatie: de versie ‘geconsolideerd’.
-
 Om de raadpleger van <a href='https://www.ruimtelijkeplannen.nl' target='_blank'>Ruimtelijkeplannen.nl</a>
 meer duidelijkheid te kunnen bieden over de exacte status en werkingssfeer van
 de wijzigingen en herzieningen van een bestemmingsplan en het actuele
@@ -123,11 +128,13 @@ zoals het geldende planologische regime ter plaatse. Ook de data van het bevoegd
 gezag kan hiermee op orde worden gebracht. Hierdoor is het niet (meer) nodig via
 andere, vaak omslachtige, wegen te zoeken naar de geldende regels. Dat geeft
 duidelijkheid, kost minder tijd en is dus klantvriendelijk naar de raadpleger.
+<br/><br/>
 
 <u>Let op</u>: het gaat dus niet om een herziening of een actualisering van een
 ruimtelijk plan maar om het samenvoegen van meerder ruimtelijke plannen om zo
 een integrale versie, en daardoor een beter leesbare versie, te tonen. In de
 versie geconsolideerd worden geen nieuwe ontwikkelingen mogelijk gemaakt.
+<br/><br/>
 
 De versie ‘geconsolideerd’ van een bestemmingsplan kent geen wettelijke, dus
 geen juridische status omdat deze versie niet door gemeenteraad wordt
@@ -138,6 +145,7 @@ Bij vergunningverlening en handhaving moet altijd verwezen worden naar de
 juridisch geldende plannen. Het consolideren van de bestemmingsplannen gaat in
 eerste instantie altijd over het samenvoegen van twee of meer plankaarten, waar
 nodig. Dit kan in combinatie met het consolideren van de regels en toelichting.
+<br/><br/>
 
 Een eerste stap bij het consolideren van een ruimtelijk plan is om te
 inventariseren welke verschillende plankaarten zijn onstaan door de
@@ -153,6 +161,7 @@ plankaart, delen waarin de wijzigingen als het ware de gaten ´opvullen´ in de
 verbeelding. In dat geval moet de consolidatie geen aspecten bevatten die het
 overige deel van het plan betreffen. Vervolgens laat ruimtelijkeplannen.nl door
 de ‘gaten’ de juiste informatie zien.
+<br/><br/>
 
 In het geval van de eerste mogelijkheid bundelt de bronhouder vervolgens de
 regels van de herzieningen/wijzigingen die geconsolideerd worden. Hierbij
@@ -165,6 +174,7 @@ de raadpleger over wat waar geldig is. Omdat deze versie geen geldige juridische
 status heeft is het aan te bevelen om een verwijzing te maken naar de juridisch
 geldende bestemmingsplannen met een deeplink in de geconsolideerde tekst naar de
 brontekst.
+<br/><br/>
 
 Een volgende stap die nog gedaan kan worden is het consolideren van de
 toelichting behorende bij een bestemmingsplan. Een bronhouder kan hierbij kiezen
@@ -173,6 +183,7 @@ consolideren wordt uitgelegd met daarbij de koppeling van de toelichtingen van
 de plannen die geconsolideerd worden Dit kan een koppeling zijn naar een pdf dan
 wel html van de toelichtingen of een koppeling naar de xml bestanden van de
 toelichtingen in geval van objectgerichte planteksten.
+<br/><br/>
 
 Aangezien de versie geconsolideerd niet door de gemeenteraad wordt vastgesteld
 is het voor de hand liggend om voor de datum van dit plan aan te sluiten bij het
@@ -180,6 +191,7 @@ in werking treden / onherroepelijk worden van het meest recente bestemmingsplan.
 Met dit laatste zijn dan ook eventuele gerechtelijke uitspraken meegenomen.
 Tevens is het aan te raden om te verwijzen naar de geldige plannen dan wel
 besluiten.
+<br/><br/>
 
 Bij de waarde van het attribuut *verwijzingNaarExternPlanInfo* worden alle
 plannen/besluiten opgenomen die in deze versie geconsolideerd zijn verwerkt. De
