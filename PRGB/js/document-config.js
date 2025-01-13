@@ -10,7 +10,7 @@ var documentConfig =
     "https://docs.geostandaarden.nl/ro/gb2012/"
   ],
   publishDate: "",
-  publishVersion: "1.3.8",
+  publishVersion: "1.3.9",
   thisVersion: [
     "https://docs.geostandaarden.nl/ro/def-pr-gb2012-20241224/"
   ],
