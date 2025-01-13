@@ -49,7 +49,7 @@ karakter niet in de STRI2012 zijn opgenomen. Deze beperkingen zijn als volgt:</b
 - \<?xml-stylesheet /\> processing instructies zijn niet toegestaan;
 - Het gebruik van XSLT is niet- toegestaan;
 - XPointers die verwijzen naar externe bestanden zijn niet toegestaan;
-- Een Transform element met Algorithm="<span class="nolinks">https://www.w3.org/2000/09/xmldsig#enveloped-signature</span>" mag alleen voorkomen indien de Reference URI="";
+- Een Transform element met Algorithm="<span class="nolinks">www.w3.org/2000/09/xmldsig#enveloped-signature</span>" mag alleen voorkomen indien de Reference URI="";
 - Binnen KeyInfo elementen zijn slechts X509Data elementen toegestaan;
 - Er is slechts één X509Data element toegestaan binnen een KeyInfo element;
 - Binnen X509Data elementen zijn slechts X509Certificate elementen toegestaan;
