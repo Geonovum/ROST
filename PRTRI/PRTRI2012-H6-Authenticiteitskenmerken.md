@@ -61,7 +61,7 @@ karakter niet in de STRI2012 zijn opgenomen. Deze beperkingen zijn als volgt:</b
 
 Verder zijn alleen de volgende algoritmes zijn toegestaan (let op: Niet van al de genoemde algorithms zijn de oorspronkelijke web-locaties nog beschikbaar):  
 Transform Algorithm:  
-- <span style="content: http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></span>
+- <pre class="nolinks">http://www.w3.org/TR/2001/REC-xml-c14n-20010315</pre>
 - http://www.w3.org/2001/10/xml-exc-c14n#
 - http://www.w3.org/2000/09/xmldsig#base64
 - http://www.w3.org/2000/09/xmldsig#enveloped-signature
