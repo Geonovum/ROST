@@ -12,16 +12,16 @@ var documentConfig =
   publishDate: "2024-12-24",
   publishVersion: "1.2.4",
   thisVersion: [
-    "https://docs.geostandaarden.nl/ro/def-hr-pt2012-20241224/"
+    "https://docs.geostandaarden.nl/ro/def-pr-pt2012-20241224/"
   ],previousPublishDate: "2024-02-14",
   previousPublishVersion: "1.2.3",
   prevVersion: [
-    "https://docs.geostandaarden.nl/ro/def-hr-pt2012-20240214/"
+    "https://docs.geostandaarden.nl/ro/def-pr-pt2012-20240214/"
   ],
   previousMaturity: "def",
   github: "https://github.com/geonovum/ROST/",
   issueBase: "https://github.com/geonovum/ROST/issues/",
-  edDraftURI: "https://geonovum.github.io/PRPT/",
+  edDraftURI: "https://geonovum.github.io/ROST/PRPT/",
   canonicalURI: "https://docs.geostandaarden.nl/ro/pt2012/",
   authors: [
     {
