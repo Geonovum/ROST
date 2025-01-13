@@ -3,7 +3,7 @@ var documentConfig =
   title: "Praktijkrichtlijn Structuurvisies 2012 (PRSV2012)",
   shortName: "sv2012",
   pubDomain: "ro",
-  specStatus: "wv",
+  specStatus: "def",
   specType: "pr",
   license: "cc-by-nd",
   latestVersion: [
