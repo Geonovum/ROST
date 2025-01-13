@@ -60,26 +60,26 @@ karakter niet in de STRI2012 zijn opgenomen. Deze beperkingen zijn als volgt:</b
 </br></br>
 
 Verder zijn alleen de volgende algoritmes zijn toegestaan (let op: Niet van al de genoemde algorithms zijn de oorspronkelijke web-locaties nog beschikbaar):  
-Transform Algorithm:  
-- <pre class="nolinks">http://www.w3.org/TR/2001/REC-xml-c14n-20010315</pre>
+Transform Algorithm:
+- http://www.w3.org/TR/2001/REC-xml-c14n-20010315</span>
 - http://www.w3.org/2001/10/xml-exc-c14n#
 - http://www.w3.org/2000/09/xmldsig#base64
 - http://www.w3.org/2000/09/xmldsig#enveloped-signature
 </br></br>
 
-CanonicalizationMethod Algorithm:  
+CanonicalizationMethod Algorithm:
 - http://www.w3.org/TR/2001/REC-xml-c14n-20010315
 - http://www.w3.org/2001/10/xml-exc-c14n#
 </br></br>
 
-SignatureMethod Algorithm:  
+SignatureMethod Algorithm:
 - http://www.w3.org/2000/09/xmldsig#rsa-sha1
 - http://www.w3.org/2001/04/xmldsig-more#rsa-sha256
 - http://www.w3.org/2001/04/xmldsig-more#rsa-sha384
 - http://www.w3.org/2001/04/xmldsig-more#rsa-sha512
 </br></br>
 
-DigestMethod Algorithm:  
+DigestMethod Algorithm:
 - http://www.w3.org/2000/09/xmldsig#sha1
 - http://www.w3.org/2000/09/xmldsig#sha256
 - http://www.w3.org/2001/04/xmldsig-more#sha384
