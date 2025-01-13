@@ -3,7 +3,7 @@ var documentConfig =
   title: "Praktijkrichtlijn voor Planteksten 2012 (PRPT2012)",
   shortName: "pt2012",
   pubDomain: "ro",
-  specStatus: "wv",
+  specStatus: "def",
   specType: "pr",
   license: "cc-by-nd",
   latestVersion: [
