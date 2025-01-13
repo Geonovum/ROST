@@ -49,7 +49,7 @@ karakter niet in de STRI2012 zijn opgenomen. Deze beperkingen zijn als volgt:</b
 - \<?xml-stylesheet /\> processing instructies zijn niet toegestaan;
 - Het gebruik van XSLT is niet- toegestaan;
 - XPointers die verwijzen naar externe bestanden zijn niet toegestaan;
-- Een Transform element met Algorithm="<span class="nolinks">www.w3.org/2000/09/xmldsig#enveloped-signature</span>" mag alleen voorkomen indien de Reference URI="";
+- Een Transform element met Algorithm="https://www.w3.org/2000/09/xmldsig#enveloped-signature" mag alleen voorkomen indien de Reference URI="";
 - Binnen KeyInfo elementen zijn slechts X509Data elementen toegestaan;
 - Er is slechts één X509Data element toegestaan binnen een KeyInfo element;
 - Binnen X509Data elementen zijn slechts X509Certificate elementen toegestaan;
@@ -61,29 +61,29 @@ karakter niet in de STRI2012 zijn opgenomen. Deze beperkingen zijn als volgt:</b
 
 Verder zijn alleen de volgende algoritmes zijn toegestaan (let op: Niet van al de genoemde algorithms zijn de oorspronkelijke web-locaties nog beschikbaar):  
 Transform Algorithm:  
-- <span class="nolinks">http://www.w3.org/TR/2001/REC-xml-c14n-20010315</span>
-- <span class="nolinks">http://www.w3.org/2001/10/xml-exc-c14n#</span>
-- <span class="nolinks">http://www.w3.org/2000/09/xmldsig#base64</span>
-- <span class="nolinks">http://www.w3.org/2000/09/xmldsig#enveloped-signature</span>
+- <span style="content: http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></span>
+- http://www.w3.org/2001/10/xml-exc-c14n#
+- http://www.w3.org/2000/09/xmldsig#base64
+- http://www.w3.org/2000/09/xmldsig#enveloped-signature
 </br></br>
 
 CanonicalizationMethod Algorithm:  
-- <span class="nolinks">http://www.w3.org/TR/2001/REC-xml-c14n-20010315</span>
-- <span class="nolinks">http://www.w3.org/2001/10/xml-exc-c14n#</span>
+- http://www.w3.org/TR/2001/REC-xml-c14n-20010315
+- http://www.w3.org/2001/10/xml-exc-c14n#
 </br></br>
 
 SignatureMethod Algorithm:  
-- <span class="nolinks">http://www.w3.org/2000/09/xmldsig#rsa-sha1</span>
-- <span class="nolinks">http://www.w3.org/2001/04/xmldsig-more#rsa-sha256</span>
-- <span class="nolinks">http://www.w3.org/2001/04/xmldsig-more#rsa-sha384</span>
-- <span class="nolinks">http://www.w3.org/2001/04/xmldsig-more#rsa-sha512</span>
+- http://www.w3.org/2000/09/xmldsig#rsa-sha1
+- http://www.w3.org/2001/04/xmldsig-more#rsa-sha256
+- http://www.w3.org/2001/04/xmldsig-more#rsa-sha384
+- http://www.w3.org/2001/04/xmldsig-more#rsa-sha512
 </br></br>
 
 DigestMethod Algorithm:  
-- <span class="nolinks">http://www.w3.org/2000/09/xmldsig#sha1</span>
-- <span class="nolinks">http://www.w3.org/2000/09/xmldsig#sha256</span>
-- <span class="nolinks">http://www.w3.org/2001/04/xmldsig-more#sha384</span>
-- <span class="nolinks">http://www.w3.org/2000/09/xmldsig#sha512</span>
+- http://www.w3.org/2000/09/xmldsig#sha1
+- http://www.w3.org/2000/09/xmldsig#sha256
+- http://www.w3.org/2001/04/xmldsig-more#sha384
+- http://www.w3.org/2000/09/xmldsig#sha512
 </br></br>
 
 Bovenstaande aanvullende beperkingen dienen verplicht te worden toegepast om te
