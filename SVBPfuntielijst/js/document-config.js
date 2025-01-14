@@ -3,21 +3,21 @@ var documentConfig =
   title: "SVBP2012 Functielijst",
   shortName: "SVBPfunctielijst",
   pubDomain: "ro",
-  specStatus: "def",
+  specStatus: "wv",
   specType: "bp",
   license: "cc-by-nd",
   latestVersion: [
     "https://docs.geostandaarden.nl/ro/SVBPfunctielijst/"
   ],
-  publishDate: "2024-08-14",
-  publishVersion: "1.3.0",
+  publishDate: "",
+  publishVersion: "1.3.1",
   thisVersion: [
     "https://docs.geostandaarden.nl/ro/def-bp-SVBPfunctielijst-20240814/"
   ],
-  previousPublishDate: "2014-12-09",
-  previousPublishVersion: "1.2.1",
+  previousPublishDate: "2024-08-14",
+  previousPublishVersion: "1.3.0",
   prevVersion: [
-    "https://ro-standaarden.geonovum.nl/2012/SVBP/1.2/SVBP2012-Functielijst-v1.2.1.pdf"
+    "https://docs.geostandaarden.nl/ro/def-bp-SVBPfunctielijst-20240814/"
   ],
   previousMaturity: "geen",
   github: "https://github.com/geonovum/ROST",
