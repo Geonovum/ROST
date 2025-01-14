@@ -3,21 +3,21 @@ var documentConfig =
   title: "Praktijkrichtlijn Bestemmingsplannen 2012 (PRBP2012)",
   shortName: "bp2012",
   pubDomain: "ro",
-  specStatus: "def",
+  specStatus: "wv",
   specType: "pr",
   license: "cc-by-nd",
   latestVersion: [
     "https://docs.geostandaarden.nl/ro/bp2012/"
   ],
-  publishDate: "2024-12-24",
-  publishVersion: "1.3.8",
+  publishDate: "",
+  publishVersion: "1.3.9",
   thisVersion: [
     "https://docs.geostandaarden.nl/ro/def-pr-bp2012-20241224/"
   ],
-  previousPublishDate: "2024-02-14",
-  previousPublishVersion: "1.3.7",
+  previousPublishDate: "2024-12-24",
+  previousPublishVersion: "1.3.8",
   prevVersion: [
-    "https://docs.geostandaarden.nl/ro/def-pr-bp2012-20240214/"
+    "https://docs.geostandaarden.nl/ro/def-pr-bp2012-20241224/"
   ],
   previousMaturity: "def",
   github: "https://github.com/geonovum/ROST/",

@@ -3,20 +3,21 @@ var documentConfig =
   title: "Praktijkrichtlijn voor Planteksten 2012 (PRPT2012)",
   shortName: "pt2012",
   pubDomain: "ro",
-  specStatus: "def",
+  specStatus: "wv",
   specType: "pr",
   license: "cc-by-nd",
   latestVersion: [
     "https://docs.geostandaarden.nl/ro/pt2012/"
   ],
-  publishDate: "2024-12-24",
-  publishVersion: "1.2.4",
+  publishDate: "",
+  publishVersion: "1.2.5",
   thisVersion: [
     "https://docs.geostandaarden.nl/ro/def-pr-pt2012-20241224/"
-  ],previousPublishDate: "2024-02-14",
-  previousPublishVersion: "1.2.3",
+  ],
+  previousPublishDate: "2024-12-24",
+  previousPublishVersion: "1.2.4",
   prevVersion: [
-    "https://docs.geostandaarden.nl/ro/def-pr-pt2012-20240214/"
+    "https://docs.geostandaarden.nl/ro/def-pr-pt2012-20241224/"
   ],
   previousMaturity: "def",
   github: "https://github.com/geonovum/ROST/",

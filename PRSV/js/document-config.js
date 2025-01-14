@@ -3,21 +3,21 @@ var documentConfig =
   title: "Praktijkrichtlijn Structuurvisies 2012 (PRSV2012)",
   shortName: "sv2012",
   pubDomain: "ro",
-  specStatus: "def",
+  specStatus: "wv",
   specType: "pr",
   license: "cc-by-nd",
   latestVersion: [
     "https://docs.geostandaarden.nl/ro/sv2012/"
   ],
-  publishDate: "2024-12-24",
-  publishVersion: "1.1.7",
+  publishDate: "",
+  publishVersion: "1.1.8",
   thisVersion: [
     "https://docs.geostandaarden.nl/ro/def-pr-sv2012-20241224/"
   ],
-  previousPublishDate: "2024-02-14",
-  previousPublishVersion: "1.1.6",
+  previousPublishDate: "2024-12-24",
+  previousPublishVersion: "1.1.7",
   prevVersion: [
-    "https://docs.geostandaarden.nl/ro/def-pr-sv2012-20240214/"
+    "https://docs.geostandaarden.nl/ro/def-pr-sv2012-20241224/"
   ],
   previousMaturity: "def",
   github: "https://github.com/geonovum/ROST/",
