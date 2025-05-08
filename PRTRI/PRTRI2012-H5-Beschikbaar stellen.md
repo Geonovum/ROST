@@ -125,7 +125,18 @@ Bij foutherstel zijn er in beginsel geen juridische consequenties aan verbonden.
 
 De digitale waarmerken in geleideformulier/manifest ter borging van de authenticiteit, onveranderlijkheid en volledigheid van de dataset, zullen door de bronhouder ook opnieuw gedaan moet worden bij publicatie van een nieuwe of gewijzigde versie van een plan. De RO-software zorgt hier normaliter voor.
 
-Het aanpassen van de verschillende onderdelen door de bronhouder is stapsgewijs toegelicht in de <a href='https://docs.geostandaarden.nl/ro/doo/' target='_blank'>handreiking ‘Data op orde’</a>. 
+### AVG-proof
+Op grond van de Algemene verordening gegevensbescherming (AVG) wordt het afgeraden persoonsgegevens elektronisch beschikbaar te stellen, dan wel op internet te publiceren. Inspraak- of zienswijzennota’s, raadsbesluiten of in de toelichting opgenomen persoonsgegevens moeten voor publicatie geanonimiseerd worden. Dat betekent dat naam-, adres- en woonplaatsgegevens van natuurlijke personen verwijderd of machinaal onleesbaar gemaakt moeten worden. Gegevens mogen niet worden verwerkt tenzij er ten minste één wettelijke basis is om dit te doen. De bronhouder is verantwoordelijk voor deze afweging. Mocht na publicatie van het plan blijken dat er op grond van de AVG onderdelen van het plan alsnog geanonimiseerd moeten worden, dan wordt dit als technische aanpassing beschouwd.
+
+<ul><li>Verwijder het betreffende plan uit het manifest;</li>
+<li>Controleer altijd, voordat een plan opnieuw wordt gepubliceerd, of het verwijderde plan ook daadwerkelijk van Ruimtelijkeplannen.nl verwijderd is (niet meer zichtbaar is in de viewer);</li>
+<li>Anonimiseer het betreffende onderdeel van het plan;</li>
+<li>Planversienummer niet aanpassen/ophogen;</li>
+<li>Opnieuw waarmerken, valideren en publiceren en een dag later weer aanbieden aan Ruimtelijkeplannen.nl. </li>
+</ul> 
+
+### AVG en herstel van metadata
+
 
 
 ## Beschikbaar stellen van opmaakbestanden
