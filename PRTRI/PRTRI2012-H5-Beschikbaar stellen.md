@@ -141,7 +141,7 @@ Plannen die na 1 januari 2024 van Ruimtelijkeplannen.nl zijn verwijderd, blijven
 <li>Idn van het vervallen/verwijderde plan gebruiken en het planversienummer niet aanpassen/ophogen;</li>
 <li>Plan inladen in uw Wro software pakket, opnieuw waarmerken, valideren en publiceren en een weer aanbieden aan Ruimtelijkeplannen.nl.</li>
 <li>Nadat het plan zichtbaar is geworden op Ruimtelijkeplannen.nl en de viewer Regels op de kaart kunt u het plan verwijderen uit uw manifest.</li>
-<li>Na het verwijderen van het plan uit het manifest, deze weer waarmerken en beschikbaarstellen aan Ruimtelijkeplannen.nl<li>
+<li>Na het verwijderen van het plan uit het manifest, deze weer waarmerken en beschikbaarstellen aan Ruimtelijkeplannen.nl. </li>
 </ul>
 
 ### AVG en herstel van metadata
