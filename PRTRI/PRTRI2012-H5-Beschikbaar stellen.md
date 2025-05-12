@@ -135,13 +135,13 @@ Op grond van de Algemene verordening gegevensbescherming (AVG) wordt het afgerad
 <li>Opnieuw waarmerken, valideren en publiceren en een weer aanbieden aan Ruimtelijkeplannen.nl. </li>
 </ul> 
 
-Plannen die na 1 januari 2024 van Ruimtelijkeplannen.nl zijn of worden verwijderd, blijven in het Omgevingsloket beschikbaar en vindbaar, ook als deze plandocumenten zijn vervallen. Voor het anonimiseren van deze reeds vervallen plannen geldt een iets andere procedure. 
+Plannen die na 1 januari 2024 van Ruimtelijkeplannen.nl zijn verwijderd, blijven in het Omgevingsloket beschikbaar en vindbaar, ook als deze plandocumenten zijn vervallen. Voor het anonimiseren van deze reeds vervallen en verwijderde plannen geldt een iets andere procedure. 
 
 <ul><li>Anonimiseer het betreffende onderdeel van het plan of planbestand;</li>
 <li>Idn van het vervallen/verwijderde plan gebruiken en het planversienummer niet aanpassen/ophogen;</li>
 <li>Plan inladen in uw Wro software pakket, opnieuw waarmerken, valideren en publiceren en een weer aanbieden aan Ruimtelijkeplannen.nl.</li>
 <li>Nadat het plan zichtbaar is geworden op Ruimtelijkeplannen.nl en de viewer Regels op de kaart kunt u het plan verwijderen uit uw manifest.</li>
-</li>na het verwijderen van het plan uit het manifest, deze weer waarmerken en beschikbaarstellen aan Ruimtelijkeplannen.nl<li>
+<li>Na het verwijderen van het plan uit het manifest, deze weer waarmerken en beschikbaarstellen aan Ruimtelijkeplannen.nl<li>
 </ul>
 
 ### AVG en herstel van metadata
