@@ -22,14 +22,14 @@ raadpleegomgeving wordt gebruikt.
 Bijvoorbeeld op basis van durperdam.nl (een niet bestaande voorbeeldsite) als een instrument met idn NL.IMRO.1111.visie2012-0012 beschikbaar
 gesteld wordt:  
 
-ht<span>tp://ro.durperdam.nl/visie2012/0012/<su
+ht<span>tps://ro.durperdam.nl/visie2012/0012/</u
 
 dan worden alle bij dit instrument behorende bestanden direct in deze virtuele
 directory geplaatst.
 <br/><br/>
 
 Het IMRO GML bestand van dit instrument wordt dus beschikbaar gesteld op:  
-ht<span>tp://ro.durperdam.nl/visie2012/0012/NL.IMRO.1111.visie2012-0012.gml  
+ht<span>tps://ro.durperdam.nl/visie2012/0012/NL.IMRO.1111.visie2012-0012.gml  
 <br/><br/>
 
 Beschikbaarstellen van elementen binnen een andere virtuele directory of in een
@@ -38,16 +38,18 @@ toegestaan het GML bestand bijvoorbeeld als volgt beschikbaar te stellen
 (foutieve elementen <u>onderstreept</u> 
 en in <span style="color: red;">rood</span>):  
 
-ht<span>tp://ro.durperdam.nl/visie2012/0012/<u><span style="color: red;">IMRO</span></u>/NL.IMRO.1111.visie2012-0012.gml of
+ht<span>tps://ro.durperdam.nl/visie2012/0012/<u><span style="color: red;">IMRO</span></u>/NL.IMRO.1111.visie2012-0012.gml of
 
-ht<span>tp://ro.durperdam.nl/visie2012<u><span style="color: red;">/</span></u>NL.IMRO.1111.visie2012-0012.gml of
+ht<span>tps://ro.durperdam.nl/visie2012<u><span style="color: red;">/</span></u>NL.IMRO.1111.visie2012-0012.gml of
 
-ht<span>tp://<u><span style="color: red;">www.roservice.nl</span></u>/visie2012/0012/NL.IMRO.1111.visie2012-0012.gml.
+ht<span>tps://<u><span style="color: red;">www.roservice.nl</span></u>/visie2012/0012/NL.IMRO.1111.visie2012-0012.gml.
 <br/><br/>
+
+
 Overigens is het wel toegestaan om binnen dezelfde virtuele directory bestanden
 toe te voegen, bijvoorbeeld:
 
-ht<span>tp://ro.durperdam.nl/visie2012/0012/index.htm
+ht<span>tps://ro.durperdam.nl/visie2012/0012/index.htm
 
 is dus toegestaan. De index.htm pagina is dus geen onderdeel van het ruimtelijk
 instrument zelf, maar wordt in dit voorbeeld gebruikt voor de inrichting van de
@@ -77,7 +79,7 @@ gemaakt, en wordt het Manifest aangepast en vervolgens ook gewaarmerkt. Tot slot
 moet het al op internet beschikbaar gestelde Manifest vervangen worden door het
 gewijzigde Manifest, en wordt ook de digitale verbeelding bijgewerkt. Dit
 laatste gebeurt overigens veelal in geautomatiseerde systemen, zoals bij de
-landelijke voorziening <a href='https://www.ruimtelijkeplannen.nl/' target='_blank'>Ruimtelijkeplannen.nl</a>. Daarna is het ruimtelijk instrument voor een ieder beschikbaar, raadpleegbaar en via het Manifest ook vindbaar. De werkwijze
+landelijke voorziening <a href='httpss://www.ruimtelijkeplannen.nl/' target='_blank'>Ruimtelijkeplannen.nl</a>. Daarna is het ruimtelijk instrument voor een ieder beschikbaar, raadpleegbaar en via het Manifest ook vindbaar. De werkwijze
 is weergegeven in Figuur 1.  
 
 
@@ -203,7 +205,7 @@ Bij het werken met objectgerichte XML planteksten wordt gebruik gemaakt van
 standaard XSL en CSS stylesheets die onderdeel zijn van de RO Standaarden.
 <details class='note'>
 Deze standaard XSL en CSS zijn tezamen met de rest van de andere
-onderdelen van de RO Standaarden 2012 beschikbaar via de <a href='https://www.geonovum.nl/geo-standaarden/ro-standaarden-ruimtelijke-ordening' target='_blank'>Geonovum website</a>.
+onderdelen van de RO Standaarden 2012 beschikbaar via de <a href='httpss://www.geonovum.nl/geo-standaarden/ro-standaarden-ruimtelijke-ordening' target='_blank'>Geonovum website</a>.
 </details>
 
 De landelijke voorziening Ruimtelijkeplannen.nl maakt van de standaard opmaak
@@ -306,7 +308,7 @@ Het Manifest is een XML bestand dat een overzicht geeft van alle elektronisch
 beschikbaar gestelde ruimtelijke instrumenten van één bronhouder. Iedere
 bronhouder heeft conform de STRI2012 één actueel Manifest beschikbaar op een via
 het internet toegankelijk webadres (bijvoorbeeld een webadres als
-ht<span>tp://ro.durperdam.nl/manifest.xml). In het manifest is ordening aangebracht
+ht<span>tps://ro.durperdam.nl/manifest.xml). In het manifest is ordening aangebracht
 met behulp van dossiers. Overigens kan er naast het STRI2012 manifest ook nog
 een STRI2006 manifest beschikbaar worden gesteld door de bronhouder, omwille van
 het beschikbaarstellen van IMRO2006 plannen. Dit is echter buiten de scope van
