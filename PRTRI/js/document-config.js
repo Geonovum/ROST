@@ -9,10 +9,10 @@ var documentConfig =
   latestVersion: [
     "https://docs.geostandaarden.nl/ro/tri2012/"
   ],
-  publishDate: "",
-  publishVersion: "1.6.1",
+  publishDate: "2025-05-16",
+  publishVersion: "1.7",
   thisVersion: [
-    "https://docs.geostandaarden.nl/ro/def-pr-tri2012-20241224/"
+    "https://docs.geostandaarden.nl/ro/def-pr-tri2012-20250516/"
   ],
   previousPublishDate: "2024-12-24",
   previousPublishVersion: "1.6",
