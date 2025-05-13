@@ -126,18 +126,14 @@ Bij foutherstel zijn er in beginsel geen juridische consequenties aan verbonden.
 De digitale waarmerken in geleideformulier/manifest ter borging van de authenticiteit, onveranderlijkheid en volledigheid van de dataset, zullen door de bronhouder ook opnieuw gedaan moet worden bij publicatie van een nieuwe of gewijzigde versie van een plan. De RO-software zorgt hier normaliter voor.
 
 ### AVG-proof
-<<<<<<< Updated upstream
 Op grond van de Algemene verordening gegevensbescherming (AVG) wordt het afgeraden persoonsgegevens elektronisch beschikbaar te stellen, dan wel op internet te publiceren. Inspraak- of zienswijzennota’s, raadsbesluiten, plandocumenten, bijlagen of in de toelichting opgenomen persoonsgegevens moeten voor publicatie geanonimiseerd worden. Dat betekent dat naam-, adres- en woonplaatsgegevens van natuurlijke personen verwijderd of machinaal onleesbaar gemaakt moeten worden. Dit geldt ook voor digitale bestanden zoals PDF-documenten, CSS bestanden, afbeeldingen of een GML bestand die persoongegevens kunnen bevatten in de metadata van dat betreffende bestand. Gegevens mogen niet worden verwerkt tenzij er ten minste één wettelijke basis is om dit te doen. De bronhouder is verantwoordelijk voor deze afweging. Mocht na publicatie van het plan blijken dat er op grond van de AVG onderdelen van het plan alsnog geanonimiseerd moeten worden, dan wordt dit als technische aanpassing beschouwd waarvoor geen nieuw besluit noodzakelijk is.
 
-=======
-Op grond van de Algemene verordening gegevensbescherming (AVG) wordt het afgeraden persoonsgegevens elektronisch beschikbaar te stellen, dan wel op internet te publiceren. Inspraak- of zienswijzennota’s, raadsbesluiten of in de toelichting opgenomen persoonsgegevens moeten voor publicatie geanonimiseerd worden. Dat betekent dat naam-, adres- en woonplaatsgegevens van natuurlijke personen verwijderd of machinaal onleesbaar gemaakt moeten worden. Gegevens mogen niet worden verwerkt tenzij er ten minste één wettelijke basis is om dit te doen. De bronhouder is verantwoordelijk voor deze afweging. Mocht na publicatie van het plan blijken dat er op grond van de AVG onderdelen van het plan alsnog geanonimiseerd moeten worden, dan wordt dit als technische aanpassing beschouwd.
 <br/>
->>>>>>> Stashed changes
 <ul><li>Verwijder het betreffende plan uit het manifest;</li>
 <li>Controleer altijd, voordat een plan opnieuw wordt gepubliceerd, of het verwijderde plan ook daadwerkelijk van Ruimtelijkeplannen.nl verwijderd is (niet meer zichtbaar is in de viewer);</li>
 <li>Anonimiseer het betreffende onderdeel van het plan of planbestand;</li>
 <li>Planversienummer niet aanpassen/ophogen;</li>
-<li>Opnieuw waarmerken, valideren en publiceren en een weer aanbieden aan Ruimtelijkeplannen.nl. </li>
+<li>Opnieuw waarmerken, valideren en publiceren en een weer aanbieden aan Ruimtelijkeplannen.nl.</li>
 </ul> 
 <br/>
 
@@ -145,9 +141,9 @@ Plannen die na 1 januari 2024 van Ruimtelijkeplannen.nl zijn verwijderd, blijven
 
 <ul><li>Anonimiseer het betreffende onderdeel van het plan of planbestand;</li>
 <li>Idn van het vervallen/verwijderde plan gebruiken en het planversienummer niet aanpassen/ophogen;</li>
-<li>Plan inladen in uw Wro software pakket, opnieuw waarmerken, valideren en publiceren en een weer aanbieden aan Ruimtelijkeplannen.nl.</li>
-<li>Nadat het plan zichtbaar is geworden op Ruimtelijkeplannen.nl en de viewer Regels op de kaart kunt u het plan verwijderen uit uw manifest.</li>
-<li>Na het verwijderen van het plan uit het manifest, deze weer waarmerken en beschikbaarstellen aan Ruimtelijkeplannen.nl. </li>
+<li>Plan inladen in uw Wro software pakket, opnieuw waarmerken, valideren en publiceren en een weer aanbieden aan Ruimtelijkeplannen.nl;</li>
+<li>Nadat het plan zichtbaar is geworden op Ruimtelijkeplannen.nl en de viewer Regels op de kaart kunt u het plan verwijderen uit uw manifest;</li>
+<li>Na het verwijderen van het plan uit het manifest, deze weer waarmerken en beschikbaarstellen aan Ruimtelijkeplannen.nl.</li>
 </ul>
 
 ### AVG en herstel van metadata
