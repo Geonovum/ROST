@@ -14,7 +14,7 @@ uitspraken van de Raad van State digitaal beschikbaar worden gesteld. Daarnaast
 geven de bronhouders met behulp van de dossierstatus aan welke status het
 ruimtelijke plan heeft.  
 Bij de behandeling van beroepen en voorlopige voorzieningen kunnen zich veel
-verschillende situaties voordoen. de Raad van State een stroomschema opgesteld waarmee u kunt bepalen welk recht van toepassing is. U vindt het op deze <a href='https://www.raadvanstate.nl/actueel/nieuws/maart/overgangsrecht-omgevingswet/' target='_blank'>pagina</a> van de Raad van State.
+verschillende situaties voordoen. De Raad van State heeft een stroomschema opgesteld waarmee u kunt bepalen welk recht van toepassing is. U vindt het op deze <a href='https://www.raadvanstate.nl/actueel/nieuws/maart/overgangsrecht-omgevingswet/' target='_blank'>pagina</a> van de Raad van State.
 Voor de technische werkwijze is in deze bijlage van de PRTRI2012 een toelichting opgenomen.  
 De hier beschreven werkwijze is een concrete toepassing van de RO Standaarden in
 combinatie met de wet- en regelgeving op dit gebied. In enkele gevallen zijn er
