@@ -140,7 +140,7 @@ Op grond van de Algemene verordening gegevensbescherming (AVG) wordt het afgerad
 
 
 ### AVG bij reeds verwijderde of vervallen plannen
-Plannen die na 1 januari 2024 van Ruimtelijkeplannen.nl zijn verwijderd, blijven in venband met de functie tijdreizenin in het Omgevingsloket beschikbaar en vindbaar, ook als deze plandocumenten zijn vervallen. Voor het anonimiseren van deze reeds vervallen en verwijderde plannen gelden de volgende stappen: 
+Plannen die na 1 januari 2024 van Ruimtelijkeplannen.nl zijn verwijderd, blijven in verband met de functie tijdreizen in in het Omgevingsloket beschikbaar en vindbaar, ook als deze plandocumenten zijn vervallen. Voor het anonimiseren van deze reeds vervallen en verwijderde plannen gelden de volgende stappen: 
 
 <br/>
 <ul><li>Anonimiseer het betreffende (matadata)onderdeel van het plan of planbestand;</li>
