@@ -22,7 +22,7 @@ raadpleegomgeving wordt gebruikt.
 Bijvoorbeeld op basis van durperdam.nl (een niet bestaande voorbeeldsite) als een instrument met idn NL.IMRO.1111.visie2012-0012 beschikbaar
 gesteld wordt:  
 
-ht<span>tps://ro.durperdam.nl/visie2012/0012/</u
+ht<span>tps://ro.durperdam.nl/visie2012/0012/</u>
 
 dan worden alle bij dit instrument behorende bestanden direct in deze virtuele
 directory geplaatst.
@@ -137,10 +137,11 @@ Op grond van de Algemene verordening gegevensbescherming (AVG) wordt het afgerad
 <li>Planversienummer niet aanpassen/ophogen;</li>
 <li>Opnieuw waarmerken, valideren en publiceren en een weer aanbieden aan Ruimtelijkeplannen.nl.</li>
 </ul> 
-<br/>
+
 
 ### AVG bij reeds verwijderde of vervallen plannen
 Plannen die na 1 januari 2024 van Ruimtelijkeplannen.nl zijn verwijderd, blijven in het Omgevingsloket beschikbaar en vindbaar, ook als deze plandocumenten zijn vervallen. Voor het anonimiseren van deze reeds vervallen en verwijderde plannen gelden de volgende stappen: 
+
 <br/>
 <ul><li>Anonimiseer het betreffende (matadata)onderdeel van het plan of planbestand;</li>
 <li>Idn van het vervallen/verwijderde plan gebruiken en het planversienummer niet aanpassen/ophogen;</li>
@@ -148,7 +149,6 @@ Plannen die na 1 januari 2024 van Ruimtelijkeplannen.nl zijn verwijderd, blijven
 <li>Nadat het plan zichtbaar is geworden op Ruimtelijkeplannen.nl en de viewer Regels op de kaart kunt u het plan verwijderen uit uw manifest;</li>
 <li>Na het verwijderen van het plan uit het manifest, deze weer waarmerken en beschikbaarstellen aan Ruimtelijkeplannen.nl.</li>
 </ul>
-
 
 ## Beschikbaar stellen van opmaakbestanden
 De opmaak van planteksten wordt voor een belangrijk deel niet in de plantekst
