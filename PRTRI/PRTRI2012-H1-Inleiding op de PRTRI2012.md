@@ -39,7 +39,7 @@ De STRI2012 is van toepassing op de volgende ruimtelijke instrumenten:
 -   ministeriële regeling;
 -   exploitatieplan;
 -   omgevingsvergunning als bedoeld in artikel 2.12 eerste lid, onder a, sub 3e van de Wabo;
--   gerechtelijke uitspraak;
+-   gerechtelijke uitspraak.
 <br/><br/>
 
 De opbouw van deze praktijkrichtlijn is identiek aan de opbouw van de STRI2012.
