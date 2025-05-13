@@ -99,7 +99,7 @@ Ambtelijk foutherstel in een ruimtelijke plan of besluit door de bronhouder, zon
 
 Bij gebreken aan de inhoud van het plan of besluit zal het bevoegd gezag een nieuw besluit moeten nemen of een nieuwe procedure moeten volgen. De hoofdregel is dat foutherstel niet gaat over de inhoud van een plan of besluit, maar om vorm- of technische aspecten die van belang zijn voor blijvende raadpleegbaarheid, bruikbaarheid en toegankelijkheid van het plan. Foutherstel is alleen mogelijk:
 
-<ol><li>Indien het gebrek niet gaat over de inhoud van het besluit, maar om bepaalde metadata of inconsistentie tussen bronhouder en RP.nl kan worden volstaan met een ambtelijk herstel zonder besluit.</li>
+<ol><li>Indien het gebrek niet gaat over de inhoud van het besluit, maar om bepaalde metadata of inconsistentie tussen bronhouder en Ruimtelijkeplannen.nl kan worden volstaan met een ambtelijk herstel zonder besluit.</li>
 <li>Indien een goede verantwoording van uitgevoerd foutherstel gewaarborgd is, in ieder geval intern binnen de organisatie. Hierdoor kan later altijd gereconstrueerd worden wat de aanleiding van de hersteloperatie was en wie, wanneer, wat en hoe het herstel heeft uitgevoerd. </li>
 </ol>
 <br/>
@@ -126,14 +126,20 @@ Bij foutherstel zijn er in beginsel geen juridische consequenties aan verbonden.
 De digitale waarmerken in geleideformulier/manifest ter borging van de authenticiteit, onveranderlijkheid en volledigheid van de dataset, zullen door de bronhouder ook opnieuw gedaan moet worden bij publicatie van een nieuwe of gewijzigde versie van een plan. De RO-software zorgt hier normaliter voor.
 
 ### AVG-proof
+<<<<<<< Updated upstream
 Op grond van de Algemene verordening gegevensbescherming (AVG) wordt het afgeraden persoonsgegevens elektronisch beschikbaar te stellen, dan wel op internet te publiceren. Inspraak- of zienswijzennota’s, raadsbesluiten, plandocumenten, bijlagen of in de toelichting opgenomen persoonsgegevens moeten voor publicatie geanonimiseerd worden. Dat betekent dat naam-, adres- en woonplaatsgegevens van natuurlijke personen verwijderd of machinaal onleesbaar gemaakt moeten worden. Dit geldt ook voor digitale bestanden zoals PDF-documenten, CSS bestanden, afbeeldingen of een GML bestand die persoongegevens kunnen bevatten in de metadata van dat betreffende bestand. Gegevens mogen niet worden verwerkt tenzij er ten minste één wettelijke basis is om dit te doen. De bronhouder is verantwoordelijk voor deze afweging. Mocht na publicatie van het plan blijken dat er op grond van de AVG onderdelen van het plan alsnog geanonimiseerd moeten worden, dan wordt dit als technische aanpassing beschouwd waarvoor geen nieuw besluit noodzakelijk is.
 
+=======
+Op grond van de Algemene verordening gegevensbescherming (AVG) wordt het afgeraden persoonsgegevens elektronisch beschikbaar te stellen, dan wel op internet te publiceren. Inspraak- of zienswijzennota’s, raadsbesluiten of in de toelichting opgenomen persoonsgegevens moeten voor publicatie geanonimiseerd worden. Dat betekent dat naam-, adres- en woonplaatsgegevens van natuurlijke personen verwijderd of machinaal onleesbaar gemaakt moeten worden. Gegevens mogen niet worden verwerkt tenzij er ten minste één wettelijke basis is om dit te doen. De bronhouder is verantwoordelijk voor deze afweging. Mocht na publicatie van het plan blijken dat er op grond van de AVG onderdelen van het plan alsnog geanonimiseerd moeten worden, dan wordt dit als technische aanpassing beschouwd.
+<br/>
+>>>>>>> Stashed changes
 <ul><li>Verwijder het betreffende plan uit het manifest;</li>
 <li>Controleer altijd, voordat een plan opnieuw wordt gepubliceerd, of het verwijderde plan ook daadwerkelijk van Ruimtelijkeplannen.nl verwijderd is (niet meer zichtbaar is in de viewer);</li>
 <li>Anonimiseer het betreffende onderdeel van het plan of planbestand;</li>
 <li>Planversienummer niet aanpassen/ophogen;</li>
 <li>Opnieuw waarmerken, valideren en publiceren en een weer aanbieden aan Ruimtelijkeplannen.nl. </li>
 </ul> 
+<br/>
 
 Plannen die na 1 januari 2024 van Ruimtelijkeplannen.nl zijn verwijderd, blijven in het Omgevingsloket beschikbaar en vindbaar, ook als deze plandocumenten zijn vervallen. Voor het anonimiseren van deze reeds vervallen en verwijderde plannen geldt een iets andere procedure. 
 
