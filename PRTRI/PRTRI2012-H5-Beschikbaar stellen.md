@@ -92,9 +92,9 @@ Voor een aantal formele versies is het beschikbaar stellen wettelijk vereist.
 Voor alle overige versies is beschikbaar stellen mogelijk, maar niet verplicht.
 
 ## Wijzigen reeds eerder gepubliceerde plannen
-Ambtelijk foutherstel in een ruimtelijke plan of besluit door de bronhouder, zonder voorafgaand besluit, is het herstellen van de metadata c.q. de technische kenmerken van het ruimtelijk plan of besluit of het opheffen van inconsistenties in de planvoorraad tussen bronhouder en Ruimtelijkeplannen.nl. Het naderhand door de bronhouder aanpassen van reeds eerder gepubliceerde plannen kan en mag, indien het gaat om:
+Ambtelijk foutherstel in een ruimtelijke plan of besluit door de bronhouder, zonder voorafgaand besluit, is het herstellen van de metadata c.q. de technische kenmerken van het ruimtelijk plan of besluit, of het opheffen van inconsistenties in de planvoorraad tussen bronhouder en Ruimtelijkeplannen.nl. Het naderhand door de bronhouder aanpassen van reeds eerder gepubliceerde plannen kan en mag, indien het gaat om:
 
-<ul><li>een (beperkte) set van metadata die van cruciaal belang is voor (blijvende) begrijpelijkheid, raadpleegbaarheid en bruikbaarheid van plannen, niet alleen in de huidige LV, maar ook in het DSO.</li>
+<ul><li>een (beperkte) set van metadata die van cruciaal belang is voor (blijvende) begrijpelijkheid, raadpleegbaarheid en bruikbaarheid van plannen, niet alleen in Ruimtelijkeplannen.nl, maar ook in de landelijke voorziening digitaal stelsel Omgevingswet (DSO).</li>
 <li>het ervoor zorgen dat, op grond van de bestaande verplichting daartoe in het Besluit ruimtelijke ordening (Bro), de lokaal aanwezige planvoorraad consistent is met de landelijke voorziening Ruimtelijkeplannen.nl.</li>
 </ul>
 <br/>
@@ -128,10 +128,10 @@ Bij foutherstel zijn er in beginsel geen juridische consequenties aan verbonden.
 De digitale waarmerken in geleideformulier/manifest ter borging van de authenticiteit, onveranderlijkheid en volledigheid van de dataset, zullen door de bronhouder ook opnieuw gedaan moet worden bij publicatie van een nieuwe of gewijzigde versie van een plan. De Wro-plansoftware zorgt hier normaliter voor.
 
 ### AVG-proof
-Op grond van de Algemene verordening gegevensbescherming (AVG) wordt het afgeraden persoonsgegevens elektronisch beschikbaar te stellen, dan wel op internet te publiceren. Inspraak- of zienswijzennota’s, raadsbesluiten, plandocumenten, bijlagen of in de toelichting opgenomen persoonsgegevens moeten voor publicatie geanonimiseerd worden. Dat betekent dat naam-, adres- en woonplaatsgegevens van natuurlijke personen verwijderd of machinaal onleesbaar gemaakt moeten worden. Dit geldt ook voor digitale bestanden zoals PDF-documenten, CSS bestanden, afbeeldingen of een GML bestand die persoongegevens kunnen bevatten in de metadata van dat betreffende bestand. Gegevens mogen niet worden verwerkt tenzij er ten minste één wettelijke basis is om dit te doen. De bronhouder is verantwoordelijk voor deze afweging. Mocht na publicatie van het plan blijken dat er op grond van de AVG onderdelen van het plan alsnog geanonimiseerd moeten worden, dan wordt dit als technische aanpassing beschouwd waarvoor geen nieuw besluit noodzakelijk is. De volgende stappen moeten dan doorlopen worden: 
+Op grond van de Algemene verordening gegevensbescherming (AVG) wordt het afgeraden persoonsgegevens elektronisch beschikbaar te stellen, dan wel op internet te publiceren. Inspraak- of zienswijzennota’s, raadsbesluiten, plandocumenten, bijlagen of in de toelichting opgenomen persoonsgegevens moeten voor publicatie geanonimiseerd worden. Dit betekent dat naam-, adres- en woonplaatsgegevens (NAW), telefoonnummer en e-mailadres van natuurlijke personen verwijderd of machinaal onleesbaar gemaakt moeten worden. Dit geldt ook voor digitale bestanden zoals PDF-documenten, CSS bestanden, afbeeldingen of een GML bestand die persoongegevens kunnen bevatten in de metadata van dat betreffende bestand. Gegevens mogen niet worden verwerkt tenzij er ten minste één wettelijke basis is om dit te doen. De bronhouder van het ruimtelijk plan of besluit is verantwoordelijk voor deze afweging en aanpassing. Mocht na publicatie van het plan blijken dat er op grond van de AVG onderdelen van het plan alsnog geanonimiseerd moeten worden, dan wordt dit als technische aanpassing beschouwd waarvoor geen nieuw besluit noodzakelijk is. De volgende stappen moeten dan doorlopen worden: 
 
 <br/>
-<ul><li>Verwijder het betreffende plan uit het manifest;</li>
+<ul><li>Verwijder het betreffende plan of besluit uit het manifest;</li>
 <li>Controleer altijd, voordat een plan opnieuw wordt gepubliceerd, of het verwijderde plan ook daadwerkelijk van Ruimtelijkeplannen.nl is verwijderd (niet meer zichtbaar is in de viewer van Ruimtelijkeplannen.nl);</li>
 <li>Anonimiseer het betreffende onderdeel van het plan of planbestand;</li>
 <li>Pas het planversienummer niet aan;</li>
@@ -140,15 +140,17 @@ Op grond van de Algemene verordening gegevensbescherming (AVG) wordt het afgerad
 
 
 ### AVG bij reeds verwijderde of vervallen plannen
-Plannen die na 1 januari 2024 van Ruimtelijkeplannen.nl zijn verwijderd, blijven in de landelijke voorziening digitaal stelsel Omgevingswet (waaronder het Omgevingsloket) beschikbaar en vindbaar, ook als deze plandocumenten zijn vervallen. Dit is mogelijk in verband met de functie tijdreizen. Voor het anonimiseren van deze reeds vervallen en verwijderde plannen gelden de volgende stappen: 
+Plannen die na 1 januari 2024 van Ruimtelijkeplannen.nl zijn verwijderd, blijven in de landelijke voorziening digitaal stelsel Omgevingswet (waaronder het Omgevingsloket) beschikbaar en vindbaar, ook als deze plandocumenten zijn vervallen. Dit is mogelijk in verband met de functie tijdreizen in het DSO. Voor het anonimiseren van deze reeds vervallen en verwijderde plannen gelden de volgende stappen: 
 
 <br/>
 <ul><li>Anonimiseer het betreffende (matadata)onderdeel van het plan of planbestand;</li>
-<li>Gebruik het identificatienummer van het vervallen/verwijderde plan en pas het planversienummer niet aan/ hoog het niet op;</li>
+<li>Gebruik het planidentificatienummer van het vervallen/verwijderde plan en pas het planversienummer niet aan;</li>
 <li>Het plan inladen in de Wro-plansoftware, opnieuw waarmerken, valideren en publiceren op de weblocatie en weer aanbieden aan Ruimtelijkeplannen.nl;</li>
 <li>Nadat het plan zichtbaar is geworden op Ruimtelijkeplannen.nl en de viewer Regels op de kaart kunt u het plan verwijderen uit uw manifest;</li>
 <li>Na het verwijderen van het plan uit het manifest, het manifest weer waarmerken en beschikbaarstellen aan Ruimtelijkeplannen.nl.</li>
 </ul>
+
+Het plan of besluit is verwijderd uit Ruimtelijkeplannen.nl maar door middel van tijreizen nog wel vindbaar in het DSO maar nu geanonimiseerd. 
 
 ## Beschikbaar stellen van opmaakbestanden
 De opmaak van planteksten wordt voor een belangrijk deel niet in de plantekst
