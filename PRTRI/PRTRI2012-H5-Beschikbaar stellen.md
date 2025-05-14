@@ -38,18 +38,18 @@ toegestaan het GML bestand bijvoorbeeld als volgt beschikbaar te stellen
 (foutieve elementen <u>onderstreept</u> 
 en in <span style="color: red;">rood</span>):  
 
-https://ro.durperdam.nl/visie2012/0012/<u><span style="color: red;">IMRO</span></u>/NL.IMRO.1111.visie2012-0012.gml of
+<p>https://ro.durperdam.nl/visie2012/0012/<u><span style="color: red;">IMRO</span></u>/NL.IMRO.1111.visie2012-0012.gml of</p>
 
-https://ro.durperdam.nl/visie2012<u><span style="color: red;">/</span></u>NL.IMRO.1111.visie2012-0012.gml of
+<p>https://ro.durperdam.nl/visie2012<u><span style="color: red;">/</span></u>NL.IMRO.1111.visie2012-0012.gml of</p>
 
-https://<u><span style="color: red;">www.roservice.nl</span></u>/visie2012/0012/NL.IMRO.1111.visie2012-0012.gml.
+<p>https://<u><span style="color: red;">www.roservice.nl</span></u>/visie2012/0012/NL.IMRO.1111.visie2012-0012.gml.</p>
 <br/><br/>
 
 
 Overigens is het wel toegestaan om binnen dezelfde virtuele directory bestanden
 toe te voegen, bijvoorbeeld:
 
-https://ro.durperdam.nl/visie2012/0012/index.htm
+<p>https://ro.durperdam.nl/visie2012/0012/index.htm</p>
 
 is dus toegestaan. De index.htm pagina is dus geen onderdeel van het ruimtelijk
 instrument zelf, maar wordt in dit voorbeeld gebruikt voor de inrichting van de
