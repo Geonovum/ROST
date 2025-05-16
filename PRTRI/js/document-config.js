@@ -3,7 +3,7 @@ var documentConfig =
   title: "Praktijkrichtlijn Toegankelijkheid Ruimtelijke Instrumenten 2012 (PTRI2012)",
   shortName: "tri2012",
   pubDomain: "ro",
-  specStatus: "wv",
+  specStatus: "def",
   specType: "pr",
   license: "cc-by-nd",
   latestVersion: [
