@@ -17,7 +17,7 @@ var documentConfig =
   previousPublishDate: "2025-05-1",
   previousPublishVersion: "1.7",
   prevVersion: [
-    "https://docs.geostandaarden.nl/ro/def-pr-tri2012-2025-05-1/"
+    "https://docs.geostandaarden.nl/ro/def-pr-tri2012-20250516/"
   ],
   previousMaturity: "def",
   github: "https://github.com/geonovum/ROST/",
