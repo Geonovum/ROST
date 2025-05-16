@@ -3,21 +3,21 @@ var documentConfig =
   title: "Praktijkrichtlijn Toegankelijkheid Ruimtelijke Instrumenten 2012 (PTRI2012)",
   shortName: "tri2012",
   pubDomain: "ro",
-  specStatus: "def",
+  specStatus: "wv",
   specType: "pr",
   license: "cc-by-nd",
   latestVersion: [
     "https://docs.geostandaarden.nl/ro/tri2012/"
   ],
-  publishDate: "2025-05-16",
-  publishVersion: "1.7",
-  thisVersion: [
-    "https://docs.geostandaarden.nl/ro/def-pr-tri2012-20250516/"
-  ],
-  previousPublishDate: "2024-12-24",
-  previousPublishVersion: "1.6",
+  //publishDate: "2025-05-16",
+  //publishVersion: "1.7",
+  //thisVersion: [
+  //  "https://docs.geostandaarden.nl/ro/def-pr-tri2012-20250516/"
+ // ],
+  previousPublishDate: "2025-05-1",
+  previousPublishVersion: "1.7",
   prevVersion: [
-    "https://docs.geostandaarden.nl/ro/def-pr-tri2012-20241224/"
+    "https://docs.geostandaarden.nl/ro/def-pr-tri2012-2025-05-1/"
   ],
   previousMaturity: "def",
   github: "https://github.com/geonovum/ROST/",
