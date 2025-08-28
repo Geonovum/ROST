@@ -23,7 +23,7 @@ De definitieve versies van zowel de normatieve als niet-normatieve onderdelen va
 | [Handreiking (technisch) TAM omgevingsverordening](https://geonovum.github.io/ROST/HRTAMomver/)                                |
 | [Handreiking (technisch) TAM projectbesluit](https://geonovum.github.io/ROST/HRTAMpbesluit/)                                   |
 | [Handreiking Archiveren ruimtelijke plannen](https://geonovum.github.io/ROST/HRARP/)                                           |  
-| [Handreiking Data op Orde](https://geonovum.github.io/ROST/HRDoO/)                                                             |  
+| [Handreiking Ruimtelijke plannen op orde onder de Omgevingswet](https://geonovum.github.io/ROST/HRDoO/)                                                             |  
 | [Praktijkrichtlijn Analoge Bestemmingsplan Kaart](https://geonovum.github.io/ROST/PRABPK/)                                     |  
 | [Praktijkrichtlijn Algemene Maatregel van Bestuur](https://geonovum.github.io/ROST/PRAMvB/)                                    |  
 | [Praktijkrichtlijn Bestemmingsplannen](https://geonovum.github.io/ROST/PRBP/)                                                  |  
