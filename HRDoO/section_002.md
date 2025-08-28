@@ -9,7 +9,7 @@ Voor de gebruiker van het Omgevingsloket kan er verwarring ontstaan als er meerd
 <br/>
 <br/>
 <figure id='d4e402'><img src='media/image1.png' alt='Deze figuur maakt duidelijk wat de gevolgen zijn van een onjuiste dossierstatus/ planstatus is wanneer de gebruiker op Ruimtelijkeplannen.nl zoekt op adres, perceel of een geselecteerd gebied in de viewer.' style='width: 100%;'></img>
-<figcaption>Figuur 1 Gevolgen bij een onjuiste dossierstatus/ planstatus</figcaption></figure>
+<figcaption>Gevolgen bij een onjuiste dossierstatus/ planstatus</figcaption></figure>
 <br/>
 
 De planstatus en dossierstatussen moeten worden aangepast door de gemeente. Voor geheel onherroepelijke bestemmingsplannen geldt dat concept-, voorontwerp- en ontwerpbestemmingsplan versies door de gemeente moeten worden verwijderd uit de planvoorraad. Dit proces van actualiseren en opruimen van de planvoorraad met behulp van de Wro-plansoftware doet de gemeente zolang zij nog plannen beschikbaar stelt op Ruimtelijkeplannen.nl. Uiterlijk eind 2031 dient de volledige gemeentelijke planvoorraad van Ruimtelijkeplannen.nl te zijn verwijderd. Het is dus van belang dat de gemeente blijft beschikken over Wro-plansoftware om de plannen te beheren en de daarbij behorende certificaten om de besluiten te ondertekenen.
