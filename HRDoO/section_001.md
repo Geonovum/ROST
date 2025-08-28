@@ -14,7 +14,6 @@ Alleen als gemeenten onder de Omgevingswet ook hun planvoorraad op Ruimtelijkepl
 <br/>
 <figure id='f75045'><img src='media/image3.png' alt='Tijdens de transitieperiode van 1 januari 2024 tot 1 januari 2032 wordt met nieuwe spoor gewerkt met de TPOD-standaarden en het oude spoor waarin wordt gewerkt met de RO Standaarden.' style='width: 100%;'></img>
 <figcaption>Gelijktijdig werken in het het nieuwe spoor en het oude spoor.</figcaption></figure>
-<br/>
 
 ## Leeswijzer  {#1CBF3ECC}
 Er is veel documentatie te vinden op de websites van IPLO, Geonovum en de VNG. Naast de documentatie over de <a href='https://www.geonovum.nl/geo-standaarden/ro-standaarden-ruimtelijke-ordening/' target='_blank'>RO Standaarden</a>, <a href='https://www.geonovum.nl/omgevingswet' target='_blank'>TPOD-standaarden</a>, waaronder de <a href='https://www.wegwijzertpod.nl/' target='_blank'>wegwijzer</a> en <a href='https://iplo.nl/regelgeving/instrumenten/' target='_blank'>juridische toelichting</a>, is er ook <a href='https://omgevingswet.vng.nl/grip/' target='_blank'>Grip op de transitie van de planketen</a> van de VNG.
