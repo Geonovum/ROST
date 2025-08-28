@@ -1,47 +1,29 @@
-## Inleiding
+# Inleiding  {#3FC96725}
+<b>De Wro planvoorraad van gemeenten, provincies en het Rijk in Ruimtelijkeplannen.nl wordt sinds het inwerkingtreden van de Omgevingswet automatisch getoond in het Omgevingsloket samen met de nieuwe regels uit de omgevingsdocumenten. Voor de gebruiker van het Omgevingsloket kan er verwarring ontstaan als er meerdere versies van de regels beschikbaar zijn: welke regels gelden dan? Alleen het bevoegd gezag kan hierover duidelijkheid geven. Dit kan onder meer door het op orde houden van de Wro planvoorraad, ook onder de Omgevingswet. Dit kan alleen als de bronhouder met de eigen Wro-plansoftware, het manifestbeheer en de certificaten voor ondertekening tot 2032 behoudt en beheert. Deze handreiking is opgesteld voor gemeenten, en de organisaties die hen ondersteunen, die in de transitieperiode moeten werken met zowel Omgevingswet-software als Wro-plansoftware.</b>
 
-<b>In dit eerste hoofdstuk van de handreiking over de gegevenskwaliteit van ruimtelijke plannen wordt de context van het concept ‘Data op orde’ uitgelegd.</b>
+## Nieuwe spoor en oude spoor {#6A6A9823}
+In de transitieperiode van 1 januari 2024 tot 1 januari 2032 hebben gemeenten de tijd om één omgevingsplan voor de gehele gemeente te vormen conform de TPOD-standaarden en de oude planvoorraad te verwijderen van Ruimtelijkeplannen.nl. 
+In deze periode worden ook lopende Wro-planprocedures afgerond. Op grond van de tijdelijke alternatieve maatregelen (TAM) kunnen tot en met 2025 voorbereidingsbesluiten en wijzigingsbesluiten op het omgevingsplan worden gemaakt en beschikbaar gesteld via het <i>oude spoor</i>: het met de Wro-plansoftware via Ruimtelijkeplannen.nl beschikbaar stellen en bekend maken via de Decentrale Regelgeving en Officiële Publicaties (DROP). De planvoorraad van Ruimtelijkeplannen.nl wordt automatisch ontsloten in het <a href='https://omgevingswet.overheid.nl/home' target='_blank'>Omgevingsloket</a>. In het <a href='https://wetten.overheid.nl/BWBR0045037/2025-01-01' target='_blank'>Besluit elektronische publicaties, artikel 11 lid 1 onder 6</a> is geregeld dat uiterlijk tot 1 januari 2032 de landelijke voorziening Ruimtelijkeplannen.nl blijft functioneren.
+<br/>
+<br/>
+Op grond van de Omgevingswet werken gemeenten steeds meer via het <i>nieuwe spoor</i>: met de Omgevingswet-software via de Landelijke Voorziening Bekendmaken en Beschikbaarstellen (LVBB) worden de regels ontsloten in het Omgevingsloket. Omgevingsvergunningen op basis van de <a href='#55A7BEB0'>Wabo</a> en regels van onder andere de WRO en Wro vervallen wanneer de gemeente de regels opneemt in het wijzigingsbesluit op het omgevingsplan. De oude regels vervallen niet alleen juridisch maar moeten ook technisch komen te vervallen. Dat is een onderdeel van het werkproces van de gemeente. Het actualiseren van het omgevingsplan leidt namelijk niet automatisch tot het verwijderen van het vervallen bestemmingsplan uit de planvoorraad van Ruimtelijkeplannen.nl. 
+<br/>
+<br/>
+Alleen als gemeenten onder de Omgevingswet ook hun planvoorraad op Ruimtelijkeplannen.nl onderhouden zal het voor de gebruiker van het Omgevingsloket duidelijk kunnen worden welke regels geldend zijn. Een niet goed onderhouden planvoorraad op Ruimtelijkeplannen.nl zal zeker leiden tot onduidelijkheid over geldende regels bij de gebruiker van het Omgevingsloket.
 
-### Aanleiding
-
-<b>De zolder opruimen voor de verbouwing</b>  
-In de loop der jaren zijn er via de landelijke voorziening Ruimtelijkeplannen.nl veel waardevolle gegevens gepubliceerd; en een grote planvoorraad is toegankelijk gemaakt. Maar net zoals een zolder die zo nu en dan opgeruimd moet worden om goed bruikbaar te blijven, geldt dit ook voor de planvoorraad. Zeker als er een grote verbouwing zoals de Omgevingswet op komst is, die per 1 januari 2024 inwerking is getreden. Alle gegevens in Ruimtelijkeplannen.nl gaan mee naar het Omgevingsloket van de Omgevingswet. Zo ook bestemmingsplannen e.d. die onderdeel zijn van het tijdelijk deel omgevingsplan. Deze plannen blijven geldig totdat zij worden vervangen door een nieuw omgevingsplan conform de standaard STOP/TPOD (uiterlijk in 2032).
-
-Het Informatiehuis Ruimte (IHR) heeft de overbruggingsfunctie gerealiseerd. Deze overbruggingsfunctie zorgt ervoor, dat de gegevens van Ruimtelijkeplannen.nl in het Digitale Stelsel Omgevingswet (DSO) worden ontsloten en in samenhang met de Omgevingswet instrumenten kunnen worden getoond. Hiervoor hoeft de bronhouder (resp. gemeente, provincie of het Rijk) in principe niets te doen, dit gebeurt automatisch. 
-
-Zowel voor bronhouders als gebruikers van het DSO is het belangrijk dit zo proces zo soepel mogelijk verloopt. Daarom is het belangrijk dat de gegevenskwaliteit van de ruimtelijke plannen in de landelijke voorziening, maar ook bij de bronhouder zelf, zo hoog mogelijk is.
-
-### Doel: Verbeteren gegevenskwaliteit
-
-Het doel voor data op orde is het verbeteren van de gegevenskwaliteit. Dit kunnen we grofweg verdelen in 2 onderdelen.
-
-**1. Foutherstel**
-Fouten in de planvoorraad kunnen ertoe leiden dat plannen niet, of niet goed ontsloten worden in het DSO. Deze fouten moeten hersteld worden.  
-
-<img src='media/Foutherstel.png' alt='media/Foutherstel.png' style='width: 25%;'></img>
-
-**2. Opschonen van de planvoorraad**
-In de loop der jaren is de planvoorraad op Ruimtelijkeplannen.nl enorm uitgebreid. Vaak zijn wel plannen toegevoegd maar zijn er geen vervallen plannen en verouderde versies verwijderd.
-
-<img src='media/Schoonmaken.png' alt='media/Schoonmaken.png' style='width: 25%;'></img>
-
-Waarom is de kwaliteit van de planvoorraad zo van belang?
-
-<ol><li>Ten eerste wordt een aanzienlijk deel van de huidige planvoorraad onderdeel van het tijdelijk omgevingsplan. Het is daarom van groot belang dat daar niet te veel, maar ook niet te weinig in zit.</li>
-<li>Het zorgt ervoor dat <a name='_Int_YeDhvLF5'></a>DSO functionaliteit om huidige plannen beter en gerichter te kunnen ontsluiten voor gebruikers, zoals de overbruggingsfunctie en bepalen leidend plan, beter werken. Hiervoor is vooral belangrijk dat metadata zoals plan- en dossierstatus, plantype en verwijzingen tussen plannen kloppen en actueel zijn. </li>
-<li>Een ‘schone’ planvoorraad creëert een goede uitgangspositie voor het maken van het eigenlijke omgevingsplan. De onderliggende gegevens (bijvoorbeeld planobjecten en achterliggende gegevens) zijn dan al beschikbaar.</li>
-<li>Last but not least helpt een betere gegevenskwaliteit ook de huidige dienstverlening, aan de balie, via Ruimtelijkeplannen.nl of eigen website te verbeteren.</li>
-</ol>
-
-De huidige planvoorraad verschilt per organisatie; het kan gaan om enkele tientallen tot honderden ruimtelijke plannen per bronhouder. Om bronhouders te helpen bij het ordenen en opschonen van de digitale planvoorraad is deze handreiking tot stand gekomen. Met deze handreiking geven we aan welke punten belangrijk zijn bij de gegevenskwaliteit van deze (digitale) planvoorraad en hoe deze kan worden verbeterd.
-
-### Leeswijzer
-
-In deze handreiking worden de verschillende onderwerpen toegelicht en worden handige tips & tricks gegeven. De normen en praktijkrichtlijnen, alsook de handreiking archiveren van de <a href='https://www.geonovum.nl/geo-standaarden/ro-standaarden-ruimtelijke-ordening' target='_blank'>RO Standaarden</a> zijn hiervoor altijd de basis.
-
-In [hoofdstuk 2 Algemene werkwijze bij foutherstel](#algemene-werkwijze-bij-foutherstel) geven we de kaders voor foutherstel van ruimtelijke plannen, wat mag je wel aan een plan wijzigen en wat niet en wat is de te volgen werkwijze.
-
-In [hoofdstuk 3 Uitwerking foutherstel in de planvoorraad](#uitwerking-foutherstel-in-de-planvoorraad) gaan we inhoudelijk in op de meest voorkomende fouten in de planvoorraad. Welke fouten zijn dit, wat zijn consequenties hiervan en hoe kunnen deze fouten worden opgelost. 
-
-In [hoofdstuk 4 De planvoorraad opschonen](#de-planvoorraad-opschonen) gaan we dieper in op de planvoorraad en lichten we toe hoe deze zo optimaal mogelijk opgeschoond kan worden.
-
+## Leeswijzer  {#1CBF3ECC}
+Er is veel documentatie te vinden op de websites van IPLO, Geonovum en de VNG. Naast de documentatie over de <a href='https://www.geonovum.nl/geo-standaarden/ro-standaarden-ruimtelijke-ordening/' target='_blank'>RO Standaarden</a>, <a href='https://www.geonovum.nl/omgevingswet' target='_blank'>TPOD-standaarden</a>, waaronder de <a href='https://www.wegwijzertpod.nl/' target='_blank'>wegwijzer</a> en <a href='https://iplo.nl/regelgeving/instrumenten/' target='_blank'>juridische toelichting</a>, is er ook <a href='https://omgevingswet.vng.nl/grip/' target='_blank'>Grip op de transitie van de planketen</a> van de VNG.
+Deze handreiking richt zich op gemeenten en het gebruik van het oude spoor: <i>Ruimtelijke plannen op orde onder de Omgevingswet</i><b><i> </i></b><i>in de transitieperiode met behulp van de Wro-plansoftware.</i> 
+<br/>
+<br/>
+Hoofdstuk 2 gaat in op het beheer van de planvoorraad in Ruimtelijkeplannen.nl. In de daaropvolgende hoofdstukken wordt per onderwerp een toelichting gegeven. Alle hoofdstukken sluiten af met korte samenvatting: waar moet op worden gelet? Er wordt zoveel mogelijk verwezen naar bestaande documentatie waarin een uitgebreidere toelichting op de werkwijze is beschreven.
+<br/>
+<br/>
+<ul><li>Hoofdstuk 2 <a href='#1364DA20'>Beheer van de planvoorraad</a></li>
+<li>Hoofdstuk 3 <a href='#324DBF6E'>Omgevingsvisies</a></li>
+<li>Hoofdstuk 4 <a href='#62087022'>Tijdelijk deel omgevingsplan</a></li>
+<li>Hoofdstuk 5 <a href='#55A7BEB0'>Omgevingsvergunningen</a></li>
+<li>Hoofdstuk 6 <a href='#7D4FADDD'>TAM voorbereidingsbesluit</a></li>
+<li>Hoofdstuk 7 <a href='#5221ABF7'>TAM omgevingsplan</a></li>
+<li>Hoofdstuk 8 <a href='#1364DA20'>Archiveren ruimtelijke plannen</a></li>
+</ul>

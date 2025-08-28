@@ -1,0 +1,10 @@
+# Archiveren ruimtelijke plannen  {#1364DA20}
+Onder de <a href='http://wetten.overheid.nl/BWBR0020449' target='_blank'>Wet ruimtelijke ordening</a> waren de digitale ruimtelijke plannen de authentieke plannen. Dit betekent dat een samenhangende set bronbestanden (dataset genoemd) conform de RO Standaarden door gemeenten, provincies en het Rijk geproduceerd, beschikbaar gesteld, vindbaar en toegankelijk gemaakt werd. Dit deden zij voor de ruimtelijke plannen genoemd in artikel 1.2.1 van het <a href='http://wetten.overheid.nl/BWBR0023798' target='_blank'>Besluit ruimtelijke ordening</a>.
+De samenhangende set bronbestanden is naast alle analoge en digitale stukken, zoals de ondergrond, één van de onderdelen in de planprocedure. De bestuursorganen zijn tevens verplicht conform de Archiefwet de ruimtelijke plannen te archiveren met als doel de plannen in goede, geordende en toegankelijke staat te brengen en daarmee duurzaam toegankelijk te houden, ook na inwerkingtreden van de Omgevingswet. Dit regelt het bestuursorgaan, namens de gemeente is het College van Burgemeester en Wethouders zorgdrager, in de eigen organisatie. De landelijke voorziening Ruimtelijkeplannen.nl heeft geen archieffunctie en kan hier door niet voor worden ingezet.
+In het <a href='https://wetten.overheid.nl/BWBR0045037/2025-01-01' target='_blank'>Besluit elektronische publicaties, artikel 11 lid 1 onder 6</a> is geregeld dat uiterlijk tot 1 januari 2032 de landelijke voorziening Ruimtelijkeplannen.nl blijft functioneren. In deze overgangsperiode  <a href='#1364DA20'>beheert de gemeente de planvoorraad</a> met behulp van de Wro-plansoftware en zorgt dat uiterlijk eind 2031 de planvoorraad van Ruimtelijkeplannen.nl is verwijderd.
+<br/>
+<br/>
+<b>Samengevat: </b>
+<ul><li>De gemeente is, conform de Archiefwet, verplicht de digitale ruimtelijke plannen te archiveren met als doel de plannen in goede, geordende en toegankelijke staat te brengen en daarmee duurzaam toegankelijk te houden, ook na inwerkingtreden van de Omgevingswet.</li>
+<li>De landelijke voorziening Ruimtelijkeplannen.nl heeft geen archieffunctie en kan hier door niet voor worden ingezet.</li>
+</ul>
