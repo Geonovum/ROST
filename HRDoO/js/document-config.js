@@ -3,21 +3,21 @@ var documentConfig =
   title: "Ruimtelijke plannen op orde onder de Omgevingswet",
   shortName: "Handreiking",
   pubDomain: "ro",
-  specStatus: "def",
+  specStatus: "wv",
   specType: "hr",
   license: "cc-by-nd",
   latestVersion: [
     "https://docs.geostandaarden.nl/ro/doo/"
   ],
-  publishDate: "2025-08-27",
-  publishVersion: "3.0.0",
+  //publishDate: "2025-08-27",
+  //publishVersion: "3.0.0",
   thisVersion: [
     "https://docs.geostandaarden.nl/ro/def-hr-doo-20250827/"
   ],
-  previousPublishDate: "2024-04-03",
-  previousPublishVersion: "2.0.1",
+  previousPublishDate: "2025-08-27",
+  previousPublishVersion: "3.0.0",
   prevVersion: [
-    "https://docs.geostandaarden.nl/ro/def-hr-doo-20240403/"
+    "https://docs.geostandaarden.nl/ro/def-hr-doo-20250827/"
   ],
   previousMaturity: "def",
   github: "https://github.com/Geonovum/ROST/",
