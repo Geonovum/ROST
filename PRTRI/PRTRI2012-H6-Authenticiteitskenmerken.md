@@ -24,10 +24,10 @@ Ruimtelijke instrumenten worden gewaarmerkt met een elektronische handtekening,
 waarmee de authenticiteit is gewaarborgd en de instrumenten tevens beschermd
 zijn tegen wijzigen. Voor een elektronische handtekening is een certificaat van
 PKI-Overheid vereist. Het proces van waarmerken is schematisch weergegeven in
-Figuur 4.
+Figuur 2.
 </br></br>
 ![](media/2dabfdb5f0a4454372e04907ee725956.png)  
-**Figuur 4 Authenticatieproces**
+**Figuur 2 Authenticatieproces**
 
 ## Authenticiteitskenmerken van een individueel instrument
 Bronhouders zijn via interne maatregelen zelf verantwoordelijk dat de
