@@ -5,6 +5,10 @@ gesteld door de bronhouder. In dit hoofdstuk worden de eisen voor deze
 beschikbaarstelling toegelicht, inclusief inhoud en opbouw van het manifest en
 geleideformulier, dat hier een belangrijk onderdeel van is.**
 
+<figure id='doo201'><img src='media/Opbouw_Planvoorraad.png' alt='De planvoorraad van de bronhouder' style='width: 100%;'></img>
+<figcaption>De planvoorraad van de bronhouder</figcaption></figure>
+<br/>
+
 ## Eisen aan de beschikbaarstelling
 
 Ruimtelijke instrumenten worden op grond van de Wro door gemeente, provincie of Rijk beschikbaar gesteld op internet. Omdat ieder ruimtelijk instrument bestaat uit een
@@ -12,7 +16,7 @@ samenhangende set van bronbestanden die samen het instrument vormen, bestaat het
 feitelijke proces van beschikbaar stellen er uit dat deze bestanden op een
 webserver worden geplaatst die via een vast webadres (URL) benaderbaar is via
 het internet.  
-<br/><br/>
+<br/>
 
 Alle bronbestanden van een enkel instrument worden binnen één virtuele directory
 beschikbaar gesteld die door de bronhouder zelf gekozen kan worden. Er wordt
@@ -163,7 +167,7 @@ gewaarmerkt. Vervolgens worden alle bronbestanden op internet beschikbaar
 gemaakt, en wordt het Manifest aangepast en vervolgens ook gewaarmerkt. Tot slot
 moet het al bestaande <a href='https://www.ruimtelijkeplannen.nl/index' target='_blank'>weblocatie</a> beschikbaar gestelde Manifest vervangen worden door het
 gewijzigde Manifest. Dit laatste gebeurt overigens veelal in geautomatiseerde systemen, zoals bij de landelijke voorziening <a href='httpss://www.ruimtelijkeplannen.nl/' target='_blank'>Ruimtelijkeplannen.nl</a>. Daarna is het ruimtelijk instrument voor een ieder beschikbaar, raadpleegbaar en via het Manifest ook vindbaar. De werkwijze
-is weergegeven in Figuur 1.
+is weergegeven in Figuur 1.<br/>
 
 ![](media/d0c3ebe26021f094279b53de44e926fe.png)  
 **Figuur 1 Primair proces beschikbaar stellen**
@@ -215,16 +219,10 @@ de webpagina bepaalt en daarmee van de tekst tijdens het raadplegen. Sinds juli
 maar gewerkt met een standaard CSS bestand. Bronhouders kunnen eenmalig een
 organisatielogo aanleveren dat door Ruimtelijkplannen.nl getoond wordt in
 de opmaak van de uiteindelijke webpagina. Voor bronhouders is een handleiding beschikbaar via de besloten omgeving voor bronhouders van Ruimtelijkeplannen.nl en via de helpdesk van Ruimtelijkeplannen.nl.
-
+<br/>
 
 Bij het werken met objectgerichte XML planteksten wordt gebruik gemaakt van
 standaard XSL en CSS stylesheets die onderdeel zijn van de RO Standaarden. Deze standaard XSL en CSS zijn tezamen met de rest van de andere onderdelen van de RO Standaarden 2012 beschikbaar via de <a href='https://www.geonovum.nl/geo-standaarden/ro-standaarden-ruimtelijke-ordening' target='_blank'>Geonovum website, pagina RO Standaarden</a>.
-
-<details class='note'>
-Deze standaard XSL en CSS zijn tezamen met de rest van de andere
-onderdelen van de RO Standaarden 2012 beschikbaar via de <a href='httpss://www.geonovum.nl/geo-standaarden/ro-standaarden-ruimtelijke-ordening' target='_blank'>Geonovum website</a>.
-</details>
-
 De landelijke voorziening Ruimtelijkeplannen.nl maakt van de standaard opmaak
 gebruik, maar ook andere applicaties / implementaties kunnen van de standaard
 opmaak gebruik maken.
@@ -288,7 +286,7 @@ standaard opmaak. Conceptueel ziet de XSL van Ruimtelijkeplannen.nl er als volgt
 uit:
 
 ![](media/d80bca6b6220f318195cde9d60cdfe00.png)
-<br/><br/>
+<br/>
 
 **Ad. 4. XML planteksten met eigen CSS opmaakbestand**
 De bronhouder maakt gebruik van objectgerichte XML planteksten. De toelichting
@@ -323,10 +321,10 @@ HTML verwezen naar het eigen CSS bestand, conceptueel als volgt:
 ## Periode van beschikbaarheid
 
 De bronbestanden van iedere beschikbaar gestelde versie van een ruimtelijk instrument blijven toegankelijk totdat een instrument onherroepelijk in werking is getreden of is vervallen. Dit is vastgelegd in het Besluit ruimtelijke ordening (Bro). Voor instrumenten waar beroep tegen mogelijk is blijven de bronbestanden toegankelijk tot ofwel nadat de beroepstermijn is afgelopen en er geen beroep is ingesteld, ofwel nadat de beroepsprocedure is afgerond. Voor instrumenten waar geen beroep tegen mogelijk is blijven de bronbestanden toegankelijk tot nadat het besluit is vastgesteld. Op dat moment blijven in elk geval de actuele versie van het instrument en alle eventuele reactieve aanwijzingen en gerechtelijke uitspraken beschikbaar. 
-<br/>
+<br/><br/>
 
 Om verwarring bij de bezoeker van het Omgevingsloket te voorkomen is het raadzaam dat de bronhouder eerdere versies van het plan verwijderd uit het Manifest en van het weblocatie. Pas als een instrument vervallen is, mag het in zijn geheel worden verwijderd uit het Manifest en van de weblocatie. Los van het feit of de stukken wel of niet beschikbaar blijven via het Manifest, is in vrijwel alle gevallen de Archiefwet van toepassing op deze stukken. Zie hiervoor de handreiking <a href='https://docs.geostandaarden.nl/ro/arp/' target='_blank'>Archiveren ruimtelijk plannen</a>. 
-<br/>
+<br/><br/>
 
 In <a href='#H08'>hoofdstuk 8 ‘beheer van de planvoorraad’</a> wordt verder ingegaan op het opschonen van de planvoorraad en het wijzigen van reeds eerder gepubliceerde plannen. 
 
@@ -334,7 +332,7 @@ In <a href='#H08'>hoofdstuk 8 ‘beheer van de planvoorraad’</a> wordt verder 
 ## Beschrijving planstatussen
 
 Het is van groot belang dat duidelijk is wat er met iedere status wordt bedoeld.
-Hier onder wordt daartoe een toelichting gegeven.<br/>
+Hier onder wordt daartoe een toelichting gegeven.<br/><br/>
 
 **Tabel 2 Planstatus**
 
@@ -363,11 +361,12 @@ Onder meer op basis van de dossierstatus, wordt bepaald of het plan wel of niet 
 </ul><br/>
 
 Deze fouten kunnen worden voorkomen door de dossierstatus in het manifest aan te passen. Let daarop dat de juiste dossierstatus gekozen wordt. Het aanpassen van de dossierstatus is voor de bronhouder relatief eenvoudig. Aan het plan hoeft niets te worden gewijzigd. Uitsluitend het manifest wordt aangepast in de Wro-plansoftware van de bronhouder waarmee ook het plan beschikbaar wordt gesteld op Ruimtelijkeplannen.nl. 
+<br/><br/>
 
 <i>Let op: Bij de planstatus ‘vastgesteld’ wijzigt de plantstatus niet meer, maar alleen nog maar de dossierstatus.</i>
-<br/>
+<br/><br/>
 
-In onderstaande tabel 3 is een toelichting gegeven op de dossierstatus met overgangen bij de bestemmingsplanprocedure. Bij andere ruimtelijke instrumenten gelden soortgelijke procedures, die echter op detailniveau zullen verschillen.<br/>
+In onderstaande Tabel 3 is een toelichting gegeven op de dossierstatus met overgangen bij de bestemmingsplanprocedure. Bij andere ruimtelijke instrumenten gelden soortgelijke procedures, die echter op detailniveau zullen verschillen.<br/><br/>
 
 **Tabel 3 Dossierstatus bij de bestemmingsplanprocedure**
 
@@ -387,10 +386,10 @@ Met betrekking tot de dossierstatus in voorbereiding wordt bij voorkeur een voor
 bestemmingsplan in één dossier opgenomen, hoewel het ook mogelijk is om een
 voorbereidingsbesluit in een apart dossier te plaatsen.
 <br/><br/>
-De dossierstatus overgangen voor de bestemmingsplanprocedure zijn samengevat in tabel Mogelijke dossierstatus overgangen in bestemmingsplanprocedure. In [Bijlage 2](#B02) is voor het bestemmingsplan de beroepsprocedure verder uitgewerkt. Per stap is aangeven of het bestemmingsplan, dan wel de dossierstatus moet worden aangepast.
+De dossierstatus overgangen voor de bestemmingsplanprocedure zijn samengevat in Tabel 4. In [Bijlage 2](#B02) is voor het bestemmingsplan de beroepsprocedure verder uitgewerkt. Per stap is aangeven of het bestemmingsplan, dan wel de dossierstatus moet worden aangepast.
 
 <table id="d4e21" style="width: 100%;">
-  <caption>Mogelijke dossierstatus overgangen in bestemmingsplanprocedure</caption>
+  <caption>Tabel 4 Mogelijke dossierstatus overgangen in bestemmingsplanprocedure</caption>
   <colgroup>
     <col id="col1" style="width: 4.284362751723206%;">
       <col id="col2" style="width: 44.073523449114745%;">
@@ -656,7 +655,7 @@ De dossierstatus overgangen voor de bestemmingsplanprocedure zijn samengevat in 
 </table>
 
 Ook bij de andere instrumenten worden statussen toegekend en vinden overgangen
-plaats. De keuze is gelijk aan Figuur 2, maar de logische toekenning en
+plaats. De keuze is gelijk aan Tabel 4, maar de logische toekenning en
 betekenis verschilt per instrument.
 
 In de basis kan er een onderscheid worden gemaakt tussen besluiten waartegen
@@ -675,17 +674,19 @@ dossierstatussen van toepassing: in voorbereiding, geheel onherroepelijk in
 werking, vervallen en geconsolideerd. Dit is mede afhankelijk van de procedure;
 kent het instrument de mogelijkheid of verplichting een ontwerp ter inzage te
 leggen of wordt het besluit zonder voorbereidingsprocedure genomen zoals bij het
-voorbereidingsbesluit. In Figuur 3 is van de ruimtelijke instrumenten anders dan
+voorbereidingsbesluit. In Tabel 5 is van de ruimtelijke instrumenten anders dan
 het bestemmingsplan, een overzicht opgenomen. Dit is een inhoudelijke richtlijn;
-er zijn geen technische beperkingen aangebracht. In Bijlage 1 is hierop een
+er zijn geen technische beperkingen aangebracht. In <a href='#B01'>Bijlage 1</a> is hierop een
 beknopte toelichting gegeven.  
+<br/><br/>
+
 Voor besluiten waar wel beroep tegen mogelijk is zijn alle dossierstatussen en
-beschreven overgangen in Tabel 3 van toepassing; of de dossierstatus 'in
+beschreven overgangen in <a href='#beschrijving-dossierstatussen-met-overgangen'>Tabel 3</a> van toepassing; of de dossierstatus 'in
 voorbereiding' aan de orde is hangt af of er een voorbereidingsprocedure wordt
 toegepast.
 
 <table id="d4e1125" style="width: 100%;">
-  <caption>Ruimtelijke instrumenten met mogelijke en dossierstatussen</caption>
+  <caption>Tabel 5 Ruimtelijke instrumenten met mogelijke en dossierstatussen</caption>
   <colgroup>
     <col id="col1" style="width: 46.04631460039536%;">
     <col id="col2" style="width: 6.001129624399887%;">
