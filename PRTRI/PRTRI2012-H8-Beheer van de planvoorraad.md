@@ -8,6 +8,7 @@
 
 Ambtelijk foutherstel in een ruimtelijke plan of besluit door de bronhouder, zonder voorafgaand besluit, is het herstellen van de metadata c.q. de technische kenmerken van het ruimtelijk plan of besluit, of het opheffen van inconsistenties in de planvoorraad tussen bronhouder en Ruimtelijkeplannen.nl. Het naderhand door de bronhouder aanpassen van reeds eerder gepubliceerde plannen kan en mag, indien het gaat om:
 
+<br/>
 <ul><li>een (beperkte) set van metadata die van cruciaal belang is voor (blijvende) begrijpelijkheid, raadpleegbaarheid en bruikbaarheid van plannen, niet alleen in Ruimtelijkeplannen.nl, maar ook in de landelijke voorziening digitaal stelsel Omgevingswet (DSO).</li>
 <li>het ervoor zorgen dat, op grond van de bestaande verplichting daartoe in het Besluit ruimtelijke ordening (Bro), de lokaal aanwezige planvoorraad consistent is met de landelijke voorziening Ruimtelijkeplannen.nl.</li>
 </ul>
@@ -63,7 +64,7 @@ Plannen die na 1 januari 2024 van Ruimtelijkeplannen.nl zijn verwijderd, blijven
 <li>Het plan inladen in de Wro-plansoftware, opnieuw waarmerken, valideren en publiceren op de weblocatie en weer aanbieden aan Ruimtelijkeplannen.nl;</li>
 <li>Nadat het plan zichtbaar is geworden op Ruimtelijkeplannen.nl en de viewer Regels op de kaart kunt u het plan verwijderen uit uw manifest;</li>
 <li>Na het verwijderen van het plan uit het manifest, het manifest weer waarmerken en beschikbaarstellen aan Ruimtelijkeplannen.nl.</li>
-</ul>
+</ul><br/>
 
 Het plan of besluit is verwijderd uit Ruimtelijkeplannen.nl maar door middel van tijreizen nog wel vindbaar in het DSO maar nu geanonimiseerd.
 
@@ -73,17 +74,20 @@ Gemeenten, provincies en het Rijk (bronhouders) maken met behulp van een Manifes
 Ieder ruimtelijk instrument is opgebouwd uit een samenhangende set bronbestanden. Via het Manifest van de bronhouder wordt de planvoorraad van het bevoegd gezag beschikbaar gesteld op Ruimtelijkeplannen.nl. De huidige planvoorraad op Ruimtelijkeplannen.nl is niet alleen veel data, het is ook een verzameling aan actuele en vervallen planversies door elkaar. Om geen verwarring bij de gebruiker van het Omgevingsloket te laten ontstaan is het van belang dat de bronhouder blijvend de planvoorraad opschoont en alleen de meest actuele planversie te laten staan. 
 Hoe bronhouders verder hun ruimtelijke plannen in verschillende situaties op orde houden onder de Omgevingswet is in een separate de handreiking toegelicht. 
 
+<br/>
 Het is onder de Wro nooit de bedoeling geweest om Ruimtelijkeplannen.nl als archief te gebruiken (zie <a href='https://docs.geostandaarden.nl/ro/arp/' target='_blank'>handreiking Archiveren ruimtelijke plannen</a>). Zorg als bronhouder ervoor dat officiële planversies digitaal gearchiveerd worden in een archiefsysteem. Een bronhouder blijft altijd zelf verantwoordelijk voor het archiveren van de data. 
 
 ### Na onherroepelijk worden van een plan
 
 De bronbestanden van iedere beschikbaar gestelde versie van een ruimtelijk instrument blijven toegankelijk totdat een instrument onherroepelijk in werking is getreden of is vervallen. Dit is vastgelegd in het <a href='http://wetten.overheid.nl/BWBR0023798' target='_blank'>Besluit ruimtelijke ordening</a> (Bro). Wanneer het instrument eenmaal onherroepelijk is, verwijdert de bronhouder met behulp van de Wro-plansoftware zelf de oudere versies, zoals (voor)ontwerp en eventueel eerder vastgestelde versies, uit het manifest en daarmee van Ruimtelijkeplannen.nl. Hiermee wordt verwarring, bij de gebruiker van het Omgevingsloket, over welke regels gelden voorkomen.  
+<br/>
 
 Voor het verwijderen van plannen en/of volledige dossiers kan het gaan om de volgende stukken:
 1. Oudere versies, concepten, voorontwerpen, ontwerpen van plannen waarvan de procedure inmiddels is afgerond of de procedure vroegtijdig is beëindigd;
 2. Verouderde voorbereidingsbesluiten (ouder dan 1 jaar);
 3. Vervallen plannen en dossiers, bijvoorbeeld het plan is inmiddels geactualiseerd of vergunningen die inmiddels verwerkt zijn in een bestemmingsplan;
 4. Plancontour & PDF Plannen (PCP) en IMRO2006 plannen die inmiddels zijn vervangen door nieuwere plannen.
+<br/>
 
 Met behulp van de Wro-plansoftware verwijdert de bronhouder zelf de oude/vervallen plannen en het dossier uit het manifest. De bronhouders ondertekent de nieuwe versie van het manifest en stelt deze beschikbaar via de bestaande <a href='https://www.ruimtelijkeplannen.nl/index' target='_blank'>weblocatie</a>. Ruimtelijkeplannen.nl zal de plannen nu ook daadwerkelijk uit de database verwijderen. De plannen zijn niet meer raadpleegbaar via Ruimtelijkeplannen.nl en niet meer beschikbaar via de index. De plannen zijn nu ook niet meer beschikbaar via de services van Ruimtelijkeplannen.nl.
 
