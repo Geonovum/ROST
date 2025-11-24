@@ -12,10 +12,11 @@ manieren tot uitdrukking:
 <br/>
 
 De relaties tussen bestanden, Manifest, digitale verbeelding en hun onderlinge
-functies en relaties worden weergegeven in Figuur 5. 
+functies en relaties worden weergegeven in Figuur 3. 
+ <br/><br/>
  
 ![](media/22538695c7857efe5940c206e8f211b3.png)  
-**Figuur 5 Relaties tussen bestanden, Manifest en verbeelding**
+**Figuur 3 Relaties tussen bestanden, Manifest en verbeelding**
 <br/><br/>
 
 Nadat alle bestanden waaruit het ruimtelijk instrument is opgebouwd via het
@@ -37,11 +38,12 @@ worden gevonden door afnemers. Er zijn twee soorten afnemers:
     ruimtelijke instrumenten.  
 <br/><br/>
 
-In Figuur 6 is het zoeken en vinden door beide soorten afnemer schematisch
+In Figuur 4 is het zoeken en vinden door beide soorten afnemer schematisch
 weergegeven.  
+<br/>
 ![](media/d021490674f0f3d3973e42d752c8ea00.png)  
-**Figuur 6 Zoekproces**  
-<br/><br/>
+**Figuur 4 Zoekproces**  
+<br/>
 
 Een belangrijk aspect van ieder ruimtelijk instrument is de volledige,
 toegankelijke raadpleegbaarheid door middel van een cartografische visualisatie
@@ -83,6 +85,8 @@ Om die reden moet met ingang van IMRO2012 worden gekozen: de bronhouder kiest
 uit een lijst van ondergronden uit basisregistraties of kiest een eigen
 ondergrond. Bij het attribuut *ondergrondInfo* wordt ingevuld welke ondergrond
 de bronhouder heeft gebruikt.  
+<br/><br/>
+
 Op grond van de Wet basisregistratie grootschalige topografie (BGT) is het per 1
 juli 2017 voor bestuursorganen verplicht om gebruik te maken van de
 Basisregistratie Grootschalige Topografie (BGT). Een bestuursorgaan kan daar
