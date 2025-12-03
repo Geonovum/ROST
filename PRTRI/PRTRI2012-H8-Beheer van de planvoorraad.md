@@ -1,15 +1,15 @@
 # Beheer van de planvoorraad
 
-**De planvoorraad van Ruimtelijkeplannen.nl wordt sinds inwerkingtreden van de Omgevingswet automatisch ontsloten in het Omgevingsloket. Het Informatiehuis Ruimte verzorgt deze ontsluiting op basis van regels uit het overgangsrecht. In het <a href='https://wetten.overheid.nl/BWBR0045037/2025-01-01#Hoofdstuk11' target='_blank'>Besluit elektronische publicaties, artikel 11 lid 1 onder 6</a> is geregeld dat uiterlijk tot 1 januari 2032 de landelijke voorziening Ruimtelijkeplannen.nl blijft functioneren. De regels blijven gelden tot deze worden vervangen en juridisch vervallen. Technisch vervallen ze niet automatisch; alleen de bronhouder heeft zich op welke regels uit de planvoorraad nog geldig zijn. In aanvulling op de handreiking Ruimtelijke plannen op orde onder de Omgevingswet wordt in dit hoofdstuk aangegeven waar de bronhouder op moet letten bij het beheer van de planvoorraad onder de Omgevingswet.**
+**De planvoorraad van Ruimtelijkeplannen.nl wordt sinds inwerkingtreding van de Omgevingswet automatisch ontsloten in het Omgevingsloket. Het Informatiehuis Ruimte verzorgt deze ontsluiting op basis van regels uit het overgangsrecht. In het <a href='https://wetten.overheid.nl/BWBR0045037/2025-01-01#Hoofdstuk11' target='_blank'>Besluit elektronische publicaties, artikel 11 lid 1 onder 6</a> is geregeld dat uiterlijk tot 1 januari 2032 de landelijke voorziening Ruimtelijkeplannen.nl blijft functioneren. De regels blijven gelden tot deze worden vervangen en juridisch vervallen. Technisch vervallen ze niet automatisch; alleen de bronhouder heeft zicht op welke regels uit de planvoorraad nog geldig zijn. In aanvulling op de handreiking <a href='https://docs.geostandaarden.nl/ro/doo/' target='_blank'>Ruimtelijke plannen op orde onder de Omgevingswet</a> wordt in dit hoofdstuk aangegeven waar de bronhouder op moet letten bij het beheer van de planvoorraad onder de Omgevingswet.**
 
 ## Wijzigen reeds eerder gepubliceerde plannen
 
 ### Foutherstel
 
-Ambtelijk foutherstel in een ruimtelijke plan of besluit door de bronhouder, zonder voorafgaand besluit, is het herstellen van de metadata c.q. de technische kenmerken van het ruimtelijk plan of besluit, of het opheffen van inconsistenties in de planvoorraad tussen bronhouder en Ruimtelijkeplannen.nl. Het naderhand door de bronhouder aanpassen van reeds eerder gepubliceerde plannen kan en mag, indien het gaat om:
+Ambtelijk foutherstel in een ruimtelijk plan of besluit is het herstellen van de metadata c.q. de technische kenmerken van het ruimtelijk plan of besluit, of het opheffen van inconsistenties in de planvoorraad tussen bronhouder en Ruimtelijkeplannen.nl. Ambtelijk foutherstel wordt door de door de bronhouder, zonder voorafgaand besluit uitgevoerd. Het naderhand door de bronhouder aanpassen van reeds eerder gepubliceerde plannen kan en mag, indien het gaat om:
 
 <br/>
-<ul><li>een (beperkte) set van metadata die van cruciaal belang is voor (blijvende) begrijpelijkheid, raadpleegbaarheid en bruikbaarheid van plannen, niet alleen in Ruimtelijkeplannen.nl, maar ook in de landelijke voorziening digitaal stelsel Omgevingswet (DSO).</li>
+<ul><li>een (beperkte) set van metadata die van cruciaal belang is voor (blijvende) begrijpelijkheid, raadpleegbaarheid en bruikbaarheid van plannen. Dit geldt niet alleen in Ruimtelijkeplannen.nl, maar ook in de landelijke voorziening digitaal stelsel Omgevingswet (DSO).</li>
 <li>het ervoor zorgen dat, op grond van de bestaande verplichting daartoe in het Besluit ruimtelijke ordening (Bro), de lokaal aanwezige planvoorraad consistent is met de landelijke voorziening Ruimtelijkeplannen.nl.</li>
 </ul>
 <br/>
@@ -40,7 +40,7 @@ Bij foutherstel zijn er in beginsel geen juridische consequenties aan verbonden.
 </ul>
 <br/>
 
-De digitale waarmerken in geleideformulier/manifest ter borging van de authenticiteit, onveranderlijkheid en volledigheid van de dataset, zullen door de bronhouder ook opnieuw gedaan moet worden bij publicatie van een nieuwe of gewijzigde versie van een plan. De Wro-plansoftware zorgt hier normaliter voor.
+De digitale waarmerken met behulp van de digitale handtekening in het geleideformulier/manifest borgen de authenticiteit, onveranderlijkheid en volledigheid van de dataset. De bronhouder moet bij publicatie van een nieuwe of gewijzigde versie van een plan het geleideformulier/manifest opnieuw ondertekenen door gebruik te maken van de Wro-plansoftware.
 
 ### AVG-proof
 
@@ -66,7 +66,7 @@ Plannen die na 1 januari 2024 van Ruimtelijkeplannen.nl zijn verwijderd, blijven
 <li>Na het verwijderen van het plan uit het manifest, het manifest weer waarmerken en beschikbaarstellen aan Ruimtelijkeplannen.nl.</li>
 </ul><br/>
 
-Het plan of besluit is verwijderd uit Ruimtelijkeplannen.nl maar door middel van tijreizen nog wel vindbaar in het DSO maar nu geanonimiseerd.
+Het plan of besluit is verwijderd uit Ruimtelijkeplannen.nl maar door middel van tijdreizen nog wel vindbaar in het DSO, maar nu geanonimiseerd.
 
 ## Opschonen van de planvoorraad
 
