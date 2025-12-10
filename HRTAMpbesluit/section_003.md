@@ -10,17 +10,17 @@ Technisch betekent dit, dat een TAM-projectbesluit onderdeel wordt van de Wro pl
 
 Alle planinformatie uit Ruimtelijkeplannen.nl wordt voortdurend gesynchroniseerd door de overbruggingsfunctie voor de ontsluiting in het DSO-LV, en wordt zichtbaar in de viewer Regels op de Kaart (het omgevingsloket). Daar zijn deze plannen raadpleegbaar in het omgevingsloket maar met minder functionaliteit dan een volwaardig projectbesluit op basis van de STOP/TPOD standaard.
 
-### Pilot.ruimtelijkeplannen.nl
+### Einde van Pilot.ruimtelijkeplannen.nl
 
-Omdat een TAM-projectbesluit in technische zin een IMRO2012 inpassingsplan is, kan deze ook gepubliceerd worden op de test-omgeving van Ruimtelijkplannen.nl. Dat maakt het projectbesluit raadpleegbaar op pilot.ruimtelijkeplannen.nl zonder dat daar juridische consequenties aan verbonden zijn. Deze route kan dienen om, voorvoorafgaand aan de inwerkingtreding van de Omgevingswet, het gemaakte TAM-projectbesluit<i>technisch</i> te toetsen op juistheid en volledigheid. 
-
-Het is voorafgaand aan het inwerkingtreden van de Omgevingswet slechts beperkt, en alleen in samenwerking met het Kadaster mogelijk een TAM-projectbesluit te testen in de keten naar het omgevingsloket, de zogenaamde pré-omgeving van het DSO. 
+Omdat een TAM-projectbesluit in technische zin een IMRO2012 inpassingsplan is, kon deze ook gepubliceerd worden op de test-omgeving van Ruimtelijkplannen.nl. Dat maakte het TAM-projectbesluit raadpleegbaar op pilot.ruimtelijkeplannen.nl zonder dat daar juridische consequenties aan verbonden waren. Deze route kon dienen om het gemaakte TAM-projectbesluit  technisch te toetsen op juistheid en volledigheid.   
+Vanaf 1 januari 2026 is de testomgeving pilot.ruimtelijkeplannen.nl uitgezet en niet meer beschikbaar om te testen.  
 
 ### Weergave DSO
 
-Vanaf inwerkingtreding van de Omgevingswet zal de viewer van Ruimtelijkeplannen.nl niet meer de volledige actuele situatie weergeven. Raadplegen van ruimtelijke plannen  in samenhang met de omgevingsdocumenten op basis van STOP/TPOD  kan vanaf 1 januari 2024 uitsluitend via de <a href='https://omgevingswet.overheid.nl/regels-op-de-kaart/' target='_blank'>viewer ‘Regels op de Kaart’</a> van het Omgevingsloket. 
+Vanaf inwerkingtreding van de Omgevingswet geeft de viewer van Ruimtelijkeplannen.nl niet meer de volledige actuele situatie weer. Raadplegen van ruimtelijke plannen in samenhang met de omgevingsdocumenten op basis van STOP/TPOD kan sinds 1 januari 2024 uitsluitend via de [viewer ‘Regels op de Kaart’](https://omgevingswet.overheid.nl/regels-op-de-kaart/) van het Omgevingsloket.
 
-De viewer ‘Regels op de Kaart’ van het omgevingsloket geeft de Wro plannen zoveel mogelijk weer als nu gebruikelijk is op Ruimtelijkeplannen.nl. De weergave van het inpassingsplannen, en dus ook een TAM-projectbesluit, kan dus gestuurd worden door de keuze van de hoofdgroep bij het definiëren van objecten voor een TAM-projectbesluit in de Wro plansoftware. Als de provincie, dan wel het Rijk, kiest voor een TAM-projectbesluit dat dicht bij de opbouw van het huidige inpassingsplan ligt, dan zal de weergave daarvan ook veel lijken op wat we gewend zijn bij de inpassingsplannen van de Wro. Als juist wordt gekozen voor veel afwijkende projectbesluit-objecten waarvoor veel de hoofdgroep ‘overig’ of ‘overige zone’ wordt gebruikt, dan zal de weergave minder duidelijk zijn omdat 'overig' wordt getoond als grijs vlak, of alleen als zwarte omlijning. 
+De [viewer ‘Regels op de Kaart’](https://omgevingswet.overheid.nl/regels-op-de-kaart/) van het omgevingsloket geeft de Wro plannen zoveel mogelijk weer als gebruikelijk is op Ruimtelijkeplannen.nl. De weergave van het inpassingsplan, en dus ook een TAM-projectbesluit, kan dus gestuurd worden door de keuze van de hoofdgroep bij het definiëren van objecten voor een TAM-projectbesluit in de Wro plansoftware. Als de provincie, dan wel het Rijk, kiest voor een TAM-projectbesluit dat dicht bij de opbouw van het Wro inpassingsplan ligt, dan zal de weergave daarvan ook veel lijken op wat we gewend waren bij de inpassingsplannen van de Wro. Als er juist wordt gekozen voor veel afwijkende projectbesluit-objecten waarvoor veel de hoofdgroep ‘overig’ of ‘overige zone’ wordt gebruikt, dan zal de weergave minder duidelijk zijn omdat 'overig' wordt getoond als grijs vlak, of alleen als zwarte omlijning.
 
-Het stapelen van enkelbestemmingen voor een TAM-projectbesluit kan en mag conform de mogelijkheden van de RO Standaarden, de keuze hiervoor ligt bij de bronhouder. Het stapelen van objecten heeft wel gevolgen voor de weergave en raadpleegbaarheid in het Omgevingsloket.  
+Het stapelen van enkelbestemmingen voor een TAM-projectbesluit kan en mag conform de mogelijkheden van de RO Standaarden, de keuze hiervoor ligt bij de bronhouder. Het stapelen van objecten heeft wel gevolgen voor de weergave en raadpleegbaarheid in het Omgevingsloket.
+  
 
