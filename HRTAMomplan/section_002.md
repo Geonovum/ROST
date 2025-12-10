@@ -2,14 +2,16 @@
 
 ### Technische uitgangspunten
 
-De kern van het gebruik van de TAM-omgevingsplan is, dat vanaf inwerkingtreding van de Omgevingswet, de bestaande Wro planketen gebruikt kan worden voor het beschibaarstellen van een wijziging van het omgevingsplan. De RO Standaarden 2012 worden niet aangepast. Ook wordt op geen enkele manier iets aangepast aan de Wro plansoftware die wordt gebruikt voor digitale ruimtelijke plannen. Ook aan de manier van publiceren naar Ruimtelijkeplannen.nl verandert niets. Wel wordt de validator voor Ruimtelijkeplannen.nl aangevuld en enigszins aangepast om het overgangsrecht van Wro naar Omgevingswet te faciliteren, en de TAM-omgevingsplan mogelijk te maken.
+De kern van het gebruik van de TAM-omgevingsplan is, dat sinds de inwerkingtreding van de Omgevingswet, de bestaande Wro planketen gebruikt kan worden voor het beschibaarstellen van een wijziging van het omgevingsplan. De RO Standaarden 2012 zijn niet aangepast. Ook is op geen enkele manier iets aangepast aan de Wro plansoftware die wordt gebruikt voor digitale ruimtelijke plannen. Ook aan de manier van publiceren naar Ruimtelijkeplannen.nl verandert niets. Wel is de validator voor Ruimtelijkeplannen.nl aangevuld en enigszins aangepast om het overgangsrecht van Wro naar Omgevingswet te faciliteren, en de TAM-omgevingsplan mogelijk te maken.
 
-Het gebruik van de TAM-omgevingsplan ligt technisch in het verlengde van het overgangsrecht. Een Wro bestemmingsplan dat in ontwerp is gepubliceerd vóór inwerkingtreding van de Omgevingswet kan onder het oude recht en de oude standaarden worden afgerond onder de Omgevingswet. Dat betekent dat na inwerkingtreding van de Omgevingswet een bestemmingsplan met planstatus vastgesteld gepubliceerd kan worden via Ruimtelijkplannen.nl en onderdeel wordt van het tijdelijk deel omgevingsplan. Een bestemmingsplan met planstatus ontwerp wordt na inwerkingtreding van de Omgevingswet door Ruimtelijkeplannen.nl geweigerd. 
+Het gebruik van de TAM-omgevingsplan ligt technisch in het verlengde van het overgangsrecht. Een Wro bestemmingsplan dat in ontwerp is gepubliceerd vóór inwerkingtreding van de Omgevingswet kan onder het oude recht en de oude standaarden worden afgerond onder de Omgevingswet. Dat betekent dat na inwerkingtreding van de Omgevingswet een bestemmingsplan met planstatus vastgesteld gepubliceerd kan worden via Ruimtelijkplannen.nl en onderdeel wordt van het tijdelijk deel omgevingsplan. 
 
-De validator moet een TAM-omgevingsplan kunnen herkennen om een ontwerpversie wel door te laten ná inwerkingtreding. Daarom is in de werkafspraak bepaald dat de plannaam begint met “TAM-omgevingsplan”, gevolgd door een spatie en de naam van het plan. Hiermee wordt het onderscheid gemaakt tussen een Wro bestemmingsplan onder het overgangsrecht, en een omgevingsdocument op basis van TAM-omgevingsplan.
+Een bestemmingsplan met planstatus ontwerp wordt sinds inwerkingtreding van de Omgevingswet door Ruimtelijkeplannen.nl geweigerd. Voor het TAM-omgevingsplan geldt dat, met het vervallen van de Tijdelijke Alternatieve Maatregelen op 1 janauri 2026, een ontwerp TAM-omgevingsplan vanaf die datum door Ruimtelijkeplannen.nl wordt geweigerd en alleen nog een vastgstelde TAM-omgevingsplannen doorlaat waarvan de procedure is gestart voor 1 janauri 2026.   
+
+De validator moet een TAM-omgevingsplan kunnen herkennen om een ontwerpversie wel door te laten ná inwerkingtreding van de Omgevingswet. Daarom is in de werkafspraak bepaald dat de plannaam begint met “TAM-omgevingsplan”, gevolgd door een spatie en de naam van het plan. Hiermee wordt het onderscheid gemaakt tussen een Wro bestemmingsplan onder het overgangsrecht, en een omgevingsdocument op basis van TAM-omgevingsplan.
 Om een omgevingsdocument te kunnen opstellen met behulp van de TAM-omgevingsplan wordt uitsluitend gebruik gemaakt van de Wro planfiguur ‘bestemmingsplan’. Overige Wro planfiguren zullen geweigerd worden tenzij ze vallen onder het overgangsrecht.
 
-Een TAM-omgevingsplan komt technisch terecht in het tijdelijk deel van het omgevingsplan, waar zich ook de digitale bestemmingsplannen bevinden die van rechtswege omgevingsplan zijn geworden na inwerkingtreding. Juridisch is een TAM-omgevingsplan een echt omgevingsdocument, want het besluit is genomen onder de Omgevingswet. Dat betekent dat de TAM-omgevingsplan uiteindelijk door de gemeente omgezet zal moeten worden naar STOP/TPOD, om ook technisch onderdeel te kunnen worden van het omgevingsplan. Het gebruik van TAM-omgevingsplan houdt dus altijd extra werk in de toekomst in. Dit gegeven moet mee worden genomen bij de afweging over het al dan niet gebruiken van de werkafspraak TAM-omgevingsplan.
+Een TAM-omgevingsplan komt technisch terecht in het tijdelijk deel van het omgevingsplan, waar zich ook de digitale bestemmingsplannen bevinden die van rechtswege omgevingsplan zijn geworden na de inwerkingtreding van de Omgevingswet. Juridisch is een TAM-omgevingsplan een echt omgevingsdocument, want het besluit is genomen onder de Omgevingswet. Dat betekent dat de TAM-omgevingsplan uiteindelijk door de gemeente omgezet zal moeten worden naar STOP/TPOD, om ook technisch onderdeel te kunnen worden van het omgevingsplan. Het gebruik van TAM-omgevingsplan houdt dus altijd extra werk in de toekomst in. Dit gegeven moet mee worden genomen bij de afweging over het al dan niet gebruiken van de werkafspraak TAM-omgevingsplan.
 
 ### Gebruik IMRO
 
@@ -67,7 +69,7 @@ Voorbeelden hiervan kunnen zijn:
 <li>Transformatiegebied</li>
 </ul>
 
-Voor een TAM-omgevingsplan geldt dat locaties naar believen mogen worden gestapeld en/of overlappen, en ook niet verplicht het hele plangebied moeten afdekken. Het is immers geen bestemmingsplan maar een omgevingsplan. Hoewel dit bij enkelbestemmingen onder de Wro niet mag, staat de validator van Ruimtelijkplannen.nl dit wel toe. Het planobject ‘enkelbestemming’ kan dus gestapeld worden gebruikt ten behoeve van het modeleren van het TAM-omgevingsplan
+Voor een TAM-omgevingsplan geldt dat locaties naar believen mogen worden gestapeld en/of overlappen, en ook niet verplicht het hele plangebied moeten afdekken. Het is immers geen bestemmingsplan maar een omgevingsplan. Hoewel dit bij enkelbestemmingen onder de Wro niet mag, staat de validator van Ruimtelijkplannen.nl dit wel toe. Het planobject ‘enkelbestemming’ kan dus gestapeld worden gebruikt ten behoeve van het modeleren van het TAM-omgevingsplan.
 
 <b><i>Andersoortige gebiedsaanwijzingen</i></b>
 
@@ -90,7 +92,7 @@ Voorbeelden hiervan kunnen zijn:
 <li>geurzone – geurbelastingsgebied Westervoortsedijk;</li>
 <li>vrijwaringszone – spoorgebied Centraal Station Westzijde.</li>
 </ul>
-Ook voor gebiedsaanduidingen geldt dat deze altijd al gestapeld, en/of overlappend gebruikt konden en mochten worden volgens IMRO2012 en SVBP2012 Daarmee zijn prima inzetbaar om een TAM-omgevingsplan vorm te geven.
+Ook voor gebiedsaanduidingen geldt dat deze altijd al gestapeld, en/of overlappend gebruikt konden en mochten worden volgens IMRO2012 en SVBP2012. Daarmee zijn zij prima inzetbaar om een TAM-omgevingsplan vorm te geven.
 
 <b><i>Activiteiten</i></b>
 
