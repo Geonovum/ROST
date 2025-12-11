@@ -1,19 +1,19 @@
 ## Inleiding
 
-Tijdelijke Alternatieve Maatregelen (TAM) zijn er voor het geval overheden niet op tijd kunnen aansluiten op het DSO of wanneer het DSO bijvoorbeeld op een onderdeel niet op tijd klaar is. De minister wil voorkomen dat hierdoor bij gemeenten, provincies en het Rijk eventuele woningbouwontwikkelingen of ontwikkelingen zoals op het gebied van de energietransitie vertraging oplopen. 
+Tijdelijke Alternatieve Maatregelen (TAM) waren er voor het geval overheden bij het inwerkingtreden van de Omgevingswet niet op tijd konden aansluiten op het Digitaal Stelsel Omgevingswet of wanneer het stelsel bijvoorbeeld op een onderdeel niet op tijd klaar zou zijn. De minister van Binnenlandse Zaken en Koningrijkrelaties wilde voorkomen dat hierdoor bij gemeenten, provincies en het Rijk eventuele woningbouwontwikkelingen of ontwikkelingen zoals op het gebied van de energietransitie vertraging zouden oplopen.
 
-Het omgevingsdocument projectbesluit is het Omgevingswet-instrument voor het uitvoeren van een project en het in werking hebben of in stand houden daarvan. Het projectbesluit bevat een beschrijving van het project (de te treffen maatregelen en de toestemmingen) en de regels waarmee het projectbesluit het omgevingsplan wijzigt. Doorgaans zal het om omvangrijke projecten met grote belangen gaan. Projectbesluiten worden vastgesteld door waterschap, provincie en het Rijk. Het projectbesluit is de opvolger van:
+Het omgevingsdocument projectbesluit is het Omgevingswet-instrument voor het uitvoeren van een project en het in werking hebben of in stand houden daarvan. Het projectbesluit bevat een beschrijving van het project (de te treffen maatregelen en de toestemmingen) en de regels waarmee het projectbesluit het omgevingsplan wijzigt. Doorgaans zal het om omvangrijke projecten met grote belangen gaan. Projectbesluiten worden vastgesteld door het waterschap, de provincie en het Rijk. Het projectbesluit is de opvolger van:
 -	Het inpassingsplan op grond van de Wro, voor provincie en Rijk; 
 -	Het projectplan op grond van de Waterwet, voor waterschap en Rijk;
 -	Het tracébesluit op grond van de Tracéwet, voor het Rijk.
 
 Het toepassen van de TAM-projectbesluit valt onder het overgangsrecht en daarmee transitieperiode van de Omgevingswet. Gedurende de overgangsfase (de periode die de gemeente heeft om het eigen omgevingsplan op te bouwen) hoeft het projectbesluit het omgevingsplan niet te wijzigen, in dat geval geldt het projectbesluit (van rechtswege) als omgevingsvergunning voor de buitenplanse omgevingsplanactiviteit (BOPA) voor zover het in strijd is met het omgevingsplan. In de overgangsfase maakt het projectbesluitvaststellende bestuursorgaan een keuze tussen het omgevingsplan wijzigen met het projectbesluit, of gebruik maken van het overgangsrecht en het projectbesluit laten gelden als omgevingsvergunning BOPA.
 
-Deze tijdelijk alternatieve maatregel voor het projectbesluit is er voor de provincies en het Rijk. Onder de Omgevingswet hebben ook de waterschappen de bevoegdheid een projectbesluit vast te stellen. Deze werkafspraak TAM-projectbesluit is echter niet voor de waterschappen bedoeld, omdat zij onder het oude recht van voor 2024 geen instrumenten opstelden waarop de RO Standaarden van toepassing waren.
+Deze tijdelijk alternatieve maatregel voor het projectbesluit was er voor de provincies en het Rijk. Onder de Omgevingswet hebben ook de waterschappen de bevoegdheid een projectbesluit vast te stellen. Deze werkafspraak TAM-projectbesluit is echter niet voor de waterschappen bedoeld, omdat zij onder het oude recht van voor 2024 geen instrumenten opstelden waarop de RO Standaarden van toepassing waren.
 
 ### Werkafspraak en handreiking
 
-Met de werkafspraak TAM-projectbesluit wordt provincies en het Rijk de mogelijkheid geboden om juridisch een Omgevingswet-projectbesluit op basis van de techniek van de Wro (namelijk RO Standaarden 2012) te maken en te publiceren via Ruimtelijkeplannen.nl en de overbruggingsfunctie van het Informatiehuis Ruimte naar het Digitaal Stelsel Omgevingswet. Het TAM-projectbesluit maakt juridisch onderdeel uit van de Omgevingswet maar wordt technische in de  landelijke voorziening Ruimtelijkeplannen.nl geplaatst. Rekening houdende met de wettelijke vereisten van de Omgevingswet is het TAM-projectbesluit een omgevingsdocument.
+Met de werkafspraak TAM-projectbesluit werd provincies en het Rijk de mogelijkheid geboden om juridisch een Omgevingswet-projectbesluit op basis van de techniek van de Wro (namelijk RO Standaarden 2012) te maken en te publiceren via Ruimtelijkeplannen.nl en de overbruggingsfunctie van het Informatiehuis Ruimte naar het Digitaal Stelsel Omgevingswet. Het TAM-projectbesluit maakt juridisch onderdeel uit van de Omgevingswet maar wordt technische in de landelijke voorziening Ruimtelijkeplannen.nl geplaatst. Rekening houdende met de wettelijke vereisten van de Omgevingswet is het TAM-projectbesluit een omgevingsdocument.
 
 De onderdelen van de TAM-projectbesluit voor provincies en het Rijk zijn: 
 - de <a href='https://docs.geostandaarden.nl/ro/waTAMpbesluit/' target='_blank'>werkafspraak TAM-projectbesluit</a>;
@@ -21,7 +21,7 @@ De onderdelen van de TAM-projectbesluit voor provincies en het Rijk zijn:
 - de verwerking door de overbruggingsfunctie van het Informatiehuis Ruimte naar het Digitaal Stelsel Omgevingswet;
 - deze technische handreiking.
 
-Deze handreiking is een aanvulling op de werkafspraak, ter ondersteuning van de provincies en het rijk voor de technische toepassing van de werkafspraak in de praktijk. In het <a href='https://docs.geostandaarden.nl/tpod/def-st-TPOD-PB-20231215/' target='_blank'>Toepassingsprofiel (TPOD) projectbesluit</a> zijn de inhoudelijke aspecten van de projectbesluit beschreven. 
+Deze handreiking is een aanvulling op de <a href='https://docs.geostandaarden.nl/ro/waTAMpbesluit/' target='_blank'>werkafspraak TAM projectbesluit</a>, ter ondersteuning van de provincies en het rijk voor de technische toepassing van de werkafspraak in de praktijk. In het <a href='https://docs.geostandaarden.nl/tpod/def-st-TPOD-PB/' target='_blank'>Toepassingsprofiel (TPOD) projectbesluit</a> zijn de inhoudelijke aspecten van de projectbesluit beschreven. 
 
 
 ### Doel van de handreiking
