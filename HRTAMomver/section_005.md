@@ -6,4 +6,9 @@ Een omgevingsverordening is juridisch een omgevingsdocument op basis van de Omge
 - Bij het gebruik van de TAM-omgevingsverordening kan wel de relatie juridische regel en werkingsgebied worden nagebootst, maar annotaties zijn niet mogelijk. IMRO2012 biedt hier geen mogelijkheden voor. Dat houdt in dat er geen relatie met Toepasbare Regels kan worden gelegd, en een omgevingsverordening conform TAM niet werkt bij de vragenbomen in het omgevingsloket, net zoals dat ook voor bestemminsplannen in het tijdelijk deel omgevingsplan geldt. Voor activiteiten waarvoor de TAM-omgevingsverordening regelingen opneemt, geldt dat er een placeholder document in het DSO nodig is dat met behulp van de STOP/ TPOD standaarden is geladen;
 - Uiteindelijk moet een omgevingsverordening, inclusief de wijzigingsbesluiten conform de STOP/TPOD standaarden zijn opgesteld en geladen in het DSO. Dit betekent feitelijk dat het besluit opnieuw gemaakt en bekendgemaakt moet worden. Dat is extra werk en afhankelijk van de juridisch inbedding, is het besluit opnieuw appellabel, ondanks het feit dat het al juridisch een omgevingsdocument is.
 
-Het zijn deze overwegingen die meegenomen kunnen worden bij de afweging om al dan niet gebruik te gaan maken van de mogelijkheid van een omgevingsverordening conform TAM.
+Het zijn deze overwegingen die meegenomen konnen worden bij de afweging om al dan niet gebruik te gaan maken van de mogelijkheid van een omgevingsverordening conform TAM.
+
+**Einde van de tijdelijke alternatieve maatregelen per 1 januari 2026**  
+Het Besluit elektronische publicaties regelt in artikel 11 lid 1 dat per 1 januari 2026 geen nieuwe TAM-omgevingsverordening besluiten meer in procedure mogen worden gebracht. Voor een TAM-omgevingsverordening besluit, waarvan uiterlijk op 31 december 2025 een ontwerp ter inzage is gelegd, mag de procedure op basis van de RO Standaarden, als bedoeld in de <a href='(https://wetten.overheid.nl/jci1.3:c:BWBR0031829&g=2025-11-12&z=2025-11-12)' target='_blank'>Regeling standaarden ruimtelijke ordening 2012</a>, zoals deze gold onmiddellijk voor 1 januari 2024, worden afgerond.
+
+
