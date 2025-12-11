@@ -5,7 +5,7 @@ De kern van het gebruik van TAM-voorbereidingsbesluit is, dat vanaf inwerkingtre
 Om een omgevingswetbesluit te kunnen nemen met behulp van de TAM-voorbereidingsbesluit wordt uitsluitend gebruik gemaakt van de Wro planfiguur ‘voorbereidingsbesluit’. 
 Het Wro planfiguur (IMRO plantype) ‘voorbereidingsbesluit’ wordt na de inwerkingtreding van de Omgevingswet in principe tegengehouden door de validator van Ruimtelijkeplannen.nl. De validator moet een TAM-voorbereidingsbesluit kunnen herkennen om een voorbereidingsbesluit wel door te laten ná inwerkingtreding van de Omgevingswet. Daarom is bij deze werkafspraak de plannaam bepalend: de plannaam begint met “TAM-voorbereidingsbesluit”, gevolgd door een spatie en de naam van het besluit. Hiermee wordt het onderscheid gemaakt tussen een Wro voorbereidingsbesluit en een voorbereidingsbesluit onder de Omgevingswet.
 
-Deze TAM geldt voor gemeenten, provincies en het Rijk. Voor provincies geldt dat zij in twee situaties kunnen besluiten tot het nemen van een voorbereidingsbesluit:
+Deze TAM gold in 2024 voor het Rijk en de provincie en tot 1 janauri 2026 voor gemeenten. Voor provincies gold dat zij in twee situaties konden besluiten tot het nemen van een TAM-voorbereidingsbesluit:
 - een voorbereidingsbesluiten gericht op de omgevingsverordening;
 - een voorbereidingsbesluiten gericht op het omgevingsplan. 
 
