@@ -9,6 +9,6 @@ Een omgevingsverordening is juridisch een omgevingsdocument op basis van de Omge
 Het zijn deze overwegingen die meegenomen konnen worden bij de afweging om al dan niet gebruik te gaan maken van de mogelijkheid van een omgevingsverordening conform TAM.
 
 **Einde van de tijdelijke alternatieve maatregelen per 1 januari 2026**  
-Het Besluit elektronische publicaties regelt in artikel 11 lid 1 dat per 1 januari 2026 geen nieuwe TAM-omgevingsverordening besluiten meer in procedure mogen worden gebracht. Voor een TAM-omgevingsverordening besluit, waarvan uiterlijk op 31 december 2025 een ontwerp ter inzage is gelegd, mag de procedure op basis van de RO Standaarden, als bedoeld in de <a href='(https://wetten.overheid.nl/jci1.3:c:BWBR0031829&g=2025-11-12&z=2025-11-12)' target='_blank'>Regeling standaarden ruimtelijke ordening 2012</a>, zoals deze gold onmiddellijk voor 1 januari 2024, worden afgerond.
+Het <a href='https://wetten.overheid.nl/BWBR0045037/2025-01-01#Hoofdstuk11_Artikel11.1' target='_blank'>Besluit elektronische publicaties regelt in artikel 11.1</a> dat per 1 januari 2026 geen nieuwe TAM-omgevingsverordening besluiten meer in procedure mogen worden gebracht. Voor een TAM-omgevingsverordening besluit, waarvan uiterlijk op 31 december 2025 een ontwerp ter inzage is gelegd, mag de procedure op basis van de RO Standaarden, als bedoeld in de <a href='https://wetten.overheid.nl/BWBR0031829/2023-12-23' target='_blank'>Regeling standaarden ruimtelijke ordening 2012</a>, zoals deze gold onmiddellijk voor 1 januari 2024, worden afgerond.
 
 
