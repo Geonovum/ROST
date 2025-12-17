@@ -86,8 +86,8 @@ var organisationConfig =
   },
   nl_organisationStylesURL: "https://tools.geostandaarden.nl/publication/domain/ro/",
   latestVersion: ["nl_organisationPublishURL", "pubDomain", "/", "shortName"],
-  thisVersion: ["nl_organisationPublishURL", "pubDomain", "/", "shortName", "/", "publishDate"],
-  prevVersion: ["nl_organisationPublishURL", "pubDomain", "/", "shortName", "/", "previousPublishDate"],
+  thisVersion: ["nl_organisationPublishURL", "pubDomain", "/", "specStatus", "-", "specType", "-" ,"shortName", "-", "publishDate", "/"],
+  prevVersion: ["nl_organisationPublishURL", "pubDomain", "/", "shortName", "-", "previousPublishDate"],
   logos: [
     {
       src: "https://tools.geostandaarden.nl/publication/domain/ro/Geonovum.svg",
