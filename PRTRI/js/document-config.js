@@ -11,10 +11,10 @@ var documentConfig =
   ],
   publishDate: "2025-12-17",
   publishVersion: "1.8",
-  //thisVersion: [
-  //  "https://docs.geostandaarden.nl/ro/def-pr-tri2012-20250516/"
- // ],
-  previousPublishDate: "2025-05-1",
+  thisVersion: [
+  "https://docs.geostandaarden.nl/ro/def-pr-tri2012-20251217/"
+  ],
+  previousPublishDate: "2025-05-16",
   previousPublishVersion: "1.7",
   prevVersion: [
     "https://docs.geostandaarden.nl/ro/def-pr-tri2012-20250516/"
